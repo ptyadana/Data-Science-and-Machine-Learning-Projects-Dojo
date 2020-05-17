@@ -8,17 +8,17 @@ Analyzing Superbowls data and answering questions like
 + How does the game affect television viewership?
 + How have viewership, TV ratings, and ad cost evolved over time?
 + Who are the most prolific musicians in terms of halftime show performances?
-Project Tasks includes:
-+ TV, halftime shows, and the Big Game
-+ Taking note of dataset issues
-+ Combined points distribution
-+ Point difference distribution
-+ Do blowouts translate to lost viewers?
-+ Viewership and the ad industry over time
-+ Halftime shows weren't always this great
-+ Who has the most halftime show appearances?
-+ Who performed the most songs in a halftime show?
-+ Conclusion
+* Project Tasks includes:
+* TV, halftime shows, and the Big Game
+* Taking note of dataset issues
+* Combined points distribution
+* Point difference distribution
+* Do blowouts translate to lost viewers?
+* Viewership and the ad industry over time
+* Halftime shows weren't always this great
+* Who has the most halftime show appearances?
+* Who performed the most songs in a halftime show?
+* Conclusion
 
 ## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)
 Topics include:
