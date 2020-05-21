@@ -1,6 +1,9 @@
 
-# Created by https://www.gitignore.io/api/python,jupyternotebooks
-# Edit at https://www.gitignore.io/?templates=python,jupyternotebooks
+# Created by https://www.gitignore.io/api/python,vagrant,virtualenv,jupyternotebooks
+# Edit at https://www.gitignore.io/?templates=python,vagrant,virtualenv,jupyternotebooks
+
+.vscode/
+settings.json
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -121,4 +124,31 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# End of https://www.gitignore.io/api/python,jupyternotebooks
+### Vagrant ###
+# General
+.vagrant/*
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log
+
+### Vagrant Patch ###
+*.box
+
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+pyvenv.cfg
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-selfcheck.json
+
+# End of https://www.gitignore.io/api/python,vagrant,virtualenv,jupyternotebooks
+
+__pycache__
+*.pyc
+.vagrant
