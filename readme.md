@@ -20,6 +20,19 @@ Analyzing Superbowls data and answering questions like
 * Who performed the most songs in a halftime show?
 * Conclusion
 
+## [Data Science & Machine Learning Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science)
+Projects include analyzing [fifa 2019 football players dataset](https://www.kaggle.com/karangadiya/fifa19) and making visualizations to help business decision making and Machine Learning project for [Iris flowers](https://en.wikipedia.org/wiki/Iris_flower_data_set) [dataset](https://www.kaggle.com/uciml/iris)
+### Built with
++ [NumPy](https://numpy.org/) - package for scientific computing with Python
++ [pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
++ [scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
++ [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
++ [seaborn](https://seaborn.pydata.org/) - statistical data visualization
++ [Bokeh ](https://docs.bokeh.org/en/latest/index.html) - interactive visualization library for modern web browsers
++ [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
++ [kaggle](https://www.kaggle.com/) - Source of Dataset collections
+
+
 ## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)
 Topics include:
 + Set theory, including Venn diagrams
