@@ -45,6 +45,12 @@ Topics include:
 + Exponents, logarithms, and the natural log function.
 + Probability theory, including Bayes’ theorem.
 
+## Android Play Store App Data Analysis - Project
+Analyzing andriod play store data and answering questions like
++ How many apps are paid?
++ How much money are they making?
++ When were these apps released?
+
 
 ## [Probability and Statistics for Business and Data Science](https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/)
 + in progress
