@@ -51,10 +51,5 @@ Analyzing andriod play store data and answering questions like
 + How much money are they making?
 + When were these apps released?
 
-
-## [Probability and Statistics for Business and Data Science](https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/)
-+ in progress
-
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
