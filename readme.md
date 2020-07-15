@@ -51,5 +51,9 @@ Analyzing andriod play store data and answering questions like
 + How much money are they making?
 + When were these apps released?
 
+## Probability & Statistics
++ Linear Regression Analysis
++ Multi Regression Analysis
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
