@@ -2,8 +2,8 @@
 
 Collections of data science projects and dojo where I practice Data Science and Machine Learning related theories, probability, statistics and other skills.
 
-## [TV, Halftime Shows, and the Big Game - Project](https://www.datacamp.com/projects/684)
-Analyzing Superbowls data and answering questions like
+## [TV, Halftime Shows, and the Big Game - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
+Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering questions like
 + What are the most extreme game outcomes?
 + How does the game affect television viewership?
 + How have viewership, TV ratings, and ad cost evolved over time?
@@ -45,15 +45,22 @@ Topics include:
 + Exponents, logarithms, and the natural log function.
 + Probability theory, including Bayes’ theorem.
 
-## Android Play Store App Data Analysis - Project
+## [Android Play Store App Data Analysis - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Android%20Play%20Store%20App%20Data%20Analysis)
 Analyzing andriod play store data and answering questions like
 + How many apps are paid?
 + How much money are they making?
 + When were these apps released?
 
-## Probability & Statistics
+## [Probability & Statistics (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Probability%20%26%20Statistics)
 + Linear Regression Analysis
 + Multi Regression Analysis
++ Pratical Statistics
++ Excel Data Manipulation, Analysis and Visualization
+
+## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
++ Data Analysis with Pandas
++ Data Analysis with NumPy
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
