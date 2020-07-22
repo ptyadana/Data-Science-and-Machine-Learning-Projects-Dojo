@@ -1,0 +1,1795 @@
+2018-01-01 00:01:01;read;country_7;2458151261;SEO;North America
+2018-01-01 00:03:20;read;country_7;2458151262;SEO;South America
+2018-01-01 00:04:01;read;country_7;2458151263;AdWords;Africa
+2018-01-01 00:04:02;read;country_7;2458151264;AdWords;Europe
+2018-01-01 00:05:03;read;country_8;2458151265;Reddit;North America
+2018-01-01 00:05:42;read;country_6;2458151266;Reddit;North America
+2018-01-01 00:06:06;read;country_2;2458151267;Reddit;Europe
+2018-01-01 00:06:15;read;country_6;2458151268;AdWords;Europe
+2018-01-01 00:07:21;read;country_7;2458151269;AdWords;North America
+2018-01-01 00:07:29;read;country_5;2458151270;Reddit;North America
+2018-01-01 00:07:57;read;country_5;2458151271;AdWords;Asia
+2018-01-01 00:08:57;read;country_7;2458151272;SEO;Australia
+2018-01-01 00:09:11;read;country_5;2458151273;Reddit;Asia
+2018-01-01 00:09:29;read;country_2;2458151274;Reddit;Europe
+2018-01-01 00:11:06;read;country_7;2458151275;Reddit;Africa
+2018-01-01 00:11:22;read;country_7;2458151276;SEO;North America
+2018-01-01 00:13:05;read;country_8;2458151277;SEO;North America
+2018-01-01 00:13:06;read;country_2;2458151278;Reddit;Asia
+2018-01-01 00:13:39;read;country_4;2458151279;SEO;North America
+2018-01-01 00:14:53;read;country_2;2458151280;Reddit;Asia
+2018-01-01 00:15:44;read;country_2;2458151281;Reddit;Asia
+2018-01-01 00:15:50;read;country_7;2458151282;Reddit;Africa
+2018-01-01 00:17:15;read;country_2;2458151283;AdWords;Europe
+2018-01-01 00:17:31;read;country_2;2458151284;Reddit;Asia
+2018-01-01 00:17:58;read;country_7;2458151285;Reddit;Africa
+2018-01-01 00:18:55;read;country_2;2458151286;AdWords;North America
+2018-01-01 00:20:18;read;country_5;2458151287;SEO;North America
+2018-01-01 00:20:44;read;country_2;2458151288;SEO;North America
+2018-01-01 00:23:16;read;country_2;2458151289;Reddit;Asia
+2018-01-01 00:23:51;read;country_7;2458151290;Reddit;Asia
+2018-01-01 00:24:52;read;country_6;2458151291;SEO;North America
+2018-01-01 00:26:28;read;country_7;2458151292;Reddit;Australia
+2018-01-01 00:26:48;read;country_7;2458151293;Reddit;South America
+2018-01-01 00:27:10;read;country_7;2458151294;Reddit;Australia
+2018-01-01 00:27:44;read;country_2;2458151295;Reddit;North America
+2018-01-01 00:29:10;read;country_6;2458151296;Reddit;South America
+2018-01-01 00:30:31;read;country_6;2458151297;AdWords;Asia
+2018-01-01 00:31:24;read;country_7;2458151298;AdWords;Europe
+2018-01-01 00:31:33;read;country_5;2458151299;Reddit;Asia
+2018-01-01 00:32:58;read;country_7;2458151300;Reddit;Asia
+2018-01-01 00:33:37;read;country_7;2458151301;Reddit;Europe
+2018-01-01 00:35:23;read;country_5;2458151302;SEO;Asia
+2018-01-01 00:35:30;read;country_4;2458151303;Reddit;Asia
+2018-01-01 00:36:39;read;country_7;2458151304;Reddit;Asia
+2018-01-01 00:37:28;read;country_2;2458151305;Reddit;Asia
+2018-01-01 00:37:35;read;country_8;2458151306;AdWords;Asia
+2018-01-01 00:38:22;read;country_6;2458151307;Reddit;North America
+2018-01-01 00:39:05;read;country_5;2458151308;AdWords;Europe
+2018-01-01 00:39:19;read;country_2;2458151309;Reddit;Asia
+2018-01-01 00:40:34;read;country_7;2458151310;Reddit;South America
+2018-01-01 00:40:44;read;country_6;2458151311;Reddit;Asia
+2018-01-01 00:44:17;read;country_6;2458151312;AdWords;Europe
+2018-01-01 00:44:47;read;country_3;2458151313;Reddit;Africa
+2018-01-01 00:45:06;read;country_2;2458151314;Reddit;Asia
+2018-01-01 00:46:42;read;country_5;2458151315;SEO;North America
+2018-01-01 00:49:15;read;country_5;2458151316;Reddit;Asia
+2018-01-01 00:49:37;read;country_7;2458151317;SEO;North America
+2018-01-01 00:49:58;read;country_2;2458151318;SEO;Europe
+2018-01-01 00:52:51;read;country_7;2458151319;AdWords;North America
+2018-01-01 00:53:05;read;country_8;2458151320;Reddit;Asia
+2018-01-01 00:55:38;read;country_7;2458151321;SEO;North America
+2018-01-01 00:55:48;read;country_7;2458151322;AdWords;Australia
+2018-01-01 00:56:27;read;country_6;2458151323;SEO;Asia
+2018-01-01 00:56:46;read;country_7;2458151324;Reddit;Australia
+2018-01-01 00:58:38;read;country_5;2458151325;Reddit;North America
+2018-01-01 00:59:30;read;country_5;2458151326;Reddit;North America
+2018-01-01 01:00:20;read;country_6;2458151327;AdWords;Asia
+2018-01-01 01:01:18;read;country_5;2458151328;Reddit;Asia
+2018-01-01 01:02:40;read;country_7;2458151329;AdWords;Africa
+2018-01-01 01:03:19;read;country_5;2458151330;SEO;Europe
+2018-01-01 01:03:41;read;country_2;2458151331;Reddit;South America
+2018-01-01 01:03:59;read;country_2;2458151332;AdWords;Asia
+2018-01-01 01:04:22;read;country_8;2458151333;SEO;North America
+2018-01-01 01:05:51;read;country_2;2458151334;SEO;North America
+2018-01-01 01:09:13;read;country_8;2458151335;Reddit;Asia
+2018-01-01 01:10:21;read;country_6;2458151336;Reddit;North America
+2018-01-01 01:10:48;read;country_7;2458151337;Reddit;Asia
+2018-01-01 01:12:51;read;country_4;2458151338;SEO;Africa
+2018-01-01 01:13:01;read;country_8;2458151339;Reddit;Africa
+2018-01-01 01:14:01;read;country_5;2458151340;Reddit;Asia
+2018-01-01 01:14:24;read;country_4;2458151341;SEO;Africa
+2018-01-01 01:15:53;read;country_7;2458151342;SEO;North America
+2018-01-01 01:17:10;read;country_2;2458151343;Reddit;Africa
+2018-01-01 01:17:14;read;country_2;2458151344;SEO;South America
+2018-01-01 01:17:48;read;country_7;2458151345;AdWords;Europe
+2018-01-01 01:17:48;read;country_8;2458151346;Reddit;Asia
+2018-01-01 01:17:55;read;country_7;2458151347;Reddit;Asia
+2018-01-01 01:18:12;read;country_6;2458151348;SEO;Australia
+2018-01-01 01:19:01;read;country_5;2458151349;Reddit;Asia
+2018-01-01 01:19:22;read;country_7;2458151350;AdWords;Europe
+2018-01-01 01:20:04;read;country_1;2458151351;AdWords;Europe
+2018-01-01 01:20:37;read;country_7;2458151352;SEO;North America
+2018-01-01 01:20:39;read;country_7;2458151353;AdWords;Asia
+2018-01-01 01:20:58;read;country_5;2458151354;Reddit;Asia
+2018-01-01 01:21:51;read;country_8;2458151355;AdWords;Asia
+2018-01-01 01:23:44;read;country_6;2458151356;Reddit;Africa
+2018-01-01 01:23:44;read;country_7;2458151357;AdWords;Asia
+2018-01-01 01:24:49;read;country_2;2458151358;SEO;North America
+2018-01-01 01:28:30;read;country_4;2458151359;SEO;Asia
+2018-01-01 01:29:05;read;country_2;2458151360;AdWords;Europe
+2018-01-01 01:29:08;read;country_6;2458151361;Reddit;Asia
+2018-01-01 01:31:55;read;country_5;2458151362;AdWords;Asia
+2018-01-01 01:32:35;read;country_8;2458151363;Reddit;South America
+2018-01-01 01:32:38;read;country_5;2458151364;Reddit;Asia
+2018-01-01 01:33:24;read;country_6;2458151365;Reddit;Europe
+2018-01-01 01:33:33;read;country_5;2458151366;Reddit;Asia
+2018-01-01 01:35:40;read;country_5;2458151367;SEO;North America
+2018-01-01 01:36:39;read;country_2;2458151368;Reddit;Asia
+2018-01-01 01:37:41;read;country_2;2458151369;Reddit;Asia
+2018-01-01 01:37:44;read;country_7;2458151370;Reddit;Asia
+2018-01-01 01:37:56;read;country_2;2458151371;SEO;Africa
+2018-01-01 01:38:11;read;country_5;2458151372;Reddit;South America
+2018-01-01 01:39:44;read;country_5;2458151373;Reddit;Africa
+2018-01-01 01:40:44;read;country_5;2458151374;Reddit;South America
+2018-01-01 01:41:15;read;country_7;2458151375;SEO;North America
+2018-01-01 01:42:10;read;country_2;2458151376;AdWords;North America
+2018-01-01 01:42:15;read;country_2;2458151377;Reddit;Australia
+2018-01-01 01:43:17;read;country_2;2458151378;Reddit;Asia
+2018-01-01 01:45:08;read;country_2;2458151379;AdWords;Europe
+2018-01-01 01:45:23;read;country_7;2458151380;Reddit;Asia
+2018-01-01 01:47:12;read;country_6;2458151381;Reddit;North America
+2018-01-01 01:49:08;read;country_2;2458151382;AdWords;South America
+2018-01-01 01:50:18;read;country_5;2458151383;AdWords;North America
+2018-01-01 01:50:22;read;country_3;2458151384;AdWords;Europe
+2018-01-01 01:50:55;read;country_2;2458151385;Reddit;Africa
+2018-01-01 01:51:51;read;country_2;2458151386;SEO;South America
+2018-01-01 01:53:01;read;country_5;2458151387;Reddit;Africa
+2018-01-01 01:53:37;read;country_3;2458151388;AdWords;South America
+2018-01-01 01:53:47;read;country_8;2458151389;Reddit;Asia
+2018-01-01 01:53:59;read;country_2;2458151390;Reddit;North America
+2018-01-01 01:55:40;read;country_5;2458151391;AdWords;South America
+2018-01-01 01:56:40;read;country_6;2458151392;SEO;North America
+2018-01-01 01:58:30;read;country_5;2458151393;AdWords;South America
+2018-01-01 01:59:01;read;country_8;2458151394;AdWords;Europe
+2018-01-01 01:59:16;read;country_7;2458151395;Reddit;Africa
+2018-01-01 01:59:20;read;country_2;2458151396;Reddit;Europe
+2018-01-01 02:00:09;read;country_7;2458151397;AdWords;South America
+2018-01-01 02:01:19;read;country_5;2458151398;SEO;North America
+2018-01-01 02:02:24;read;country_2;2458151399;Reddit;Africa
+2018-01-01 02:02:41;read;country_8;2458151400;Reddit;Europe
+2018-01-01 02:04:17;read;country_2;2458151401;SEO;North America
+2018-01-01 02:05:33;read;country_6;2458151402;Reddit;Asia
+2018-01-01 02:06:11;read;country_5;2458151403;Reddit;Asia
+2018-01-01 02:06:14;read;country_5;2458151404;Reddit;Africa
+2018-01-01 02:06:29;read;country_5;2458151405;AdWords;Europe
+2018-01-01 02:09:12;read;country_6;2458151406;Reddit;Asia
+2018-01-01 02:09:53;read;country_6;2458151407;Reddit;Asia
+2018-01-01 02:10:04;read;country_2;2458151408;SEO;North America
+2018-01-01 02:10:46;read;country_2;2458151409;AdWords;Asia
+2018-01-01 02:11:53;read;country_5;2458151410;AdWords;North America
+2018-01-01 02:12:08;read;country_5;2458151411;Reddit;Asia
+2018-01-01 02:12:17;read;country_2;2458151412;SEO;North America
+2018-01-01 02:12:24;read;country_6;2458151413;Reddit;North America
+2018-01-01 02:12:59;read;country_2;2458151414;SEO;Australia
+2018-01-01 02:13:30;read;country_6;2458151415;SEO;North America
+2018-01-01 02:13:39;read;country_5;2458151416;Reddit;Asia
+2018-01-01 02:13:58;read;country_2;2458151417;Reddit;Asia
+2018-01-01 02:14:00;read;country_5;2458151418;SEO;South America
+2018-01-01 02:15:30;read;country_5;2458151419;AdWords;Europe
+2018-01-01 02:15:55;read;country_5;2458151420;Reddit;Australia
+2018-01-01 02:15:58;read;country_8;2458151421;Reddit;South America
+2018-01-01 02:18:20;read;country_7;2458151422;SEO;Europe
+2018-01-01 02:19:17;read;country_2;2458151423;SEO;North America
+2018-01-01 02:19:48;read;country_7;2458151424;Reddit;Australia
+2018-01-01 02:20:22;read;country_6;2458151425;Reddit;Asia
+2018-01-01 02:20:48;read;country_2;2458151426;AdWords;Europe
+2018-01-01 02:21:37;read;country_5;2458151427;AdWords;Asia
+2018-01-01 02:23:04;read;country_2;2458151428;Reddit;Africa
+2018-01-01 02:23:22;read;country_2;2458151429;Reddit;South America
+2018-01-01 02:24:49;read;country_2;2458151430;Reddit;North America
+2018-01-01 02:24:52;read;country_5;2458151431;AdWords;Europe
+2018-01-01 02:25:29;read;country_7;2458151432;Reddit;Asia
+2018-01-01 02:26:34;read;country_2;2458151433;Reddit;Asia
+2018-01-01 02:30:57;read;country_5;2458151434;Reddit;Asia
+2018-01-01 02:31:19;read;country_2;2458151435;Reddit;South America
+2018-01-01 02:31:25;read;country_1;2458151436;AdWords;Europe
+2018-01-01 02:31:48;read;country_6;2458151437;AdWords;Asia
+2018-01-01 02:31:51;read;country_7;2458151438;Reddit;Asia
+2018-01-01 02:32:55;read;country_6;2458151439;Reddit;Asia
+2018-01-01 02:33:16;read;country_5;2458151440;Reddit;Asia
+2018-01-01 02:34:52;read;country_7;2458151441;Reddit;Asia
+2018-01-01 02:35:30;read;country_7;2458151442;AdWords;Asia
+2018-01-01 02:36:25;read;country_7;2458151443;Reddit;Africa
+2018-01-01 02:36:28;read;country_7;2458151444;AdWords;South America
+2018-01-01 02:36:46;read;country_7;2458151445;AdWords;Europe
+2018-01-01 02:40:29;read;country_7;2458151446;AdWords;Africa
+2018-01-01 02:41:52;read;country_8;2458151447;Reddit;Asia
+2018-01-01 02:42:24;read;country_6;2458151448;Reddit;South America
+2018-01-01 02:43:16;read;country_6;2458151449;SEO;Australia
+2018-01-01 02:43:29;read;country_2;2458151450;AdWords;Europe
+2018-01-01 02:43:36;read;country_7;2458151451;AdWords;Australia
+2018-01-01 02:44:07;read;country_2;2458151452;Reddit;Asia
+2018-01-01 02:44:24;read;country_5;2458151453;AdWords;Europe
+2018-01-01 02:46:20;read;country_5;2458151454;AdWords;Asia
+2018-01-01 02:46:20;read;country_6;2458151455;SEO;North America
+2018-01-01 02:47:19;read;country_2;2458151456;SEO;North America
+2018-01-01 02:48:23;read;country_7;2458151457;Reddit;Asia
+2018-01-01 02:49:03;read;country_2;2458151458;Reddit;Asia
+2018-01-01 02:49:48;read;country_5;2458151459;Reddit;South America
+2018-01-01 02:50:47;read;country_7;2458151460;Reddit;South America
+2018-01-01 02:51:14;read;country_2;2458151461;Reddit;Asia
+2018-01-01 02:52:16;read;country_6;2458151462;SEO;North America
+2018-01-01 02:53:23;read;country_8;2458151463;AdWords;South America
+2018-01-01 02:53:36;read;country_2;2458151464;Reddit;Asia
+2018-01-01 02:54:20;read;country_7;2458151465;Reddit;Africa
+2018-01-01 02:54:36;read;country_2;2458151466;AdWords;Europe
+2018-01-01 02:55:18;read;country_7;2458151467;Reddit;Asia
+2018-01-01 02:55:28;read;country_2;2458151468;SEO;Asia
+2018-01-01 02:55:46;read;country_6;2458151469;Reddit;Asia
+2018-01-01 02:57:21;read;country_7;2458151470;Reddit;Asia
+2018-01-01 03:00:28;read;country_6;2458151471;SEO;North America
+2018-01-01 03:01:33;read;country_7;2458151472;Reddit;Africa
+2018-01-01 03:01:54;read;country_2;2458151473;SEO;North America
+2018-01-01 03:02:09;read;country_5;2458151474;AdWords;Europe
+2018-01-01 03:02:25;read;country_2;2458151475;SEO;North America
+2018-01-01 03:02:32;read;country_2;2458151476;Reddit;Asia
+2018-01-01 03:02:39;read;country_2;2458151477;Reddit;Europe
+2018-01-01 03:03:19;read;country_2;2458151478;Reddit;South America
+2018-01-01 03:06:12;read;country_5;2458151479;Reddit;Asia
+2018-01-01 03:06:56;read;country_2;2458151480;Reddit;Asia
+2018-01-01 03:07:05;read;country_5;2458151481;SEO;Europe
+2018-01-01 03:08:43;read;country_2;2458151482;AdWords;Australia
+2018-01-01 03:09:06;read;country_2;2458151483;Reddit;South America
+2018-01-01 03:09:28;read;country_3;2458151484;Reddit;Australia
+2018-01-01 03:10:20;read;country_2;2458151485;Reddit;Asia
+2018-01-01 03:10:36;read;country_2;2458151486;Reddit;Asia
+2018-01-01 03:10:36;read;country_6;2458151487;Reddit;North America
+2018-01-01 03:10:36;read;country_6;2458151488;AdWords;Australia
+2018-01-01 03:10:57;read;country_6;2458151489;SEO;Asia
+2018-01-01 03:11:22;read;country_1;2458151490;Reddit;South America
+2018-01-01 03:11:30;read;country_4;2458151491;Reddit;Asia
+2018-01-01 03:11:44;read;country_6;2458151492;Reddit;Asia
+2018-01-01 03:12:29;read;country_7;2458151493;Reddit;Asia
+2018-01-01 03:13:18;read;country_6;2458151494;SEO;North America
+2018-01-01 03:13:48;read;country_7;2458151495;AdWords;Asia
+2018-01-01 03:14:52;read;country_7;2458151496;SEO;North America
+2018-01-01 03:16:20;read;country_6;2458151497;Reddit;North America
+2018-01-01 03:17:35;read;country_7;2458151498;Reddit;Asia
+2018-01-01 03:19:25;read;country_2;2458151499;AdWords;Australia
+2018-01-01 03:20:59;read;country_5;2458151500;SEO;North America
+2018-01-01 03:22:36;read;country_8;2458151501;AdWords;Europe
+2018-01-01 03:22:43;read;country_8;2458151502;Reddit;Asia
+2018-01-01 03:22:56;read;country_6;2458151503;AdWords;Australia
+2018-01-01 03:23:09;read;country_8;2458151504;Reddit;South America
+2018-01-01 03:23:12;read;country_7;2458151505;AdWords;Europe
+2018-01-01 03:23:31;read;country_3;2458151506;Reddit;South America
+2018-01-01 03:25:09;read;country_2;2458151507;AdWords;Europe
+2018-01-01 03:25:30;read;country_5;2458151508;AdWords;Europe
+2018-01-01 03:25:33;read;country_7;2458151509;SEO;North America
+2018-01-01 03:26:17;read;country_2;2458151510;Reddit;Asia
+2018-01-01 03:26:28;read;country_4;2458151511;Reddit;South America
+2018-01-01 03:26:55;read;country_5;2458151512;AdWords;South America
+2018-01-01 03:27:34;read;country_8;2458151513;Reddit;North America
+2018-01-01 03:27:39;read;country_2;2458151514;Reddit;Asia
+2018-01-01 03:27:55;read;country_7;2458151515;Reddit;Asia
+2018-01-01 03:28:10;read;country_7;2458151516;Reddit;North America
+2018-01-01 03:28:38;read;country_7;2458151517;Reddit;Asia
+2018-01-01 03:29:16;read;country_2;2458151518;Reddit;Asia
+2018-01-01 03:29:21;read;country_2;2458151519;Reddit;Asia
+2018-01-01 03:29:25;read;country_2;2458151520;Reddit;Europe
+2018-01-01 03:29:51;read;country_5;2458151521;AdWords;Europe
+2018-01-01 03:30:03;read;country_2;2458151522;AdWords;South America
+2018-01-01 03:30:57;read;country_5;2458151523;Reddit;Asia
+2018-01-01 03:31:03;read;country_6;2458151524;Reddit;North America
+2018-01-01 03:31:22;read;country_4;2458151525;Reddit;Asia
+2018-01-01 03:31:40;read;country_6;2458151526;AdWords;Europe
+2018-01-01 03:31:51;read;country_6;2458151527;Reddit;Asia
+2018-01-01 03:31:51;read;country_7;2458151528;AdWords;Asia
+2018-01-01 03:34:41;read;country_7;2458151529;Reddit;Asia
+2018-01-01 03:35:44;read;country_7;2458151530;Reddit;Asia
+2018-01-01 03:36:27;read;country_7;2458151531;Reddit;Asia
+2018-01-01 03:38:23;read;country_8;2458151532;Reddit;Asia
+2018-01-01 03:38:28;read;country_5;2458151533;Reddit;Africa
+2018-01-01 03:39:31;read;country_5;2458151534;Reddit;Asia
+2018-01-01 03:41:50;read;country_7;2458151535;SEO;South America
+2018-01-01 03:42:07;read;country_5;2458151536;AdWords;Europe
+2018-01-01 03:42:53;read;country_7;2458151537;AdWords;Europe
+2018-01-01 03:43:16;read;country_5;2458151538;Reddit;Africa
+2018-01-01 03:45:12;read;country_2;2458151539;SEO;North America
+2018-01-01 03:46:32;read;country_7;2458151540;Reddit;Asia
+2018-01-01 03:50:00;read;country_7;2458151541;Reddit;Africa
+2018-01-01 03:51:07;read;country_5;2458151542;Reddit;Europe
+2018-01-01 03:51:34;read;country_5;2458151543;Reddit;Europe
+2018-01-01 03:52:12;read;country_1;2458151544;Reddit;Asia
+2018-01-01 03:52:29;read;country_8;2458151545;Reddit;Asia
+2018-01-01 03:53:07;read;country_2;2458151546;AdWords;Asia
+2018-01-01 03:53:16;read;country_2;2458151547;Reddit;Africa
+2018-01-01 03:53:30;read;country_2;2458151548;Reddit;Africa
+2018-01-01 03:53:42;read;country_1;2458151549;AdWords;Asia
+2018-01-01 03:54:06;read;country_6;2458151550;Reddit;Asia
+2018-01-01 03:54:29;read;country_6;2458151551;AdWords;South America
+2018-01-01 03:55:10;read;country_6;2458151552;AdWords;Africa
+2018-01-01 03:56:01;read;country_5;2458151553;AdWords;North America
+2018-01-01 03:56:11;read;country_2;2458151554;Reddit;Asia
+2018-01-01 03:56:17;read;country_4;2458151555;AdWords;Asia
+2018-01-01 03:56:21;read;country_8;2458151556;SEO;Asia
+2018-01-01 03:57:36;read;country_7;2458151557;SEO;Europe
+2018-01-01 03:58:06;read;country_7;2458151558;AdWords;Australia
+2018-01-01 03:58:50;read;country_2;2458151559;Reddit;Asia
+2018-01-01 03:58:59;read;country_7;2458151560;Reddit;Asia
+2018-01-01 04:01:10;read;country_7;2458151561;SEO;South America
+2018-01-01 04:01:40;read;country_5;2458151562;AdWords;North America
+2018-01-01 04:04:40;read;country_2;2458151563;Reddit;Asia
+2018-01-01 04:07:19;read;country_2;2458151564;Reddit;Australia
+2018-01-01 04:07:41;read;country_1;2458151565;Reddit;Asia
+2018-01-01 04:08:30;read;country_7;2458151566;Reddit;Asia
+2018-01-01 04:09:27;read;country_7;2458151567;Reddit;Asia
+2018-01-01 04:09:40;read;country_6;2458151568;Reddit;Asia
+2018-01-01 04:10:44;read;country_8;2458151569;AdWords;Asia
+2018-01-01 04:10:59;read;country_1;2458151570;AdWords;Asia
+2018-01-01 04:11:16;read;country_7;2458151571;Reddit;Europe
+2018-01-01 04:11:52;read;country_6;2458151572;SEO;North America
+2018-01-01 04:12:06;read;country_7;2458151573;Reddit;South America
+2018-01-01 04:12:08;read;country_7;2458151574;Reddit;Asia
+2018-01-01 04:12:41;read;country_2;2458151575;Reddit;Asia
+2018-01-01 04:13:05;read;country_2;2458151576;AdWords;Europe
+2018-01-01 04:13:21;read;country_5;2458151577;Reddit;North America
+2018-01-01 04:15:01;read;country_2;2458151578;AdWords;Europe
+2018-01-01 04:15:38;read;country_2;2458151579;Reddit;North America
+2018-01-01 04:15:42;read;country_8;2458151580;Reddit;Africa
+2018-01-01 04:17:52;read;country_7;2458151581;Reddit;Asia
+2018-01-01 04:18:13;read;country_5;2458151582;SEO;North America
+2018-01-01 04:18:39;read;country_3;2458151583;AdWords;North America
+2018-01-01 04:18:57;read;country_8;2458151584;Reddit;Africa
+2018-01-01 04:19:15;read;country_5;2458151585;SEO;Asia
+2018-01-01 04:19:54;read;country_6;2458151586;Reddit;Asia
+2018-01-01 04:20:00;read;country_7;2458151587;Reddit;Asia
+2018-01-01 04:20:59;read;country_5;2458151588;Reddit;Europe
+2018-01-01 04:21:48;read;country_2;2458151589;SEO;North America
+2018-01-01 04:22:37;read;country_8;2458151590;AdWords;Europe
+2018-01-01 04:22:57;read;country_2;2458151591;SEO;Africa
+2018-01-01 04:23:22;read;country_7;2458151592;Reddit;Asia
+2018-01-01 04:24:09;read;country_5;2458151593;Reddit;Asia
+2018-01-01 04:24:38;read;country_6;2458151594;AdWords;Europe
+2018-01-01 04:25:44;read;country_8;2458151595;Reddit;Asia
+2018-01-01 04:26:21;read;country_5;2458151596;AdWords;Asia
+2018-01-01 04:26:24;read;country_1;2458151597;AdWords;North America
+2018-01-01 04:26:24;read;country_7;2458151598;AdWords;Europe
+2018-01-01 04:26:54;read;country_7;2458151599;Reddit;Australia
+2018-01-01 04:27:22;read;country_5;2458151600;Reddit;Asia
+2018-01-01 04:27:43;read;country_5;2458151601;Reddit;Asia
+2018-01-01 04:27:52;read;country_2;2458151602;AdWords;South America
+2018-01-01 04:28:30;read;country_2;2458151603;Reddit;Australia
+2018-01-01 04:31:46;read;country_2;2458151604;AdWords;Australia
+2018-01-01 04:34:00;read;country_6;2458151605;Reddit;Africa
+2018-01-01 04:34:45;read;country_7;2458151606;Reddit;Europe
+2018-01-01 04:34:53;read;country_2;2458151607;Reddit;Asia
+2018-01-01 04:35:00;read;country_2;2458151608;SEO;Africa
+2018-01-01 04:36:14;read;country_6;2458151609;AdWords;South America
+2018-01-01 04:37:07;read;country_7;2458151610;Reddit;Asia
+2018-01-01 04:37:33;read;country_2;2458151611;AdWords;Africa
+2018-01-01 04:38:48;read;country_2;2458151612;Reddit;Asia
+2018-01-01 04:40:00;read;country_7;2458151613;Reddit;Europe
+2018-01-01 04:42:10;read;country_4;2458151614;SEO;South America
+2018-01-01 04:42:11;read;country_5;2458151615;Reddit;Asia
+2018-01-01 04:44:38;read;country_4;2458151616;Reddit;Asia
+2018-01-01 04:44:52;read;country_4;2458151617;Reddit;Asia
+2018-01-01 04:46:12;read;country_5;2458151618;Reddit;South America
+2018-01-01 04:46:36;read;country_2;2458151619;SEO;Asia
+2018-01-01 04:47:37;read;country_8;2458151620;Reddit;South America
+2018-01-01 04:48:57;read;country_2;2458151621;Reddit;South America
+2018-01-01 04:49:18;read;country_7;2458151622;Reddit;North America
+2018-01-01 04:52:38;read;country_6;2458151623;Reddit;Asia
+2018-01-01 04:54:11;read;country_2;2458151624;Reddit;North America
+2018-01-01 04:54:16;read;country_6;2458151625;AdWords;Europe
+2018-01-01 04:55:42;read;country_2;2458151626;Reddit;Europe
+2018-01-01 04:55:57;read;country_2;2458151627;Reddit;Asia
+2018-01-01 04:56:20;read;country_5;2458151628;Reddit;Asia
+2018-01-01 04:56:29;read;country_4;2458151629;Reddit;Australia
+2018-01-01 04:59:25;read;country_8;2458151630;Reddit;Africa
+2018-01-01 04:59:54;read;country_7;2458151631;Reddit;South America
+2018-01-01 05:02:19;read;country_2;2458151632;SEO;South America
+2018-01-01 05:03:02;read;country_5;2458151633;AdWords;Asia
+2018-01-01 05:03:06;read;country_6;2458151634;SEO;North America
+2018-01-01 05:03:40;read;country_5;2458151635;AdWords;Europe
+2018-01-01 05:06:04;read;country_6;2458151636;SEO;South America
+2018-01-01 05:06:23;read;country_3;2458151637;Reddit;Africa
+2018-01-01 05:06:46;read;country_7;2458151638;Reddit;Europe
+2018-01-01 05:07:50;read;country_7;2458151639;Reddit;Australia
+2018-01-01 05:10:22;read;country_5;2458151640;Reddit;Australia
+2018-01-01 05:12:04;read;country_4;2458151641;AdWords;Asia
+2018-01-01 05:13:09;read;country_1;2458151642;SEO;North America
+2018-01-01 05:14:40;read;country_2;2458151643;AdWords;Europe
+2018-01-01 05:15:08;read;country_1;2458151644;SEO;North America
+2018-01-01 05:15:25;read;country_2;2458151645;Reddit;Asia
+2018-01-01 05:15:26;read;country_4;2458151646;Reddit;Europe
+2018-01-01 05:15:42;read;country_5;2458151647;Reddit;Asia
+2018-01-01 05:18:41;read;country_6;2458151648;Reddit;Asia
+2018-01-01 05:19:23;read;country_2;2458151649;Reddit;Asia
+2018-01-01 05:19:34;read;country_5;2458151650;Reddit;Asia
+2018-01-01 05:22:53;read;country_8;2458151651;AdWords;Europe
+2018-01-01 05:26:16;read;country_7;2458151652;Reddit;Europe
+2018-01-01 05:28:45;read;country_7;2458151653;Reddit;Asia
+2018-01-01 05:28:57;read;country_7;2458151654;Reddit;Asia
+2018-01-01 05:29:35;read;country_7;2458151655;SEO;North America
+2018-01-01 05:31:38;read;country_6;2458151656;Reddit;Asia
+2018-01-01 05:32:07;read;country_5;2458151657;Reddit;Asia
+2018-01-01 05:32:31;read;country_7;2458151658;AdWords;Europe
+2018-01-01 05:32:38;read;country_2;2458151659;Reddit;Asia
+2018-01-01 05:33:36;read;country_2;2458151660;Reddit;Asia
+2018-01-01 05:34:20;read;country_4;2458151661;AdWords;Asia
+2018-01-01 05:35:16;read;country_2;2458151662;SEO;North America
+2018-01-01 05:35:55;read;country_2;2458151663;AdWords;Asia
+2018-01-01 05:36:13;read;country_8;2458151664;AdWords;Asia
+2018-01-01 05:37:23;read;country_2;2458151665;SEO;North America
+2018-01-01 05:37:59;read;country_2;2458151666;Reddit;North America
+2018-01-01 05:38:00;read;country_6;2458151667;Reddit;Asia
+2018-01-01 05:38:31;read;country_2;2458151668;AdWords;North America
+2018-01-01 05:40:25;read;country_2;2458151669;Reddit;Asia
+2018-01-01 05:40:33;read;country_2;2458151670;Reddit;Asia
+2018-01-01 05:40:46;read;country_5;2458151671;Reddit;South America
+2018-01-01 05:41:40;read;country_5;2458151672;Reddit;Asia
+2018-01-01 05:41:55;read;country_7;2458151673;AdWords;Europe
+2018-01-01 05:43:20;read;country_1;2458151674;AdWords;Australia
+2018-01-01 05:43:39;read;country_7;2458151675;Reddit;Asia
+2018-01-01 05:44:15;read;country_2;2458151676;AdWords;Asia
+2018-01-01 05:44:15;read;country_7;2458151677;Reddit;North America
+2018-01-01 05:44:32;read;country_2;2458151678;Reddit;Asia
+2018-01-01 05:45:32;read;country_7;2458151679;Reddit;South America
+2018-01-01 05:47:29;read;country_1;2458151680;AdWords;Asia
+2018-01-01 05:47:29;read;country_2;2458151681;Reddit;Europe
+2018-01-01 05:47:50;read;country_2;2458151682;SEO;Asia
+2018-01-01 05:47:50;read;country_5;2458151683;Reddit;Asia
+2018-01-01 05:47:57;read;country_5;2458151684;AdWords;Europe
+2018-01-01 05:48:00;read;country_5;2458151685;SEO;Europe
+2018-01-01 05:48:34;read;country_7;2458151686;Reddit;Asia
+2018-01-01 05:49:20;read;country_7;2458151687;Reddit;Asia
+2018-01-01 05:49:28;read;country_2;2458151688;SEO;Africa
+2018-01-01 05:51:43;read;country_5;2458151689;Reddit;South America
+2018-01-01 05:52:33;read;country_6;2458151690;Reddit;Asia
+2018-01-01 05:54:21;read;country_8;2458151691;Reddit;Europe
+2018-01-01 05:54:37;read;country_8;2458151692;AdWords;Asia
+2018-01-01 05:55:31;read;country_5;2458151693;Reddit;South America
+2018-01-01 05:56:42;read;country_8;2458151694;Reddit;North America
+2018-01-01 05:56:46;read;country_7;2458151695;SEO;North America
+2018-01-01 05:57:13;read;country_2;2458151696;Reddit;Asia
+2018-01-01 05:57:55;read;country_6;2458151697;Reddit;Africa
+2018-01-01 05:58:23;read;country_5;2458151698;SEO;North America
+2018-01-01 05:58:36;read;country_2;2458151699;AdWords;Asia
+2018-01-01 05:58:53;read;country_7;2458151700;AdWords;North America
+2018-01-01 05:59:55;read;country_5;2458151701;Reddit;South America
+2018-01-01 06:01:08;read;country_8;2458151702;SEO;South America
+2018-01-01 06:02:34;read;country_2;2458151703;Reddit;Australia
+2018-01-01 06:03:51;read;country_7;2458151704;Reddit;Asia
+2018-01-01 06:03:59;read;country_5;2458151705;Reddit;Asia
+2018-01-01 06:04:00;read;country_5;2458151706;Reddit;Asia
+2018-01-01 06:04:44;read;country_2;2458151707;Reddit;Asia
+2018-01-01 06:04:51;read;country_2;2458151708;Reddit;Asia
+2018-01-01 06:05:22;read;country_2;2458151709;Reddit;Africa
+2018-01-01 06:05:46;read;country_8;2458151710;SEO;North America
+2018-01-01 06:06:47;read;country_2;2458151711;AdWords;Europe
+2018-01-01 06:07:11;read;country_6;2458151712;Reddit;Australia
+2018-01-01 06:07:30;read;country_2;2458151713;SEO;South America
+2018-01-01 06:09:10;read;country_3;2458151714;Reddit;Asia
+2018-01-01 06:09:15;read;country_7;2458151715;AdWords;Asia
+2018-01-01 06:09:33;read;country_7;2458151716;SEO;Europe
+2018-01-01 06:09:45;read;country_7;2458151717;AdWords;South America
+2018-01-01 06:09:59;read;country_6;2458151718;AdWords;Asia
+2018-01-01 06:09:59;read;country_7;2458151719;Reddit;Asia
+2018-01-01 06:10:06;read;country_7;2458151720;AdWords;Asia
+2018-01-01 06:10:13;read;country_7;2458151721;Reddit;South America
+2018-01-01 06:11:41;read;country_7;2458151722;Reddit;Asia
+2018-01-01 06:13:37;read;country_7;2458151723;Reddit;Europe
+2018-01-01 06:15:14;read;country_5;2458151724;AdWords;Europe
+2018-01-01 06:15:39;read;country_8;2458151725;Reddit;Asia
+2018-01-01 06:15:55;read;country_7;2458151726;AdWords;Asia
+2018-01-01 06:16:07;read;country_6;2458151727;Reddit;Asia
+2018-01-01 06:18:57;read;country_6;2458151728;AdWords;Australia
+2018-01-01 06:20:12;read;country_7;2458151729;Reddit;Asia
+2018-01-01 06:20:34;read;country_5;2458151730;SEO;North America
+2018-01-01 06:21:29;read;country_7;2458151731;Reddit;North America
+2018-01-01 06:21:50;read;country_2;2458151732;AdWords;Europe
+2018-01-01 06:23:06;read;country_6;2458151733;Reddit;Asia
+2018-01-01 06:23:30;read;country_6;2458151734;Reddit;Asia
+2018-01-01 06:23:48;read;country_2;2458151735;SEO;South America
+2018-01-01 06:24:08;read;country_2;2458151736;Reddit;Europe
+2018-01-01 06:24:23;read;country_6;2458151737;AdWords;Africa
+2018-01-01 06:24:46;read;country_2;2458151738;Reddit;South America
+2018-01-01 06:25:02;read;country_7;2458151739;AdWords;Asia
+2018-01-01 06:25:23;read;country_2;2458151740;SEO;North America
+2018-01-01 06:25:43;read;country_6;2458151741;Reddit;South America
+2018-01-01 06:25:51;read;country_7;2458151742;AdWords;Asia
+2018-01-01 06:25:52;read;country_2;2458151743;Reddit;Asia
+2018-01-01 06:26:09;read;country_7;2458151744;Reddit;Europe
+2018-01-01 06:28:57;read;country_2;2458151745;AdWords;Asia
+2018-01-01 06:30:25;read;country_5;2458151746;AdWords;Europe
+2018-01-01 06:33:32;read;country_2;2458151747;Reddit;Asia
+2018-01-01 06:34:09;read;country_7;2458151748;Reddit;Asia
+2018-01-01 06:34:48;read;country_2;2458151749;Reddit;Asia
+2018-01-01 06:35:00;read;country_7;2458151750;Reddit;Europe
+2018-01-01 06:36:28;read;country_5;2458151751;AdWords;Asia
+2018-01-01 06:36:34;read;country_2;2458151752;SEO;Asia
+2018-01-01 06:37:47;read;country_7;2458151753;Reddit;South America
+2018-01-01 06:37:54;read;country_2;2458151754;SEO;Africa
+2018-01-01 06:38:26;read;country_5;2458151755;Reddit;Asia
+2018-01-01 06:38:26;read;country_5;2458151756;Reddit;South America
+2018-01-01 06:38:34;read;country_4;2458151757;Reddit;Asia
+2018-01-01 06:39:24;read;country_7;2458151758;Reddit;Asia
+2018-01-01 06:39:39;read;country_2;2458151759;Reddit;Australia
+2018-01-01 06:42:16;read;country_8;2458151760;SEO;North America
+2018-01-01 06:42:19;read;country_2;2458151761;AdWords;Asia
+2018-01-01 06:43:03;read;country_2;2458151762;SEO;North America
+2018-01-01 06:44:14;read;country_7;2458151763;Reddit;Asia
+2018-01-01 06:44:30;read;country_7;2458151764;AdWords;Europe
+2018-01-01 06:45:41;read;country_2;2458151765;Reddit;Africa
+2018-01-01 06:46:10;read;country_7;2458151766;AdWords;North America
+2018-01-01 06:47:07;read;country_5;2458151767;Reddit;Africa
+2018-01-01 06:48:40;read;country_6;2458151768;SEO;North America
+2018-01-01 06:50:08;read;country_2;2458151769;Reddit;Africa
+2018-01-01 06:51:09;read;country_2;2458151770;AdWords;Asia
+2018-01-01 06:52:28;read;country_4;2458151771;AdWords;Europe
+2018-01-01 06:53:32;read;country_8;2458151772;Reddit;Asia
+2018-01-01 06:54:14;read;country_6;2458151773;Reddit;Asia
+2018-01-01 06:55:04;read;country_5;2458151774;AdWords;South America
+2018-01-01 06:56:12;read;country_2;2458151775;AdWords;Asia
+2018-01-01 06:56:17;read;country_4;2458151776;Reddit;North America
+2018-01-01 06:56:26;read;country_8;2458151777;Reddit;South America
+2018-01-01 06:57:54;read;country_2;2458151778;AdWords;Europe
+2018-01-01 06:58:17;read;country_5;2458151779;SEO;Africa
+2018-01-01 07:00:40;read;country_5;2458151780;SEO;Australia
+2018-01-01 07:02:19;read;country_2;2458151781;Reddit;North America
+2018-01-01 07:03:09;read;country_6;2458151782;SEO;South America
+2018-01-01 07:03:43;read;country_7;2458151783;Reddit;North America
+2018-01-01 07:04:09;read;country_7;2458151784;Reddit;North America
+2018-01-01 07:04:57;read;country_8;2458151785;AdWords;Europe
+2018-01-01 07:05:36;read;country_2;2458151786;Reddit;Europe
+2018-01-01 07:05:45;read;country_6;2458151787;Reddit;Asia
+2018-01-01 07:07:10;read;country_5;2458151788;SEO;North America
+2018-01-01 07:09:51;read;country_5;2458151789;AdWords;Europe
+2018-01-01 07:11:05;read;country_6;2458151790;Reddit;Asia
+2018-01-01 07:14:28;read;country_6;2458151791;SEO;Europe
+2018-01-01 07:14:58;read;country_5;2458151792;AdWords;Asia
+2018-01-01 07:15:11;read;country_2;2458151793;Reddit;North America
+2018-01-01 07:15:47;read;country_7;2458151794;SEO;South America
+2018-01-01 07:17:14;read;country_7;2458151795;AdWords;Asia
+2018-01-01 07:18:31;read;country_7;2458151796;Reddit;Asia
+2018-01-01 07:18:40;read;country_5;2458151797;Reddit;Africa
+2018-01-01 07:20:25;read;country_6;2458151798;SEO;North America
+2018-01-01 07:23:03;read;country_7;2458151799;Reddit;Australia
+2018-01-01 07:23:34;read;country_2;2458151800;Reddit;Asia
+2018-01-01 07:23:51;read;country_8;2458151801;SEO;North America
+2018-01-01 07:25:55;read;country_2;2458151802;AdWords;South America
+2018-01-01 07:27:26;read;country_2;2458151803;SEO;North America
+2018-01-01 07:27:28;read;country_7;2458151804;Reddit;Africa
+2018-01-01 07:29:00;read;country_2;2458151805;Reddit;North America
+2018-01-01 07:29:16;read;country_5;2458151806;AdWords;South America
+2018-01-01 07:29:21;read;country_7;2458151807;Reddit;Europe
+2018-01-01 07:31:44;read;country_5;2458151808;Reddit;Asia
+2018-01-01 07:32:32;read;country_5;2458151809;Reddit;North America
+2018-01-01 07:33:09;read;country_6;2458151810;Reddit;Asia
+2018-01-01 07:33:14;read;country_5;2458151811;Reddit;Europe
+2018-01-01 07:34:33;read;country_5;2458151812;Reddit;Europe
+2018-01-01 07:36:26;read;country_4;2458151813;AdWords;Asia
+2018-01-01 07:37:10;read;country_4;2458151814;AdWords;South America
+2018-01-01 07:37:18;read;country_8;2458151815;Reddit;Asia
+2018-01-01 07:37:41;read;country_6;2458151816;Reddit;Europe
+2018-01-01 07:38:18;read;country_7;2458151817;AdWords;North America
+2018-01-01 07:40:45;read;country_7;2458151818;Reddit;Asia
+2018-01-01 07:40:57;read;country_2;2458151819;SEO;North America
+2018-01-01 07:41:08;read;country_8;2458151820;Reddit;Europe
+2018-01-01 07:41:30;read;country_2;2458151821;AdWords;Europe
+2018-01-01 07:41:57;read;country_7;2458151822;AdWords;Asia
+2018-01-01 07:43:16;read;country_5;2458151823;SEO;South America
+2018-01-01 07:43:58;read;country_1;2458151824;Reddit;Asia
+2018-01-01 07:44:02;read;country_7;2458151825;Reddit;Asia
+2018-01-01 07:44:22;read;country_5;2458151826;Reddit;Asia
+2018-01-01 07:44:35;read;country_8;2458151827;Reddit;Asia
+2018-01-01 07:44:48;read;country_3;2458151828;AdWords;Europe
+2018-01-01 07:46:04;read;country_8;2458151829;SEO;North America
+2018-01-01 07:46:44;read;country_5;2458151830;SEO;North America
+2018-01-01 07:49:00;read;country_5;2458151831;SEO;North America
+2018-01-01 07:50:15;read;country_8;2458151832;Reddit;North America
+2018-01-01 07:50:34;read;country_6;2458151833;SEO;North America
+2018-01-01 07:51:22;read;country_2;2458151834;Reddit;Australia
+2018-01-01 07:51:31;read;country_3;2458151835;Reddit;Asia
+2018-01-01 07:52:26;read;country_2;2458151836;Reddit;Asia
+2018-01-01 07:53:18;read;country_2;2458151837;Reddit;Asia
+2018-01-01 07:53:39;read;country_2;2458151838;Reddit;Asia
+2018-01-01 07:53:45;read;country_5;2458151839;Reddit;Asia
+2018-01-01 07:53:54;read;country_7;2458151840;AdWords;North America
+2018-01-01 07:54:05;read;country_8;2458151841;AdWords;Europe
+2018-01-01 07:54:16;read;country_4;2458151842;AdWords;Europe
+2018-01-01 07:55:03;read;country_6;2458151843;AdWords;Asia
+2018-01-01 07:55:35;read;country_6;2458151844;Reddit;Africa
+2018-01-01 07:56:35;read;country_3;2458151845;Reddit;North America
+2018-01-01 07:56:44;read;country_2;2458151846;Reddit;Europe
+2018-01-01 07:56:54;read;country_5;2458151847;Reddit;South America
+2018-01-01 07:57:17;read;country_7;2458151848;AdWords;Africa
+2018-01-01 07:58:32;read;country_7;2458151849;Reddit;Asia
+2018-01-01 07:59:33;read;country_6;2458151850;AdWords;Asia
+2018-01-01 08:00:33;read;country_4;2458151851;AdWords;Europe
+2018-01-01 08:00:51;read;country_8;2458151852;SEO;Europe
+2018-01-01 08:01:50;read;country_4;2458151853;AdWords;South America
+2018-01-01 08:01:59;read;country_5;2458151854;SEO;North America
+2018-01-01 08:02:12;read;country_2;2458151855;Reddit;Australia
+2018-01-01 08:02:54;read;country_5;2458151856;AdWords;North America
+2018-01-01 08:06:55;read;country_7;2458151857;Reddit;Asia
+2018-01-01 08:07:50;read;country_7;2458151858;SEO;North America
+2018-01-01 08:07:58;read;country_5;2458151859;Reddit;Asia
+2018-01-01 08:09:19;read;country_6;2458151860;Reddit;Australia
+2018-01-01 08:10:43;read;country_7;2458151861;SEO;Africa
+2018-01-01 08:11:38;read;country_5;2458151862;SEO;Europe
+2018-01-01 08:12:03;read;country_2;2458151863;SEO;North America
+2018-01-01 08:12:16;read;country_6;2458151864;SEO;Europe
+2018-01-01 08:12:46;read;country_3;2458151865;Reddit;Africa
+2018-01-01 08:12:56;read;country_6;2458151866;AdWords;Asia
+2018-01-01 08:13:23;read;country_5;2458151867;SEO;Europe
+2018-01-01 08:14:23;read;country_2;2458151868;SEO;Australia
+2018-01-01 08:14:30;read;country_5;2458151869;AdWords;Asia
+2018-01-01 08:15:25;read;country_5;2458151870;Reddit;Europe
+2018-01-01 08:15:33;read;country_3;2458151871;Reddit;North America
+2018-01-01 08:16:39;read;country_7;2458151872;AdWords;Asia
+2018-01-01 08:17:43;read;country_2;2458151873;AdWords;Asia
+2018-01-01 08:18:08;read;country_6;2458151874;Reddit;Australia
+2018-01-01 08:19:39;read;country_5;2458151875;Reddit;Asia
+2018-01-01 08:20:04;read;country_2;2458151876;Reddit;South America
+2018-01-01 08:22:27;read;country_5;2458151877;Reddit;Asia
+2018-01-01 08:22:33;read;country_7;2458151878;AdWords;Europe
+2018-01-01 08:22:46;read;country_5;2458151879;SEO;Africa
+2018-01-01 08:23:17;read;country_8;2458151880;Reddit;Asia
+2018-01-01 08:23:59;read;country_2;2458151881;AdWords;Asia
+2018-01-01 08:25:01;read;country_2;2458151882;SEO;Australia
+2018-01-01 08:25:44;read;country_2;2458151883;Reddit;North America
+2018-01-01 08:26:28;read;country_5;2458151884;AdWords;Europe
+2018-01-01 08:26:29;read;country_2;2458151885;Reddit;Asia
+2018-01-01 08:27:01;read;country_7;2458151886;Reddit;Europe
+2018-01-01 08:27:31;read;country_5;2458151887;AdWords;Europe
+2018-01-01 08:27:39;read;country_8;2458151888;AdWords;North America
+2018-01-01 08:27:41;read;country_4;2458151889;Reddit;Asia
+2018-01-01 08:28:30;read;country_7;2458151890;AdWords;South America
+2018-01-01 08:28:42;read;country_2;2458151891;Reddit;Europe
+2018-01-01 08:29:29;read;country_6;2458151892;AdWords;Australia
+2018-01-01 08:31:53;read;country_2;2458151893;Reddit;Asia
+2018-01-01 08:33:40;read;country_5;2458151894;Reddit;Asia
+2018-01-01 08:34:12;read;country_6;2458151895;Reddit;Asia
+2018-01-01 08:35:58;read;country_7;2458151896;AdWords;Australia
+2018-01-01 08:36:38;read;country_5;2458151897;AdWords;Asia
+2018-01-01 08:37:22;read;country_8;2458151898;Reddit;Australia
+2018-01-01 08:41:12;read;country_5;2458151899;Reddit;Asia
+2018-01-01 08:41:13;read;country_6;2458151900;Reddit;Australia
+2018-01-01 08:41:25;read;country_7;2458151901;AdWords;Asia
+2018-01-01 08:44:01;read;country_5;2458151902;AdWords;Asia
+2018-01-01 08:44:34;read;country_6;2458151903;SEO;North America
+2018-01-01 08:46:34;read;country_2;2458151904;SEO;Europe
+2018-01-01 08:47:12;read;country_8;2458151905;AdWords;Asia
+2018-01-01 08:47:44;read;country_2;2458151906;Reddit;Asia
+2018-01-01 08:48:31;read;country_5;2458151907;Reddit;Asia
+2018-01-01 08:49:44;read;country_5;2458151908;Reddit;Asia
+2018-01-01 08:51:51;read;country_5;2458151909;SEO;Asia
+2018-01-01 08:52:05;read;country_5;2458151910;Reddit;Asia
+2018-01-01 08:52:12;read;country_2;2458151911;SEO;Asia
+2018-01-01 08:53:42;read;country_7;2458151912;Reddit;Asia
+2018-01-01 08:53:50;read;country_2;2458151913;AdWords;Europe
+2018-01-01 08:55:39;read;country_2;2458151914;Reddit;Asia
+2018-01-01 08:55:59;read;country_6;2458151915;SEO;North America
+2018-01-01 08:56:32;read;country_6;2458151916;Reddit;Australia
+2018-01-01 08:58:50;read;country_1;2458151917;SEO;North America
+2018-01-01 08:59:24;read;country_2;2458151918;SEO;South America
+2018-01-01 08:59:56;read;country_5;2458151919;SEO;Europe
+2018-01-01 09:01:09;read;country_2;2458151920;AdWords;Asia
+2018-01-01 09:02:07;read;country_2;2458151921;Reddit;South America
+2018-01-01 09:04:17;read;country_5;2458151922;AdWords;Europe
+2018-01-01 09:05:32;read;country_5;2458151923;SEO;Australia
+2018-01-01 09:06:22;read;country_2;2458151924;Reddit;Africa
+2018-01-01 09:06:47;read;country_2;2458151925;AdWords;Asia
+2018-01-01 09:06:49;read;country_8;2458151926;Reddit;Africa
+2018-01-01 09:08:53;read;country_6;2458151927;Reddit;South America
+2018-01-01 09:11:03;read;country_7;2458151928;Reddit;Europe
+2018-01-01 09:11:10;read;country_4;2458151929;Reddit;South America
+2018-01-01 09:12:24;read;country_8;2458151930;AdWords;Asia
+2018-01-01 09:14:19;read;country_2;2458151931;AdWords;South America
+2018-01-01 09:14:52;read;country_6;2458151932;SEO;North America
+2018-01-01 09:16:12;read;country_8;2458151933;AdWords;Europe
+2018-01-01 09:16:19;read;country_7;2458151934;SEO;Australia
+2018-01-01 09:17:12;read;country_7;2458151935;Reddit;Europe
+2018-01-01 09:18:20;read;country_5;2458151936;SEO;North America
+2018-01-01 09:18:30;read;country_5;2458151937;SEO;North America
+2018-01-01 09:19:28;read;country_2;2458151938;AdWords;Europe
+2018-01-01 09:19:47;read;country_2;2458151939;AdWords;Europe
+2018-01-01 09:20:13;read;country_5;2458151940;SEO;North America
+2018-01-01 09:20:32;read;country_7;2458151941;AdWords;Europe
+2018-01-01 09:20:34;read;country_8;2458151942;AdWords;Europe
+2018-01-01 09:21:47;read;country_5;2458151943;Reddit;North America
+2018-01-01 09:22:28;read;country_5;2458151944;Reddit;Asia
+2018-01-01 09:22:47;read;country_7;2458151945;AdWords;Australia
+2018-01-01 09:23:23;read;country_8;2458151946;SEO;North America
+2018-01-01 09:23:39;read;country_2;2458151947;Reddit;North America
+2018-01-01 09:24:15;read;country_2;2458151948;Reddit;Asia
+2018-01-01 09:24:31;read;country_5;2458151949;AdWords;Australia
+2018-01-01 09:24:37;read;country_7;2458151950;Reddit;North America
+2018-01-01 09:25:19;read;country_2;2458151951;AdWords;Africa
+2018-01-01 09:25:28;read;country_2;2458151952;SEO;North America
+2018-01-01 09:25:31;read;country_2;2458151953;SEO;Asia
+2018-01-01 09:26:18;read;country_2;2458151954;Reddit;Africa
+2018-01-01 09:26:44;read;country_6;2458151955;AdWords;South America
+2018-01-01 09:26:49;read;country_7;2458151956;Reddit;South America
+2018-01-01 09:26:56;read;country_6;2458151957;SEO;North America
+2018-01-01 09:27:57;read;country_8;2458151958;Reddit;Africa
+2018-01-01 09:28:20;read;country_7;2458151959;Reddit;North America
+2018-01-01 09:28:54;read;country_8;2458151960;AdWords;Europe
+2018-01-01 09:29:23;read;country_5;2458151961;Reddit;Asia
+2018-01-01 09:30:05;read;country_5;2458151962;SEO;South America
+2018-01-01 09:33:26;read;country_5;2458151963;Reddit;Asia
+2018-01-01 09:33:57;read;country_6;2458151964;Reddit;Asia
+2018-01-01 09:36:05;read;country_2;2458151965;Reddit;Europe
+2018-01-01 09:36:13;read;country_5;2458151966;Reddit;Australia
+2018-01-01 09:36:59;read;country_6;2458151967;AdWords;Australia
+2018-01-01 09:37:14;read;country_7;2458151968;AdWords;Europe
+2018-01-01 09:37:21;read;country_8;2458151969;AdWords;Europe
+2018-01-01 09:38:47;read;country_2;2458151970;SEO;Asia
+2018-01-01 09:41:12;read;country_2;2458151971;Reddit;Asia
+2018-01-01 09:42:39;read;country_6;2458151972;Reddit;Asia
+2018-01-01 09:42:54;read;country_2;2458151973;AdWords;Europe
+2018-01-01 09:43:27;read;country_7;2458151974;AdWords;Asia
+2018-01-01 09:44:31;read;country_7;2458151975;SEO;North America
+2018-01-01 09:45:16;read;country_6;2458151976;Reddit;Australia
+2018-01-01 09:46:42;read;country_4;2458151977;Reddit;Asia
+2018-01-01 09:46:57;read;country_5;2458151978;SEO;North America
+2018-01-01 09:47:15;read;country_2;2458151979;Reddit;Australia
+2018-01-01 09:48:09;read;country_2;2458151980;SEO;North America
+2018-01-01 09:48:57;read;country_7;2458151981;Reddit;Asia
+2018-01-01 09:48:57;read;country_8;2458151982;Reddit;North America
+2018-01-01 09:50:15;read;country_5;2458151983;AdWords;Europe
+2018-01-01 09:50:40;read;country_7;2458151984;Reddit;Asia
+2018-01-01 09:50:53;read;country_2;2458151985;Reddit;Asia
+2018-01-01 09:51:32;read;country_6;2458151986;AdWords;South America
+2018-01-01 09:52:37;read;country_2;2458151987;SEO;Australia
+2018-01-01 09:52:46;read;country_2;2458151988;AdWords;North America
+2018-01-01 09:54:53;read;country_7;2458151989;Reddit;Asia
+2018-01-01 09:55:50;read;country_2;2458151990;Reddit;Africa
+2018-01-01 09:56:00;read;country_1;2458151991;Reddit;Europe
+2018-01-01 09:56:42;read;country_8;2458151992;AdWords;Europe
+2018-01-01 09:57:44;read;country_6;2458151993;Reddit;North America
+2018-01-01 09:58:13;read;country_1;2458151994;Reddit;Asia
+2018-01-01 09:58:55;read;country_5;2458151995;Reddit;Africa
+2018-01-01 09:59:38;read;country_2;2458151996;AdWords;Asia
+2018-01-01 09:59:39;read;country_5;2458151997;AdWords;Asia
+2018-01-01 10:00:14;read;country_2;2458151998;Reddit;Asia
+2018-01-01 10:00:14;read;country_7;2458151999;Reddit;Asia
+2018-01-01 10:00:45;read;country_5;2458152000;SEO;North America
+2018-01-01 10:01:23;read;country_8;2458152001;Reddit;Australia
+2018-01-01 10:03:01;read;country_6;2458152002;Reddit;Asia
+2018-01-01 10:03:19;read;country_5;2458152003;AdWords;Africa
+2018-01-01 10:03:24;read;country_7;2458152004;Reddit;Asia
+2018-01-01 10:03:33;read;country_6;2458152005;AdWords;Europe
+2018-01-01 10:04:56;read;country_1;2458152006;AdWords;Asia
+2018-01-01 10:04:57;read;country_8;2458152007;SEO;Asia
+2018-01-01 10:05:00;read;country_5;2458152008;Reddit;Australia
+2018-01-01 10:05:12;read;country_6;2458152009;AdWords;Europe
+2018-01-01 10:06:49;read;country_7;2458152010;Reddit;Asia
+2018-01-01 10:07:10;read;country_5;2458152011;Reddit;Asia
+2018-01-01 10:07:15;read;country_5;2458152012;Reddit;Asia
+2018-01-01 10:08:12;read;country_7;2458152013;Reddit;North America
+2018-01-01 10:08:42;read;country_2;2458152014;Reddit;Africa
+2018-01-01 10:09:07;read;country_6;2458152015;SEO;North America
+2018-01-01 10:09:13;read;country_2;2458152016;AdWords;Asia
+2018-01-01 10:09:20;read;country_7;2458152017;Reddit;South America
+2018-01-01 10:11:11;read;country_2;2458152018;Reddit;North America
+2018-01-01 10:13:51;read;country_5;2458152019;AdWords;Europe
+2018-01-01 10:14:57;read;country_2;2458152020;Reddit;Asia
+2018-01-01 10:15:48;read;country_8;2458152021;AdWords;Europe
+2018-01-01 10:19:31;read;country_2;2458152022;Reddit;North America
+2018-01-01 10:19:37;read;country_6;2458152023;AdWords;Asia
+2018-01-01 10:20:03;read;country_3;2458152024;SEO;North America
+2018-01-01 10:20:19;read;country_5;2458152025;SEO;South America
+2018-01-01 10:20:21;read;country_4;2458152026;Reddit;Asia
+2018-01-01 10:20:37;read;country_7;2458152027;SEO;North America
+2018-01-01 10:20:51;read;country_2;2458152028;AdWords;North America
+2018-01-01 10:21:13;read;country_5;2458152029;AdWords;Africa
+2018-01-01 10:21:38;read;country_6;2458152030;Reddit;Africa
+2018-01-01 10:22:08;read;country_2;2458152031;Reddit;Asia
+2018-01-01 10:22:10;read;country_5;2458152032;AdWords;North America
+2018-01-01 10:22:10;read;country_7;2458152033;Reddit;Africa
+2018-01-01 10:26:57;read;country_8;2458152034;AdWords;Europe
+2018-01-01 10:27:01;read;country_7;2458152035;AdWords;Europe
+2018-01-01 10:27:59;read;country_7;2458152036;Reddit;Europe
+2018-01-01 10:28:10;read;country_2;2458152037;AdWords;North America
+2018-01-01 10:29:58;read;country_5;2458152038;Reddit;Asia
+2018-01-01 10:30:22;read;country_6;2458152039;AdWords;Europe
+2018-01-01 10:32:51;read;country_2;2458152040;Reddit;Europe
+2018-01-01 10:33:30;read;country_2;2458152041;AdWords;Europe
+2018-01-01 10:33:58;read;country_2;2458152042;SEO;Australia
+2018-01-01 10:34:39;read;country_6;2458152043;Reddit;Asia
+2018-01-01 10:35:55;read;country_5;2458152044;SEO;South America
+2018-01-01 10:36:30;read;country_2;2458152045;SEO;North America
+2018-01-01 10:37:23;read;country_2;2458152046;Reddit;North America
+2018-01-01 10:38:23;read;country_4;2458152047;AdWords;Australia
+2018-01-01 10:39:18;read;country_4;2458152048;AdWords;Europe
+2018-01-01 10:39:42;read;country_8;2458152049;AdWords;North America
+2018-01-01 10:40:29;read;country_6;2458152050;Reddit;Europe
+2018-01-01 10:40:39;read;country_4;2458152051;Reddit;Europe
+2018-01-01 10:40:49;read;country_1;2458152052;SEO;South America
+2018-01-01 10:41:18;read;country_5;2458152053;AdWords;South America
+2018-01-01 10:43:06;read;country_4;2458152054;Reddit;North America
+2018-01-01 10:48:29;read;country_6;2458152055;AdWords;Europe
+2018-01-01 10:50:22;read;country_7;2458152056;Reddit;Asia
+2018-01-01 10:50:54;read;country_4;2458152057;AdWords;South America
+2018-01-01 10:51:11;read;country_8;2458152058;SEO;South America
+2018-01-01 10:51:16;read;country_5;2458152059;SEO;South America
+2018-01-01 10:52:12;read;country_7;2458152060;AdWords;South America
+2018-01-01 10:54:57;read;country_5;2458152061;Reddit;South America
+2018-01-01 10:56:30;read;country_2;2458152062;Reddit;Asia
+2018-01-01 10:56:55;read;country_6;2458152063;Reddit;Australia
+2018-01-01 10:56:58;read;country_5;2458152064;Reddit;South America
+2018-01-01 10:57:15;read;country_7;2458152065;Reddit;Asia
+2018-01-01 10:57:18;read;country_4;2458152066;Reddit;Asia
+2018-01-01 10:59:57;read;country_2;2458152067;Reddit;Asia
+2018-01-01 11:00:30;read;country_2;2458152068;Reddit;Europe
+2018-01-01 11:00:58;read;country_2;2458152069;AdWords;Europe
+2018-01-01 11:01:10;read;country_7;2458152070;AdWords;Asia
+2018-01-01 11:01:56;read;country_2;2458152071;AdWords;Europe
+2018-01-01 11:03:13;read;country_2;2458152072;Reddit;Asia
+2018-01-01 11:04:13;read;country_5;2458152073;Reddit;Asia
+2018-01-01 11:05:46;read;country_6;2458152074;Reddit;Asia
+2018-01-01 11:06:16;read;country_3;2458152075;AdWords;Asia
+2018-01-01 11:07:49;read;country_7;2458152076;AdWords;Europe
+2018-01-01 11:09:36;read;country_6;2458152077;SEO;North America
+2018-01-01 11:09:50;read;country_8;2458152078;SEO;South America
+2018-01-01 11:11:32;read;country_5;2458152079;SEO;North America
+2018-01-01 11:12:05;read;country_5;2458152080;SEO;North America
+2018-01-01 11:12:30;read;country_5;2458152081;AdWords;Europe
+2018-01-01 11:12:49;read;country_2;2458152082;Reddit;Asia
+2018-01-01 11:13:13;read;country_5;2458152083;Reddit;North America
+2018-01-01 11:13:21;read;country_6;2458152084;AdWords;Asia
+2018-01-01 11:14:03;read;country_2;2458152085;Reddit;Australia
+2018-01-01 11:14:20;read;country_5;2458152086;SEO;North America
+2018-01-01 11:15:40;read;country_2;2458152087;Reddit;Australia
+2018-01-01 11:15:43;read;country_5;2458152088;SEO;Asia
+2018-01-01 11:15:55;read;country_7;2458152089;Reddit;Europe
+2018-01-01 11:16:05;read;country_5;2458152090;Reddit;Africa
+2018-01-01 11:19:46;read;country_2;2458152091;Reddit;Asia
+2018-01-01 11:20:18;read;country_2;2458152092;Reddit;South America
+2018-01-01 11:21:07;read;country_5;2458152093;Reddit;North America
+2018-01-01 11:21:08;read;country_5;2458152094;AdWords;Asia
+2018-01-01 11:23:14;read;country_6;2458152095;Reddit;Asia
+2018-01-01 11:23:42;read;country_2;2458152096;Reddit;Asia
+2018-01-01 11:24:07;read;country_5;2458152097;Reddit;Asia
+2018-01-01 11:24:11;read;country_3;2458152098;Reddit;South America
+2018-01-01 11:24:41;read;country_2;2458152099;AdWords;Europe
+2018-01-01 11:25:25;read;country_8;2458152100;Reddit;South America
+2018-01-01 11:25:27;read;country_8;2458152101;SEO;South America
+2018-01-01 11:26:13;read;country_6;2458152102;SEO;South America
+2018-01-01 11:26:19;read;country_6;2458152103;SEO;South America
+2018-01-01 11:26:25;read;country_2;2458152104;Reddit;Asia
+2018-01-01 11:27:31;read;country_4;2458152105;SEO;South America
+2018-01-01 11:27:33;read;country_4;2458152106;Reddit;Asia
+2018-01-01 11:28:16;read;country_7;2458152107;Reddit;Asia
+2018-01-01 11:28:21;read;country_4;2458152108;Reddit;Asia
+2018-01-01 11:28:31;read;country_2;2458152109;Reddit;Asia
+2018-01-01 11:28:59;read;country_7;2458152110;Reddit;Asia
+2018-01-01 11:29:57;read;country_7;2458152111;Reddit;North America
+2018-01-01 11:30:48;read;country_8;2458152112;SEO;North America
+2018-01-01 11:30:51;read;country_2;2458152113;Reddit;Asia
+2018-01-01 11:33:25;read;country_6;2458152114;AdWords;North America
+2018-01-01 11:34:59;read;country_5;2458152115;Reddit;Asia
+2018-01-01 11:35:04;read;country_6;2458152116;Reddit;Europe
+2018-01-01 11:35:12;read;country_5;2458152117;SEO;Australia
+2018-01-01 11:35:44;read;country_5;2458152118;Reddit;Australia
+2018-01-01 11:36:11;read;country_7;2458152119;SEO;North America
+2018-01-01 11:37:26;read;country_5;2458152120;AdWords;Europe
+2018-01-01 11:37:40;read;country_5;2458152121;AdWords;Europe
+2018-01-01 11:39:33;read;country_7;2458152122;Reddit;Asia
+2018-01-01 11:39:48;read;country_7;2458152123;Reddit;Australia
+2018-01-01 11:40:14;read;country_5;2458152124;AdWords;Australia
+2018-01-01 11:41:36;read;country_8;2458152125;SEO;North America
+2018-01-01 11:41:54;read;country_6;2458152126;Reddit;Asia
+2018-01-01 11:42:49;read;country_8;2458152127;AdWords;North America
+2018-01-01 11:43:22;read;country_7;2458152128;AdWords;Asia
+2018-01-01 11:43:24;read;country_2;2458152129;Reddit;Asia
+2018-01-01 11:47:57;read;country_5;2458152130;Reddit;Asia
+2018-01-01 11:48:04;read;country_6;2458152131;Reddit;South America
+2018-01-01 11:48:38;read;country_2;2458152132;Reddit;North America
+2018-01-01 11:49:12;read;country_7;2458152133;Reddit;Africa
+2018-01-01 11:49:15;read;country_2;2458152134;Reddit;Asia
+2018-01-01 11:51:08;read;country_2;2458152135;Reddit;Europe
+2018-01-01 11:51:15;read;country_2;2458152136;AdWords;Europe
+2018-01-01 11:51:21;read;country_5;2458152137;AdWords;Africa
+2018-01-01 11:51:54;read;country_6;2458152138;AdWords;North America
+2018-01-01 11:54:18;read;country_7;2458152139;SEO;North America
+2018-01-01 11:55:34;read;country_5;2458152140;Reddit;Asia
+2018-01-01 11:56:21;read;country_4;2458152141;SEO;Europe
+2018-01-01 11:56:44;read;country_7;2458152142;Reddit;North America
+2018-01-01 11:57:00;read;country_7;2458152143;Reddit;Europe
+2018-01-01 11:57:26;read;country_7;2458152144;Reddit;Asia
+2018-01-01 11:57:44;read;country_6;2458152145;AdWords;Europe
+2018-01-01 11:59:05;read;country_1;2458152146;Reddit;Asia
+2018-01-01 12:00:07;read;country_6;2458152147;Reddit;Australia
+2018-01-01 12:00:14;read;country_7;2458152148;AdWords;Africa
+2018-01-01 12:00:30;read;country_7;2458152149;Reddit;South America
+2018-01-01 12:01:43;read;country_8;2458152150;SEO;North America
+2018-01-01 12:01:50;read;country_5;2458152151;AdWords;South America
+2018-01-01 12:02:25;read;country_2;2458152152;Reddit;South America
+2018-01-01 12:02:40;read;country_7;2458152153;Reddit;Australia
+2018-01-01 12:02:43;read;country_7;2458152154;AdWords;South America
+2018-01-01 12:02:50;read;country_2;2458152155;Reddit;Africa
+2018-01-01 12:03:03;read;country_6;2458152156;AdWords;Europe
+2018-01-01 12:03:10;read;country_6;2458152157;Reddit;Africa
+2018-01-01 12:03:46;read;country_7;2458152158;SEO;Asia
+2018-01-01 12:03:53;read;country_6;2458152159;Reddit;South America
+2018-01-01 12:07:02;read;country_7;2458152160;SEO;North America
+2018-01-01 12:07:06;read;country_7;2458152161;Reddit;Africa
+2018-01-01 12:07:47;read;country_7;2458152162;SEO;Europe
+2018-01-01 12:08:10;read;country_8;2458152163;AdWords;Asia
+2018-01-01 12:08:14;read;country_1;2458152164;Reddit;Europe
+2018-01-01 12:10:24;read;country_7;2458152165;SEO;South America
+2018-01-01 12:11:15;read;country_4;2458152166;Reddit;Asia
+2018-01-01 12:11:55;read;country_2;2458152167;SEO;Australia
+2018-01-01 12:12:11;read;country_5;2458152168;Reddit;North America
+2018-01-01 12:12:41;read;country_2;2458152169;SEO;South America
+2018-01-01 12:13:14;read;country_5;2458152170;Reddit;Asia
+2018-01-01 12:14:16;read;country_7;2458152171;SEO;South America
+2018-01-01 12:14:20;read;country_2;2458152172;AdWords;South America
+2018-01-01 12:14:20;read;country_5;2458152173;SEO;North America
+2018-01-01 12:14:29;read;country_6;2458152174;AdWords;Asia
+2018-01-01 12:14:42;read;country_6;2458152175;Reddit;Asia
+2018-01-01 12:14:45;read;country_5;2458152176;SEO;North America
+2018-01-01 12:15:16;read;country_7;2458152177;Reddit;Europe
+2018-01-01 12:15:51;read;country_6;2458152178;Reddit;North America
+2018-01-01 12:16:21;read;country_2;2458152179;Reddit;South America
+2018-01-01 12:17:40;read;country_3;2458152180;AdWords;Europe
+2018-01-01 12:18:08;read;country_6;2458152181;AdWords;South America
+2018-01-01 12:18:15;read;country_2;2458152182;SEO;North America
+2018-01-01 12:19:21;read;country_5;2458152183;SEO;North America
+2018-01-01 12:19:26;read;country_7;2458152184;Reddit;Asia
+2018-01-01 12:21:22;read;country_7;2458152185;Reddit;Australia
+2018-01-01 12:22:16;read;country_2;2458152186;Reddit;South America
+2018-01-01 12:23:02;read;country_5;2458152187;Reddit;Asia
+2018-01-01 12:23:21;read;country_4;2458152188;Reddit;Asia
+2018-01-01 12:23:40;read;country_5;2458152189;Reddit;Asia
+2018-01-01 12:24:00;read;country_7;2458152190;SEO;South America
+2018-01-01 12:25:00;read;country_6;2458152191;AdWords;Europe
+2018-01-01 12:25:55;read;country_2;2458152192;SEO;North America
+2018-01-01 12:28:25;read;country_6;2458152193;AdWords;Asia
+2018-01-01 12:28:59;read;country_5;2458152194;Reddit;Europe
+2018-01-01 12:30:18;read;country_8;2458152195;AdWords;North America
+2018-01-01 12:31:33;read;country_2;2458152196;Reddit;Asia
+2018-01-01 12:33:37;read;country_7;2458152197;AdWords;Europe
+2018-01-01 12:33:45;read;country_6;2458152198;AdWords;Europe
+2018-01-01 12:33:49;read;country_3;2458152199;SEO;North America
+2018-01-01 12:35:12;read;country_7;2458152200;Reddit;South America
+2018-01-01 12:36:25;read;country_2;2458152201;SEO;Africa
+2018-01-01 12:37:17;read;country_7;2458152202;SEO;North America
+2018-01-01 12:38:10;read;country_5;2458152203;AdWords;South America
+2018-01-01 12:38:40;read;country_5;2458152204;Reddit;Asia
+2018-01-01 12:39:12;read;country_5;2458152205;SEO;North America
+2018-01-01 12:39:17;read;country_5;2458152206;AdWords;North America
+2018-01-01 12:39:57;read;country_7;2458152207;AdWords;Europe
+2018-01-01 12:40:02;read;country_5;2458152208;Reddit;Asia
+2018-01-01 12:40:25;read;country_1;2458152209;AdWords;Asia
+2018-01-01 12:40:41;read;country_7;2458152210;SEO;Australia
+2018-01-01 12:41:01;read;country_5;2458152211;AdWords;Asia
+2018-01-01 12:41:09;read;country_5;2458152212;AdWords;North America
+2018-01-01 12:41:45;read;country_2;2458152213;SEO;North America
+2018-01-01 12:41:54;read;country_7;2458152214;AdWords;Europe
+2018-01-01 12:42:18;read;country_8;2458152215;Reddit;Asia
+2018-01-01 12:42:58;read;country_1;2458152216;Reddit;Australia
+2018-01-01 12:45:01;read;country_7;2458152217;Reddit;Africa
+2018-01-01 12:45:53;read;country_7;2458152218;Reddit;Asia
+2018-01-01 12:46:14;read;country_7;2458152219;AdWords;Asia
+2018-01-01 12:49:07;read;country_7;2458152220;Reddit;Asia
+2018-01-01 12:49:28;read;country_7;2458152221;Reddit;Africa
+2018-01-01 12:49:44;read;country_7;2458152222;AdWords;Asia
+2018-01-01 12:50:07;read;country_6;2458152223;SEO;North America
+2018-01-01 12:50:31;read;country_5;2458152224;AdWords;South America
+2018-01-01 12:51:22;read;country_5;2458152225;Reddit;South America
+2018-01-01 12:52:41;read;country_7;2458152226;Reddit;Asia
+2018-01-01 12:52:44;read;country_8;2458152227;AdWords;Europe
+2018-01-01 12:52:54;read;country_6;2458152228;Reddit;Asia
+2018-01-01 12:53:25;read;country_5;2458152229;SEO;North America
+2018-01-01 12:54:10;read;country_3;2458152230;AdWords;Europe
+2018-01-01 12:55:33;read;country_5;2458152231;AdWords;Asia
+2018-01-01 12:58:00;read;country_7;2458152232;Reddit;Africa
+2018-01-01 13:00:22;read;country_7;2458152233;SEO;South America
+2018-01-01 13:02:02;read;country_5;2458152234;SEO;North America
+2018-01-01 13:03:17;read;country_5;2458152235;Reddit;Asia
+2018-01-01 13:04:11;read;country_4;2458152236;Reddit;Asia
+2018-01-01 13:04:28;read;country_6;2458152237;SEO;Europe
+2018-01-01 13:04:30;read;country_4;2458152238;Reddit;South America
+2018-01-01 13:05:38;read;country_4;2458152239;SEO;North America
+2018-01-01 13:06:48;read;country_5;2458152240;Reddit;Asia
+2018-01-01 13:08:52;read;country_2;2458152241;AdWords;Asia
+2018-01-01 13:09:22;read;country_5;2458152242;Reddit;South America
+2018-01-01 13:09:44;read;country_5;2458152243;Reddit;Asia
+2018-01-01 13:09:47;read;country_5;2458152244;Reddit;Europe
+2018-01-01 13:11:40;read;country_2;2458152245;AdWords;Europe
+2018-01-01 13:11:52;read;country_2;2458152246;Reddit;Australia
+2018-01-01 13:12:17;read;country_5;2458152247;Reddit;Africa
+2018-01-01 13:13:26;read;country_5;2458152248;Reddit;South America
+2018-01-01 13:15:17;read;country_5;2458152249;AdWords;South America
+2018-01-01 13:16:18;read;country_4;2458152250;Reddit;Australia
+2018-01-01 13:18:01;read;country_3;2458152251;Reddit;Asia
+2018-01-01 13:18:51;read;country_2;2458152252;SEO;Australia
+2018-01-01 13:19:58;read;country_5;2458152253;AdWords;Asia
+2018-01-01 13:23:39;read;country_5;2458152254;Reddit;Asia
+2018-01-01 13:24:21;read;country_6;2458152255;AdWords;Europe
+2018-01-01 13:26:19;read;country_6;2458152256;SEO;South America
+2018-01-01 13:26:57;read;country_7;2458152257;Reddit;Africa
+2018-01-01 13:27:45;read;country_6;2458152258;Reddit;Asia
+2018-01-01 13:29:19;read;country_7;2458152259;AdWords;Asia
+2018-01-01 13:30:38;read;country_7;2458152260;AdWords;North America
+2018-01-01 13:30:47;read;country_7;2458152261;AdWords;Asia
+2018-01-01 13:31:53;read;country_8;2458152262;Reddit;Africa
+2018-01-01 13:32:35;read;country_7;2458152263;Reddit;South America
+2018-01-01 13:32:45;read;country_8;2458152264;SEO;South America
+2018-01-01 13:34:06;read;country_4;2458152265;Reddit;Asia
+2018-01-01 13:34:21;read;country_7;2458152266;Reddit;Asia
+2018-01-01 13:34:35;read;country_2;2458152267;AdWords;Europe
+2018-01-01 13:34:55;read;country_2;2458152268;Reddit;Europe
+2018-01-01 13:35:49;read;country_7;2458152269;Reddit;South America
+2018-01-01 13:36:08;read;country_2;2458152270;Reddit;Asia
+2018-01-01 13:37:50;read;country_5;2458152271;Reddit;Europe
+2018-01-01 13:40:43;read;country_7;2458152272;AdWords;South America
+2018-01-01 13:40:48;read;country_8;2458152273;AdWords;Asia
+2018-01-01 13:41:26;read;country_7;2458152274;AdWords;South America
+2018-01-01 13:41:29;read;country_8;2458152275;SEO;North America
+2018-01-01 13:42:00;read;country_2;2458152276;Reddit;Asia
+2018-01-01 13:42:20;read;country_2;2458152277;SEO;Europe
+2018-01-01 13:42:42;read;country_2;2458152278;AdWords;Asia
+2018-01-01 13:42:52;read;country_8;2458152279;Reddit;Australia
+2018-01-01 13:43:06;read;country_2;2458152280;AdWords;Asia
+2018-01-01 13:44:22;read;country_8;2458152281;Reddit;Asia
+2018-01-01 13:44:35;read;country_6;2458152282;Reddit;Australia
+2018-01-01 13:45:06;read;country_5;2458152283;Reddit;Asia
+2018-01-01 13:45:27;read;country_6;2458152284;Reddit;Asia
+2018-01-01 13:46:50;read;country_2;2458152285;AdWords;Asia
+2018-01-01 13:46:55;read;country_6;2458152286;Reddit;South America
+2018-01-01 13:47:11;read;country_1;2458152287;Reddit;Asia
+2018-01-01 13:47:28;read;country_2;2458152288;Reddit;Asia
+2018-01-01 13:48:20;read;country_2;2458152289;SEO;North America
+2018-01-01 13:49:13;read;country_2;2458152290;Reddit;Asia
+2018-01-01 13:49:55;read;country_2;2458152291;AdWords;Europe
+2018-01-01 13:50:49;read;country_2;2458152292;AdWords;Asia
+2018-01-01 13:51:27;read;country_5;2458152293;AdWords;Asia
+2018-01-01 13:53:05;read;country_4;2458152294;Reddit;Asia
+2018-01-01 13:53:15;read;country_8;2458152295;SEO;North America
+2018-01-01 13:56:22;read;country_5;2458152296;Reddit;Asia
+2018-01-01 13:56:32;read;country_2;2458152297;Reddit;North America
+2018-01-01 13:58:09;read;country_6;2458152298;Reddit;North America
+2018-01-01 13:59:15;read;country_2;2458152299;Reddit;North America
+2018-01-01 13:59:26;read;country_5;2458152300;AdWords;Europe
+2018-01-01 13:59:49;read;country_2;2458152301;Reddit;Africa
+2018-01-01 14:01:13;read;country_2;2458152302;Reddit;South America
+2018-01-01 14:02:17;read;country_2;2458152303;Reddit;Asia
+2018-01-01 14:02:19;read;country_2;2458152304;SEO;South America
+2018-01-01 14:02:42;read;country_2;2458152305;Reddit;Asia
+2018-01-01 14:03:31;read;country_8;2458152306;Reddit;Europe
+2018-01-01 14:03:38;read;country_6;2458152307;SEO;North America
+2018-01-01 14:05:01;read;country_5;2458152308;Reddit;Asia
+2018-01-01 14:05:31;read;country_7;2458152309;AdWords;Europe
+2018-01-01 14:05:33;read;country_3;2458152310;Reddit;Asia
+2018-01-01 14:06:30;read;country_2;2458152311;Reddit;Asia
+2018-01-01 14:06:57;read;country_6;2458152312;Reddit;Europe
+2018-01-01 14:09:51;read;country_5;2458152313;SEO;Africa
+2018-01-01 14:09:53;read;country_6;2458152314;Reddit;Asia
+2018-01-01 14:10:19;read;country_5;2458152315;SEO;Asia
+2018-01-01 14:11:21;read;country_2;2458152316;SEO;South America
+2018-01-01 14:11:58;read;country_7;2458152317;Reddit;Asia
+2018-01-01 14:12:46;read;country_6;2458152318;Reddit;Australia
+2018-01-01 14:13:15;read;country_6;2458152319;AdWords;Europe
+2018-01-01 14:14:19;read;country_6;2458152320;SEO;South America
+2018-01-01 14:15:37;read;country_2;2458152321;AdWords;Australia
+2018-01-01 14:18:43;read;country_6;2458152322;Reddit;South America
+2018-01-01 14:20:13;read;country_6;2458152323;Reddit;North America
+2018-01-01 14:20:26;read;country_5;2458152324;Reddit;North America
+2018-01-01 14:23:12;read;country_6;2458152325;Reddit;Australia
+2018-01-01 14:24:08;read;country_8;2458152326;SEO;Europe
+2018-01-01 14:24:16;read;country_7;2458152327;AdWords;Asia
+2018-01-01 14:27:12;read;country_7;2458152328;Reddit;South America
+2018-01-01 14:27:24;read;country_2;2458152329;Reddit;Asia
+2018-01-01 14:27:26;read;country_8;2458152330;SEO;South America
+2018-01-01 14:27:40;read;country_3;2458152331;SEO;North America
+2018-01-01 14:28:27;read;country_5;2458152332;Reddit;Asia
+2018-01-01 14:30:19;read;country_5;2458152333;Reddit;Australia
+2018-01-01 14:30:27;read;country_2;2458152334;Reddit;Asia
+2018-01-01 14:30:42;read;country_6;2458152335;AdWords;North America
+2018-01-01 14:31:08;read;country_2;2458152336;SEO;North America
+2018-01-01 14:31:42;read;country_5;2458152337;Reddit;South America
+2018-01-01 14:31:48;read;country_2;2458152338;Reddit;Asia
+2018-01-01 14:32:12;read;country_6;2458152339;Reddit;Australia
+2018-01-01 14:33:09;read;country_6;2458152340;Reddit;Asia
+2018-01-01 14:34:07;read;country_2;2458152341;Reddit;Africa
+2018-01-01 14:34:11;read;country_6;2458152342;Reddit;Asia
+2018-01-01 14:34:46;read;country_7;2458152343;AdWords;Asia
+2018-01-01 14:35:02;read;country_7;2458152344;Reddit;Asia
+2018-01-01 14:35:17;read;country_7;2458152345;AdWords;Europe
+2018-01-01 14:35:39;read;country_7;2458152346;Reddit;South America
+2018-01-01 14:36:11;read;country_7;2458152347;Reddit;Asia
+2018-01-01 14:37:13;read;country_7;2458152348;Reddit;Europe
+2018-01-01 14:38:30;read;country_5;2458152349;Reddit;Australia
+2018-01-01 14:38:32;read;country_7;2458152350;Reddit;Asia
+2018-01-01 14:39:08;read;country_2;2458152351;Reddit;Asia
+2018-01-01 14:39:57;read;country_6;2458152352;AdWords;North America
+2018-01-01 14:40:27;read;country_7;2458152353;AdWords;Europe
+2018-01-01 14:42:29;read;country_5;2458152354;Reddit;Africa
+2018-01-01 14:42:37;read;country_7;2458152355;Reddit;Australia
+2018-01-01 14:42:57;read;country_4;2458152356;AdWords;Asia
+2018-01-01 14:43:21;read;country_4;2458152357;Reddit;Asia
+2018-01-01 14:45:06;read;country_2;2458152358;AdWords;South America
+2018-01-01 14:45:08;read;country_2;2458152359;Reddit;Asia
+2018-01-01 14:46:15;read;country_5;2458152360;Reddit;Asia
+2018-01-01 14:46:37;read;country_5;2458152361;Reddit;Asia
+2018-01-01 14:46:46;read;country_5;2458152362;Reddit;Australia
+2018-01-01 14:50:07;read;country_5;2458152363;Reddit;North America
+2018-01-01 14:50:18;read;country_5;2458152364;Reddit;Australia
+2018-01-01 14:50:19;read;country_7;2458152365;Reddit;Europe
+2018-01-01 14:50:36;read;country_5;2458152366;Reddit;Europe
+2018-01-01 14:50:44;read;country_6;2458152367;Reddit;Asia
+2018-01-01 14:51:06;read;country_7;2458152368;Reddit;Asia
+2018-01-01 14:51:20;read;country_2;2458152369;AdWords;Asia
+2018-01-01 14:51:21;read;country_2;2458152370;Reddit;Africa
+2018-01-01 14:51:52;read;country_4;2458152371;Reddit;Asia
+2018-01-01 14:51:58;read;country_1;2458152372;Reddit;Europe
+2018-01-01 14:51:59;read;country_2;2458152373;SEO;Australia
+2018-01-01 14:53:52;read;country_8;2458152374;SEO;North America
+2018-01-01 14:54:14;read;country_2;2458152375;Reddit;Asia
+2018-01-01 14:55:42;read;country_5;2458152376;AdWords;Asia
+2018-01-01 14:55:46;read;country_2;2458152377;SEO;North America
+2018-01-01 14:55:50;read;country_2;2458152378;Reddit;Europe
+2018-01-01 14:58:12;read;country_6;2458152379;AdWords;Africa
+2018-01-01 14:58:20;read;country_6;2458152380;Reddit;Asia
+2018-01-01 14:59:25;read;country_8;2458152381;SEO;North America
+2018-01-01 15:00:17;read;country_2;2458152382;AdWords;Asia
+2018-01-01 15:01:02;read;country_5;2458152383;AdWords;Europe
+2018-01-01 15:01:14;read;country_2;2458152384;SEO;Australia
+2018-01-01 15:03:04;read;country_7;2458152385;Reddit;South America
+2018-01-01 15:03:19;read;country_5;2458152386;AdWords;Europe
+2018-01-01 15:05:22;read;country_5;2458152387;SEO;South America
+2018-01-01 15:05:25;read;country_5;2458152388;Reddit;North America
+2018-01-01 15:07:21;read;country_7;2458152389;SEO;North America
+2018-01-01 15:08:24;read;country_5;2458152390;Reddit;Australia
+2018-01-01 15:08:32;read;country_5;2458152391;Reddit;Europe
+2018-01-01 15:08:35;read;country_2;2458152392;Reddit;Asia
+2018-01-01 15:09:52;read;country_6;2458152393;AdWords;Europe
+2018-01-01 15:10:34;read;country_2;2458152394;SEO;North America
+2018-01-01 15:10:50;read;country_6;2458152395;Reddit;North America
+2018-01-01 15:11:50;read;country_2;2458152396;AdWords;Europe
+2018-01-01 15:14:17;read;country_5;2458152397;Reddit;Asia
+2018-01-01 15:14:20;read;country_2;2458152398;Reddit;Australia
+2018-01-01 15:15:59;read;country_2;2458152399;SEO;Europe
+2018-01-01 15:17:10;read;country_5;2458152400;SEO;North America
+2018-01-01 15:18:23;read;country_6;2458152401;SEO;Asia
+2018-01-01 15:19:42;read;country_5;2458152402;SEO;North America
+2018-01-01 15:19:55;read;country_5;2458152403;SEO;Australia
+2018-01-01 15:20:21;read;country_5;2458152404;Reddit;South America
+2018-01-01 15:21:22;read;country_5;2458152405;AdWords;Europe
+2018-01-01 15:23:00;read;country_5;2458152406;Reddit;Asia
+2018-01-01 15:23:33;read;country_5;2458152407;Reddit;Asia
+2018-01-01 15:24:51;read;country_6;2458152408;SEO;Africa
+2018-01-01 15:25:31;read;country_5;2458152409;Reddit;Asia
+2018-01-01 15:25:53;read;country_4;2458152410;AdWords;North America
+2018-01-01 15:28:14;read;country_7;2458152411;AdWords;Australia
+2018-01-01 15:29:16;read;country_2;2458152412;AdWords;Asia
+2018-01-01 15:29:20;read;country_2;2458152413;AdWords;Europe
+2018-01-01 15:31:36;read;country_5;2458152414;Reddit;North America
+2018-01-01 15:34:33;read;country_5;2458152415;SEO;Asia
+2018-01-01 15:34:37;read;country_7;2458152416;Reddit;Asia
+2018-01-01 15:34:57;read;country_8;2458152417;AdWords;North America
+2018-01-01 15:35:56;read;country_2;2458152418;AdWords;Europe
+2018-01-01 15:36:39;read;country_5;2458152419;Reddit;Asia
+2018-01-01 15:37:38;read;country_5;2458152420;Reddit;Asia
+2018-01-01 15:38:02;read;country_7;2458152421;Reddit;Asia
+2018-01-01 15:38:26;read;country_5;2458152422;SEO;South America
+2018-01-01 15:38:45;read;country_8;2458152423;Reddit;Asia
+2018-01-01 15:39:21;read;country_8;2458152424;Reddit;Asia
+2018-01-01 15:40:07;read;country_2;2458152425;Reddit;Asia
+2018-01-01 15:40:29;read;country_2;2458152426;AdWords;North America
+2018-01-01 15:43:48;read;country_8;2458152427;Reddit;Europe
+2018-01-01 15:44:56;read;country_3;2458152428;Reddit;Australia
+2018-01-01 15:45:08;read;country_5;2458152429;SEO;Asia
+2018-01-01 15:45:48;read;country_8;2458152430;SEO;Asia
+2018-01-01 15:46:00;read;country_1;2458152431;SEO;North America
+2018-01-01 15:47:36;read;country_2;2458152432;SEO;South America
+2018-01-01 15:47:57;read;country_5;2458152433;SEO;Europe
+2018-01-01 15:48:47;read;country_5;2458152434;Reddit;North America
+2018-01-01 15:50:22;read;country_2;2458152435;Reddit;Europe
+2018-01-01 15:52:41;read;country_5;2458152436;Reddit;North America
+2018-01-01 15:52:43;read;country_5;2458152437;SEO;Europe
+2018-01-01 15:52:50;read;country_7;2458152438;AdWords;Asia
+2018-01-01 15:53:41;read;country_4;2458152439;AdWords;South America
+2018-01-01 15:54:17;read;country_2;2458152440;Reddit;Asia
+2018-01-01 15:55:10;read;country_2;2458152441;Reddit;South America
+2018-01-01 15:55:29;read;country_2;2458152442;Reddit;North America
+2018-01-01 15:56:16;read;country_8;2458152443;AdWords;South America
+2018-01-01 15:56:24;read;country_7;2458152444;Reddit;North America
+2018-01-01 15:56:50;read;country_2;2458152445;Reddit;Asia
+2018-01-01 16:01:56;read;country_2;2458152446;Reddit;Asia
+2018-01-01 16:03:52;read;country_5;2458152447;AdWords;South America
+2018-01-01 16:04:17;read;country_5;2458152448;AdWords;North America
+2018-01-01 16:04:50;read;country_2;2458152449;Reddit;Africa
+2018-01-01 16:05:00;read;country_7;2458152450;AdWords;Asia
+2018-01-01 16:07:16;read;country_5;2458152451;AdWords;North America
+2018-01-01 16:09:24;read;country_7;2458152452;Reddit;South America
+2018-01-01 16:09:33;read;country_5;2458152453;SEO;North America
+2018-01-01 16:10:23;read;country_8;2458152454;AdWords;Europe
+2018-01-01 16:10:29;read;country_6;2458152455;Reddit;Asia
+2018-01-01 16:10:40;read;country_7;2458152456;AdWords;Europe
+2018-01-01 16:13:28;read;country_6;2458152457;SEO;Europe
+2018-01-01 16:15:53;read;country_7;2458152458;Reddit;North America
+2018-01-01 16:16:31;read;country_5;2458152459;AdWords;Europe
+2018-01-01 16:16:54;read;country_7;2458152460;Reddit;North America
+2018-01-01 16:16:56;read;country_6;2458152461;SEO;North America
+2018-01-01 16:17:36;read;country_7;2458152462;SEO;South America
+2018-01-01 16:18:06;read;country_5;2458152463;AdWords;South America
+2018-01-01 16:18:39;read;country_4;2458152464;Reddit;South America
+2018-01-01 16:20:15;read;country_4;2458152465;AdWords;South America
+2018-01-01 16:22:17;read;country_2;2458152466;SEO;North America
+2018-01-01 16:23:49;read;country_7;2458152467;AdWords;Asia
+2018-01-01 16:23:57;read;country_2;2458152468;Reddit;North America
+2018-01-01 16:24:11;read;country_5;2458152469;AdWords;Europe
+2018-01-01 16:25:35;read;country_1;2458152470;Reddit;Asia
+2018-01-01 16:25:50;read;country_2;2458152471;Reddit;Asia
+2018-01-01 16:26:02;read;country_6;2458152472;SEO;North America
+2018-01-01 16:26:44;read;country_6;2458152473;Reddit;South America
+2018-01-01 16:27:06;read;country_3;2458152474;AdWords;Asia
+2018-01-01 16:28:55;read;country_2;2458152475;Reddit;Asia
+2018-01-01 16:29:04;read;country_7;2458152476;Reddit;Asia
+2018-01-01 16:31:42;read;country_5;2458152477;Reddit;Africa
+2018-01-01 16:33:33;read;country_8;2458152478;SEO;South America
+2018-01-01 16:33:38;read;country_7;2458152479;AdWords;Europe
+2018-01-01 16:34:02;read;country_4;2458152480;Reddit;Asia
+2018-01-01 16:35:00;read;country_7;2458152481;AdWords;Africa
+2018-01-01 16:35:36;read;country_5;2458152482;Reddit;Africa
+2018-01-01 16:35:50;read;country_5;2458152483;Reddit;Africa
+2018-01-01 16:36:35;read;country_5;2458152484;AdWords;Europe
+2018-01-01 16:36:51;read;country_7;2458152485;AdWords;North America
+2018-01-01 16:37:14;read;country_2;2458152486;Reddit;Europe
+2018-01-01 16:38:43;read;country_2;2458152487;Reddit;Asia
+2018-01-01 16:40:06;read;country_2;2458152488;Reddit;South America
+2018-01-01 16:40:56;read;country_5;2458152489;Reddit;Asia
+2018-01-01 16:41:19;read;country_5;2458152490;SEO;South America
+2018-01-01 16:41:29;read;country_5;2458152491;Reddit;Asia
+2018-01-01 16:42:19;read;country_6;2458152492;SEO;South America
+2018-01-01 16:42:47;read;country_2;2458152493;SEO;Asia
+2018-01-01 16:43:33;read;country_2;2458152494;SEO;North America
+2018-01-01 16:45:45;read;country_1;2458152495;Reddit;Asia
+2018-01-01 16:46:11;read;country_2;2458152496;SEO;South America
+2018-01-01 16:47:05;read;country_5;2458152497;AdWords;Europe
+2018-01-01 16:47:42;read;country_7;2458152498;Reddit;Africa
+2018-01-01 16:48:09;read;country_8;2458152499;AdWords;Europe
+2018-01-01 16:49:04;read;country_2;2458152500;Reddit;Asia
+2018-01-01 16:49:10;read;country_3;2458152501;Reddit;Asia
+2018-01-01 16:49:36;read;country_8;2458152502;Reddit;Africa
+2018-01-01 16:49:43;read;country_6;2458152503;Reddit;Asia
+2018-01-01 16:50:05;read;country_6;2458152504;Reddit;Africa
+2018-01-01 16:50:49;read;country_7;2458152505;Reddit;Asia
+2018-01-01 16:51:00;read;country_5;2458152506;AdWords;North America
+2018-01-01 16:53:16;read;country_7;2458152507;AdWords;South America
+2018-01-01 16:53:45;read;country_2;2458152508;AdWords;North America
+2018-01-01 16:54:54;read;country_5;2458152509;AdWords;Asia
+2018-01-01 16:54:55;read;country_7;2458152510;AdWords;Europe
+2018-01-01 16:55:07;read;country_7;2458152511;Reddit;Australia
+2018-01-01 16:55:31;read;country_2;2458152512;AdWords;Europe
+2018-01-01 16:55:58;read;country_6;2458152513;Reddit;North America
+2018-01-01 16:57:10;read;country_5;2458152514;Reddit;Asia
+2018-01-01 16:58:26;read;country_5;2458152515;SEO;North America
+2018-01-01 16:58:46;read;country_7;2458152516;AdWords;South America
+2018-01-01 16:59:55;read;country_5;2458152517;Reddit;Asia
+2018-01-01 16:59:56;read;country_1;2458152518;SEO;Asia
+2018-01-01 17:00:20;read;country_4;2458152519;AdWords;Asia
+2018-01-01 17:02:05;read;country_7;2458152520;SEO;North America
+2018-01-01 17:03:21;read;country_4;2458152521;SEO;North America
+2018-01-01 17:03:23;read;country_5;2458152522;Reddit;Asia
+2018-01-01 17:04:03;read;country_7;2458152523;SEO;South America
+2018-01-01 17:04:21;read;country_6;2458152524;SEO;North America
+2018-01-01 17:05:03;read;country_7;2458152525;AdWords;Europe
+2018-01-01 17:05:48;read;country_8;2458152526;Reddit;Australia
+2018-01-01 17:05:58;read;country_5;2458152527;SEO;North America
+2018-01-01 17:06:30;read;country_7;2458152528;Reddit;Asia
+2018-01-01 17:07:17;read;country_6;2458152529;SEO;North America
+2018-01-01 17:07:54;read;country_7;2458152530;Reddit;Asia
+2018-01-01 17:09:53;read;country_5;2458152531;AdWords;North America
+2018-01-01 17:10:15;read;country_6;2458152532;Reddit;Europe
+2018-01-01 17:12:00;read;country_6;2458152533;Reddit;Australia
+2018-01-01 17:13:27;read;country_5;2458152534;AdWords;Europe
+2018-01-01 17:13:47;read;country_2;2458152535;Reddit;Asia
+2018-01-01 17:14:42;read;country_5;2458152536;SEO;North America
+2018-01-01 17:15:39;read;country_7;2458152537;Reddit;Australia
+2018-01-01 17:15:46;read;country_5;2458152538;SEO;North America
+2018-01-01 17:17:02;read;country_3;2458152539;Reddit;South America
+2018-01-01 17:17:37;read;country_1;2458152540;AdWords;Europe
+2018-01-01 17:17:46;read;country_8;2458152541;Reddit;Asia
+2018-01-01 17:17:53;read;country_5;2458152542;Reddit;Australia
+2018-01-01 17:17:59;read;country_6;2458152543;Reddit;Europe
+2018-01-01 17:20:57;read;country_8;2458152544;Reddit;Asia
+2018-01-01 17:21:12;read;country_2;2458152545;AdWords;South America
+2018-01-01 17:21:15;read;country_2;2458152546;AdWords;South America
+2018-01-01 17:22:47;read;country_5;2458152547;Reddit;Asia
+2018-01-01 17:24:13;read;country_2;2458152548;AdWords;Europe
+2018-01-01 17:25:31;read;country_6;2458152549;Reddit;North America
+2018-01-01 17:27:59;read;country_8;2458152550;AdWords;Asia
+2018-01-01 17:29:38;read;country_8;2458152551;Reddit;South America
+2018-01-01 17:30:32;read;country_8;2458152552;Reddit;Asia
+2018-01-01 17:31:29;read;country_2;2458152553;Reddit;Europe
+2018-01-01 17:31:30;read;country_5;2458152554;SEO;North America
+2018-01-01 17:32:28;read;country_2;2458152555;Reddit;Asia
+2018-01-01 17:34:15;read;country_2;2458152556;Reddit;Europe
+2018-01-01 17:34:30;read;country_6;2458152557;AdWords;North America
+2018-01-01 17:34:53;read;country_7;2458152558;AdWords;Europe
+2018-01-01 17:35:09;read;country_5;2458152559;Reddit;Europe
+2018-01-01 17:37:45;read;country_2;2458152560;Reddit;Asia
+2018-01-01 17:37:48;read;country_2;2458152561;Reddit;Asia
+2018-01-01 17:39:00;read;country_7;2458152562;Reddit;South America
+2018-01-01 17:39:00;read;country_8;2458152563;AdWords;Europe
+2018-01-01 17:41:44;read;country_5;2458152564;SEO;South America
+2018-01-01 17:42:01;read;country_2;2458152565;Reddit;South America
+2018-01-01 17:43:46;read;country_5;2458152566;AdWords;Europe
+2018-01-01 17:43:55;read;country_5;2458152567;Reddit;Asia
+2018-01-01 17:44:27;read;country_2;2458152568;Reddit;Asia
+2018-01-01 17:44:35;read;country_8;2458152569;SEO;Australia
+2018-01-01 17:45:09;read;country_2;2458152570;AdWords;Asia
+2018-01-01 17:46:22;read;country_2;2458152571;Reddit;Asia
+2018-01-01 17:48:06;read;country_2;2458152572;AdWords;Europe
+2018-01-01 17:48:24;read;country_5;2458152573;Reddit;Asia
+2018-01-01 17:49:33;read;country_3;2458152574;AdWords;Asia
+2018-01-01 17:53:50;read;country_6;2458152575;Reddit;Europe
+2018-01-01 17:55:46;read;country_7;2458152576;SEO;North America
+2018-01-01 17:55:55;read;country_7;2458152577;AdWords;Europe
+2018-01-01 17:55:56;read;country_8;2458152578;SEO;Asia
+2018-01-01 17:56:58;read;country_4;2458152579;SEO;North America
+2018-01-01 17:57:48;read;country_6;2458152580;Reddit;Africa
+2018-01-01 17:58:22;read;country_2;2458152581;Reddit;Asia
+2018-01-01 17:58:30;read;country_7;2458152582;AdWords;Asia
+2018-01-01 17:59:26;read;country_7;2458152583;Reddit;Asia
+2018-01-01 17:59:57;read;country_2;2458152584;Reddit;Asia
+2018-01-01 18:01:11;read;country_1;2458152585;SEO;Europe
+2018-01-01 18:01:28;read;country_7;2458152586;Reddit;Africa
+2018-01-01 18:01:39;read;country_7;2458152587;Reddit;South America
+2018-01-01 18:01:41;read;country_6;2458152588;Reddit;Asia
+2018-01-01 18:02:35;read;country_2;2458152589;SEO;North America
+2018-01-01 18:02:55;read;country_6;2458152590;AdWords;North America
+2018-01-01 18:02:58;read;country_5;2458152591;AdWords;North America
+2018-01-01 18:03:22;read;country_7;2458152592;Reddit;South America
+2018-01-01 18:03:43;read;country_5;2458152593;AdWords;North America
+2018-01-01 18:05:47;read;country_6;2458152594;SEO;Asia
+2018-01-01 18:07:27;read;country_2;2458152595;Reddit;Asia
+2018-01-01 18:07:46;read;country_5;2458152596;AdWords;Europe
+2018-01-01 18:08:07;read;country_6;2458152597;Reddit;Asia
+2018-01-01 18:10:15;read;country_2;2458152598;SEO;South America
+2018-01-01 18:10:32;read;country_2;2458152599;Reddit;Asia
+2018-01-01 18:11:26;read;country_3;2458152600;AdWords;Europe
+2018-01-01 18:11:27;read;country_2;2458152601;Reddit;Asia
+2018-01-01 18:14:21;read;country_2;2458152602;SEO;North America
+2018-01-01 18:15:37;read;country_5;2458152603;SEO;North America
+2018-01-01 18:15:55;read;country_2;2458152604;SEO;North America
+2018-01-01 18:16:27;read;country_6;2458152605;AdWords;Asia
+2018-01-01 18:16:36;read;country_8;2458152606;SEO;South America
+2018-01-01 18:16:53;read;country_7;2458152607;SEO;South America
+2018-01-01 18:17:32;read;country_2;2458152608;Reddit;Asia
+2018-01-01 18:18:08;read;country_7;2458152609;AdWords;Europe
+2018-01-01 18:18:55;read;country_7;2458152610;Reddit;Australia
+2018-01-01 18:19:06;read;country_7;2458152611;SEO;North America
+2018-01-01 18:19:39;read;country_7;2458152612;AdWords;Asia
+2018-01-01 18:20:07;read;country_5;2458152613;Reddit;South America
+2018-01-01 18:22:00;read;country_7;2458152614;AdWords;Asia
+2018-01-01 18:22:42;read;country_5;2458152615;AdWords;Asia
+2018-01-01 18:23:06;read;country_5;2458152616;Reddit;Europe
+2018-01-01 18:23:09;read;country_2;2458152617;Reddit;North America
+2018-01-01 18:23:19;read;country_8;2458152618;SEO;Asia
+2018-01-01 18:23:42;read;country_5;2458152619;Reddit;Asia
+2018-01-01 18:23:43;read;country_7;2458152620;SEO;North America
+2018-01-01 18:23:49;read;country_5;2458152621;AdWords;South America
+2018-01-01 18:24:45;read;country_6;2458152622;SEO;South America
+2018-01-01 18:26:07;read;country_1;2458152623;Reddit;Africa
+2018-01-01 18:27:42;read;country_6;2458152624;Reddit;Asia
+2018-01-01 18:27:57;read;country_6;2458152625;AdWords;Europe
+2018-01-01 18:29:15;read;country_5;2458152626;Reddit;Europe
+2018-01-01 18:30:09;read;country_2;2458152627;Reddit;Asia
+2018-01-01 18:31:02;read;country_2;2458152628;Reddit;Europe
+2018-01-01 18:32:57;read;country_7;2458152629;SEO;Australia
+2018-01-01 18:33:13;read;country_8;2458152630;Reddit;Asia
+2018-01-01 18:33:54;read;country_5;2458152631;SEO;South America
+2018-01-01 18:34:19;read;country_2;2458152632;Reddit;Europe
+2018-01-01 18:36:07;read;country_6;2458152633;Reddit;South America
+2018-01-01 18:36:53;read;country_4;2458152634;Reddit;Africa
+2018-01-01 18:37:18;read;country_2;2458152635;SEO;North America
+2018-01-01 18:38:00;read;country_5;2458152636;AdWords;Europe
+2018-01-01 18:40:17;read;country_5;2458152637;AdWords;North America
+2018-01-01 18:40:38;read;country_5;2458152638;Reddit;Europe
+2018-01-01 18:41:12;read;country_7;2458152639;AdWords;Europe
+2018-01-01 18:42:31;read;country_2;2458152640;SEO;South America
+2018-01-01 18:43:20;read;country_7;2458152641;AdWords;Asia
+2018-01-01 18:45:03;read;country_7;2458152642;Reddit;Asia
+2018-01-01 18:46:25;read;country_5;2458152643;Reddit;Asia
+2018-01-01 18:49:24;read;country_6;2458152644;AdWords;South America
+2018-01-01 18:51:49;read;country_5;2458152645;Reddit;Asia
+2018-01-01 18:52:23;read;country_5;2458152646;AdWords;Europe
+2018-01-01 18:53:34;read;country_8;2458152647;Reddit;Asia
+2018-01-01 18:54:02;read;country_7;2458152648;AdWords;North America
+2018-01-01 18:55:14;read;country_5;2458152649;Reddit;Asia
+2018-01-01 18:55:31;read;country_5;2458152650;SEO;North America
+2018-01-01 18:57:08;read;country_5;2458152651;Reddit;Asia
+2018-01-01 18:57:51;read;country_7;2458152652;Reddit;South America
+2018-01-01 18:57:54;read;country_2;2458152653;Reddit;Asia
+2018-01-01 18:57:59;read;country_5;2458152654;Reddit;Asia
+2018-01-01 18:58:08;read;country_2;2458152655;Reddit;Europe
+2018-01-01 18:58:51;read;country_5;2458152656;Reddit;Australia
+2018-01-01 18:59:56;read;country_7;2458152657;AdWords;Africa
+2018-01-01 18:59:57;read;country_2;2458152658;Reddit;Asia
+2018-01-01 19:00:24;read;country_8;2458152659;AdWords;Asia
+2018-01-01 19:01:41;read;country_4;2458152660;AdWords;Europe
+2018-01-01 19:01:53;read;country_7;2458152661;Reddit;Asia
+2018-01-01 19:03:06;read;country_2;2458152662;Reddit;Asia
+2018-01-01 19:04:20;read;country_5;2458152663;AdWords;South America
+2018-01-01 19:06:46;read;country_5;2458152664;SEO;North America
+2018-01-01 19:06:48;read;country_1;2458152665;Reddit;Asia
+2018-01-01 19:07:24;read;country_2;2458152666;Reddit;Australia
+2018-01-01 19:08:46;read;country_4;2458152667;SEO;North America
+2018-01-01 19:08:56;read;country_4;2458152668;AdWords;North America
+2018-01-01 19:09:40;read;country_5;2458152669;AdWords;Europe
+2018-01-01 19:10:34;read;country_4;2458152670;AdWords;Europe
+2018-01-01 19:10:46;read;country_4;2458152671;AdWords;Asia
+2018-01-01 19:12:52;read;country_2;2458152672;Reddit;Asia
+2018-01-01 19:14:27;read;country_2;2458152673;Reddit;Africa
+2018-01-01 19:15:09;read;country_2;2458152674;Reddit;South America
+2018-01-01 19:15:59;read;country_6;2458152675;Reddit;Asia
+2018-01-01 19:17:10;read;country_2;2458152676;SEO;South America
+2018-01-01 19:17:56;read;country_6;2458152677;Reddit;Asia
+2018-01-01 19:19:29;read;country_2;2458152678;Reddit;Asia
+2018-01-01 19:19:54;read;country_6;2458152679;Reddit;Asia
+2018-01-01 19:21:36;read;country_5;2458152680;AdWords;Europe
+2018-01-01 19:21:49;read;country_5;2458152681;AdWords;Asia
+2018-01-01 19:21:51;read;country_2;2458152682;Reddit;Europe
+2018-01-01 19:22:19;read;country_5;2458152683;Reddit;Africa
+2018-01-01 19:23:50;read;country_7;2458152684;Reddit;North America
+2018-01-01 19:25:00;read;country_8;2458152685;Reddit;Asia
+2018-01-01 19:25:08;read;country_2;2458152686;Reddit;South America
+2018-01-01 19:25:12;read;country_2;2458152687;AdWords;Europe
+2018-01-01 19:25:21;read;country_8;2458152688;AdWords;Asia
+2018-01-01 19:25:35;read;country_5;2458152689;Reddit;Asia
+2018-01-01 19:25:51;read;country_2;2458152690;SEO;North America
+2018-01-01 19:26:17;read;country_5;2458152691;Reddit;South America
+2018-01-01 19:28:55;read;country_2;2458152692;Reddit;South America
+2018-01-01 19:29:01;read;country_5;2458152693;Reddit;Asia
+2018-01-01 19:29:03;read;country_8;2458152694;Reddit;Asia
+2018-01-01 19:29:12;read;country_7;2458152695;AdWords;Europe
+2018-01-01 19:30:32;read;country_2;2458152696;Reddit;North America
+2018-01-01 19:31:02;read;country_2;2458152697;Reddit;Australia
+2018-01-01 19:31:13;read;country_8;2458152698;AdWords;Asia
+2018-01-01 19:32:01;read;country_6;2458152699;SEO;Europe
+2018-01-01 19:32:12;read;country_5;2458152700;Reddit;Europe
+2018-01-01 19:34:52;read;country_5;2458152701;Reddit;Asia
+2018-01-01 19:35:06;read;country_3;2458152702;Reddit;Asia
+2018-01-01 19:36:40;read;country_2;2458152703;Reddit;Asia
+2018-01-01 19:37:06;read;country_6;2458152704;AdWords;Europe
+2018-01-01 19:37:23;read;country_5;2458152705;Reddit;North America
+2018-01-01 19:38:03;read;country_6;2458152706;AdWords;Africa
+2018-01-01 19:38:05;read;country_2;2458152707;Reddit;Africa
+2018-01-01 19:38:36;read;country_7;2458152708;Reddit;Europe
+2018-01-01 19:39:23;read;country_7;2458152709;Reddit;Asia
+2018-01-01 19:41:08;read;country_5;2458152710;AdWords;Asia
+2018-01-01 19:41:49;read;country_6;2458152711;AdWords;Europe
+2018-01-01 19:41:55;read;country_2;2458152712;SEO;North America
+2018-01-01 19:42:33;read;country_6;2458152713;AdWords;Asia
+2018-01-01 19:44:26;read;country_7;2458152714;AdWords;Asia
+2018-01-01 19:44:37;read;country_7;2458152715;Reddit;Asia
+2018-01-01 19:47:02;read;country_6;2458152716;AdWords;Europe
+2018-01-01 19:48:35;read;country_2;2458152717;AdWords;Europe
+2018-01-01 19:50:41;read;country_2;2458152718;Reddit;Australia
+2018-01-01 19:51:03;read;country_2;2458152719;AdWords;Europe
+2018-01-01 19:51:36;read;country_7;2458152720;Reddit;Asia
+2018-01-01 19:52:30;read;country_2;2458152721;AdWords;Asia
+2018-01-01 19:53:21;read;country_8;2458152722;AdWords;Australia
+2018-01-01 19:57:09;read;country_2;2458152723;Reddit;South America
+2018-01-01 19:57:36;read;country_5;2458152724;Reddit;Asia
+2018-01-01 19:58:24;read;country_7;2458152725;Reddit;Europe
+2018-01-01 19:59:12;read;country_2;2458152726;SEO;South America
+2018-01-01 20:01:21;read;country_6;2458152727;Reddit;Asia
+2018-01-01 20:01:46;read;country_6;2458152728;Reddit;South America
+2018-01-01 20:02:14;read;country_7;2458152729;Reddit;Asia
+2018-01-01 20:02:44;read;country_7;2458152730;Reddit;Asia
+2018-01-01 20:04:12;read;country_5;2458152731;AdWords;South America
+2018-01-01 20:04:23;read;country_5;2458152732;Reddit;Asia
+2018-01-01 20:05:28;read;country_6;2458152733;Reddit;South America
+2018-01-01 20:05:43;read;country_5;2458152734;Reddit;Asia
+2018-01-01 20:08:51;read;country_6;2458152735;SEO;North America
+2018-01-01 20:09:13;read;country_5;2458152736;Reddit;Asia
+2018-01-01 20:09:56;read;country_3;2458152737;SEO;Europe
+2018-01-01 20:10:05;read;country_5;2458152738;Reddit;North America
+2018-01-01 20:10:09;read;country_6;2458152739;Reddit;North America
+2018-01-01 20:10:14;read;country_6;2458152740;AdWords;Europe
+2018-01-01 20:10:29;read;country_8;2458152741;SEO;South America
+2018-01-01 20:12:04;read;country_3;2458152742;Reddit;North America
+2018-01-01 20:12:41;read;country_6;2458152743;Reddit;South America
+2018-01-01 20:12:57;read;country_6;2458152744;Reddit;Europe
+2018-01-01 20:12:59;read;country_5;2458152745;Reddit;Africa
+2018-01-01 20:13:46;read;country_2;2458152746;Reddit;South America
+2018-01-01 20:13:48;read;country_1;2458152747;Reddit;North America
+2018-01-01 20:13:58;read;country_2;2458152748;Reddit;Asia
+2018-01-01 20:15:00;read;country_2;2458152749;Reddit;North America
+2018-01-01 20:15:14;read;country_5;2458152750;SEO;North America
+2018-01-01 20:17:32;read;country_2;2458152751;Reddit;Asia
+2018-01-01 20:18:25;read;country_5;2458152752;AdWords;Europe
+2018-01-01 20:19:43;read;country_6;2458152753;Reddit;North America
+2018-01-01 20:20:34;read;country_2;2458152754;AdWords;Europe
+2018-01-01 20:20:34;read;country_6;2458152755;Reddit;Africa
+2018-01-01 20:20:39;read;country_2;2458152756;SEO;Africa
+2018-01-01 20:21:24;read;country_7;2458152757;AdWords;South America
+2018-01-01 20:23:26;read;country_5;2458152758;SEO;Europe
+2018-01-01 20:23:58;read;country_7;2458152759;Reddit;South America
+2018-01-01 20:24:23;read;country_3;2458152760;Reddit;Asia
+2018-01-01 20:25:16;read;country_5;2458152761;Reddit;South America
+2018-01-01 20:25:50;read;country_7;2458152762;Reddit;Asia
+2018-01-01 20:28:31;read;country_6;2458152763;Reddit;Asia
+2018-01-01 20:31:43;read;country_2;2458152764;Reddit;Asia
+2018-01-01 20:31:50;read;country_7;2458152765;Reddit;Europe
+2018-01-01 20:32:27;read;country_2;2458152766;Reddit;North America
+2018-01-01 20:32:50;read;country_2;2458152767;Reddit;Asia
+2018-01-01 20:32:54;read;country_7;2458152768;Reddit;Africa
+2018-01-01 20:33:20;read;country_6;2458152769;SEO;South America
+2018-01-01 20:34:15;read;country_8;2458152770;SEO;North America
+2018-01-01 20:34:28;read;country_7;2458152771;SEO;South America
+2018-01-01 20:34:38;read;country_5;2458152772;Reddit;Europe
+2018-01-01 20:35:01;read;country_5;2458152773;Reddit;Asia
+2018-01-01 20:35:24;read;country_8;2458152774;SEO;North America
+2018-01-01 20:35:39;read;country_8;2458152775;SEO;North America
+2018-01-01 20:36:00;read;country_2;2458152776;AdWords;Europe
+2018-01-01 20:37:35;read;country_8;2458152777;AdWords;Asia
+2018-01-01 20:37:41;read;country_5;2458152778;Reddit;Asia
+2018-01-01 20:39:10;read;country_7;2458152779;Reddit;Asia
+2018-01-01 20:40:47;read;country_5;2458152780;AdWords;Europe
+2018-01-01 20:41:06;read;country_5;2458152781;AdWords;Australia
+2018-01-01 20:41:15;read;country_6;2458152782;Reddit;Asia
+2018-01-01 20:41:16;read;country_6;2458152783;AdWords;Asia
+2018-01-01 20:41:23;read;country_8;2458152784;SEO;North America
+2018-01-01 20:43:10;read;country_2;2458152785;Reddit;Asia
+2018-01-01 20:43:12;read;country_5;2458152786;AdWords;South America
+2018-01-01 20:43:20;read;country_8;2458152787;Reddit;Asia
+2018-01-01 20:43:33;read;country_7;2458152788;SEO;Asia
+2018-01-01 20:44:10;read;country_4;2458152789;SEO;Asia
+2018-01-01 20:44:36;read;country_7;2458152790;SEO;South America
+2018-01-01 20:45:40;read;country_2;2458152791;AdWords;Europe
+2018-01-01 20:49:11;read;country_6;2458152792;Reddit;Europe
+2018-01-01 20:49:51;read;country_2;2458152793;Reddit;Asia
+2018-01-01 20:49:56;read;country_4;2458152794;AdWords;South America
+2018-01-01 20:50:32;read;country_5;2458152795;SEO;North America
+2018-01-01 20:52:13;read;country_4;2458152796;AdWords;North America
+2018-01-01 20:52:13;read;country_7;2458152797;AdWords;North America
+2018-01-01 20:52:37;read;country_5;2458152798;Reddit;Australia
+2018-01-01 20:52:50;read;country_5;2458152799;AdWords;North America
+2018-01-01 20:53:28;read;country_8;2458152800;AdWords;Europe
+2018-01-01 20:53:36;read;country_2;2458152801;AdWords;South America
+2018-01-01 20:53:42;read;country_8;2458152802;Reddit;Asia
+2018-01-01 20:54:41;read;country_7;2458152803;Reddit;Australia
+2018-01-01 20:55:26;read;country_6;2458152804;Reddit;South America
+2018-01-01 20:55:46;read;country_5;2458152805;SEO;North America
+2018-01-01 20:55:51;read;country_7;2458152806;SEO;South America
+2018-01-01 20:56:36;read;country_2;2458152807;AdWords;Europe
+2018-01-01 20:57:08;read;country_7;2458152808;Reddit;Asia
+2018-01-01 20:57:38;read;country_6;2458152809;AdWords;Asia
+2018-01-01 20:57:41;read;country_7;2458152810;SEO;South America
+2018-01-01 20:58:21;read;country_7;2458152811;Reddit;Asia
+2018-01-01 21:00:21;read;country_2;2458152812;AdWords;Europe
+2018-01-01 21:00:46;read;country_2;2458152813;AdWords;Australia
+2018-01-01 21:02:51;read;country_2;2458152814;SEO;North America
+2018-01-01 21:02:57;read;country_4;2458152815;Reddit;Asia
+2018-01-01 21:03:26;read;country_2;2458152816;Reddit;Asia
+2018-01-01 21:05:35;read;country_2;2458152817;Reddit;Asia
+2018-01-01 21:06:21;read;country_2;2458152818;Reddit;Asia
+2018-01-01 21:08:30;read;country_2;2458152819;AdWords;North America
+2018-01-01 21:09:10;read;country_5;2458152820;SEO;North America
+2018-01-01 21:09:59;read;country_6;2458152821;Reddit;Africa
+2018-01-01 21:11:07;read;country_2;2458152822;AdWords;Europe
+2018-01-01 21:11:16;read;country_8;2458152823;Reddit;Asia
+2018-01-01 21:13:27;read;country_5;2458152824;AdWords;Asia
+2018-01-01 21:13:33;read;country_4;2458152825;SEO;North America
+2018-01-01 21:14:04;read;country_7;2458152826;AdWords;Asia
+2018-01-01 21:14:16;read;country_5;2458152827;Reddit;Asia
+2018-01-01 21:14:22;read;country_8;2458152828;SEO;North America
+2018-01-01 21:15:30;read;country_5;2458152829;SEO;Europe
+2018-01-01 21:17:26;read;country_5;2458152830;SEO;South America
+2018-01-01 21:17:51;read;country_6;2458152831;Reddit;Asia
+2018-01-01 21:18:00;read;country_2;2458152832;Reddit;Asia
+2018-01-01 21:18:20;read;country_6;2458152833;Reddit;Africa
+2018-01-01 21:19:05;read;country_2;2458152834;Reddit;Asia
+2018-01-01 21:19:26;read;country_8;2458152835;AdWords;Asia
+2018-01-01 21:19:48;read;country_8;2458152836;Reddit;Asia
+2018-01-01 21:20:15;read;country_7;2458152837;AdWords;Europe
+2018-01-01 21:22:11;read;country_2;2458152838;Reddit;Europe
+2018-01-01 21:22:35;read;country_7;2458152839;SEO;North America
+2018-01-01 21:24:11;read;country_6;2458152840;Reddit;Australia
+2018-01-01 21:24:24;read;country_7;2458152841;Reddit;South America
+2018-01-01 21:24:44;read;country_6;2458152842;Reddit;North America
+2018-01-01 21:26:06;read;country_4;2458152843;Reddit;Asia
+2018-01-01 21:27:46;read;country_5;2458152844;Reddit;South America
+2018-01-01 21:28:05;read;country_2;2458152845;SEO;North America
+2018-01-01 21:28:19;read;country_5;2458152846;Reddit;Asia
+2018-01-01 21:28:28;read;country_5;2458152847;Reddit;Africa
+2018-01-01 21:28:38;read;country_8;2458152848;Reddit;Europe
+2018-01-01 21:29:09;read;country_2;2458152849;AdWords;Europe
+2018-01-01 21:29:51;read;country_3;2458152850;AdWords;Africa
+2018-01-01 21:31:44;read;country_5;2458152851;Reddit;Europe
+2018-01-01 21:33:51;read;country_2;2458152852;Reddit;Africa
+2018-01-01 21:33:58;read;country_2;2458152853;SEO;North America
+2018-01-01 21:34:56;read;country_5;2458152854;Reddit;South America
+2018-01-01 21:37:01;read;country_7;2458152855;AdWords;South America
+2018-01-01 21:37:22;read;country_5;2458152856;AdWords;Europe
+2018-01-01 21:39:32;read;country_7;2458152857;AdWords;Asia
+2018-01-01 21:39:33;read;country_2;2458152858;Reddit;South America
+2018-01-01 21:39:41;read;country_5;2458152859;AdWords;Europe
+2018-01-01 21:40:54;read;country_2;2458152860;Reddit;Asia
+2018-01-01 21:41:03;read;country_7;2458152861;Reddit;North America
+2018-01-01 21:41:50;read;country_2;2458152862;SEO;Asia
+2018-01-01 21:44:00;read;country_5;2458152863;SEO;North America
+2018-01-01 21:44:10;read;country_5;2458152864;SEO;North America
+2018-01-01 21:44:28;read;country_6;2458152865;Reddit;Asia
+2018-01-01 21:45:07;read;country_4;2458152866;Reddit;Asia
+2018-01-01 21:46:12;read;country_5;2458152867;Reddit;Asia
+2018-01-01 21:46:39;read;country_8;2458152868;Reddit;Asia
+2018-01-01 21:46:55;read;country_5;2458152869;AdWords;Europe
+2018-01-01 21:47:18;read;country_7;2458152870;AdWords;Europe
+2018-01-01 21:48:29;read;country_8;2458152871;Reddit;Asia
+2018-01-01 21:49:28;read;country_6;2458152872;AdWords;Europe
+2018-01-01 21:50:30;read;country_2;2458152873;Reddit;North America
+2018-01-01 21:50:35;read;country_5;2458152874;AdWords;Asia
+2018-01-01 21:50:37;read;country_2;2458152875;AdWords;Asia
+2018-01-01 21:52:25;read;country_8;2458152876;SEO;North America
+2018-01-01 21:52:31;read;country_4;2458152877;SEO;Europe
+2018-01-01 21:55:13;read;country_2;2458152878;Reddit;Asia
+2018-01-01 21:55:19;read;country_2;2458152879;Reddit;South America
+2018-01-01 21:56:27;read;country_7;2458152880;SEO;Europe
+2018-01-01 21:56:30;read;country_7;2458152881;Reddit;South America
+2018-01-01 21:56:41;read;country_2;2458152882;Reddit;Europe
+2018-01-01 21:58:12;read;country_7;2458152883;Reddit;Asia
+2018-01-01 21:58:23;read;country_7;2458152884;Reddit;Asia
+2018-01-01 21:59:03;read;country_8;2458152885;SEO;North America
+2018-01-01 21:59:52;read;country_5;2458152886;AdWords;Australia
+2018-01-01 22:00:43;read;country_7;2458152887;Reddit;Europe
+2018-01-01 22:02:58;read;country_2;2458152888;AdWords;Europe
+2018-01-01 22:03:53;read;country_5;2458152889;AdWords;Australia
+2018-01-01 22:03:56;read;country_7;2458152890;Reddit;Asia
+2018-01-01 22:04:05;read;country_4;2458152891;Reddit;Africa
+2018-01-01 22:04:28;read;country_2;2458152892;Reddit;Australia
+2018-01-01 22:05:37;read;country_3;2458152893;AdWords;North America
+2018-01-01 22:05:41;read;country_7;2458152894;AdWords;Asia
+2018-01-01 22:06:10;read;country_2;2458152895;AdWords;South America
+2018-01-01 22:06:29;read;country_5;2458152896;AdWords;Africa
+2018-01-01 22:06:43;read;country_8;2458152897;AdWords;Europe
+2018-01-01 22:07:57;read;country_2;2458152898;SEO;Australia
+2018-01-01 22:08:40;read;country_2;2458152899;AdWords;South America
+2018-01-01 22:08:41;read;country_4;2458152900;Reddit;Asia
+2018-01-01 22:09:47;read;country_7;2458152901;Reddit;Asia
+2018-01-01 22:09:53;read;country_6;2458152902;SEO;North America
+2018-01-01 22:09:54;read;country_8;2458152903;AdWords;Asia
+2018-01-01 22:10:04;read;country_7;2458152904;Reddit;Asia
+2018-01-01 22:10:19;read;country_5;2458152905;Reddit;Europe
+2018-01-01 22:10:47;read;country_7;2458152906;AdWords;Europe
+2018-01-01 22:11:11;read;country_5;2458152907;Reddit;Europe
+2018-01-01 22:11:54;read;country_7;2458152908;AdWords;Europe
+2018-01-01 22:15:55;read;country_7;2458152909;AdWords;Asia
+2018-01-01 22:16:48;read;country_6;2458152910;Reddit;Asia
+2018-01-01 22:17:04;read;country_5;2458152911;Reddit;Asia
+2018-01-01 22:17:17;read;country_2;2458152912;AdWords;Europe
+2018-01-01 22:18:48;read;country_7;2458152913;Reddit;North America
+2018-01-01 22:19:14;read;country_6;2458152914;Reddit;Asia
+2018-01-01 22:19:42;read;country_2;2458152915;Reddit;Europe
+2018-01-01 22:25:31;read;country_7;2458152916;Reddit;Europe
+2018-01-01 22:26:24;read;country_7;2458152917;AdWords;Europe
+2018-01-01 22:26:28;read;country_6;2458152918;AdWords;Asia
+2018-01-01 22:26:41;read;country_2;2458152919;Reddit;Asia
+2018-01-01 22:27:20;read;country_4;2458152920;Reddit;Asia
+2018-01-01 22:27:20;read;country_4;2458152921;Reddit;Africa
+2018-01-01 22:27:56;read;country_2;2458152922;AdWords;Europe
+2018-01-01 22:28:41;read;country_7;2458152923;SEO;North America
+2018-01-01 22:30:24;read;country_2;2458152924;Reddit;Europe
+2018-01-01 22:30:26;read;country_4;2458152925;SEO;North America
+2018-01-01 22:30:42;read;country_2;2458152926;Reddit;North America
+2018-01-01 22:30:54;read;country_4;2458152927;Reddit;Europe
+2018-01-01 22:33:15;read;country_5;2458152928;Reddit;Europe
+2018-01-01 22:33:16;read;country_7;2458152929;Reddit;Asia
+2018-01-01 22:33:19;read;country_7;2458152930;SEO;Australia
+2018-01-01 22:34:59;read;country_2;2458152931;Reddit;Asia
+2018-01-01 22:38:52;read;country_2;2458152932;Reddit;Asia
+2018-01-01 22:39:01;read;country_2;2458152933;AdWords;South America
+2018-01-01 22:40:42;read;country_6;2458152934;Reddit;Australia
+2018-01-01 22:41:06;read;country_5;2458152935;Reddit;South America
+2018-01-01 22:43:25;read;country_5;2458152936;SEO;Asia
+2018-01-01 22:43:39;read;country_5;2458152937;Reddit;North America
+2018-01-01 22:43:43;read;country_7;2458152938;Reddit;Australia
+2018-01-01 22:44:03;read;country_5;2458152939;Reddit;Europe
+2018-01-01 22:44:42;read;country_7;2458152940;Reddit;Europe
+2018-01-01 22:45:07;read;country_2;2458152941;Reddit;North America
+2018-01-01 22:45:26;read;country_7;2458152942;Reddit;Asia
+2018-01-01 22:45:39;read;country_5;2458152943;Reddit;Asia
+2018-01-01 22:46:05;read;country_5;2458152944;Reddit;South America
+2018-01-01 22:47:26;read;country_2;2458152945;Reddit;Asia
+2018-01-01 22:47:36;read;country_1;2458152946;Reddit;Asia
+2018-01-01 22:48:49;read;country_2;2458152947;Reddit;Asia
+2018-01-01 22:48:51;read;country_8;2458152948;Reddit;Africa
+2018-01-01 22:49:18;read;country_1;2458152949;SEO;Africa
+2018-01-01 22:49:20;read;country_7;2458152950;Reddit;North America
+2018-01-01 22:49:37;read;country_4;2458152951;Reddit;Asia
+2018-01-01 22:50:22;read;country_6;2458152952;AdWords;South America
+2018-01-01 22:52:44;read;country_2;2458152953;SEO;South America
+2018-01-01 22:53:13;read;country_2;2458152954;AdWords;Australia
+2018-01-01 22:53:19;read;country_2;2458152955;SEO;North America
+2018-01-01 22:53:52;read;country_8;2458152956;AdWords;Asia
+2018-01-01 22:55:53;read;country_7;2458152957;Reddit;South America
+2018-01-01 22:56:35;read;country_5;2458152958;Reddit;Europe
+2018-01-01 22:56:49;read;country_7;2458152959;AdWords;Africa
+2018-01-01 22:57:11;read;country_2;2458152960;Reddit;South America
+2018-01-01 22:58:59;read;country_2;2458152961;Reddit;Asia
+2018-01-01 22:59:03;read;country_5;2458152962;AdWords;Asia
+2018-01-01 22:59:28;read;country_2;2458152963;Reddit;Asia
+2018-01-01 22:59:46;read;country_7;2458152964;Reddit;Asia
+2018-01-01 22:59:53;read;country_2;2458152965;Reddit;Australia
+2018-01-01 23:00:20;read;country_5;2458152966;Reddit;Australia
+2018-01-01 23:01:15;read;country_7;2458152967;SEO;North America
+2018-01-01 23:02:18;read;country_5;2458152968;AdWords;Europe
+2018-01-01 23:03:12;read;country_6;2458152969;SEO;Europe
+2018-01-01 23:03:14;read;country_2;2458152970;Reddit;Africa
+2018-01-01 23:03:28;read;country_5;2458152971;Reddit;Asia
+2018-01-01 23:04:10;read;country_5;2458152972;Reddit;Asia
+2018-01-01 23:04:22;read;country_6;2458152973;AdWords;South America
+2018-01-01 23:04:51;read;country_5;2458152974;Reddit;South America
+2018-01-01 23:05:02;read;country_6;2458152975;AdWords;South America
+2018-01-01 23:07:25;read;country_5;2458152976;Reddit;Asia
+2018-01-01 23:08:43;read;country_7;2458152977;AdWords;North America
+2018-01-01 23:08:49;read;country_7;2458152978;AdWords;Australia
+2018-01-01 23:09:20;read;country_5;2458152979;Reddit;Asia
+2018-01-01 23:09:55;read;country_6;2458152980;Reddit;Europe
+2018-01-01 23:11:49;read;country_2;2458152981;Reddit;Australia
+2018-01-01 23:13:28;read;country_5;2458152982;AdWords;North America
+2018-01-01 23:13:57;read;country_1;2458152983;AdWords;Europe
+2018-01-01 23:14:18;read;country_3;2458152984;SEO;North America
+2018-01-01 23:14:31;read;country_7;2458152985;Reddit;Europe
+2018-01-01 23:14:38;read;country_6;2458152986;Reddit;Asia
+2018-01-01 23:15:08;read;country_5;2458152987;AdWords;Asia
+2018-01-01 23:15:27;read;country_6;2458152988;Reddit;Asia
+2018-01-01 23:15:50;read;country_2;2458152989;Reddit;Asia
+2018-01-01 23:15:58;read;country_7;2458152990;Reddit;Asia
+2018-01-01 23:16:19;read;country_2;2458152991;Reddit;Asia
+2018-01-01 23:16:19;read;country_2;2458152992;Reddit;South America
+2018-01-01 23:16:28;read;country_6;2458152993;AdWords;Asia
+2018-01-01 23:16:42;read;country_8;2458152994;Reddit;Asia
+2018-01-01 23:18:15;read;country_8;2458152995;Reddit;Asia
+2018-01-01 23:20:04;read;country_5;2458152996;Reddit;Europe
+2018-01-01 23:21:08;read;country_5;2458152997;SEO;Asia
+2018-01-01 23:22:24;read;country_5;2458152998;Reddit;Asia
+2018-01-01 23:22:29;read;country_2;2458152999;Reddit;Asia
+2018-01-01 23:23:19;read;country_7;2458153000;AdWords;Asia
+2018-01-01 23:23:20;read;country_7;2458153001;SEO;Asia
+2018-01-01 23:23:24;read;country_5;2458153002;AdWords;North America
+2018-01-01 23:23:41;read;country_8;2458153003;AdWords;Asia
+2018-01-01 23:23:58;read;country_2;2458153004;AdWords;North America
+2018-01-01 23:24:53;read;country_5;2458153005;Reddit;Africa
+2018-01-01 23:25:02;read;country_2;2458153006;AdWords;Europe
+2018-01-01 23:25:34;read;country_8;2458153007;Reddit;Asia
+2018-01-01 23:26:14;read;country_5;2458153008;AdWords;Europe
+2018-01-01 23:26:34;read;country_7;2458153009;SEO;South America
+2018-01-01 23:28:02;read;country_2;2458153010;AdWords;Asia
+2018-01-01 23:29:00;read;country_2;2458153011;AdWords;South America
+2018-01-01 23:29:20;read;country_7;2458153012;AdWords;North America
+2018-01-01 23:29:22;read;country_6;2458153013;Reddit;Asia
+2018-01-01 23:30:07;read;country_5;2458153014;Reddit;Europe
+2018-01-01 23:30:09;read;country_2;2458153015;Reddit;North America
+2018-01-01 23:30:32;read;country_5;2458153016;AdWords;Europe
+2018-01-01 23:32:29;read;country_7;2458153017;SEO;North America
+2018-01-01 23:32:36;read;country_7;2458153018;SEO;Europe
+2018-01-01 23:32:59;read;country_2;2458153019;Reddit;Africa
+2018-01-01 23:33:05;read;country_6;2458153020;Reddit;Asia
+2018-01-01 23:33:54;read;country_8;2458153021;AdWords;Asia
+2018-01-01 23:35:40;read;country_2;2458153022;Reddit;Asia
+2018-01-01 23:36:09;read;country_5;2458153023;SEO;North America
+2018-01-01 23:36:24;read;country_5;2458153024;Reddit;Asia
+2018-01-01 23:38:43;read;country_4;2458153025;AdWords;Europe
+2018-01-01 23:41:11;read;country_2;2458153026;Reddit;Africa
+2018-01-01 23:41:51;read;country_5;2458153027;AdWords;Asia
+2018-01-01 23:43:54;read;country_5;2458153028;AdWords;Europe
+2018-01-01 23:44:52;read;country_8;2458153029;Reddit;South America
+2018-01-01 23:45:09;read;country_5;2458153030;AdWords;Australia
+2018-01-01 23:45:12;read;country_6;2458153031;Reddit;Asia
+2018-01-01 23:45:56;read;country_5;2458153032;AdWords;Africa
+2018-01-01 23:45:58;read;country_7;2458153033;SEO;South America
+2018-01-01 23:46:13;read;country_8;2458153034;Reddit;Asia
+2018-01-01 23:46:22;read;country_2;2458153035;AdWords;Asia
+2018-01-01 23:47:19;read;country_2;2458153036;AdWords;Asia
+2018-01-01 23:49:04;read;country_6;2458153037;Reddit;Asia
+2018-01-01 23:49:52;read;country_5;2458153038;SEO;North America
+2018-01-01 23:51:17;read;country_2;2458153039;Reddit;Asia
+2018-01-01 23:51:25;read;country_4;2458153040;SEO;South America
+2018-01-01 23:51:46;read;country_8;2458153041;AdWords;Africa
+2018-01-01 23:51:52;read;country_2;2458153042;Reddit;Asia
+2018-01-01 23:53:03;read;country_2;2458153043;AdWords;Asia
+2018-01-01 23:53:33;read;country_3;2458153044;Reddit;Asia
+2018-01-01 23:54:03;read;country_2;2458153045;SEO;North America
+2018-01-01 23:54:26;read;country_2;2458153046;AdWords;Africa
+2018-01-01 23:54:39;read;country_6;2458153047;Reddit;Asia
+2018-01-01 23:54:45;read;country_2;2458153048;Reddit;Asia
+2018-01-01 23:55:04;read;country_7;2458153049;AdWords;Europe
+2018-01-01 23:56:42;read;country_4;2458153050;AdWords;Asia
+2018-01-01 23:57:14;read;country_2;2458153051;AdWords;North America
+2018-01-01 23:58:33;read;country_8;2458153052;SEO;Asia
+2018-01-01 23:59:36;read;country_6;2458153053;Reddit;Asia
+2018-01-01 23:59:36;read;country_7;2458153054;AdWords;Europe
+2018-01-01 23:59:38;read;country_5;2458153055;Reddit;Asia
