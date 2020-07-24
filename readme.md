@@ -82,7 +82,7 @@ Topics include:
 + Exponents, logarithms, and the natural log function.
 + Probability theory, including Bayes’ theorem.
 
-## More Python Data Tools - Microsoft
+## [More Python Data Tools - Microsoft](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/More%20Python%20Data%20Tools%20-%20Microsoft)
 + Examining and Querying Pandas Data Frame
 + Reading and Writing CSV files from Pandas Data Frame
 + Removing and splitting DataFrame columns
