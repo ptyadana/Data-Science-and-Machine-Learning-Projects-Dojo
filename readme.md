@@ -38,6 +38,15 @@ Projects include analyzing the following data sets and making visualizations to 
 + [Iris flowers](https://en.wikipedia.org/wiki/Iris_flower_data_set) 
     + [dataset](https://www.kaggle.com/uciml/iris)
 
+	
+## [Data Visualization with Python - Project](https://github.com/ptyadana/DV-Data-Visualization-with-Python)
++ Data analysis and Data Visualization using Pandas, Matplotlib.
+    + Countries's GDP, 
+	+ Life Expectancy comparison across continents, 
+	+ GDP per Capita Relative Growth, 
+	+ Population Reative Growth comparison 
+	+ etc.
+
 
 ## [Music Recommender - ML Project](https://github.com/ptyadana/ML-Music-Recommender)
 A simple machine learning project for recommending the music genre based on 
@@ -73,6 +82,20 @@ Topics include:
 + Exponents, logarithms, and the natural log function.
 + Probability theory, including Bayes’ theorem.
 
+## More Python Data Tools - Microsoft
++ Examining and Querying Pandas Data Frame
++ Reading and Writing CSV files from Pandas Data Frame
++ Removing and splitting DataFrame columns
++ Handling duplicates and rows with missing values
++ Splitting test and training data with scikit-learn
++ Train a linear regression model with scikit-learn
++ Testing a model
++ Evaluating accuracy of a model using calculations
++ NumPy vs Pandas
++ Visualizing data with Matplotlib
+
+
+
 ## [Probability & Statistics (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Probability%20%26%20Statistics)
 + Linear Regression Analysis
 + Multi Regression Analysis
@@ -82,6 +105,7 @@ Topics include:
 ## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
 + Data Analysis with NumPy
++ Linear Regression with Polyfit - Data 36
 
 
 ## License
