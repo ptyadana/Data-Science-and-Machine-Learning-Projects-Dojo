@@ -67,6 +67,10 @@ Analyzing andriod play store data and answering questions like
 + When were these apps released?
 
 
+## [Mini Project - Statistics From Stock Data]()
+Analyzing google, apple and amzon stock prices and checking the rolling mean. 
+
+
 -------------------
 
 
