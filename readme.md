@@ -67,7 +67,7 @@ Analyzing andriod play store data and answering questions like
 + When were these apps released?
 
 
-## [Mini Project - Statistics From Stock Data]()
+## [Mini Project - Statistics From Stock Data](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data)
 Analyzing google, apple and amzon stock prices and checking the rolling mean. 
 
 
