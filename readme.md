@@ -104,6 +104,7 @@ Topics include:
 + Linear Regression Analysis
 + Multi Regression Analysis
 + Pratical Statistics
+    + Admission Case Study with Python
 + Excel Data Manipulation, Analysis and Visualization
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
