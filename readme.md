@@ -71,10 +71,12 @@ Analyzing andriod play store data and answering questions like
 Analyzing google, apple and amzon stock prices and checking the rolling mean. 
 
 
-## [Weather Trend - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Project%20-%20Weather%20Trend)
+## [Weather Trend - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Data%20Analysis/Project%20-%20Weather%20Trend)
 + Analyzing Global weather trends
 + Analyzing Singapore weather trends
 + comparing Global vs Singapore 10 years Moving Average trends
+
+
 -------------------
 
 
