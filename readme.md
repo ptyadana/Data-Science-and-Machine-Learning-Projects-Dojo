@@ -71,6 +71,10 @@ Analyzing andriod play store data and answering questions like
 Analyzing google, apple and amzon stock prices and checking the rolling mean. 
 
 
+## [Weather Trend - Project]()
++ Analyzing Global weather trends
++ Analyzing Singapore weather trends
++ comparing Global vs Singapore 10 years Moving Average trends
 -------------------
 
 
