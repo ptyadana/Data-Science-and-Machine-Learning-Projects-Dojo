@@ -71,11 +71,19 @@ Analyzing andriod play store data and answering questions like
 Analyzing google, apple and amzon stock prices and checking the rolling mean. 
 
 
-## [Weather Trend - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Data%20Analysis/Project%20-%20Weather%20Trend)
+## [Weather Trend - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/blob/master/Data%20Analysis/Project%20-%20Weather%20Trend/Exploring%20Weather%20Trends%20Project.ipynb)
 + Analyzing Global weather trends
 + Analyzing Singapore weather trends
 + comparing Global vs Singapore 10 years Moving Average trends
 
+
+## [Wine Quality Case Study - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/blob/master/Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb)
+Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to find out the following points, in helping wine businesses to model better wine.
++ Is a certain type of wine (red or white) associated with higher quality?
++ What level of acidity (pH value) receives the highest average rating?
++ Do wines with higher alcoholic content receive better ratings?
++ Do sweeter wines (more residual sugar) receive better ratings?
++ White Vs Red Wine Proportions by Color & Quality
 
 -------------------
 
