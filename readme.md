@@ -126,7 +126,8 @@ Topics include:
 + Data Analysis with Pandas
 + Data Analysis with NumPy
 + Linear Regression with Polyfit - Data 36
-+ Matplotlib Data Visualizations
++ Matplotlib - Data Visualizations
++ Scikit-learn - Creating Machine Learning Models
 
 
 ## License
