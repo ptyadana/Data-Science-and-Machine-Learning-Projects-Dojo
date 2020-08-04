@@ -85,6 +85,17 @@ Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to f
 + Do sweeter wines (more residual sugar) receive better ratings?
 + White Vs Red Wine Proportions by Color & Quality
 
+
+## [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb)
+Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) to find out the following points..
++ distributions of greenhouse gas score, combined mpg in 2008 and 2018
++ correlation between displacement and combined mpg ,greenhouse gas score and combined mpg
++ Are more unique models using alternative fuels in 2018 compared to 2008? By how much?
++ How much have vehicle classes improved in fuel economy (increased in mpg)?
++ What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
++ What features are associated with better fuel economy (mpg)?
++ What is the top vehicle which improved the most in terms of combined mpg from 2008 to 2018?
+
 -------------------
 
 
