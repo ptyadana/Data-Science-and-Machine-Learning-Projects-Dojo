@@ -112,7 +112,7 @@ Topics include:
 + Probability theory, including Bayes’ theorem.
 
 
-## [More Python Data Tools - Microsoft](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/More%20Python%20Data%20Tools%20-%20Microsoft)
+## [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
 + Examining and Querying Pandas Data Frame
 + Reading and Writing CSV files from Pandas Data Frame
 + Removing and splitting DataFrame columns
@@ -125,15 +125,20 @@ Topics include:
 + Visualizing data with Matplotlib
 
 
-## [Probability & Statistics (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Probability%20%26%20Statistics)
+## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
 + Linear Regression Analysis
 + Multi Regression Analysis
 + Pratical Statistics
-    + [Admission Case Study with Python (Simpson's Paradox)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Probability%20%26%20Statistics/Pratical%20Statistics/Admission%20Case%20Study)
+    + [Admission Case Study with Python (Simpson's Paradox)](Probability%20%26%20Statistics/Pratical%20Statistics/Admission%20Case%20Study)
+	+ Simulating Coin Flips & Probability
+	+ Stimulating multiple Coin Flips & Bionmial Distribution
+	+ Cancer Test Results
+	+ Conditional Probability & Bayes Rules
+	
 + Excel Data Manipulation, Analysis and Visualization
 
 
-## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
+## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
 + Data Analysis with NumPy
 + Linear Regression with Polyfit - Data 36
