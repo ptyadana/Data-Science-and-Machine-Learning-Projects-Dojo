@@ -146,5 +146,11 @@ Topics include:
 + Scikit-learn - Creating Machine Learning Models
 
 
+## [Data Science and Machine Learning Bootcamp (in progress)](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
++ Python Crash Course
++ Python for Data Analysis - NumPy
++ Python for Data Analysis - Pandas
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
