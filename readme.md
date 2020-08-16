@@ -13,7 +13,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [kaggle](https://www.kaggle.com/) - Source of Dataset collections
 
 
-## [TV, Halftime Shows, and the Big Game - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Project%20-%20TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
+## [TV, Halftime Shows, and the Big Game - Project](Project%20-%20TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering questions like
 + What are the most extreme game outcomes?
 + How does the game affect television viewership?
@@ -60,24 +60,24 @@ ML project for
 - predicting images
 
 
-## [Android Play Store App Data Analysis - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Project%20-%20Android%20Play%20Store%20App%20Data%20Analysis)
+## [Android Play Store App Data Analysis - Project](Project%20-%20Android%20Play%20Store%20App%20Data%20Analysis)
 Analyzing andriod play store data and answering questions like
 + How many apps are paid?
 + How much money are they making?
 + When were these apps released?
 
 
-## [Mini Project - Statistics From Stock Data](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data)
+## [Mini Project - Statistics From Stock Data](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data)
 Analyzing google, apple and amzon stock prices and checking the rolling mean. 
 
 
-## [Weather Trend - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/blob/master/Data%20Analysis/Project%20-%20Weather%20Trend/Exploring%20Weather%20Trends%20Project.ipynb)
+## [Weather Trend - Project](Data%20Analysis/Project%20-%20Weather%20Trend/Exploring%20Weather%20Trends%20Project.ipynb)
 + Analyzing Global weather trends
 + Analyzing Singapore weather trends
 + comparing Global vs Singapore 10 years Moving Average trends
 
 
-## [Wine Quality Case Study - Project](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo/blob/master/Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb)
+## [Wine Quality Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb)
 Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to find out the following points, in helping wine businesses to model better wine.
 + Is a certain type of wine (red or white) associated with higher quality?
 + What level of acidity (pH value) receives the highest average rating?
@@ -150,6 +150,8 @@ Topics include:
 + Python Crash Course
 + Python for Data Analysis - NumPy
 + Python for Data Analysis - Pandas
++ Python for Data Visualization - Matplotlib
++ Python for Data Visualization - Seaborn
 
 
 ## License
