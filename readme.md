@@ -152,6 +152,7 @@ Topics include:
 + Python for Data Analysis - Pandas
 + Python for Data Visualization - Matplotlib
 + Python for Data Visualization - Seaborn
++ Pandas Built In Data Visualization
 
 
 ## License
