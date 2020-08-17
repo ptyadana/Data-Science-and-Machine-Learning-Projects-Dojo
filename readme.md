@@ -166,6 +166,8 @@ Topics include:
 + Python for Data Visualization - Seaborn
 + Pandas Built In Data Visualization
 + Visualization with Plotly and Cufflinks
++ Data Capstone Projects
+    + 911 Calls Project
 
 
 ## License
