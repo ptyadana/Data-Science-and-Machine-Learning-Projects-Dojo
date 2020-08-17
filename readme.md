@@ -1,6 +1,6 @@
-# Data Science and Machine Learning Dojo
+# Data Science, Machine Learning & Visualization Dojo
 
-Collections of Data Science & ML projects and dojo where I practice Data Science and Machine Learning related theories, probability, statistics and other skills.
+Collections of Data Science & ML projects and dojo where I practice Data Science, Machine Learning and Data Visualization related theories, probability, statistics and other skills.
 
 ### Built with
 + [NumPy](https://numpy.org/) - package for scientific computing with Python
@@ -9,6 +9,8 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
 + [seaborn](https://seaborn.pydata.org/) - statistical data visualization
 + [Bokeh ](https://docs.bokeh.org/en/latest/index.html) - interactive visualization library for modern web browsers
++ [Plotly](https://plotly.com/) - The front-end for ML and data science models
++ [cufflinks](https://pypi.org/project/cufflinks/) - Productivity Tools for Plotly + Pandas
 + [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
 + [kaggle](https://www.kaggle.com/) - Source of Dataset collections
 
@@ -153,6 +155,7 @@ Topics include:
 + Python for Data Visualization - Matplotlib
 + Python for Data Visualization - Seaborn
 + Pandas Built In Data Visualization
++ Visualization with Plotly and Cufflinks
 
 
 ## License
