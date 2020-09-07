@@ -35,7 +35,7 @@ Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering
 
 
 ## [Real-time Insights from Social Media Data - Project](Project%20-%20Real-time%20Insights%20from%20Social%20Media%20Data)
-Analyzing Twitter(https://www.datacamp.com/projects/760) data and answering questions like
+Analyzing [Twitter](https://www.datacamp.com/projects/760) data and answering questions like
 + What are gobal trend and local trends?
 + finding the common trends
 + frequency analysis on tweets and hashtags
