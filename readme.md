@@ -34,6 +34,14 @@ Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering
 * Conclusion
 
 
+## [Real-time Insights from Social Media Data - Project](Project%20-%20Real-time%20Insights%20from%20Social%20Media%20Data)
+Analyzing Twitter(https://www.datacamp.com/projects/760) data and answering questions like
++ What are gobal trend and local trends?
++ finding the common trends
++ frequency analysis on tweets and hashtags
++ etc
+
+
 ## [FIFA Football Players & Iris Flower Data Analysis & ML - Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science)
 Projects include analyzing the following data sets and making visualizations to help business decision making
 + [fifa 2019 football players dataset](https://www.kaggle.com/karangadiya/fifa19)
