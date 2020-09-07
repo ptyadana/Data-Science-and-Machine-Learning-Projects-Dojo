@@ -118,45 +118,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 -------------------
 
-
-## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)
-Topics include:
-+ Set theory, including Venn diagrams
-+ Properties of the real number line
-+ Interval notation and algebra with inequalities
-+ Uses for summation and Sigma notation
-+ Math on the Cartesian (x,y) plane, slope and distance formulas
-+ Graphing and describing functions and their inverses on the x-y plane,
-+ The concept of instantaneous rate of change and tangent lines to a curve
-+ Exponents, logarithms, and the natural log function.
-+ Probability theory, including Bayes’ theorem.
-
-
-## [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
-+ Examining and Querying Pandas Data Frame
-+ Reading and Writing CSV files from Pandas Data Frame
-+ Removing and splitting DataFrame columns
-+ Handling duplicates and rows with missing values
-+ Splitting test and training data with scikit-learn
-+ Train a linear regression model with scikit-learn
-+ Testing a model
-+ Evaluating accuracy of a model using calculations
-+ NumPy vs Pandas
-+ Visualizing data with Matplotlib
-
-
-## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
-+ Linear Regression Analysis
-+ Multi Regression Analysis
-+ Pratical Statistics
-    + [Admission Case Study with Python (Simpson's Paradox)](Probability%20%26%20Statistics/Pratical%20Statistics/Admission%20Case%20Study)
-	+ Simulating Coin Flips & Probability
-	+ Stimulating multiple Coin Flips & Bionmial Distribution
-	+ Cancer Test Results
-	+ Conditional Probability & Bayes Rules
-	
-+ Excel Data Manipulation, Analysis and Visualization
-
+# Bootcamps
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
@@ -176,6 +138,38 @@ Topics include:
 + Visualization with Plotly and Cufflinks
 + Data Capstone Projects
     + 911 Calls Project
+	
+
+## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
++ Linear Regression Analysis
++ Multi Regression Analysis
++ Pratical Statistics
+    + [Admission Case Study with Python (Simpson's Paradox)](Probability%20%26%20Statistics/Pratical%20Statistics/Admission%20Case%20Study)
+	+ Simulating Coin Flips & Probability
+	+ Stimulating multiple Coin Flips & Bionmial Distribution
+	+ Cancer Test Results
+	+ Conditional Probability & Bayes Rules
++ Excel Data Manipulation, Analysis and Visualization
+
+
+## [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
++ Examining and Querying Pandas Data Frame
++ Reading and Writing CSV files from Pandas Data Frame
++ Removing and splitting DataFrame columns
++ Handling duplicates and rows with missing values
++ Splitting test and training data with scikit-learn
++ Train a linear regression model with scikit-learn
++ Testing a model
++ Evaluating accuracy of a model using calculations
++ NumPy vs Pandas
++ Visualizing data with Matplotlib
+
+
+## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)
+Topics include:
++ Set theory, including Venn diagrams
++ Properties of the real number line
++ etc
 
 
 ## License
