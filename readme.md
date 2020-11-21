@@ -165,6 +165,20 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Visualizing data with Matplotlib
 
 
+## [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
++ 01.Understanding the data - Art Works Analysis
++ 02.Removing and Fixing Columns with pandas - Art Works Analysis
++ 03.Indexing and Filtering datasets - Art Works Analysis
++ 04.Handling Bad Missing Data - Art Works Analysis
+
+
+## [Pandas Playbook - Manipulating Data](Pandas%20Playbook%20-%20Manipulating%20Data)
++ 01.Exporing Data
++ 02.Selecting, Filtering and Sorting Data
++ 03.Cleaning Data
++ 04.Transforming Data
+
+
 ## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)
 Topics include:
 + Set theory, including Venn diagrams
