@@ -139,6 +139,15 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Data Capstone Projects
     + 911 Calls Project
 	
+	
+## [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
++ Project: Titanic dataset
++ 01.ML Basic
++ 02.Exploratory Data Analysis and Data Cleaning
++ 03.Evaluation - Measuring Success
++ 04.Optimizing a Model
++ 05.End to End Pipeline
+
 
 ## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
 + Linear Regression Analysis
