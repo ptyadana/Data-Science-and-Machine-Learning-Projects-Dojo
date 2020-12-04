@@ -128,7 +128,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Scikit-learn - Creating Machine Learning Models
 
 
-## [Data Science and Machine Learning Bootcamp (in progress)](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
+## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
++ changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
 + Python Crash Course
 + Python for Data Analysis - NumPy
 + Python for Data Analysis - Pandas
@@ -139,7 +140,18 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Data Capstone Projects
     + 911 Calls Project
 	
-	
+
+# Advancing Machine Learning & Data Science Journey - (In Progress)
+
+## [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
++ Project: Titanic dataset
++ 01.Review of Foundation
++ 02.Logistic Regression
++ 03.Support Vector Machine
++ 04.Multi-layer Perceptron
++ 05.Random Forest
++ 06.Boosting
+
 ## [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
 + Project: Titanic dataset
 + 01.ML Basic
@@ -161,6 +173,18 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Excel Data Manipulation, Analysis and Visualization
 
 
+## [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
++ 01.Understanding the data - Art Works Analysis
++ 02.Removing and Fixing Columns with pandas - Art Works Analysis
++ 03.Indexing and Filtering datasets - Art Works Analysis
++ 04.Handling Bad Missing Data - Art Works Analysis
+
+## [Pandas Playbook - Manipulating Data](Pandas%20Playbook%20-%20Manipulating%20Data)
++ 01.Exporing Data
++ 02.Selecting, Filtering and Sorting Data
++ 03.Cleaning Data
++ 04.Transforming Data
+
 ## [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
 + Examining and Querying Pandas Data Frame
 + Reading and Writing CSV files from Pandas Data Frame
@@ -172,20 +196,6 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Evaluating accuracy of a model using calculations
 + NumPy vs Pandas
 + Visualizing data with Matplotlib
-
-
-## [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
-+ 01.Understanding the data - Art Works Analysis
-+ 02.Removing and Fixing Columns with pandas - Art Works Analysis
-+ 03.Indexing and Filtering datasets - Art Works Analysis
-+ 04.Handling Bad Missing Data - Art Works Analysis
-
-
-## [Pandas Playbook - Manipulating Data](Pandas%20Playbook%20-%20Manipulating%20Data)
-+ 01.Exporing Data
-+ 02.Selecting, Filtering and Sorting Data
-+ 03.Cleaning Data
-+ 04.Transforming Data
 
 
 ## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)
