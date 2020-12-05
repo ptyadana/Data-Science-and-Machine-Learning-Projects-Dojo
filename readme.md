@@ -151,6 +151,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + 04.Multi-layer Perceptron
 + 05.Random Forest
 + 06.Boosting
++ 07.Final Model Selection and Evaluation
 
 ## [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
 + Project: Titanic dataset
