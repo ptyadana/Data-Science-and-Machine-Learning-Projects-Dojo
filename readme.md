@@ -129,9 +129,9 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
-+ new track of 2021 Python for Machine Learning & Data Science Masterclass
++ new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 + Python Crash Course
-+ Python for Data Analysis - NumPy
++ NumPy
 
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
