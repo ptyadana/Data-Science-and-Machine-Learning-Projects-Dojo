@@ -169,6 +169,13 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + 05.End to End Pipeline
 
 
+## [ML - Classification Modelling with Iris flowers](ML%20-%20Classification%20Modelling%20with%20Iris%20flowers)
++ [Practical Intro to Machine Learning: classification modelling](https://skl.sh/2UXN5RZ)
++ 01.Exploratory Data Analysis
++ 02.Model Fitting
++ 03.Measuring Performance
+
+
 ## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
 + Linear Regression Analysis
 + Multi Regression Analysis
