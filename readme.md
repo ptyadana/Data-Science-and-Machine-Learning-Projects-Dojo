@@ -150,6 +150,15 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
 
+## [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
++ Project: Titanic dataset
++ 01.ML Basic
++ 02.Intro to Feature Engineering
++ 03.Explore Data
++ 04.Create and Clean Features
++ 05.Prepare Features for Modelling
++ 06.Compare and Evaluate Models
+
 ## [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
 + Project: Titanic dataset
 + 01.Review of Foundation
