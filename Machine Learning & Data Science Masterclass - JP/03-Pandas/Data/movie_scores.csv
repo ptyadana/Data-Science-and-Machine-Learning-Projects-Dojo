@@ -1,0 +1,6 @@
+first_name,last_name,age,sex,pre_movie_score,post_movie_score
+Tom,Hanks,63.0,m,8.0,10.0
+,,,,,
+Hugh,Jackman,51.0,m,,
+Oprah,Winfrey,66.0,f,6.0,8.0
+Emma,Stone,31.0,f,7.0,9.0
