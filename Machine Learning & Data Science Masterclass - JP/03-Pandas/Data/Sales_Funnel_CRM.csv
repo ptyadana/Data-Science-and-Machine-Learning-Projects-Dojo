@@ -1,0 +1,18 @@
+Account Number,Company,Contact,Account Manager,Product,Licenses,Sale Price,Status
+2123398, Google,Larry Pager,Edward Thorp,Analytics,150,2100000,Presented
+2123398, Google,Larry Pager,Edward Thorp,Prediction,150,700000,Presented
+2123398, Google,Larry Pager,Edward Thorp,Tracking,300,350000,Under Review
+2192650,BOBO,Larry Pager,Edward Thorp,Analytics,150,2450000,Lost
+420496,IKEA,Elon Tusk,Edward Thorp,Analytics,300,4550000,Won
+636685,Tesla Inc.,Elon Tusk,Edward Thorp,Analytics,300,2800000,Under Review
+636685,Tesla Inc.,Elon Tusk,Edward Thorp,Prediction,150,700000,Presented
+1216870,Microsoft,Will Grates,Edward Thorp,Tracking,300,350000,Under Review
+2200450,Walmart,Will Grates,Edward Thorp,Analytics,150,2450000,Lost
+405886,Apple,Cindy Phoner,Claude Shannon,Analytics,300,4550000,Won
+470248,Exxon Mobile,Cindy Phoner,Claude Shannon,Analytics,150,2100000,Presented
+698032,ATT,Cindy Phoner,Claude Shannon,Tracking,150,350000,Under Review
+698032,ATT,Cindy Phoner,Claude Shannon,Prediction,150,700000,Presented
+902797,CVS Health,Emma Gordian,Claude Shannon,Tracking,450,490000,Won
+2046943,Salesforce,Emma Gordian,Claude Shannon,Analytics,750,7000000,Won
+2169499,Cisco,Emma Gordian,Claude Shannon,Analytics,300,4550000,Lost
+2169499,Cisco,Emma Gordian,Claude Shannon,GPS Positioning,300,350000,Presented
