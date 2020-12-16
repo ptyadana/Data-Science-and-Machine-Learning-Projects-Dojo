@@ -133,6 +133,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Python Crash Course
 + NumPy
 + Pandas
++ Matplotlib
++ Seaborn Data Visualizations
 
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
