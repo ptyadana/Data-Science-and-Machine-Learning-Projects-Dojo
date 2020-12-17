@@ -15,6 +15,42 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [kaggle](https://www.kaggle.com/) - Source of Dataset collections
 
 
+## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
+Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
++ This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/)
++ using data from [538](https://github.com/fivethirtyeight/data)
++ If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets.
++ Do they have a bias towards rating movies higher than they should be rated?
++ etc..
+
+## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
+Data Analysis and Visualization Capstone project from Data Science and Machine Learning Bootcamp Course.
++ analyzing 911 calls data from [kaggle](https://www.kaggle.com/mchirico/montcoalert)
++ top 5 zips code for 911 calls
++ top 5 townships for 911 calls
++ most common Reason for a 911
++ different types of visualizations based on the findings
++ etc..
+
+## [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb)
+Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) to find out the following points..
++ distributions of greenhouse gas score, combined mpg in 2008 and 2018
++ correlation between displacement and combined mpg ,greenhouse gas score and combined mpg
++ Are more unique models using alternative fuels in 2018 compared to 2008? By how much?
++ How much have vehicle classes improved in fuel economy (increased in mpg)?
++ What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
++ What features are associated with better fuel economy (mpg)?
++ What is the top vehicle which improved the most in terms of combined mpg from 2008 to 2018?
+
+## [Wine Quality Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb)
+Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to find out the following points, in helping wine businesses to model better wine.
++ Is a certain type of wine (red or white) associated with higher quality?
++ What level of acidity (pH value) receives the highest average rating?
++ Do wines with higher alcoholic content receive better ratings?
++ Do sweeter wines (more residual sugar) receive better ratings?
++ White Vs Red Wine Proportions by Color & Quality
+
+
 ## [TV, Halftime Shows, and the Big Game - Project](Project%20-%20TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering questions like
 + What are the most extreme game outcomes?
@@ -32,6 +68,11 @@ Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering
 * Who has the most halftime show appearances?
 * Who performed the most songs in a halftime show?
 * Conclusion
+
+## [Weather Trend - Project](Data%20Analysis/Project%20-%20Weather%20Trend/Exploring%20Weather%20Trends%20Project.ipynb)
++ Analyzing Global weather trends
++ Analyzing Singapore weather trends
++ comparing Global vs Singapore 10 years Moving Average trends
 
 
 ## [Real-time Insights from Social Media Data - Project](Project%20-%20Real-time%20Insights%20from%20Social%20Media%20Data)
@@ -57,7 +98,7 @@ Projects include analyzing the following data sets and making visualizations to 
 	+ Population Reative Growth comparison 
 	+ etc.
 
-
+	
 ## [Music Recommender - ML Project](https://github.com/ptyadana/ML-Music-Recommender)
 A simple machine learning project for recommending the music genre based on 
 + age
@@ -79,50 +120,6 @@ Analyzing andriod play store data and answering questions like
 
 ## [Mini Project - Statistics From Stock Data](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data)
 Analyzing google, apple and amzon stock prices and checking the rolling mean. 
-
-
-## [Weather Trend - Project](Data%20Analysis/Project%20-%20Weather%20Trend/Exploring%20Weather%20Trends%20Project.ipynb)
-+ Analyzing Global weather trends
-+ Analyzing Singapore weather trends
-+ comparing Global vs Singapore 10 years Moving Average trends
-
-
-## [Wine Quality Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb)
-Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to find out the following points, in helping wine businesses to model better wine.
-+ Is a certain type of wine (red or white) associated with higher quality?
-+ What level of acidity (pH value) receives the highest average rating?
-+ Do wines with higher alcoholic content receive better ratings?
-+ Do sweeter wines (more residual sugar) receive better ratings?
-+ White Vs Red Wine Proportions by Color & Quality
-
-
-## [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb)
-Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) to find out the following points..
-+ distributions of greenhouse gas score, combined mpg in 2008 and 2018
-+ correlation between displacement and combined mpg ,greenhouse gas score and combined mpg
-+ Are more unique models using alternative fuels in 2018 compared to 2008? By how much?
-+ How much have vehicle classes improved in fuel economy (increased in mpg)?
-+ What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
-+ What features are associated with better fuel economy (mpg)?
-+ What is the top vehicle which improved the most in terms of combined mpg from 2008 to 2018?
-
-## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
-Data Analysis and Visualization Capstone project from Data Science and Machine Learning Bootcamp Course.
-+ analyzing 911 calls data from [kaggle](https://www.kaggle.com/mchirico/montcoalert)
-+ top 5 zips code for 911 calls
-+ top 5 townships for 911 calls
-+ most common Reason for a 911
-+ different types of visualizations based on the findings
-+ etc..
-
-## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
-Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
-+ This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/)
-+ using data from [538](https://github.com/fivethirtyeight/data)
-+ If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets.
-+ Do they have a bias towards rating movies higher than they should be rated?
-+ etc..
-
 
 -------------------
 
