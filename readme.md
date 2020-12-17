@@ -115,6 +115,14 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + different types of visualizations based on the findings
 + etc..
 
+## [Fandango Vs Other sites movie ratings](Dojo%20-%20Data Science%20and%20Machine%20Learning/Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
+Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
++ This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](Be Suspicious Of Online Movie Ratings, Especially Fandango’s)
++ using data from [538](https://github.com/fivethirtyeight/data)
++ If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets.
++ Do they have a bias towards rating movies higher than they should be rated?
++ etc..
+
 
 -------------------
 
@@ -135,6 +143,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Pandas
 + Matplotlib
 + Seaborn Data Visualizations
++ Data Analysis and Data Visualization Capstone Project
+    + Fandango Vs other sites movie ratings
 
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
