@@ -115,7 +115,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + different types of visualizations based on the findings
 + etc..
 
-## [Fandango Vs Other sites movie ratings](Dojo%20-%20Data Science%20and%20Machine%20Learning/Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
+## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
 Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
 + This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/)
 + using data from [538](https://github.com/fivethirtyeight/data)
