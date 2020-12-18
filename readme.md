@@ -125,14 +125,6 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 
 # Bootcamps
 
-## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
-+ Data Analysis with Pandas
-+ Data Analysis with NumPy
-+ Linear Regression with Polyfit - Data 36
-+ Matplotlib - Data Visualizations
-+ Scikit-learn - Creating Machine Learning Models
-
-
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
 + new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 + Python Crash Course
@@ -142,6 +134,15 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Seaborn Data Visualizations
 + Data Analysis and Data Visualization Capstone Project
     + Fandango Vs other sites movie ratings
++ Linear Regression
+
+
+## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
++ Data Analysis with Pandas
++ Data Analysis with NumPy
++ Linear Regression with Polyfit - Data 36
++ Matplotlib - Data Visualizations
++ Scikit-learn - Creating Machine Learning Models
 
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
