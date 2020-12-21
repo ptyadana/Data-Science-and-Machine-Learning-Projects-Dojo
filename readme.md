@@ -135,6 +135,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Data Analysis and Data Visualization Capstone Project
     + Fandango Vs other sites movie ratings
 + Linear Regression
++ Feature Engineering
 
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
