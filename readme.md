@@ -200,21 +200,21 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 
 
 ## [Kaggle Courses](https://www.kaggle.com/learn)
-- [x]Python
-- [x]Pandas
-- [ ]Data Cleaning
-- [x]Introduction to Machine Learning
-- [ ]Machine Learning Intermediate
-- [ ]Feature Engineering
-- [ ]Machine Learning Explaniability
-- [ ]Data Visualization
-- [ ]Intro to Deep Learning
-- [ ]Intro to Game AI and Reinforcement Learning
-- [ ]Natural Language Processing
-- [ ]Micro-challenges
-- [ ]Computer Vision
-- [ ]Intro to SQL
-- [ ]Advanced SQL
+- [x] Python
+- [x] Pandas
+- [ ] Data Cleaning
+- [x] Introduction to Machine Learning
+- [ ] Machine Learning Intermediate
+- [ ] Feature Engineering
+- [ ] Machine Learning Explaniability
+- [ ] Data Visualization
+- [ ] Intro to Deep Learning
+- [ ] Intro to Game AI and Reinforcement Learning
+- [ ] Natural Language Processing
+- [ ] Micro-challenges
+- [ ] Computer Vision
+- [ ] Intro to SQL
+- [ ] Advanced SQL
 
 
 ## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
