@@ -199,21 +199,21 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + 03.Measuring Performance
 
 ## [Kaggle Courses](https://www.kaggle.com/learn)
-[X]Python
-[X]Pandas
-[]Data Cleaning
-[X]Introduction to Machine Learning
-[]Machine Learning Intermediate
-[]Feature Engineering
-[]Machine Learning Explaniability
-[]Data Visualization
-[]Intro to Deep Learning
-[]Intro to Game AI and Reinforcement Learning
-[]Natural Language Processing
-[]Micro-challenges
-[]Computer Vision
-[]Intro to SQL
-[]Advanced SQL
+- [X]Python
+- [X]Pandas
+- []Data Cleaning
+- [X]Introduction to Machine Learning
+- []Machine Learning Intermediate
+- []Feature Engineering
+- []Machine Learning Explaniability
+- []Data Visualization
+- []Intro to Deep Learning
+- []Intro to Game AI and Reinforcement Learning
+- []Natural Language Processing
+- []Micro-challenges
+- []Computer Vision
+- []Intro to SQL
+- []Advanced SQL
 
 
 
