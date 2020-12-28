@@ -202,7 +202,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 ## [Kaggle Courses](https://www.kaggle.com/learn)
 - [x] Python
 - [x] Pandas
-- [ ] Data Cleaning
+- [x] Data Cleaning
 - [x] Introduction to Machine Learning
 - [ ] Machine Learning Intermediate
 - [ ] Feature Engineering
