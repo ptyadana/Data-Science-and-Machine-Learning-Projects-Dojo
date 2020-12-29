@@ -140,6 +140,11 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ Ames Housing Data Project
 + Logistic Regression
 
+## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)]([Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow]
++ [x] The Fundamentals of Machine Learning
++ [x] The Machine Learning Landscape
++ [] End-to-End Machine Learning Project
+
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
@@ -147,7 +152,6 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Linear Regression with Polyfit - Data 36
 + Matplotlib - Data Visualizations
 + Scikit-learn - Creating Machine Learning Models
-
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
