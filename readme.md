@@ -139,9 +139,9 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Cross Validation, Grid Search and Linear Regression Project
 	+ [Ames Housing Data Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise-MySolutions.ipynb)
 + Logistic Regression
-	+ [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution.ipynb)
+	+ [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
 
-## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)]([Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow]
+## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow)
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
 + [ ] End-to-End Machine Learning Project
