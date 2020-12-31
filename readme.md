@@ -144,7 +144,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)]([Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow]
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
-+ [] End-to-End Machine Learning Project
++ [ ] End-to-End Machine Learning Project
 
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
