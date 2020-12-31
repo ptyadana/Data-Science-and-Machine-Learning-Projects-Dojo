@@ -133,12 +133,13 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Matplotlib
 + Seaborn Data Visualizations
 + Data Analysis and Data Visualization Capstone Project
-    + Fandango Vs other sites movie ratings
+    + [Fandango Vs other sites movie ratings](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project)
 + Linear Regression
 + Feature Engineering and Data Preparation
 + Cross Validation, Grid Search and Linear Regression Project
-	+ Ames Housing Data Project
+	+ [Ames Housing Data Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise-MySolutions.ipynb)
 + Logistic Regression
+	+ [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution.ipynb)
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)]([Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow]
 + [x] The Fundamentals of Machine Learning
