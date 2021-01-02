@@ -149,6 +149,9 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
 + KNN - K Nearest Neighbors
 	+ [Sona Data - Detecting Rock or Mine Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
++ SVM - Support Vector Machines
+
+	
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow)
 + [x] The Fundamentals of Machine Learning
