@@ -28,6 +28,7 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Ames Housing Data Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise-MySolutions.ipynb)
 + [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
 + [Sona Data - Detecting Rock or Mine Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
++ [Wine Fraud Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
 
 
 ## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
@@ -150,6 +151,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + KNN - K Nearest Neighbors
 	+ [Sona Data - Detecting Rock or Mine Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
 + SVM - Support Vector Machines
+	+ [Wine Fraud Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
 
 	
 
