@@ -226,7 +226,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 - [x] Machine Learning Intermediate
 - [ ] Feature Engineering
 - [ ] Machine Learning Explaniability
-- [ ] Data Visualization
+- [x] Data Visualization
 - [ ] Intro to Deep Learning
 - [ ] Intro to Game AI and Reinforcement Learning
 - [ ] Natural Language Processing
