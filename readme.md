@@ -13,6 +13,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [cufflinks](https://pypi.org/project/cufflinks/) - Productivity Tools for Plotly + Pandas
 + [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
 + [kaggle](https://www.kaggle.com/) - Source of Dataset collections
++ [streamlit](https://www.streamlit.io/) - The fastest way to build and share data apps
 
 
 ## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
@@ -39,6 +40,11 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + most common Reason for a 911
 + different types of visualizations based on the findings
 + etc..
+
+
+## [ML App - Random Forest Algorithm - ML Project](https://github.com/ptyadana/ml-app)
++ Machine learning app using streamlit, for building a regression model using the Random Forest algorithm.
+
 
 ## [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb)
 Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) to find out the following points..
