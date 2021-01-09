@@ -154,7 +154,7 @@ def additionalplot_solution_1():
     comb_order = make_means.sort_values('comb', ascending = False).index
 
     # plotting
-    g = sb.FacetGrid(data = fuel_econ_sub, col = 'make', col_wrap = 6, size = 2,
+    g = sb.FacetGrid(data = fuel_econ_sub, col = 'make', col_wrap = 6, height = 2,
                      col_order = comb_order)
     # try sb.distplot instead of plt.hist to see the plot in terms of density!
     g.map(plt.hist, 'comb', bins = np.arange(12, fuel_econ_sub['comb'].max()+2, 2))
