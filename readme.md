@@ -188,6 +188,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
+To skill up my ML & DS related skills in specific areas and topics:
 
 ## [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
 + Project: Titanic dataset
@@ -240,6 +241,14 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 - [ ] Computer Vision
 - [ ] Intro to SQL
 - [ ] Advanced SQL
+
+
+## Apache Spark & PySpark
+- [ ] Intro to Spark SQL and DataFrames
+- [ ] Spark for Machine Learning & AI
+- [ ] Apache PySpark by Example
+- [ ] Apache Spark Deep Learning Essentital Training
+
 
 
 ## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
