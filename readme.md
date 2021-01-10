@@ -247,7 +247,8 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [ ] Intro to Spark SQL and DataFrames
 - [ ] Spark for Machine Learning & AI
 - [ ] Apache PySpark by Example
-- [ ] Apache Spark Deep Learning Essentital Training
+- [ ] Apache Spark Deep Learning Essential Training
+- [ ] Apache Spark Essential Training
 
 
 
