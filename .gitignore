@@ -5,6 +5,9 @@
 .vscode/
 settings.json
 
+## Ignore Very Big data files
+/Spark - Apache PySpark by Example/data/*
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
