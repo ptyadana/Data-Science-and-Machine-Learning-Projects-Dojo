@@ -14,6 +14,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
 + [kaggle](https://www.kaggle.com/) - Source of Dataset collections
 + [streamlit](https://www.streamlit.io/) - The fastest way to build and share data apps
++ [Spark with pyspark](https://spark.apache.org/docs/latest/api/python/index.html) - PySpark is the collaboration of Apache Spark and Python
 
 
 ## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
