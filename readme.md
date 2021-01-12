@@ -165,7 +165,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Tree Based Methods - Decision Tree Learning
 	
 
-## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%Machine%Learning%with%Scikit-Learn,%Keras,%and%TensorFlow)
+## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
 + [ ] End-to-End Machine Learning Project
@@ -252,7 +252,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [ ] Spark for Machine Learning & AI
 - [x] [Apache PySpark by Example](Spark%20-%20Apache%20PySpark%20by%20Example)
 - [ ] Apache Spark Deep Learning Essential Training
-- [ ] Apache Spark Essential Training
+- [x] [Apache Spark Essential Training](Spark%20-%20Apache%20Spark%20Essential%20Training)
 
 
 
