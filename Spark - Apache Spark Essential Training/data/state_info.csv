@@ -1,0 +1,51 @@
+State,StateCode,Capital,LargestCity,PopulationEst2015,HouseSeats,StateHood
+Alabama,AL,Montgomery,Birmingham,4858979,7,1819-12-14
+Alaska,AK,Juneau,Anchorage,738432,1,1959-01-03
+Arizona,AZ,Phoenix,Phoenix,6828065,9,1912-02-14
+Arkansas,AR,Little Rock,Little Rock,2978204,4,1836-06-15
+California,CA,Sacramento,Los Angeles,39144818,53,1850-09-09
+Colorado,CO,Denver,Denver,5456574,7,1876-08-01
+Connecticut,CT,Hartford,Bridgeport,3590886,5,1788-01-09
+Delaware,DE,Dover,Wilmington,945934,1,1787-12-07
+Florida,FL,Tallahassee,Jacksonville,20271272,27,1845-03-03
+Georgia,GA,Atlanta,Atlanta,10214860,14,1788-01-02
+Hawaii,HI,Honolulu,Honolulu,1431603,2,1959-08-21
+Idaho,ID,Boise,Boise,1654930,2,1890-07-03
+Illinois,IL,Springfield,Chicago,12859995,18,1818-12-03
+Indiana,IN,Indianapolis,Indianapolis,6619680,9,1816-12-11
+Iowa,IA,Des Moines,Des Moines,3123899,4,1846-12-28
+Kansas,KS,Topeka,Wichita,2911641,4,1861-01-29
+Kentucky,KY,Frankfort,Louisville,4425092,6,1792-06-01
+Louisiana,LA,Baton Rouge,New Orleans,4670724,6,1812-04-30
+Maine,ME,Augusta,Portland,1329328,2,1820-03-15
+Maryland,MD,Annapolis,Baltimore,6006401,8,1788-04-28
+Massachusetts,MA,Boston,Boston,6794422,9,1788-02-06
+Michigan,MI,Lansing,Detroit,9922576,14,1837-01-26
+Minnesota,MN,St. Paul,Minneapolis,5489594,8,1858-05-11
+Mississippi,MS,Jackson,Jackson,2992333,4,1817-12-10
+Missouri,MO,Jefferson City,Kansas City,6083672,8,1821-08-10
+Montana,MT,Helena,Billings,1032949,1,1889-11-08
+Nebraska,NE,Lincoln,Omaha,1896190,3,1867-03-01
+Nevada,NV,Carson City,Las Vegas,2890845,4,1864-10-31
+New Hampshire,NH,Concord,Manchester,1330608,2,1788-06-21
+New Jersey,NJ,Trenton,Newark,8958013,12,1787-12-18
+New Mexico,NM,Santa Fe,Albuquerque,2085109,3,1912-01-06
+New York,NY,Albany,New York,19795791,27,1788-07-26
+North Carolina,NC,Raleigh,Charlotte,10042802,13,1789-11-21
+North Dakota,ND,Bismarck,Fargo,756927,1,1889-11-02
+Ohio,OH,Columbus,Columbus,11613423,16,1803-03-01
+Oklahoma,OK,Oklahoma City,Oklahoma City,3911338,5,1907-11-16
+Oregon,OR,Salem,Portland,4028977,5,1859-02-14
+Pennsylvania,PA,Harrisburg,Philadelphia,12802503,18,1787-12-12
+Rhode Island,RI,Providence,Providence,1056298,2,1790-05-29
+South Carolina,SC,Columbia,Columbia,4896146,7,1788-05-23
+South Dakota,SD,Pierre,Sioux Falls,858469,1,1889-11-02
+Tennessee,TN,Nashville,Memphis,6600299,9,1796-06-01
+Texas,TX,Austin,Houston,27469114,36,1845-12-29
+Utah,UT,Salt Lake City,Salt Lake City,2995919,4,1896-01-04
+Vermont,VT,Montpelier,Burlington,626042,1,1791-03-04
+Virginia,VA,Richmond,Virginia Beach,8382993,11,1788-06-25
+Washington,WA,Olympia,Seattle,7170351,10,1889-11-11
+West Virginia,WV,Charleston,Charleston,1844128,3,1863-06-20
+Wisconsin,WI,Madison,Milwaukee,5771337,8,1848-05-29
+Wyoming,WY,Cheyenne,Cheyenne,586107,1,1890-07-10
