@@ -1,0 +1,5 @@
+{"event_datetime": "03/05/2019 08:06:14","server_id": 100,"cpu": 0.57,"free_memory": 0.51,"session_count": 47},
+{"event_datetime": "03/05/2019 08:11:14","server_id": 100,"cpu": 0.47,"free_memory": 0.62,"session_count": 43},
+{"event_datetime": "03/05/2019 08:16:14","server_id": 100,"cpu": 0.56,"free_memory": 0.57,"session_count": 62},
+{"event_datetime": "03/05/2019 08:21:14","server_id": 100,"cpu": 0.57,"free_memory": 0.56,"session_count": 50},
+{"event_datetime": "03/05/2019 08:26:14","server_id": 100,"cpu": 0.35,"free_memory": 0.46,"session_count": 43}

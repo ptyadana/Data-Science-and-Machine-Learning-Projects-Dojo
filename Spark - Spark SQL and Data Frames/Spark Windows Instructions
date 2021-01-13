@@ -1,0 +1,12 @@
+Spark Windows Installation Instructions
+
+
+1. In the search bar, type environment and select Edit the System environment variables
+2. Click the Environment Variables... button
+3. Click New and enter SPARK_HOME as the Variable name and the path to the main spark folder as the Variable value then click OK
+4. Click New and enter PYSPARK_DRIVER_PYTHON as the Variable name and jupyter as the Variable value then click OK
+5. Click New and enter PYSPARK_DRIVER_PYTHON_OPTS as the Variable name and notebook as the Variable value then click OK
+6. Select the Path variable and click Edit...
+7. Click New and type out the path to the spark\bin folder then click OK
+8. Click OK on the Environment Variables window
+9. Click OK on the System Properties window
