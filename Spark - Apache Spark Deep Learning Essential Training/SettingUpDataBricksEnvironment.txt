@@ -20,3 +20,6 @@
 - PyPi > 
 	- type "wrapt" in Package text box 
 	- Install
+- PyPi > 
+	- type "pillow" in Package text box 
+	- Install
