@@ -249,10 +249,10 @@ To skill up my ML & DS related skills in specific areas and topics:
 
 ## Apache Spark & PySpark
 - [x] [Intro to Spark SQL and DataFrames](Spark%20-%20Spark%20SQL%20and%20Data%20Frames)
+- [x] [Apache Spark Essential Training](Spark%20-%20Apache%20Spark%20Essential%20Training)
 - [ ] Spark for Machine Learning & AI
 - [x] [Apache PySpark by Example](Spark%20-%20Apache%20PySpark%20by%20Example)
-- [ ] Apache Spark Deep Learning Essential Training
-- [x] [Apache Spark Essential Training](Spark%20-%20Apache%20Spark%20Essential%20Training)
+- [x] [Apache Spark Deep Learning Essential Training](Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
 
 
