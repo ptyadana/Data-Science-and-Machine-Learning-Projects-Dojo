@@ -1,0 +1,22 @@
+*** Setting up DataBricks environments ***
+
+- Log in databricks
+- create a new cluster
+- Libraries > Install New > 
+- Maven > Search Packages
+	- close window if packages are not displayed. click Search Packages again
+	- type "deep-"
+	- Select "spark-deep-learning" > Select Releases [1.4.0]
+	- click Install
+- PyPi > 
+	- type "tensorflow==1.15.0" in Package text box 
+	- Install
+- PyPi > 
+	- type "keras==2.2.5" in Package text box 
+	- Install
+- PyPi > 
+	- type "h5py==2.9.0" in Package text box 
+	- Install
+- PyPi > 
+	- type "wrapt" in Package text box 
+	- Install
