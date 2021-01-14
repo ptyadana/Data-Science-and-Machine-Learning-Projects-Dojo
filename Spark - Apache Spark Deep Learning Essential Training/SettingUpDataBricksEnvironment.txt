@@ -1,7 +1,7 @@
 *** Setting up DataBricks environments ***
 
 - Log in databricks
-- create a new cluster
+- create a new cluster (6.4 ML (includes Apache Spark 2.4.5, Scala 2.11))
 - Libraries > Install New > 
 - Maven > Search Packages
 	- close window if packages are not displayed. click Search Packages again
