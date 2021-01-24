@@ -46,6 +46,12 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + etc..
 
 
+## [Predicting Heart Disease - Classification Project](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/11.Heart%20Disease%20Project/Milestone%20Project%20-%20Heart%20Disease%20Classification.ipynb)
+Milestone project from Complete Machine Learning and Data Science - Zero to Mastery course.
++ The project is to build a machine learning model capable of predicting whether or not someone has a Heart Disease based on their medical attributes.
++ using data from [Heart Disease Data Set of UCI - kaggle version](https://www.kaggle.com/ronitf/heart-disease-uci)
+
+
 ## [ML App - Random Forest Algorithm - ML Project](https://github.com/ptyadana/ml-app)
 + Machine learning app using streamlit, for building a regression model using the Random Forest algorithm.
 
@@ -177,6 +183,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Linear Regression with Polyfit - Data 36
 + Matplotlib - Data Visualizations
 + Scikit-learn - Creating Machine Learning Models
++ Milestone Project - Supervised Learning (Classification)- Heart Disease
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
