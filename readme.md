@@ -51,6 +51,11 @@ Milestone project from Complete Machine Learning and Data Science - Zero to Mast
 + The project is to build a machine learning model capable of predicting whether or not someone has a Heart Disease based on their medical attributes.
 + using data from [Heart Disease Data Set of UCI - kaggle version](https://www.kaggle.com/ronitf/heart-disease-uci)
 
+## [Predicting Bulldozer Sale Price - Regression Project](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
+Milestone project from Complete Machine Learning and Data Science - Zero to Mastery course.
++ The project is to build a machine learning model to predict the sale price of bulldozers based on the past prices.
++ using data from [Blue Book for Bulldozers - kaggle version](https://www.kaggle.com/c/bluebook-for-bulldozers/overview)
+
 
 ## [ML App - Random Forest Algorithm - ML Project](https://github.com/ptyadana/ml-app)
 + Machine learning app using streamlit, for building a regression model using the Random Forest algorithm.
@@ -183,7 +188,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Linear Regression with Polyfit - Data 36
 + Matplotlib - Data Visualizations
 + Scikit-learn - Creating Machine Learning Models
-+ Milestone Project - Supervised Learning (Classification)- Heart Disease
++ Milestone Project - Supervised Learning (Classification)- Heart Disease Detection
++ Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
