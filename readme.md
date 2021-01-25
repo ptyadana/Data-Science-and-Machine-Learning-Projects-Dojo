@@ -188,8 +188,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Linear Regression with Polyfit - Data 36
 + Matplotlib - Data Visualizations
 + Scikit-learn - Creating Machine Learning Models
-+ Milestone Project - Supervised Learning (Classification)- Heart Disease Detection
-+ Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction
++ [Milestone Project - Supervised Learning (Classification)- Heart Disease Detection](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/11.Heart%20Disease%20Project/Milestone%20Project%20-%20Heart%20Disease%20Classification.ipynb)
++ [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
