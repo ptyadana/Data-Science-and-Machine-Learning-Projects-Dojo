@@ -6,7 +6,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [NumPy](https://numpy.org/) - package for scientific computing with Python
 + [pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
 + [scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
-+ [TensorFlow](https://www.tensorflow.org/ - An end-to-end open source machine learning platform)
++ [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform)
 + [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
 + [seaborn](https://seaborn.pydata.org/) - statistical data visualization
 + [Bokeh ](https://docs.bokeh.org/en/latest/index.html) - interactive visualization library for modern web browsers
