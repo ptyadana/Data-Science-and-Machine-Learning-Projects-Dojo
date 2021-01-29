@@ -56,6 +56,11 @@ Milestone project from Complete Machine Learning and Data Science - Zero to Mast
 + The project is to build a machine learning model to predict the sale price of bulldozers based on the past prices.
 + using data from [Blue Book for Bulldozers - kaggle version](https://www.kaggle.com/c/bluebook-for-bulldozers/overview)
 
+## [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
+Project from Complete Machine Learning and Data Science - Zero to Mastery course.
++ The project is to build deep learning model with Tensorflow to predict the dog breeds.
++ using data from [Dog Breed Identification - kaggle version](https://www.kaggle.com/c/dog-breed-identification/overview)
+
 
 ## [ML App - Random Forest Algorithm - ML Project](https://github.com/ptyadana/ml-app)
 + Machine learning app using streamlit, for building a regression model using the Random Forest algorithm.
@@ -182,7 +187,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [ ] End-to-End Machine Learning Project
 
 
-## [Complete Machine Learning and Data Science - Zero to Mastery (in progress)](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
+## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
 + Data Analysis with NumPy
 + Linear Regression with Polyfit - Data 36
@@ -190,6 +195,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Scikit-learn - Creating Machine Learning Models
 + [Milestone Project - Supervised Learning (Classification)- Heart Disease Detection](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/11.Heart%20Disease%20Project/Milestone%20Project%20-%20Heart%20Disease%20Classification.ipynb)
 + [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
++ [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
