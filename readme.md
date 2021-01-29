@@ -200,7 +200,6 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
-+ changed and continued in the new track of 2021 Python for Machine Learning & Data Science Masterclass
 + Python Crash Course
 + Python for Data Analysis - NumPy
 + Python for Data Analysis - Pandas
