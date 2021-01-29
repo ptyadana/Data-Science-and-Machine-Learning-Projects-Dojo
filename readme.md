@@ -209,6 +209,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Visualization with Plotly and Cufflinks
 + Data Capstone Projects
     + 911 Calls Project
++ Neural Nets and Deep Learning
 	
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
