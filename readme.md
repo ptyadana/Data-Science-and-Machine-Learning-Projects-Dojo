@@ -6,7 +6,8 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [NumPy](https://numpy.org/) - package for scientific computing with Python
 + [pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
 + [scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
-+ [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform)
++ [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform
++ [Keras](https://keras.io/) - Deep Learning framework
 + [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
 + [seaborn](https://seaborn.pydata.org/) - statistical data visualization
 + [Bokeh ](https://docs.bokeh.org/en/latest/index.html) - interactive visualization library for modern web browsers
@@ -208,8 +209,11 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Pandas Built In Data Visualization
 + Visualization with Plotly and Cufflinks
 + Data Capstone Projects
-    + 911 Calls Project
+    + [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
 + Neural Nets and Deep Learning
+	+ [Regression Project- Predict House Price for House Sales in King County, USA]()
+	+ [Classification Project- Breast Cancer Wisconsin (Diagnostic)]()
+	+ [Final Project - Classification - Load Default Prediction]()
 	
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
