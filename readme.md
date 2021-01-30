@@ -1,27 +1,37 @@
 # Data Science, Machine Learning & Visualization Dojo
 
-Collections of Data Science & ML projects and dojo where I practice Data Science, Machine Learning and Data Visualization related theories, probability, statistics and other skills.
+Collections of Data Science & ML projects and dojo where I practice Data Science, Machine Learning, Deep Learning and Data Visualization related skills, theories, probability, statistics, etc.
 
 ### Built with
+#### Machine Learing, Deep Learning, Data Science libraries
 + [NumPy](https://numpy.org/) - package for scientific computing with Python
-+ [pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
-+ [scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
++ [Pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
++ [Scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
 + [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform
 + [Keras](https://keras.io/) - Deep Learning framework
+
+#### Data Visualization libraries
 + [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
-+ [seaborn](https://seaborn.pydata.org/) - statistical data visualization
-+ [Bokeh ](https://docs.bokeh.org/en/latest/index.html) - interactive visualization library for modern web browsers
++ [Seaborn](https://seaborn.pydata.org/) - statistical data visualization
++ [Bokeh](https://docs.bokeh.org/en/latest/index.html) - interactive visualization library for modern web browsers
 + [Plotly](https://plotly.com/) - The front-end for ML and data science models
-+ [cufflinks](https://pypi.org/project/cufflinks/) - Productivity Tools for Plotly + Pandas
++ [Cufflinks](https://pypi.org/project/cufflinks/) - Productivity Tools for Plotly + Pandas
+
+#### Turning into Web applications
++ [Streamlit](https://www.streamlit.io/) - The fastest way to build and share data apps
+
+#### Spark
++ [Apache Spark](https://spark.apache.org/) - a unified analytics engine for large-scale data processing.
++ [Spark with pyspark](https://spark.apache.org/docs/latest/api/python/index.html) - PySpark is the collaboration of Apache Spark and Python
++ [Databricks](https://databricks.com/) - Unified Data Analytics Platform - One cloud platform for massive scale data engineering and collaborative data science.
+
+#### Tools and Datasources
 + [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
 + [Google Colab](https://colab.research.google.com/) - Great Notebook system by google, which give free access to GPUs
-+ [kaggle](https://www.kaggle.com/) - Source of Dataset collections
-+ [streamlit](https://www.streamlit.io/) - The fastest way to build and share data apps
-+ [Apache Spark](https://spark.apache.org/) - a unified analytics engine for large-scale data processing.
-+ [databricks](https://databricks.com/) - Unified Data Analytics Platform - One cloud platform for massive scale data engineering and collaborative data science.
-+ [Spark with pyspark](https://spark.apache.org/docs/latest/api/python/index.html) - PySpark is the collaboration of Apache Spark and Python
++ [Kaggle](https://www.kaggle.com/) - Source of Dataset collections
 
-
+------------
+# Projects
 
 ## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
 Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
@@ -213,7 +223,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Neural Nets and Deep Learning
 	+ [Regression Project- Predict House Price for House Sales in King County, USA]()
 	+ [Classification Project- Breast Cancer Wisconsin (Diagnostic)]()
-	+ [Final Project - Classification - Load Default Prediction]()
+	+ [Final Project - Classification - Loan Default Prediction]()
 	
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
