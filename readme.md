@@ -47,9 +47,9 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
 + [Sona Data - Detecting Rock or Mine Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
 + [Wine Fraud Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
-+ [Loan Default Prediction Prediction](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
-+ [Predict House Price for House Sales in King County, USA Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
-+ [Breast Cancer Wisconsin (Diagnostic) Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
++ [Loan Default Prediction Prediction - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
++ [Predict House Price for House Sales in King County, USA - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
++ [Breast Cancer Wisconsin (Diagnostic) - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
 
 
 ## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
@@ -72,7 +72,7 @@ Milestone project from Complete Machine Learning and Data Science - Zero to Mast
 + The project is to build a machine learning model to predict the sale price of bulldozers based on the past prices.
 + using data from [Blue Book for Bulldozers - kaggle version](https://www.kaggle.com/c/bluebook-for-bulldozers/overview)
 
-## [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
+## [Deep Learning ANN Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 Project from Complete Machine Learning and Data Science - Zero to Mastery course.
 + The project is to build deep learning model with Tensorflow to predict the dog breeds.
 + using data from [Dog Breed Identification - kaggle version](https://www.kaggle.com/c/dog-breed-identification/overview)
