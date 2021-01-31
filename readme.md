@@ -227,6 +227,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Regression Project - Predict House Price for House Sales in King County, USA](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
 	+ [Classification Project - Breast Cancer Wisconsin (Diagnostic)](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
 	+ [Final Project - Classification - Loan Default Prediction](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
+	+ TensorBoard
 	
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
