@@ -195,6 +195,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + SVM - Support Vector Machines
 	+ [Wine Fraud Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
 + Tree Based Methods - Decision Tree Learning
++ Random Forests
 	
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
