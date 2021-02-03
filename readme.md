@@ -33,6 +33,11 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 ------------
 # Projects
 
+## [Breast Cancer Tumor Diagnostic - Classification Project](ML%20-%20Breast%20Cancer%20Classification%20Project%20-%20SVM/Breast_Cancer_Classification_Project.ipynb)
++ The project is to build a machine learning model to predict whether the tumor is benign or malignant basedon several observations/features.
++ using data from [Breast Cancer Wisconsin (Diagnostic) Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+
+
 ## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
 Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
 + This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/)
