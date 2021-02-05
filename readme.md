@@ -9,6 +9,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [Scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
 + [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform
 + [Keras](https://keras.io/) - Deep Learning framework
++ [NLTK](https://www.nltk.org/) - Natural Language Toolkit
 
 #### Data Visualization libraries
 + [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
@@ -202,13 +203,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Tree Based Methods - Decision Tree Learning
 + Random Forests
 	
-
-## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
-+ [x] The Fundamentals of Machine Learning
-+ [x] The Machine Learning Landscape
-+ [ ] End-to-End Machine Learning Project
-
-
+	
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
 + Data Analysis with NumPy
@@ -218,6 +213,13 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [Milestone Project - Supervised Learning (Classification)- Heart Disease Detection](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/11.Heart%20Disease%20Project/Milestone%20Project%20-%20Heart%20Disease%20Classification.ipynb)
 + [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
+
+
+## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
++ [x] The Fundamentals of Machine Learning
++ [x] The Machine Learning Landscape
++ [ ] End-to-End Machine Learning Project
+
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + Python Crash Course
@@ -232,6 +234,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + K Means Clustering
 + Principal Component Analysis
 + Recommender Systems
++ Natural Language Processing
 + Neural Nets and Deep Learning
 	+ [Regression Project - Predict House Price for House Sales in King County, USA](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
 	+ [Classification Project - Breast Cancer Wisconsin (Diagnostic)](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
