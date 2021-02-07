@@ -59,7 +59,7 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Yelp Reviews Classification - Natural Language Processing Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/22.%20Natural%20Language%20Processing/02-NLP%20Project%20-%20Yelp.ipynb)
 + [Ecommerce Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/11-Linear-Regression/02-Linear%20Regression%20-%20Ecommerce%20Project.ipynb)
 + [20Advertisement Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
-
++ [20Anonymized Data Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
 
 
 ## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
@@ -239,6 +239,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Ecommerce Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/11-Linear-Regression/02-Linear%20Regression%20-%20Ecommerce%20Project.ipynb)
 + Logistic Regression
 	+ [20Advertisement Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
++ K Nearest Neighbors (KNN)
+	+ [20Anonymized Data Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
 + K Means Clustering
 + Principal Component Analysis
 + Recommender Systems
