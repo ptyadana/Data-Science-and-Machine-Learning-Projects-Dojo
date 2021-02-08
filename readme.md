@@ -243,6 +243,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [20Anonymized Data Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
 + Decision Tree and Random Forest
 	+ [Loan Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/15-Decision-Trees-and-Random-Forests/02-Decision%20Trees%20and%20Random%20Forest%20-%20Loan%20Prediction%20Project.ipynb)
++ Support Vector Machine (SVM)
+	+[Iris Flower Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/16-Support-Vector-Machines/02-Support%20Vector%20Machines%20Project.ipynb)
 + K Means Clustering
 + Principal Component Analysis
 + Recommender Systems
