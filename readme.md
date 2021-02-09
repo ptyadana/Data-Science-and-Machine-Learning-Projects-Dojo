@@ -30,6 +30,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
 + [Google Colab](https://colab.research.google.com/) - Great Notebook system by google, which give free access to GPUs
 + [Kaggle](https://www.kaggle.com/) - Source of Dataset collections
++ [Plotly Chart Studio](https://plotly.com/chart-studio/) - The fastest way to publish & embed interactive charts online
 
 ------------
 # Projects
@@ -244,7 +245,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Decision Tree and Random Forest
 	+ [Loan Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/15-Decision-Trees-and-Random-Forests/02-Decision%20Trees%20and%20Random%20Forest%20-%20Loan%20Prediction%20Project.ipynb)
 + Support Vector Machine (SVM)
-	+[Iris Flower Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/16-Support-Vector-Machines/02-Support%20Vector%20Machines%20Project.ipynb)
+	+	[Iris Flower Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/16-Support-Vector-Machines/02-Support%20Vector%20Machines%20Project.ipynb)
 + K Means Clustering
 + Principal Component Analysis
 + Recommender Systems
