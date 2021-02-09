@@ -322,7 +322,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Apache Spark Deep Learning Essential Training](Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
 
-## [Data Visualizations with Plotly]()
+## [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
 + 01.Plotly Foundation
 + 02.Using Scenarios with Plotly
 + 03.Creating Visualization with Plotly
