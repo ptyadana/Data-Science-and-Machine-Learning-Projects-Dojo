@@ -322,17 +322,17 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Apache Spark Deep Learning Essential Training](Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
 
-
-## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
-+ Linear Regression Analysis
-+ Multi Regression Analysis
-+ Pratical Statistics
-    + [Admission Case Study with Python (Simpson's Paradox)](Probability%20%26%20Statistics/Pratical%20Statistics/Admission%20Case%20Study)
-	+ Simulating Coin Flips & Probability
-	+ Stimulating multiple Coin Flips & Bionmial Distribution
-	+ Cancer Test Results
-	+ Conditional Probability & Bayes Rules
-+ Excel Data Manipulation, Analysis and Visualization
+## [Data Visualizations with Plotly]()
++ 01.Plotly Foundation
++ 02.Using Scenarios with Plotly
++ 03.Creating Visualization with Plotly
+	+ Basic Charts (Line Graph, Bar Graph, Scatter Plot, Bubble Chart)
+	+ Statstical Charts (Histogram,  Distribution, Scatter Matrix, Correlation Matrix with Imshow, Color Scales and Sequences)
+	+ 3D Plotting (3D Scatter Plot, 3D Bubble Chart, 3D Line Chart, 3D Surface Plot)
+	+ Mapping (Scatter Plot on Map, Choropleth, Mapbox and Geopandas)
+	+ Sunburst Chart
+	+ Snakey Chart
++ 04.Adding Interactivity with Plotly
 
 
 ## [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
@@ -358,6 +358,18 @@ To skill up my ML & DS related skills in specific areas and topics:
 + Evaluating accuracy of a model using calculations
 + NumPy vs Pandas
 + Visualizing data with Matplotlib
+
+
+## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
++ Linear Regression Analysis
++ Multi Regression Analysis
++ Pratical Statistics
+    + [Admission Case Study with Python (Simpson's Paradox)](Probability%20%26%20Statistics/Pratical%20Statistics/Admission%20Case%20Study)
+	+ Simulating Coin Flips & Probability
+	+ Stimulating multiple Coin Flips & Bionmial Distribution
+	+ Cancer Test Results
+	+ Conditional Probability & Bayes Rules
++ Excel Data Manipulation, Analysis and Visualization
 
 
 ## [Data Science Math Skills - Duke University](https://www.coursera.org/learn/datasciencemathskills)

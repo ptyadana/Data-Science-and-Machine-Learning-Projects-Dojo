@@ -1,0 +1,10 @@
+label,target_label,value,source,target
+Chinook Released,Re-Captured,10469,0,3
+Chinook Released,Not Re-Captured,24426,0,4
+Coho Released,Re-Captured,5267,1,3
+Coho Released,Not Re-Captured,15801,1,4
+Sockeye Released,Re-Captured,9382,2,3
+Sockeye Released,Not Re-Captured,45804,2,4
+Re-Captured,Returned,1256,3,5
+Re-Captured,Not Re-Captured,23862,3,6
+Not Re-Captured,Not Re-Captured,86031,4,6
