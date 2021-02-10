@@ -289,7 +289,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 + 05.End to End Pipeline
 
 
-## [ML - Mistakes to avoid in Machine Learning](Data-Science-and-Machine-Learning-Projects-Dojo/tree/master/ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning)
+## [ML - Mistakes to avoid in Machine Learning](ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning/01_00_Mistakes%20to%20avoid%20in%20Machine%20Learning.ipynb)
 + [x] Assuming Data is good to go
 + [x] Neglecting to consult subject matter experts
 + [x] Overtiffing your models
