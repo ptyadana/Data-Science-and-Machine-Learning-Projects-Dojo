@@ -289,6 +289,23 @@ To skill up my ML & DS related skills in specific areas and topics:
 + 05.End to End Pipeline
 
 
+## [ML - Mistakes to avoid in Machine Learning]()
++ [x] Assuming Data is good to go
++ [x] Neglecting to consult subject matter experts
++ [x] Overtiffing your models
++ [x] Not standardizing your data
++ [x] Focusing on Wrong Factors
++ [x] Data Leakage
++ [x] Forgetting traditional statistics tools
++ [x] Assuming Deployment is a breeze
++ [x] Assuming Machine Learning is the answer
++ [x] Developing in a silo
++ [x] Not treating for imbalanced sampling
++ [x] Interpreting your coefficients without properly treating for multicollinearity
++ [x] Evaluating by accuracy alone
++ [x] Giving overly technical presentations
+
+
 ## [ML - Classification Modelling with Iris flowers](ML%20-%20Classification%20Modelling%20with%20Iris%20flowers)
 + [Practical Intro to Machine Learning: classification modelling](https://skl.sh/2UXN5RZ)
 + 01.Exploratory Data Analysis
