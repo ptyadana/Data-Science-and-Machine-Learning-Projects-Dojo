@@ -188,6 +188,17 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 
 # Bootcamps
 
+## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP (in progress)](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
++ NumPy Crash Course
++ Pandas Crash Course
++ Visualization Crash Course
++ Basic Artifical Neural Networks - ANNs
+	+ Basic Keras Project
+	+ [Predict House Price for House Sales in King County, USA - Regression Project]()
+	+ [Breast Cancer Wisconsin (Diagnostic) - Classification Project]()
+
+
+
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
 + new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 + Python Crash Course
@@ -212,6 +223,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Boosting Methods
 	+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
 	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
+
 	
 	
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
