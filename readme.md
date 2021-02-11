@@ -54,6 +54,8 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Heart Disease Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
 + [Sona Data - Detecting Rock or Mine Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
 + [Wine Fraud Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
++ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
++ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
 + [Loan Default Prediction Prediction - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
 + [Predict House Price for House Sales in King County, USA - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
 + [Breast Cancer Wisconsin (Diagnostic) - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
@@ -208,8 +210,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Tree Based Methods - Decision Tree Learning
 + Random Forests
 + Boosting Methods
-	+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost]()
-	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting]()
+	+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
+	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
 	
 	
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
