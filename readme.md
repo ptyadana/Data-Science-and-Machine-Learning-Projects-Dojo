@@ -207,6 +207,9 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Wine Fraud Detection Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
 + Tree Based Methods - Decision Tree Learning
 + Random Forests
++ Boosting Methods
+	+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost]()
+	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting]()
 	
 	
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
