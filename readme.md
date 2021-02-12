@@ -196,6 +196,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Basic Keras Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/00-Keras-Syntax-Basics.ipynb)
 	+ [Predict House Price for House Sales in King County, USA - Regression Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/01-Keras-Regression.ipynb)
 	+ [Breast Cancer Wisconsin (Diagnostic) - Classification Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/02-Keras-Classification.ipynb)
+	+ [Loan Default Prediction Prediction - Classification Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/03-Keras-Project-Exercise-Loan-Predictions.ipynb)
 
 
 
