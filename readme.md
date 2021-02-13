@@ -200,7 +200,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ Tensorboard
 + Convolutional Neural Networks - CNNs
 	+ [Convolutional Neural Networks for Image Classification - MNIST data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
-	+ [Convolutional Neural Networks for Image Classification - CIFAR 10 data]()
+	+ [Convolutional Neural Networks for Image Classification - CIFAR 10 data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
 	+ [Convolutional Neural Networks for Image Classification - Real Image Project]()
 
 
