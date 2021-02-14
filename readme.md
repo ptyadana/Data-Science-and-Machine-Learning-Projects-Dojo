@@ -56,25 +56,18 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Wine Fraud Detection Project - SVM](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
 + [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
 + [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
-+ [Loan Default Prediction Prediction - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
-+ [Predict House Price for House Sales in King County, USA - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
-+ [Breast Cancer Wisconsin (Diagnostic) - ANN Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
-+ [Yelp Reviews Classification - Natural Language Processing Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/22.%20Natural%20Language%20Processing/02-NLP%20Project%20-%20Yelp.ipynb)
 + [Ecommerce Project - Linear Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/11-Linear-Regression/02-Linear%20Regression%20-%20Ecommerce%20Project.ipynb)
 + [Advertisement Project - Logistic Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
 + [Anonymized Data Project - KNN](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
-+ [CNN Convolutional Neural Networks for Image Classification - MNIST data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
-+ [CNN Convolutional Neural Networks for Image Classification - CIFAR 10 data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
-+ [CNN Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
 
-## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
-Data Analysis and Visualization Capstone project from Data Science and Machine Learning Bootcamp Course.
-+ analyzing 911 calls data from [kaggle](https://www.kaggle.com/mchirico/montcoalert)
-+ top 5 zips code for 911 calls
-+ top 5 townships for 911 calls
-+ most common Reason for a 911
-+ different types of visualizations based on the findings
-+ etc..
+### Deep Learning Projects
++ [ANN - Loan Default Prediction Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
++ [ANN - Predict House Price for House Sales in King County, USA Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
++ [ANN - Breast Cancer Wisconsin (Diagnostic) Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - MNIST data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - CIFAR 10 data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
++ [NLP - Yelp Reviews Classification - Natural Language Processing Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/22.%20Natural%20Language%20Processing/02-NLP%20Project%20-%20Yelp.ipynb)
 
 
 ## [Predicting Heart Disease - Classification Project](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/11.Heart%20Disease%20Project/Milestone%20Project%20-%20Heart%20Disease%20Classification.ipynb)
@@ -91,6 +84,16 @@ Milestone project from Complete Machine Learning and Data Science - Zero to Mast
 Project from Complete Machine Learning and Data Science - Zero to Mastery course.
 + The project is to build deep learning model with Tensorflow to predict the dog breeds.
 + using data from [Dog Breed Identification - kaggle version](https://www.kaggle.com/c/dog-breed-identification/overview)
+
+
+## [911 Calls - Data Capstone Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/10-Data-Capstone-Projects/Project%20-%20911%20Calls/01-911%20Calls%20Data%20Capstone%20Project%20-%20My%20Solutions.ipynb)
+Data Analysis and Visualization Capstone project from Data Science and Machine Learning Bootcamp Course.
++ analyzing 911 calls data from [kaggle](https://www.kaggle.com/mchirico/montcoalert)
++ top 5 zips code for 911 calls
++ top 5 townships for 911 calls
++ most common Reason for a 911
++ different types of visualizations based on the findings
++ etc..
 
 
 ## [ML App - Random Forest Algorithm - ML Project](https://github.com/ptyadana/ml-app)
