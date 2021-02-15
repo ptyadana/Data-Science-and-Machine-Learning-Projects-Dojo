@@ -48,6 +48,10 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + Do they have a bias towards rating movies higher than they should be rated?
 + etc..
 
+## [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
++ This project is to build a machine learning model to predict whether or not a customer will Churn or not.
++ Includes cohort analysis based on Telco subsriber's contract type, etc.
+
 
 ## Machine Learning & Data Science Masterclass Projects
 + [Ames Housing Data Project - Linear Regression](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise-MySolutions.ipynb)
@@ -59,6 +63,7 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Ecommerce Project - Linear Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/11-Linear-Regression/02-Linear%20Regression%20-%20Ecommerce%20Project.ipynb)
 + [Advertisement Project - Logistic Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
 + [Anonymized Data Project - KNN](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
++ [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
 
 ### Deep Learning Projects
 + [ANN - Loan Default Prediction Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
@@ -236,6 +241,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Boosting Methods
 	+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
 	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
++ [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
 
 	
 	
