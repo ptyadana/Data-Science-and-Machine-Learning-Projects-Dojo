@@ -380,8 +380,8 @@ To skill up my ML & DS related skills in specific areas and topics:
 ## Data Analysis, Manipulation & Data Visualization
 + [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
-+ [x] [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
-+ [x] [Pandas Playbook - Manipulating Data](Pandas%20Playbook%20-%20Manipulating%20Data)
++ [x] [Python Data Playbook - Cleaning Data](Pandas%20-%20Python%20Data%20Playbook%20-%20Cleaning%20Data)
++ [x] [Pandas Playbook - Manipulating Data](Pandas%20-%20Pandas%20Playbook%20-%20Manipulating%20Data)
 + [x] [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
 
 
@@ -396,30 +396,6 @@ To skill up my ML & DS related skills in specific areas and topics:
 	+ Sunburst Chart
 	+ Snakey Chart
 + 04.Adding Interactivity with Plotly
-
-## [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
-+ 01.Understanding the data - Art Works Analysis
-+ 02.Removing and Fixing Columns with pandas - Art Works Analysis
-+ 03.Indexing and Filtering datasets - Art Works Analysis
-+ 04.Handling Bad Missing Data - Art Works Analysis
-
-## [Pandas Playbook - Manipulating Data](Pandas%20Playbook%20-%20Manipulating%20Data)
-+ 01.Exporing Data
-+ 02.Selecting, Filtering and Sorting Data
-+ 03.Cleaning Data
-+ 04.Transforming Data
-
-## [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
-+ Examining and Querying Pandas Data Frame
-+ Reading and Writing CSV files from Pandas Data Frame
-+ Removing and splitting DataFrame columns
-+ Handling duplicates and rows with missing values
-+ Splitting test and training data with scikit-learn
-+ Train a linear regression model with scikit-learn
-+ Testing a model
-+ Evaluating accuracy of a model using calculations
-+ NumPy vs Pandas
-+ Visualizing data with Matplotlib
 
 
 ## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
