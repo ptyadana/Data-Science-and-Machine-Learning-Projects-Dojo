@@ -6,6 +6,8 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 #### Machine Learing, Deep Learning, Data Science libraries
 + [NumPy](https://numpy.org/) - package for scientific computing with Python
 + [Pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
++ [Pandas Profiling](https://pypi.org/project/pandas-profiling/) - generate reports from dataframe
++ [Geo Pandas](https://pypi.org/project/geopandas/) - support for geographic data to pandas objects.
 + [Scikit-learn](https://scikit-learn.org/stable/) - Simple and efficient tools for predictive data analysis
 + [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform
 + [Keras](https://keras.io/) - Deep Learning framework
