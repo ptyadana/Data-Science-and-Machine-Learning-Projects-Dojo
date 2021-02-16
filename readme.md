@@ -375,7 +375,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Apache Spark Deep Learning Essential Training](Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
 
-## Data Manipulation & Data Visualization
+## Data Analysis, Manipulation & Data Visualization
 + [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
 + [x] [Python Data Playbook - Cleaning Data](Python%20Data%20Playbook%20-%20Cleaning%20Data)
