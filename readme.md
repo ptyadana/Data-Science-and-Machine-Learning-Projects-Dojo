@@ -218,6 +218,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Convolutional Neural Networks for Image Classification - Fashion MNIST Data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/04-DL-CV-Assessment%20-%20Fashion%20MNIST%20Data%20Project.ipynb)
 + Recurrent Neural Networks - RNNs
 	+ [Sinewave Example](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/00-RNN-SineWave-Example.ipynb)
+	+ [RNN Example for Time Series - Advance Monthly Sales for Retail and Food Services(Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/01-RNN-Time-Series-Example-MonthlySalesRetailFood.ipynb)
 
 
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
