@@ -75,6 +75,7 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [CNN - Convolutional Neural Networks for Image Classification - CIFAR 10 data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
 + [CNN - Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
 + [CNN - Convolutional Neural Networks for Image Classification - Fashion MNIST Data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/04-DL-CV-Assessment%20-%20Fashion%20MNIST%20Data%20Project.ipynb)
++ [RNN - Forzen Dessert Sales Forecasting with LSTM](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/02-RNN-Forzen-Dessert-Montly-Sales-Forecasting.ipynb)
 + [NLP - Yelp Reviews Classification - Natural Language Processing Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/22.%20Natural%20Language%20Processing/02-NLP%20Project%20-%20Yelp.ipynb)
 
 
@@ -219,6 +220,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + Recurrent Neural Networks - RNNs
 	+ [Sinewave Example](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/00-RNN-SineWave-Example.ipynb)
 	+ [RNN Example for Time Series - Advance Monthly Sales for Retail and Food Services(Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/01-RNN-Time-Series-Example-MonthlySalesRetailFood.ipynb)
+	+ [RNN Forzen Dessert Sales Forecasting with LSTM](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/02-RNN-Forzen-Dessert-Montly-Sales-Forecasting.ipynb)
 
 
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
