@@ -224,6 +224,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Multivariate Time Series with RNN](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/04-Multivariate-Time-Series-RNN.ipynb)
 + Natural Language Processing - NLP
 	+ [Generating Text with RNNs - Shakespeare](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/06-NLP-and-Text-Data/00_Generating_Text_with_RNNs_Shakespears.ipynb)
++ Auto Encoders
+	+ [AutoEncoders for Dimensionality Reduction](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/00-Autoencoders.ipynb)
 
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
 + new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
