@@ -230,6 +230,8 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [AutoEncoders for Dimensionality Reduction](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/00-Autoencoders.ipynb)
 	+ [AutoEncoders on Image Data - Dimensionality Reduction & Noise Removal](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/01-Autoencoders-on-Image-Data.ipynb)
 	+ [Average Eating Habits of UK Countries - Autoencoders](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/02-UK%20countries%20average%20eating%20habits%20-%20Autoencoder.ipynb)
++ Generative Adverserial Networks - GANs
+	+ [GANs - Generative Adverserial Networks with Dense Layers](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/08-GANs/00-Generative-Adversarial-Networks-with-Dense-Layers.ipynb)
 
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
 + new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
