@@ -22,6 +22,7 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 
 #### Turning into Web applications
 + [Streamlit](https://www.streamlit.io/) - The fastest way to build and share data apps
++ [Flask](https://flask.palletsprojects.com/en/1.1.x/) - a micro web framework written in Python
 
 #### Spark
 + [Apache Spark](https://spark.apache.org/) - a unified analytics engine for large-scale data processing.
