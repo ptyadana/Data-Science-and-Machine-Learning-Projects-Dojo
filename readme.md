@@ -68,7 +68,7 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
 
 ### Deep Learning Projects
-+ [Iris Flower Predictions App](https://iris-flower-app-by-ptyadana.herokuapp.com/)
++ [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
 + [ANN - Loan Default Prediction Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
 + [ANN - Predict House Price for House Sales in King County, USA Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
 + [ANN - Breast Cancer Wisconsin (Diagnostic) Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
@@ -205,7 +205,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 
 # Bootcamps
 
-## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP (in progress)](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
+## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
 + NumPy Crash Course
 + Pandas Crash Course
 + Visualization Crash Course
@@ -236,7 +236,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [DCGANs - Deep Convolutional Generative Adverserial Networks](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/08-GANs/01-DCGANS.ipynb)
 + Deployment
 	+ [Iris Flower Predictions Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/09-Deployment/00-Iris-Flower-Predictions-Basic-Model.ipynb)
-	+ [Iris Flower Predictions App](https://iris-flower-app-by-ptyadana.herokuapp.com/)
+	+ [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
 
 ## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
 + new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
