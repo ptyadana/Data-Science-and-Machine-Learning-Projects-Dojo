@@ -282,6 +282,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [ ] Week 03 - Enhancing Vision with CNN
 + [ ] Week 04 - Using Real-world images
 
+
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
