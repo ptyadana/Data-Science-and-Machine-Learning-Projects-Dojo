@@ -278,7 +278,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 
 ## [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (in progress)](Tensorflow%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL)
 + [x] Week 01- A New Programming Paradigm
-+ [ ] Week 02 - Introduction to Computer Vision
++ [x] Week 02 - Introduction to Computer Vision
 + [ ] Week 03 - Enhancing Vision with CNN
 + [ ] Week 04 - Using Real-world images
 
