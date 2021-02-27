@@ -265,8 +265,7 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
 + [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
 
-	
-	
+
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
 + Data Analysis with NumPy
@@ -277,6 +276,11 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
+## [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (in progress)](Tensorflow%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL)
++ [x] Week 01- A New Programming Paradigm
++ [ ] Week 02 - Introduction to Computer Vision
++ [ ] Week 03 - Enhancing Vision with CNN
++ [ ] Week 04 - Using Real-world images
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
 + [x] The Fundamentals of Machine Learning
