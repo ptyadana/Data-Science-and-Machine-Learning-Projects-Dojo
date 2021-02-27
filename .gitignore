@@ -9,6 +9,11 @@ settings.json
 /Spark - Apache PySpark by Example/data/*
 /Data Science and Machine Learning Bootcamp - JP/21. Neural Nets and Deep Learning/TensorFlow-Data/lending_club_loan_two.csv
 
+
+## Pycharm ##
+.idea
+*/.idea/*
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
