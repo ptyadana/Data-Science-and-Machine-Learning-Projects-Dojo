@@ -264,7 +264,9 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 	+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
 	+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
 + [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
-
++ Naive Bayes Classification and Natural Language Processing (Supervised Learning)
+	+ [NLP - Feature Extraction](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/00-Feature-Extraction-From-Text.ipynb)
+	+ [Flight Tweets Sentiment Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/01-Text-Classification%20-%20Flight%20tweets.ipynb)
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
