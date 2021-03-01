@@ -67,8 +67,8 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [Advertisement Project - Logistic Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
 + [Anonymized Data Project - KNN](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
 + [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
-+ [Flight Tweets Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/01-Text-Classification%20-%20Flight%20tweets.ipynb)
-+ [Moview Reivew Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/02-Text-Classification-Movie_Reviews_Sentiment_Analysis.ipynb)
++ [NLP - Flight Tweets Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/01-Text-Classification%20-%20Flight%20tweets.ipynb)
++ [NLP - Moview Reivew Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/02-Text-Classification-Movie_Reviews_Sentiment_Analysis.ipynb)
 
 ### Deep Learning Projects
 + [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
