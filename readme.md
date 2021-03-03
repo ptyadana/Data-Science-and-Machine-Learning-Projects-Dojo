@@ -281,8 +281,16 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
+
+## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
++ [ ] Week 01 - Exploring a Larger Dataset
++ [ ] Week 02 - Augmentation: A technique to avoid overfitting
++ [ ] Week 03 - Transfer Learning
++ [ ] Week 04 - Multiclass Classification
+
+
 ## [DeepLearning.AI - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](Tensorflow%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL)
-+ [x] Week 01- A New Programming Paradigm
++ [x] Week 01 - A New Programming Paradigm
 + [x] Week 02 - Introduction to Computer Vision
 + [x] Week 03 - Enhancing Vision with CNN
 + [x] Week 04 - Using Real-world images
