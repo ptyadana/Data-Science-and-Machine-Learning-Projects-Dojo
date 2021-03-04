@@ -213,7 +213,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 
 ## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
-+ [ ] Week 01 - Exploring a Larger Dataset
++ [x] Week 01 - Exploring a Larger Dataset
 + [ ] Week 02 - Augmentation: A technique to avoid overfitting
 + [ ] Week 03 - Transfer Learning
 + [ ] Week 04 - Multiclass Classification
