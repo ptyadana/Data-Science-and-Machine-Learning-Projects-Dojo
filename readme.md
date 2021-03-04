@@ -115,94 +115,24 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Machine learning app using streamlit, for building a regression model using the Random Forest algorithm.
 
 
-## [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb)
-Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) to find out the following points..
-+ distributions of greenhouse gas score, combined mpg in 2008 and 2018
-+ correlation between displacement and combined mpg ,greenhouse gas score and combined mpg
-+ Are more unique models using alternative fuels in 2018 compared to 2008? By how much?
-+ How much have vehicle classes improved in fuel economy (increased in mpg)?
-+ What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
-+ What features are associated with better fuel economy (mpg)?
-+ What is the top vehicle which improved the most in terms of combined mpg from 2008 to 2018?
 
-## [Wine Quality Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb)
-Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to find out the following points, in helping wine businesses to model better wine.
-+ Is a certain type of wine (red or white) associated with higher quality?
-+ What level of acidity (pH value) receives the highest average rating?
-+ Do wines with higher alcoholic content receive better ratings?
-+ Do sweeter wines (more residual sugar) receive better ratings?
-+ White Vs Red Wine Proportions by Color & Quality
+# Data Analysis and Visualization
++ [Data Visualization with Python - Project](https://github.com/ptyadana/DV-Data-Visualization-with-Python): Data analysis and Data Visualization using Pandas, Matplotlib for Countries's GDP, Life Expectancy comparison across continents, GDP per Capita Relative Growth, Population Reative Growth comparison etc.
++ [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb): Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) for distributions of greenhouse gas score, combined mpg in 2008 and 2018, correlation between displacement and combined mpg ,greenhouse gas score and combined mpg. Are more unique models using alternative fuels in 2018 compared to 2008? By how much? How much have vehicle classes improved in fuel economy (increased in mpg)? What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas) What features are associated with better fuel economy (mpg)? What is the top vehicle which improved the most in terms of combined mpg from 2008 to 2018?
++ [Wine Quality Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb): Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) for the following points for wine businesses to model better wine. Is a certain type of wine (red or white) associated with higher quality? What level of acidity (pH value) receives the highest average rating? Do wines with higher alcoholic content receive better ratings? Do sweeter wines (more residual sugar) receive better ratings? White Vs Red Wine Proportions by Color & Quality
++ [TV, Halftime Shows, and the Big Game - Project](Project%20-%20TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game): Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering questions like - What are the most extreme game outcomes? How does the game affect television viewership? How have viewership, TV ratings, and ad cost evolved over time? Who are the most prolific musicians in terms of halftime show performances?
++ [Weather Trend - Project](Data%20Analysis/Project%20-%20Weathaer%20Trend/Exploring%20Weather%20Trends%20Project.ipynb): Analyzing Global weather trends, Singapore weather trends, Comparing Global vs Singapore 10 years Moving Average trends
++ [Real-time Insights from Social Media Data - Project](Project%20-%20Real-time%20Insights%20from%20Social%20Media%20Data): Analyzing [Twitter](https://www.datacamp.com/projects/760) data and answering questions like: What are gobal trend and local trends?, finding the common trends
++ frequency analysis on tweets and hashtags, etc.
++ [Statistics From Stock Data](AI%20Programming%20with%20Python/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data/Statistics%20from%20Stock%20Data.ipynb): Analyzing google, apple and amzon stock prices and checking the rolling mean.
++ [Android Play Store App Data Analysis - Project](Project%20-%20Android%20Play%20Store%20App%20Data%20Analysis): Analyzing andriod play store data and answering questions like - How many apps are paid? How much money are they making? When were these apps released?
 
 
-## [TV, Halftime Shows, and the Big Game - Project](Project%20-%20TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
-Analyzing [Superbowls](https://www.datacamp.com/projects/684) data and answering questions like
-+ What are the most extreme game outcomes?
-+ How does the game affect television viewership?
-+ How have viewership, TV ratings, and ad cost evolved over time?
-+ Who are the most prolific musicians in terms of halftime show performances?
-* Project Tasks includes:
-* TV, halftime shows, and the Big Game
-* Taking note of dataset issues
-* Combined points distribution
-* Point difference distribution
-* Do blowouts translate to lost viewers?
-* Viewership and the ad industry over time
-* Halftime shows weren't always this great
-* Who has the most halftime show appearances?
-* Who performed the most songs in a halftime show?
-* Conclusion
 
-## [Weather Trend - Project](Data%20Analysis/Project%20-%20Weather%20Trend/Exploring%20Weather%20Trends%20Project.ipynb)
-+ Analyzing Global weather trends
-+ Analyzing Singapore weather trends
-+ comparing Global vs Singapore 10 years Moving Average trends
+## Mini ML Projects
++ [Music Recommender - ML Project](https://github.com/ptyadana/ML-Music-Recommender): A simple machine learning project for recommending the music genre based on age, gender.
++ [Smarty Brain Image Prediction - ML Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project): ML project for analyzing images and make predictions.
 
-
-## [Real-time Insights from Social Media Data - Project](Project%20-%20Real-time%20Insights%20from%20Social%20Media%20Data)
-Analyzing [Twitter](https://www.datacamp.com/projects/760) data and answering questions like
-+ What are gobal trend and local trends?
-+ finding the common trends
-+ frequency analysis on tweets and hashtags
-+ etc
-
-
-## [FIFA Football Players & Iris Flower Data Analysis & ML - Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science)
-Projects include analyzing the following data sets and making visualizations to help business decision making
-+ [fifa 2019 football players dataset](https://www.kaggle.com/karangadiya/fifa19)
-+ [Iris flowers](https://en.wikipedia.org/wiki/Iris_flower_data_set) 
-    + [dataset](https://www.kaggle.com/uciml/iris)
-
-	
-## [Data Visualization with Python - Project](https://github.com/ptyadana/DV-Data-Visualization-with-Python)
-+ Data analysis and Data Visualization using Pandas, Matplotlib.
-    + Countries's GDP, 
-	+ Life Expectancy comparison across continents, 
-	+ GDP per Capita Relative Growth, 
-	+ Population Reative Growth comparison 
-	+ etc.
-
-	
-## [Music Recommender - ML Project](https://github.com/ptyadana/ML-Music-Recommender)
-A simple machine learning project for recommending the music genre based on 
-+ age
-+ gender.
-
-
-## [Smarty Brain Image Prediction - ML Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project)
-ML project for 
-- analyzing images
-- predicting images
-
-
-## [Android Play Store App Data Analysis - Project](Project%20-%20Android%20Play%20Store%20App%20Data%20Analysis)
-Analyzing andriod play store data and answering questions like
-+ How many apps are paid?
-+ How much money are they making?
-+ When were these apps released?
-
-
-## [Mini Project - Statistics From Stock Data](AI%20Programming%20with%20Python/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data/Statistics%20from%20Stock%20Data.ipynb)
-Analyzing google, apple and amzon stock prices and checking the rolling mean. 
 
 -------------------
 
@@ -294,9 +224,6 @@ Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [x] Week 02 - Introduction to Computer Vision
 + [x] Week 03 - Enhancing Vision with CNN
 + [x] Week 04 - Using Real-world images
-
-
-## [Intro to Tensorflow for Deep Learning - Notes](Tensorflow%20-%20Intro%20to%20TensorFlow%20for%20Deep%20Learning%20-%20Udacity/00.My%20Notes.ipynb)
 
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
@@ -411,6 +338,16 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [ ] Intro to SQL
 - [ ] Advanced SQL
 
+
+## [Google ML courses](https://developers.google.com/machine-learning/crash-course)
+- [ ] ML Crash Course
+- [ ] Problem Framing
+- [ ] Data Prep
+- [ ] Clustering
+- [ ] Recommendation
+- [ ] Testing and Debugging
+- [ ] GANs
+ 
 
 ## Apache Spark & PySpark
 - [x] [Intro to Spark SQL and DataFrames](Spark%20-%20Spark%20SQL%20and%20Data%20Frames)
