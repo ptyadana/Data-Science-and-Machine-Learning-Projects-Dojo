@@ -106,5 +106,39 @@ As there can multiple features to predict the label, we can't just use all the f
         - So how can fix this kind of problem?
         - That's when `Adjusted R-Squared` comes in.
     - If we compare all 4 models `Adjusted R-Squared` values, we can see that 3rd model has the highest value. (with variables: RDSpend and Marketing Spend)
-    - ![](02_Modelling/img/12.png)
+    ![](02_Modelling/img/12.png)
 - So we can conclude that 3rd model is the best model.
+
+------
+
+# Logistic Regression
+
+![](02_Modelling/img/16.png)
+
+## Goal
+- Company has sent out email to customers for promoted item to buy. Email CSV file includes whether customer has clicked via promoted link on email or not.
+- We want to predict customers action (take action or not) based on the past information (Age, Gender).
+
+## Logistic Regression Intuition
+- for binary classification, we can't really use linear regression for fitting the best fit line. We have to use `Sigmoid` function to separate the classes.
+- Let's say we have age of 20, 30, 40 and 50. We can project those points on X axis and project their probabilities of being closer to the class (1, 0) as below. Example: 20 yr old have a very low probability of 0.7% of clicking the promotion where 50 yr old have a very high probability of 99.4%.
+![](02_Modelling/img/13.png)
+- Using this initution, we can draw a threadshold of 0.5 (`defined by us and can be changed accordingly`) in the middle. Any points below this line are belonged to class 0 (NO) and above line are belonged to class 1 (YES).
+![](02_Modelling/img/14.png)
+
+## Model Building
+- using Age and Take action data
+- => Model > Limited Dependent Variable > Logit
+- For graph, => Graphs > Fitted Actual Plot > Against Age
+- Do the same thing with Female or Male variable.
+- => Analysis > Forecasts > we can see the predictions.
+
+## False Positive and False Negative
+- False Positive (Type I error, Actual 0 => Predicted 1)
+- Flase Negative (Type II error, Actual 1 => Predicted 0)
+
+## Confusion Matrix
+- ![](02_Modelling/img/15.png)
+
+
+
