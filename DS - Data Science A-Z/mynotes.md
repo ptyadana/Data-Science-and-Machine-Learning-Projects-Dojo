@@ -140,5 +140,38 @@ As there can multiple features to predict the label, we can't just use all the f
 ## Confusion Matrix
 - ![](02_Modelling/img/15.png)
 
+## Logistic Regression Coefficient
+- ![](02_Modelling/img/17.png)
+
+------
+
+# Building a Robust GeoDemographic Segmentation Model
+
+## Goal
+- to predict whether the customer will churn (`Existed: 0 / 1`) or not based on the information for a bank. So that the bank can take necessary action on the hightest risk customers to continue using bank's services.
+- This can be applicable for similiar scenarios like customer default loan or not, etc.
+
+## GeoDemographic Segmentation
+- Segmentating data with similar traits using different groups.
+
+## Transformation Independent Variables
+- We can apply multiple transformation to the variables.
+    - square root
+    - square
+    - natural log
+- Why we want to use transformation?
+    - basically to make change to the variable to make consinstant changes, regardless of large or small value.
+    - Example: changes to 1000$ to 1000$ and 10,000$ have a different effect. Second one doesn't really have much noticible changes. Instead if we use nautral log, then changes to both can have consistent effect. 
+    ![](02_Modelling/img/18.png)
 
 
+## Derived Variables
+- Generally, `Balance` is associated with `Age`, meaning Older people tends to have larger Balance than in their account. However sometimes it is not the case. There are young people who can accumulate wealth and older people who can't accumulate wealth enough even though in their 50s or 60s. So we want to create new effect to separate out those groups. Example: `WealthAccumulation=Balance/Age`
+
+## Multicollinearity
+- Multicollinearity refers to a situation in which more than two explanatory variables in a multiple regression model are highly linearly related. 
+- Basically you are putting variables which are very similar in nature. Example: putting both `WealthAccumulation` and `Balance` into the model which are very similiar.
+- How can we check it in gretl? => After creating the model > Analysis > Collinearity
+
+## Correlation Matrix
+- We can check Correlation Matrix in gretl by => View > Correlation Matrix
