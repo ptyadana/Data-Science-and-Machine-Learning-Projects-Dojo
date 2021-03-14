@@ -164,7 +164,6 @@ As there can multiple features to predict the label, we can't just use all the f
     - Example: changes to 1000$ to 1000$ and 10,000$ have a different effect. Second one doesn't really have much noticible changes. Instead if we use nautral log, then changes to both can have consistent effect. 
     ![](02_Modelling/img/18.png)
 
-
 ## Derived Variables
 - Generally, `Balance` is associated with `Age`, meaning Older people tends to have larger Balance than in their account. However sometimes it is not the case. There are young people who can accumulate wealth and older people who can't accumulate wealth enough even though in their 50s or 60s. So we want to create new effect to separate out those groups. Example: `WealthAccumulation=Balance/Age`
 
@@ -175,3 +174,15 @@ As there can multiple features to predict the label, we can't just use all the f
 
 ## Correlation Matrix
 - We can check Correlation Matrix in gretl by => View > Correlation Matrix
+
+------
+
+# Accessing Model 
+- Let's say we want to contact people who are the most likely to take the promotion that bank offers.
+ ![](02_Modelling/img/19.png)
+
+## Cumulative Accuracy Profile (CAP)
+- CAP allows you to access model performance.
+- Note: CAP doesn't equal to ROC (Reciver Operating Characteristic)
+
+ ![](02_Modelling/img/20.png)
