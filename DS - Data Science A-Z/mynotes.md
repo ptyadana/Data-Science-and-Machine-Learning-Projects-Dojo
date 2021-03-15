@@ -228,3 +228,32 @@ IV - Independent Variable, DV - Dependent Variable
 - in gretl, create model of Logistic Regression Model.
 - => Analysis > Logit odds ratio
 ![](02_Modelling/img/27.png)
+
+------
+
+# Model Maintenance
+
+## Model Deterioration
+
+![](02_Modelling/img/28.png)
+
+## Why do model deteriorate?
+1. Additional Factors (which are added only after model is deployed)
+2. Changes in behaviour (such as people start to use mobile banking instead of traditional banking)
+3. Changes in Process 
+4. Changes in Existing Factors (customers getting older and model doesn't accomodate the new customer based, etc)
+5. Competitor
+6. Changes in Industry
+7. Changes in Regulations
+8. Changes in Product
+9. Depletion
+10. Spontaneous Changes (like customers from France left the services due to boycotting (or) more customers from France join the services as your service the only avaliable one, etc)
+
+![](02_Modelling/img/29.png)
+
+## Three levels of maintenance for deployed models
+- Access
+- Retrain
+- Rebuild
+
+Another way is `Champion Challenger Set up`, where you run the original model and new model side by side. Then compare the performance. Or you can split the population half by half and run the models, etc.
