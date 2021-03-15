@@ -142,6 +142,8 @@ As there can multiple features to predict the label, we can't just use all the f
 
 ## Logistic Regression Coefficient
 - ![](02_Modelling/img/17.png)
+IV - Independent Variable, DV - Dependent Variable
+
 
 ------
 
@@ -186,3 +188,43 @@ As there can multiple features to predict the label, we can't just use all the f
 - Note: CAP doesn't equal to ROC (Reciver Operating Characteristic)
 
  ![](02_Modelling/img/20.png)
+
+
+ ------
+
+ # Drawing Insights from the model
+
+- Let's say we have history of customer information who churned(existed) the services. Using this information, we trained and created the model which predicts customer who are likely to churn (exist) the service.
+- Out of 1000 customers we cacluated `P-Hat` value which is the model predictions of likelyhood of people existing the services. and we compare against the actual value `Existed`.
+- We can draw below CAP. According to model's CAP, we can cover 80% of targeted customers even if we just send promo email to 50% of the customers, sorted by `P-Hat` values decending order (people who has the highest probability of leaving the service). So that customers can stay with the services for longer preriod of time. This is a value added service for the company.
+
+ ![](02_Modelling/img/21.png)
+### Benefit 1) Likelihood Score
+- This will tell us how likely the customer is going to churn, etc.
+### Benefit 2) Budget Constraint
+- Let's say the cost of sending email is 1 cent per email. If we can target to the customers who have the highest probability of churning, we can save a lot of money for company, rather than blasting emails to everyone. 
+
+### Benefit 3) Efficiency
+- By varying the target % (Whether we want to reach 50% or 80% or customers,etc), this will avoid unnecessary contacting, spamming email to the customers who are unlikly to churn.
+
+### Cut off point:
+- As there are many points that we can decide to set the target, we need to check whether there is prominent differences between point A and point B. If the differences between them is not significant, we might want to considering choosing point A. 
+- We want to get higher ROI as much as possible.
+![](02_Modelling/img/22.png)
+
+
+# Odds Ratios
+![](02_Modelling/img/23.png)
+![](02_Modelling/img/24.png)
+![](02_Modelling/img/25.png)
+
+## Odds Ratio vs Coefficients in Logistic Regression
+- we can get how much odds increase by using exponent of cofficients of a variable. For example: 1 unit increase for Age will increase the odds of 1.075 for the customer to churn.
+![](02_Modelling/img/26.png)
+
+
+## Deriving Insights from coefficients
+
+- in gretl, create model of Logistic Regression Model.
+- => Analysis > Logit odds ratio
+![](02_Modelling/img/27.png)
