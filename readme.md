@@ -347,7 +347,16 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [ ] Recommendation
 - [ ] Testing and Debugging
 - [ ] GANs
- 
+
+## Machine Learning, AI, Data Science
+- [x] [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
+- [x] [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
+- [x] [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
+- [x] [ML - Mistakes to avoid in Machine Learning](ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning/01_00_Mistakes%20to%20avoid%20in%20Machine%20Learning.ipynb)
+- [x] [ML - Classification Modelling with Iris flowers](ML%20-%20Classification%20Modelling%20with%20Iris%20flowers)
+- [x] Classification Modeling
+- [x] [Data Science A-Z Modeling](DS%20-%20Data%20Science%20A-Z)
+
 
 ## Apache Spark & PySpark
 - [x] [Intro to Spark SQL and DataFrames](Spark%20-%20Spark%20SQL%20and%20Data%20Frames)
