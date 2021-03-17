@@ -1,3 +1,4 @@
+# Part 2 - Modelling
 # Stats Refresher
 
 ## Types of Variables
@@ -257,3 +258,15 @@ IV - Independent Variable, DV - Dependent Variable
 - Rebuild
 
 Another way is `Champion Challenger Set up`, where you run the original model and new model side by side. Then compare the performance. Or you can split the population half by half and run the models, etc.
+
+---
+
+# Part 3 - Data Preparation
+
+### Folder Structure
+1. Original Data
+2. Prepared Data
+3. Uploaded Data
+4. Analysis
+5. Insights
+6. Final
