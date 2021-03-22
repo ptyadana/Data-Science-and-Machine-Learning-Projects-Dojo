@@ -213,6 +213,14 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
+## [Deep Learning TensorFlow Developer Certificate - ZTM](Tensorflow%20-%20Deep%20Learning%20TensorFlow%20Developer%20Certificate%20-%20ZTM)
++ [] Deep Learning and TensorFlow Fundamentals
+
+## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
++ [x] The Fundamentals of Machine Learning
++ [x] The Machine Learning Landscape
++ [ ] End-to-End Machine Learning Project
+
 
 ## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
 + [x] Week 01 - Exploring a Larger Dataset
@@ -226,13 +234,6 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] Week 02 - Introduction to Computer Vision
 + [x] Week 03 - Enhancing Vision with CNN
 + [x] Week 04 - Using Real-world images
-
-
-## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
-+ [x] The Fundamentals of Machine Learning
-+ [x] The Machine Learning Landscape
-+ [ ] End-to-End Machine Learning Project
-
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + Python Crash Course
