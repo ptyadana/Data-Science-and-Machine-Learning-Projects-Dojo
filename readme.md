@@ -363,6 +363,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [ML - Classification Modelling with Iris flowers](ML%20-%20Classification%20Modelling%20with%20Iris%20flowers)
 - [x] Classification Modeling
 - [x] [Data Science A-Z Modeling](DS%20-%20Data%20Science%20A-Z)
+- [x] [Designing for Neural Networks and AI Interfaces](ML%20-%20Designing%20for%20Neural%20Networks%20and%20AI%20Interfaces/mynotes.md)
 
 
 ## Apache Spark & PySpark
