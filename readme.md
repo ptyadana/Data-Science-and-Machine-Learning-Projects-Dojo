@@ -214,7 +214,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
 ## [Deep Learning TensorFlow Developer Certificate - ZTM](Tensorflow%20-%20Deep%20Learning%20TensorFlow%20Developer%20Certificate%20-%20ZTM)
-+ [] Deep Learning and TensorFlow Fundamentals
++ [x] Deep Learning and TensorFlow Fundamentals
++ [ ] Neural Network Regression with Tensorflow
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
 + [x] The Fundamentals of Machine Learning
