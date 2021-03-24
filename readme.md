@@ -353,7 +353,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [ ] GANs
 
 ## Deep Learning , Machine Learning, AI & Data Science
-- [ ] [Deep Learning: Face Recognition](DL%20-%20Deep%20Learning%20-%20Face%20Recognition)
+- [ ] [Deep Learning: Face Recognition](DL%20-%20Deep%20Learning%20-%20Face%20Recognition/myNotes.ipynb)
 - [x] [Deep Learning - Image Recognition](DL%20-%20Deep%20Learning%20-%20Image%20Recognition)
 - [x] [Buliding Deep Learning Applications with Keras 2.0](DL%20-%20Deep%20Learning%20-%20Building%20Deep%20Learning%20Applications)
 - [x] [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
