@@ -364,6 +364,24 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] Classification Modeling
 - [x] [Data Science A-Z Modeling](DS%20-%20Data%20Science%20A-Z)
 - [x] [Designing for Neural Networks and AI Interfaces](ML%20-%20Designing%20for%20Neural%20Networks%20and%20AI%20Interfaces/mynotes.md)
+- [x] Introduction to GPT-3: A Leap in Artificial Intelligence
+- [ ] The Hundreded page - Machine Learning book
+	- [x] Introduction
+	- [x] Notation and Definitions
+	- [x] Fundamental Algorithms
+	- [ ] Fundamental Algorithms - in-depth material
+	- [ ] Anatomy of a Learning Algorithm
+	- [ ] Basic Practice 
+	- [ ] Basic Practice - in-depth material
+	- [ ] Neural Networks and Deep Learning 
+	- [ ] Neural Networks and Deep Learning - in-depth material
+	- [ ] Problems and Solutions
+	- [ ] Advanced Practice
+	- [ ] Unsupervised Learning
+	- [ ] Unsupervised Learning - in-depth material
+	- [ ] Other Forms of Learning
+	- [ ] Conclusion
+	
 
 
 ## Apache Spark & PySpark
