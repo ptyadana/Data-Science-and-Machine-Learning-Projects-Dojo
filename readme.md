@@ -369,12 +369,9 @@ To skill up my ML & DS related skills in specific areas and topics:
 	- [x] Introduction
 	- [x] Notation and Definitions
 	- [x] Fundamental Algorithms
-	- [ ] Fundamental Algorithms - in-depth material
-	- [ ] Anatomy of a Learning Algorithm
+	- [x] Anatomy of a Learning Algorithm
 	- [ ] Basic Practice 
-	- [ ] Basic Practice - in-depth material
 	- [ ] Neural Networks and Deep Learning 
-	- [ ] Neural Networks and Deep Learning - in-depth material
 	- [ ] Problems and Solutions
 	- [ ] Advanced Practice
 	- [ ] Unsupervised Learning
