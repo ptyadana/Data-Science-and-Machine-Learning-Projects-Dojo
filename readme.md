@@ -221,6 +221,21 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
 + [x] End-to-End Machine Learning Project
++ [ ] Classification
+
+## Data Scientist Supplementary Materials
++ Supervised Learning
+	+ [x] Lesson 01: Machine Learning Bird's Eye View
+	+ [ ] Lesson 02: Linear Regression
+	+ [ ] Lesson 03: Perceptron Algorithm
+	+ [ ] Lesson 04: Decision Trees
+	+ [ ] Lesson 05: Naive Bayes
+	+ [ ] Lesson 06: Support Vector Machines
+	+ [ ] Lesson 07: Ensemble Methods
+	+ [ ] Lesson 08: Model Evaluation Metrics
+	+ [ ] Lesson 09: Training and Tuning
+	+ [ ] Lesson 10: Finding Donors Project
+
 
 
 ## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
