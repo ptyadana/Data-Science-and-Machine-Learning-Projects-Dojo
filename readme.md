@@ -220,7 +220,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
-+ [ ] End-to-End Machine Learning Project
++ [x] End-to-End Machine Learning Project
 
 
 ## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
