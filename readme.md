@@ -221,7 +221,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] The Fundamentals of Machine Learning
 + [x] The Machine Learning Landscape
 + [x] End-to-End Machine Learning Project
-+ [ ] Classification
++ [x] Classification
++ [ ] Training Models
 
 ## Data Scientist Supplementary Materials
 + Supervised Learning
