@@ -1,0 +1,653 @@
+Date,Country,Price in US Dollars
+1/2016,Argentina,2.39
+1/2016,Australia,3.74
+1/2016,Brazil,3.35
+1/2016,Britain,4.22
+1/2016,Canada,4.14
+1/2016,Chile,2.94
+1/2016,China,2.68
+1/2016,Colombia,2.43
+1/2016,Costa Rica,4.02
+1/2016,Czech Republic,2.98
+1/2016,Denmark,4.32
+1/2016,Egypt,2.16
+1/2016,Euro area,4.0
+1/2016,Hong Kong,2.48
+1/2016,Hungary,3.08
+1/2016,India,1.9
+1/2016,Indonesia,2.19
+1/2016,Israel,4.29
+1/2016,Japan,3.12
+1/2016,Malaysia,1.82
+1/2016,Mexico,2.81
+1/2016,New Zealand,3.91
+1/2016,Norway,5.21
+1/2016,Pakistan,2.86
+1/2016,Peru,2.93
+1/2016,Philippines,2.79
+1/2016,Poland,2.37
+1/2016,Russia,1.53
+1/2016,Saudi Arabia,3.2
+1/2016,Singapore,3.27
+1/2016,South Africa,1.77
+1/2016,South Korea,3.59
+1/2016,Sri Lanka,2.43
+1/2016,Sweden,5.23
+1/2016,Switzerland,6.44
+1/2016,Taiwan,2.08
+1/2016,Thailand,3.09
+1/2016,Turkey,3.41
+1/2016,UAE,3.54
+1/2016,Ukraine,1.54
+1/2016,United States,4.93
+1/2016,Uruguay,3.74
+1/2016,Venezuela,0.66
+1/2016,Vietnam,2.67
+1/2016,Austria,3.76
+1/2016,Belgium,4.25
+1/2016,Estonia,3.23
+1/2016,Finland,4.41
+1/2016,France,4.41
+1/2016,Germany,3.86
+1/2016,Greece,3.6
+1/2016,Ireland,4.25
+1/2016,Italy,4.3
+1/2016,Netherlands,3.71
+1/2016,Portugal,3.23
+1/2016,Spain,3.76
+7/2015,Argentina,3.07
+7/2015,Australia,3.92
+7/2015,Brazil,4.28
+7/2015,Britain,4.51
+7/2015,Canada,4.54
+7/2015,Chile,3.27
+7/2015,China,2.74
+7/2015,Colombia,2.92
+7/2015,Costa Rica,4.03
+7/2015,Czech Republic,2.83
+7/2015,Denmark,5.08
+7/2015,Egypt,2.16
+7/2015,Euro area,4.05
+7/2015,Hong Kong,2.48
+7/2015,Hungary,3.18
+7/2015,India,1.83
+7/2015,Indonesia,2.29
+7/2015,Israel,4.63
+7/2015,Japan,2.99
+7/2015,Malaysia,2.01
+7/2015,Mexico,3.11
+7/2015,New Zealand,3.91
+7/2015,Norway,5.65
+7/2015,Pakistan,3.44
+7/2015,Peru,3.14
+7/2015,Philippines,3.61
+7/2015,Poland,2.54
+7/2015,Russia,1.88
+7/2015,Saudi Arabia,3.2
+7/2015,Singapore,3.44
+7/2015,South Africa,2.09
+7/2015,South Korea,3.76
+7/2015,Sri Lanka,2.61
+7/2015,Sweden,5.13
+7/2015,Switzerland,6.82
+7/2015,Taiwan,2.55
+7/2015,Thailand,3.17
+7/2015,Turkey,3.87
+7/2015,UAE,3.54
+7/2015,Ukraine,1.55
+7/2015,United States,4.79
+7/2015,Uruguay,4.13
+7/2015,Venezuela,0.67
+7/2015,Vietnam,2.75
+7/2015,Austria,3.71
+7/2015,Belgium,4.05
+7/2015,Estonia,3.23
+7/2015,Finland,4.49
+7/2015,France,4.49
+7/2015,Germany,3.93
+7/2015,Greece,3.34
+7/2015,Ireland,4.05
+7/2015,Italy,4.38
+7/2015,Netherlands,3.78
+7/2015,Portugal,3.29
+7/2015,Spain,4.0
+1/2015,Argentina,3.25
+1/2015,Australia,4.32
+1/2015,Brazil,5.21
+1/2015,Britain,4.37
+1/2015,Canada,4.64
+1/2015,Chile,3.35
+1/2015,China,2.77
+1/2015,Colombia,3.34
+1/2015,Costa Rica,4.01
+1/2015,Czech Republic,2.92
+1/2015,Denmark,5.38
+1/2015,Egypt,2.3
+1/2015,Euro area,4.26
+1/2015,Hong Kong,2.43
+1/2015,Hungary,3.17
+1/2015,India,1.89
+1/2015,Indonesia,2.24
+1/2015,Israel,4.45
+1/2015,Japan,3.14
+1/2015,Malaysia,2.11
+1/2015,Mexico,3.35
+1/2015,New Zealand,4.49
+1/2015,Norway,6.3
+1/2015,Pakistan,2.98
+1/2015,Peru,3.32
+1/2015,Philippines,3.67
+1/2015,Poland,2.48
+1/2015,Russia,1.36
+1/2015,Saudi Arabia,2.93
+1/2015,Singapore,3.53
+1/2015,South Africa,2.22
+1/2015,South Korea,3.78
+1/2015,Sri Lanka,2.65
+1/2015,Sweden,4.97
+1/2015,Switzerland,7.54
+1/2015,Taiwan,2.51
+1/2015,Thailand,3.04
+1/2015,Turkey,3.96
+1/2015,UAE,3.54
+1/2015,Ukraine,1.2
+1/2015,United States,4.79
+1/2015,Uruguay,4.63
+1/2015,Venezuela,2.53
+1/2015,Vietnam,2.81
+1/2015,Austria,3.93
+1/2015,Belgium,4.29
+1/2015,Estonia,3.36
+1/2015,Finland,4.75
+1/2015,France,4.52
+1/2015,Germany,4.25
+1/2015,Greece,3.53
+1/2015,Ireland,4.04
+1/2015,Italy,4.46
+1/2015,Netherlands,4.0
+1/2015,Portugal,3.48
+1/2015,Spain,4.23
+7/2014,Argentina,2.57
+7/2014,Australia,4.81
+7/2014,Brazil,5.86
+7/2014,Britain,4.93
+7/2014,Canada,5.25
+7/2014,Chile,3.72
+7/2014,China,2.73
+7/2014,Colombia,4.65
+7/2014,Costa Rica,4.0
+7/2014,Czech Republic,3.46
+7/2014,Denmark,5.15
+7/2014,Egypt,2.37
+7/2014,Euro area,4.95
+7/2014,Hong Kong,2.43
+7/2014,Hungary,3.77
+7/2014,India,1.75
+7/2014,Indonesia,2.43
+7/2014,Israel,5.13
+7/2014,Japan,3.64
+7/2014,Lithuania,3.49
+7/2014,Malaysia,2.41
+7/2014,Mexico,3.25
+7/2014,New Zealand,4.94
+7/2014,Norway,7.76
+7/2014,Pakistan,3.04
+7/2014,Peru,3.59
+7/2014,Philippines,3.7
+7/2014,Poland,3.0
+7/2014,Russia,2.55
+7/2014,Saudi Arabia,2.93
+7/2014,Singapore,3.8
+7/2014,South Africa,2.33
+7/2014,South Korea,4.0
+7/2014,Sri Lanka,2.69
+7/2014,Sweden,5.95
+7/2014,Switzerland,6.83
+7/2014,Taiwan,2.63
+7/2014,Thailand,3.12
+7/2014,Turkey,4.42
+7/2014,UAE,3.54
+7/2014,Ukraine,1.63
+7/2014,United States,4.8
+7/2014,Uruguay,4.92
+7/2014,Venezuela,6.82
+7/2014,Vietnam,2.83
+7/2014,Austria,4.56
+7/2014,Belgium,4.98
+7/2014,Estonia,3.9
+7/2014,Finland,5.52
+7/2014,France,5.25
+7/2014,Germany,4.94
+7/2014,Greece,4.11
+7/2014,Ireland,4.7
+7/2014,Italy,5.18
+7/2014,Netherlands,4.64
+7/2014,Portugal,4.04
+7/2014,Spain,4.91
+1/2014,Argentina,3.03
+1/2014,Australia,4.47
+1/2014,Brazil,5.25
+1/2014,Britain,4.63
+1/2014,Canada,5.01
+1/2014,Chile,3.69
+1/2014,China,2.74
+1/2014,Colombia,4.34
+1/2014,Costa Rica,4.28
+1/2014,Czech Republic,3.47
+1/2014,Denmark,5.18
+1/2014,Egypt,2.43
+1/2014,Euro area,4.96
+1/2014,Hong Kong,2.32
+1/2014,Hungary,3.85
+1/2014,India,1.54
+1/2014,Indonesia,2.3
+1/2014,Israel,5.02
+1/2014,Japan,2.97
+1/2014,Lithuania,3.46
+1/2014,Malaysia,2.23
+1/2014,Mexico,2.78
+1/2014,New Zealand,4.57
+1/2014,Norway,7.8
+1/2014,Pakistan,3.04
+1/2014,Peru,3.56
+1/2014,Philippines,2.98
+1/2014,Poland,3.0
+1/2014,Russia,2.62
+1/2014,Saudi Arabia,2.93
+1/2014,Singapore,3.6
+1/2014,South Africa,2.16
+1/2014,South Korea,3.47
+1/2014,Sri Lanka,2.68
+1/2014,Sweden,6.29
+1/2014,Switzerland,7.14
+1/2014,Taiwan,2.62
+1/2014,Thailand,2.92
+1/2014,Turkey,3.76
+1/2014,UAE,3.27
+1/2014,Ukraine,2.27
+1/2014,United States,4.62
+1/2014,Uruguay,4.91
+1/2014,Venezuela,7.15
+1/2014,Vietnam,2.84
+1/2014,Austria,4.6
+1/2014,Belgium,5.36
+1/2014,Estonia,3.8
+1/2014,Finland,5.56
+1/2014,France,5.15
+1/2014,Germany,4.98
+1/2014,Greece,4.14
+1/2014,Ireland,4.69
+1/2014,Italy,5.22
+1/2014,Netherlands,4.68
+1/2014,Portugal,4.07
+1/2014,Spain,4.95
+7/2013,Argentina,3.88
+7/2013,Australia,4.62
+7/2013,Brazil,5.28
+7/2013,Britain,4.02
+7/2013,Canada,5.26
+7/2013,Chile,3.94
+7/2013,China,2.61
+7/2013,Colombia,4.48
+7/2013,Costa Rica,4.31
+7/2013,Czech Republic,3.49
+7/2013,Denmark,4.91
+7/2013,Egypt,2.39
+7/2013,Euro area,4.66
+7/2013,Hong Kong,2.19
+7/2013,Hungary,3.76
+7/2013,India,1.5
+7/2013,Indonesia,2.8
+7/2013,Israel,4.8
+7/2013,Japan,3.2
+7/2013,Latvia,3.09
+7/2013,Lithuania,3.2
+7/2013,Malaysia,2.3
+7/2013,Mexico,2.86
+7/2013,New Zealand,4.3
+7/2013,Norway,7.51
+7/2013,Pakistan,3.0
+7/2013,Peru,3.59
+7/2013,Philippines,2.65
+7/2013,Poland,2.73
+7/2013,Russia,2.64
+7/2013,Saudi Arabia,2.67
+7/2013,Singapore,3.69
+7/2013,South Africa,2.24
+7/2013,South Korea,3.43
+7/2013,Sri Lanka,2.83
+7/2013,Sweden,6.16
+7/2013,Switzerland,6.72
+7/2013,Taiwan,2.63
+7/2013,Thailand,2.85
+7/2013,Turkey,4.34
+7/2013,UAE,3.27
+7/2013,Ukraine,2.33
+7/2013,United States,4.56
+7/2013,Uruguay,4.98
+7/2013,Venezuela,7.15
+7/2013,Austria,4.36
+7/2013,Belgium,4.76
+7/2013,Estonia,3.54
+7/2013,Finland,5.27
+7/2013,France,5.01
+7/2013,Germany,4.68
+7/2013,Greece,3.34
+7/2013,Ireland,4.45
+7/2013,Italy,4.82
+7/2013,Netherlands,4.44
+7/2013,Portugal,3.79
+7/2013,Spain,4.5
+1/2013,Argentina,3.82
+1/2013,Australia,4.9
+1/2013,Brazil,5.64
+1/2013,Britain,4.25
+1/2013,Canada,5.39
+1/2013,Chile,4.35
+1/2013,China,2.57
+1/2013,Colombia,4.85
+1/2013,Costa Rica,4.39
+1/2013,Czech Republic,3.72
+1/2013,Denmark,5.18
+1/2013,Egypt,2.39
+1/2013,Euro area,4.88
+1/2013,Hong Kong,2.19
+1/2013,Hungary,3.82
+1/2013,India,1.67
+1/2013,Indonesia,2.86
+1/2013,Israel,4.0
+1/2013,Japan,3.51
+1/2013,Latvia,3.28
+1/2013,Lithuania,3.07
+1/2013,Malaysia,2.58
+1/2013,Mexico,2.9
+1/2013,New Zealand,4.32
+1/2013,Norway,7.84
+1/2013,Pakistan,2.97
+1/2013,Peru,3.91
+1/2013,Philippines,2.91
+1/2013,Poland,2.94
+1/2013,Russia,2.43
+1/2013,Saudi Arabia,2.93
+1/2013,Singapore,3.64
+1/2013,South Africa,2.31
+1/2013,South Korea,3.41
+1/2013,Sri Lanka,2.77
+1/2013,Sweden,6.39
+1/2013,Switzerland,7.12
+1/2013,Taiwan,2.54
+1/2013,Thailand,2.92
+1/2013,Turkey,4.78
+1/2013,UAE,3.27
+1/2013,Ukraine,2.33
+1/2013,United States,4.37
+1/2013,Uruguay,5.45
+1/2013,Venezuela,9.08
+1/2013,Austria,4.6
+1/2013,Belgium,5.16
+1/2013,Estonia,3.66
+1/2013,Finland,5.09
+1/2013,France,4.89
+1/2013,Germany,4.94
+1/2013,Greece,4.48
+1/2013,Ireland,4.74
+1/2013,Italy,5.22
+1/2013,Netherlands,4.68
+1/2013,Portugal,4.0
+1/2013,Spain,4.75
+7/2012,Argentina,4.16
+7/2012,Australia,4.68
+7/2012,Brazil,4.94
+7/2012,Britain,4.16
+7/2012,Canada,5.02
+7/2012,Chile,4.16
+7/2012,China,2.45
+7/2012,Colombia,4.77
+7/2012,Costa Rica,2.4
+7/2012,Czech Republic,3.34
+7/2012,Denmark,4.65
+7/2012,Egypt,2.64
+7/2012,Euro area,4.34
+7/2012,Hong Kong,2.13
+7/2012,Hungary,3.48
+7/2012,India,1.58
+7/2012,Indonesia,2.55
+7/2012,Israel,2.92
+7/2012,Japan,4.09
+7/2012,Latvia,2.94
+7/2012,Lithuania,2.74
+7/2012,Malaysia,2.33
+7/2012,Mexico,2.7
+7/2012,New Zealand,4.0
+7/2012,Norway,7.06
+7/2012,Pakistan,3.01
+7/2012,Philippines,2.8
+7/2012,Poland,2.63
+7/2012,Russia,2.29
+7/2012,Saudi Arabia,2.67
+7/2012,Singapore,3.5
+7/2012,South Africa,2.36
+7/2012,South Korea,3.21
+7/2012,Sri Lanka,2.21
+7/2012,Sweden,5.73
+7/2012,Switzerland,6.56
+7/2012,Taiwan,2.48
+7/2012,Thailand,2.59
+7/2012,Turkey,4.52
+7/2012,UAE,3.27
+7/2012,Ukraine,1.86
+7/2012,United States,4.33
+7/2012,Uruguay,4.53
+7/2012,Venezuela,7.92
+7/2012,Austria,3.87
+7/2012,Belgium,4.61
+7/2012,Estonia,2.47
+7/2012,Finland,4.55
+7/2012,France,4.36
+7/2012,Germany,4.41
+7/2012,Greece,3.25
+7/2012,Ireland,4.23
+7/2012,Italy,4.36
+7/2012,Netherlands,4.1
+7/2012,Portugal,6.0
+7/2012,Spain,4.24
+1/2012,Argentina,4.64
+1/2012,Australia,4.94
+1/2012,Brazil,5.68
+1/2012,Britain,3.82
+1/2012,Canada,4.63
+1/2012,Chile,4.05
+1/2012,China,2.44
+1/2012,Colombia,4.54
+1/2012,Costa Rica,4.02
+1/2012,Czech Republic,3.45
+1/2012,Denmark,5.37
+1/2012,Egypt,2.57
+1/2012,Euro area,4.43
+1/2012,Hong Kong,2.12
+1/2012,Hungary,2.63
+1/2012,India,1.62
+1/2012,Indonesia,2.46
+1/2012,Israel,4.13
+1/2012,Japan,4.16
+1/2012,Latvia,3.0
+1/2012,Lithuania,2.87
+1/2012,Malaysia,2.34
+1/2012,Mexico,2.7
+1/2012,New Zealand,4.05
+1/2012,Norway,6.79
+1/2012,Pakistan,2.89
+1/2012,Peru,3.71
+1/2012,Philippines,2.68
+1/2012,Poland,2.58
+1/2012,Russia,2.55
+1/2012,Saudi Arabia,2.67
+1/2012,Singapore,3.75
+1/2012,South Africa,2.45
+1/2012,South Korea,3.19
+1/2012,Sri Lanka,2.55
+1/2012,Sweden,5.91
+1/2012,Switzerland,6.81
+1/2012,Taiwan,2.5
+1/2012,Thailand,2.46
+1/2012,Turkey,3.54
+1/2012,UAE,3.27
+1/2012,Ukraine,2.11
+1/2012,United States,4.2
+1/2012,Uruguay,4.63
+1/2012,Venezuela,6.99
+1/2012,Austria,3.92
+1/2012,Belgium,4.69
+1/2012,Estonia,2.59
+1/2012,Finland,4.76
+1/2012,France,4.57
+1/2012,Germany,4.48
+1/2012,Greece,4.19
+1/2012,Ireland,4.82
+1/2012,Italy,4.44
+1/2012,Netherlands,4.12
+1/2012,Portugal,3.68
+1/2012,Spain,4.44
+7/2011,Argentina,4.84
+7/2011,Australia,4.94
+7/2011,Brazil,6.16
+7/2011,Britain,3.89
+7/2011,Canada,5.0
+7/2011,Chile,4.0
+7/2011,China,2.27
+7/2011,Colombia,4.74
+7/2011,Costa Rica,4.07
+7/2011,Czech Republic,4.07
+7/2011,Denmark,5.48
+7/2011,Egypt,2.36
+7/2011,Euro area,4.93
+7/2011,Hong Kong,1.94
+7/2011,Hungary,4.04
+7/2011,India,1.89
+7/2011,Indonesia,2.64
+7/2011,Israel,4.67
+7/2011,Japan,4.08
+7/2011,Latvia,3.23
+7/2011,Lithuania,3.03
+7/2011,Malaysia,2.42
+7/2011,Mexico,2.74
+7/2011,New Zealand,4.41
+7/2011,Norway,8.31
+7/2011,Pakistan,2.38
+7/2011,Peru,3.65
+7/2011,Philippines,2.78
+7/2011,Poland,3.09
+7/2011,Russia,2.7
+7/2011,Saudi Arabia,2.67
+7/2011,Singapore,3.65
+7/2011,South Africa,2.87
+7/2011,South Korea,3.5
+7/2011,Sri Lanka,2.56
+7/2011,Sweden,7.64
+7/2011,Switzerland,8.06
+7/2011,Taiwan,2.6
+7/2011,Thailand,2.35
+7/2011,Turkey,3.77
+7/2011,UAE,3.27
+7/2011,Ukraine,2.06
+7/2011,United States,4.07
+7/2011,Uruguay,4.88
+7/2011,Venezuela,6.52
+7/2011,Austria,4.43
+7/2011,Belgium,5.38
+7/2011,Estonia,3.15
+7/2011,Finland,5.38
+7/2011,France,5.02
+7/2011,Germany,4.87
+7/2011,Greece,4.67
+7/2011,Ireland,5.45
+7/2011,Italy,5.02
+7/2011,Netherlands,4.66
+7/2011,Portugal,4.16
+7/2011,Spain,5.02
+7/2010,Argentina,3.56
+7/2010,Australia,3.84
+7/2010,Brazil,4.91
+7/2010,Britain,3.48
+7/2010,Canada,4.0
+7/2010,Chile,3.34
+7/2010,China,1.95
+7/2010,Colombia,4.39
+7/2010,Costa Rica,3.83
+7/2010,Czech Republic,3.43
+7/2010,Denmark,4.9
+7/2010,Egypt,2.28
+7/2010,Euro area,4.33
+7/2010,Hong Kong,1.9
+7/2010,Hungary,3.33
+7/2010,Indonesia,2.51
+7/2010,Israel,3.86
+7/2010,Japan,3.67
+7/2010,Latvia,2.8
+7/2010,Lithuania,2.71
+7/2010,Malaysia,2.19
+7/2010,Mexico,2.5
+7/2010,New Zealand,3.59
+7/2010,Norway,7.2
+7/2010,Pakistan,2.46
+7/2010,Peru,3.54
+7/2010,Philippines,2.19
+7/2010,Poland,2.6
+7/2010,Russia,2.33
+7/2010,Saudi Arabia,2.67
+7/2010,Singapore,3.08
+7/2010,South Africa,2.45
+7/2010,South Korea,2.82
+7/2010,Sri Lanka,1.86
+7/2010,Sweden,6.56
+7/2010,Switzerland,6.19
+7/2010,Taiwan,2.34
+7/2010,Thailand,2.17
+7/2010,Turkey,3.89
+7/2010,UAE,2.99
+7/2010,Ukraine,1.84
+7/2010,United States,3.73
+7/2010,Uruguay,3.74
+1/2010,Argentina,1.84
+1/2010,Australia,3.98
+1/2010,Brazil,4.76
+1/2010,Britain,3.67
+1/2010,Canada,3.97
+1/2010,Chile,3.18
+1/2010,China,1.83
+1/2010,Colombia,3.91
+1/2010,Costa Rica,3.52
+1/2010,Czech Republic,3.71
+1/2010,Denmark,5.99
+1/2010,Egypt,2.38
+1/2010,Euro area,4.84
+1/2010,Hong Kong,1.91
+1/2010,Hungary,3.86
+1/2010,Indonesia,2.24
+1/2010,Israel,3.99
+1/2010,Japan,3.5
+1/2010,Latvia,3.09
+1/2010,Lithuania,2.87
+1/2010,Malaysia,2.08
+1/2010,Mexico,2.5
+1/2010,New Zealand,3.61
+1/2010,Norway,7.02
+1/2010,Pakistan,2.42
+1/2010,Peru,2.81
+1/2010,Philippines,2.21
+1/2010,Poland,2.86
+1/2010,Russia,2.34
+1/2010,Saudi Arabia,2.67
+1/2010,Singapore,3.19
+1/2010,South Africa,2.46
+1/2010,South Korea,2.98
+1/2010,Sri Lanka,1.83
+1/2010,Sweden,5.51
+1/2010,Switzerland,6.3
+1/2010,Taiwan,2.36
+1/2010,Thailand,2.11
+1/2010,Turkey,3.83
+1/2010,UAE,2.99
+1/2010,Ukraine,1.83
+1/2010,United States,3.58
+1/2010,Uruguay,3.32
