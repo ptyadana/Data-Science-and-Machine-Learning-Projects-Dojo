@@ -232,7 +232,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [ ] Lesson 05: Naive Bayes
 	+ [ ] Lesson 06: Support Vector Machines
 	+ [ ] Lesson 07: Ensemble Methods
-	+ [ ] Lesson 08: Model Evaluation Metrics
+	+ [x] Lesson 08: Model Evaluation Metrics
 	+ [ ] Lesson 09: Training and Tuning
 	+ [ ] Lesson 10: Finding Donors Project
 
