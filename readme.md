@@ -284,7 +284,18 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ TensorBoard
 + Big Data and Spark with Python
 + SciPy
-	
+
+## Complete Data Science Bootcamp - 365
++ [x] Part 1 - The Field of Data Science
++ [ ] Part 2 - Probability
++ [ ] Part 3 - Statistics (Descriptive & Inferential)
++ [x] Part 4 - Python
++ [ ] Part 5 - Advanced Statistical Methods in Python
++ [ ] Part 6 - Mathematics
++ [ ] Part 7 - Deep Learning
++ [ ] Software Integration
++ [ ] Case Study - Absenteeism
+
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
 To skill up my ML & DS related skills in specific areas and topics:
