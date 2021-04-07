@@ -408,7 +408,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 ## Data Analysis, Manipulation & Data Visualization
 + [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
-+ [ ] [Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)
++ [x] [Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)
 + [x] [Python Data Playbook - Cleaning Data](Pandas%20-%20Python%20Data%20Playbook%20-%20Cleaning%20Data)
 + [x] [Pandas Playbook - Manipulating Data](Pandas%20-%20Pandas%20Playbook%20-%20Manipulating%20Data)
 + [x] [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
