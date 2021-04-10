@@ -287,7 +287,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 ## Complete Data Science Bootcamp - 365
 + [x] Part 1 - The Field of Data Science
-+ [ ] Part 2 - Probability
++ [x] Part 2 - Probability
 + [ ] Part 3 - Statistics (Descriptive & Inferential)
 + [x] Part 4 - Python
 + [ ] Part 5 - Advanced Statistical Methods in Python
