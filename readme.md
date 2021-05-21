@@ -72,7 +72,7 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [NLP - Flight Tweets Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/01-Text-Classification%20-%20Flight%20tweets.ipynb)
 + [NLP - Moview Reivew Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/02-Text-Classification-Movie_Reviews_Sentiment_Analysis.ipynb)
 + [Color Quantization](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/01-Kmeans-Color-Quantization.ipynb)
-+ [CIA Country Analysis and Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb
++ [CIA Country Analysis and Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb)
 
 ### Deep Learning Projects
 + [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
@@ -206,7 +206,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [Moview Reivew Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/02-Text-Classification-Movie_Reviews_Sentiment_Analysis.ipynb)
 + K Means Clustering (Unsupervised Learning)
 	+ [Color Quantization](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/01-Kmeans-Color-Quantization.ipynb)
-	+ [CIA Country Analysis and Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb
+	+ [CIA Country Analysis and Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb)
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
