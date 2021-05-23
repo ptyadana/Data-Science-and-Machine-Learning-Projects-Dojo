@@ -207,6 +207,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + K Means Clustering (Unsupervised Learning)
 	+ [Color Quantization](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/01-Kmeans-Color-Quantization.ipynb)
 	+ [CIA Country Analysis and Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb)
++ Hierarchical Clustering (Unsupervised Learning)
+	+ [Cars Model Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/21-Hierarchical-Clustering/00-Hierarchical-Clustering.ipynb)
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
