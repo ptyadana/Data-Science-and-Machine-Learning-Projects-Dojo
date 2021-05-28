@@ -75,6 +75,8 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + [CIA Country Analysis and Clustering - KMeans](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb)
 + [Cars Model - Hierarchical Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/21-Hierarchical-Clustering/00-Hierarchical-Clustering.ipynb)
 + [Wholesale Customers - DBSCAN Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/22-DBSCAN/02-DBSCAN-Project-Exercise.ipynb)
++ [Breast Cancer - PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
++ [Breast Cancer - PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
 
 ### Deep Learning Projects
 + [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
@@ -215,6 +217,9 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [DBSCAN - Theory and Inituation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/22-DBSCAN/00-DBSCAN.ipynb)
 	+ [Hyperparameter Tuning](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/22-DBSCAN/01-DBSCAN-Hyperparameters.ipynb)
 	+ [Wholesale Customers - Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/22-DBSCAN/02-DBSCAN-Project-Exercise.ipynb)
++ Principal Component Analysis (Unsupervised Learning)
+	+ [PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
+	+ [PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
 
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
