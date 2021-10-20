@@ -308,7 +308,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] Part 2 - Probability
 + [ ] Part 3 - Statistics (Descriptive & Inferential)
 + [x] Part 4 - Python
-+ [ ] Part 5 - Advanced Statistical Methods in Python
++ [ ] Part 5 - Advanced Statistical Methods in Python / Machine Learning in Python
 + [ ] Part 6 - Mathematics
 + [ ] Part 7 - Deep Learning
 + [ ] Software Integration
