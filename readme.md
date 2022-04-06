@@ -318,6 +318,16 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 # Advancing Machine Learning & Data Science Journey - (In Progress)
 To skill up my ML & DS related skills in specific areas and topics:
 
+## [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Ensemble%20Learning)
++ Project: Titanic dataset
++ 01.ML Basic
++ 02.Preparing the Data
++ 03.Ensemble Learning
++ 04.Boosting
++ 05.Bagging
++ 06.Stacking
++ 07.Evaluation and Selection of  Models
+
 ## [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
 + Project: Titanic dataset
 + 01.ML Basic
