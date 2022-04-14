@@ -445,6 +445,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 
 
 ## Data Analysis, Manipulation & Data Visualization
++ [x] [Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
 + [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
 + [x] [Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)

@@ -1,0 +1,1694 @@
+id,date,time,country_name,state/province,population,landslide_type,trigger,fatalities
+34,3/2/07,Night,United States,Virginia,16000,Landslide,Rain,
+42,3/22/07,,United States,Ohio,17288,Landslide,Rain,
+56,4/6/07,,United States,Pennsylvania,15930,Landslide,Rain,
+59,4/14/07,,Canada,Quebec,42786,Riverbank collapse,Rain,
+61,4/15/07,,United States,Kentucky,6903,Landslide,Downpour,0.0
+64,4/20/07,,United States,Kentucky,6903,Landslide,Rain,
+67,4/24/07,,United States,South Dakota,2540,Landslide,Rain,
+77,5/21/07,,Colombia,Risaralda,440118,Mudslide,Rain,13.0
+105,6/27/07,,Ecuador,Zamora-Chinchipe,15276,Landslide,Downpour,
+106,6/27/07,,Ecuador,Loja,117796,Landslide,Downpour,
+107,6/27/07,,Ecuador,Pichincha,5114,Landslide,Downpour,
+109,7/1/07,,United States,Texas,42409,Landslide,Rain,
+115,7/4/07,,Mexico,Veracruz-Llave,1947,Landslide,Rain,7.0
+119,7/8/07,,Canada,Ontario,812129,Landslide,Unknown,
+124,7/13/07,Night,Dominican Republic,Distrito Nacional,13456,Landslide,Unknown,
+138,7/24/07,,United States,Texas,175396,Landslide,Rain,
+165,8/9/07,,Guatemala,Guatemala,47247,Mudslide,Rain,5.0
+174,8/11/07,,Jamaica,Portland,14400,Landslide,Rain,
+185,8/14/07,,United States,Colorado,2475,Mudslide,Rain,
+186,8/17/07,,Dominica,Saint Paul,702,Mudslide,Tropical cyclone,2.0
+187,8/18/07,,United States,Minnesota,2868,Landslide,Rain,
+188,8/18/07,,United States,Wyoming,9520,Landslide,Rain,
+189,8/18/07,,United States,Minnesota,106769,Mudslide,Rain,
+193,8/19/07,,United States,Wisconsin,51320,Complex,Rain,
+194,8/19/07,,United States,Wisconsin,51320,Mudslide,Rain,
+197,8/20/07,,United States,West Virginia,1526,Mudslide,Rain,
+198,8/21/07,,Guatemala,Alta Verapaz,2006,Landslide,Tropical cyclone,
+199,8/21/07,,Guatemala,Izabal,18994,Landslide,Tropical cyclone,
+201,8/23/07,,Mexico,Puebla,1414,Mudslide,Tropical cyclone,6.0
+224,9/1/07,,Trinidad and Tobago,Tobago,17000,Landslide,Tropical cyclone,
+225,9/2/07,,Mexico,Sinaloa,3191,Complex,Tropical cyclone,3.0
+228,9/3/07,,United States,New Mexico,1788,Mudslide,Rain,
+229,9/4/07,,Nicaragua,Atlántico Norte,6315,Complex,Tropical cyclone,
+230,9/5/07,,El Salvador,Ahuachapán,7797,Mudslide,Tropical cyclone,
+235,9/5/07,,United States,Wyoming,1176,Landslide,Rain,
+236,9/5/07,,United States,Idaho,2689,Mudslide,Rain,
+238,9/6/07,,United States,Colorado,12088,Mudslide,Rain,
+249,9/9/07,,Costa Rica,Heredia,21947,Landslide,Rain,
+250,9/9/07,,Dominica,Saint George,16571,Landslide,Rain,
+268,9/17/07,,United States,Colorado,4518,Mudslide,Rain,
+277,9/22/07,,Guatemala,Guatemala,994938,Mudslide,Rain,3.0
+284,9/28/07,,Mexico,Puebla,3761,Mudslide,Tropical cyclone,1.0
+297,10/8/07,,Haiti,Artibonite,7294,Landslide,Downpour,
+299,10/9/07,,Costa Rica,San José,3072,Complex,Rain,4.0
+301,10/11/07,,Costa Rica,Alajuela,7014,Mudslide,Rain,14.0
+302,10/11/07,,Costa Rica,San José,26669,Landslide,Rain,10.0
+303,10/12/07,,Haiti,Ouest,3951,Complex,Rain,23.0
+304,10/12/07,,Jamaica,St. Elizabeth,1371,Complex,Rain,
+307,10/13/07,,Colombia,Cauca,9985,Mudslide,Continuous rain,24.0
+314,10/17/07,,Jamaica,Saint Thomas,2382,Mudslide,Rain,
+323,10/24/07,,Costa Rica,Puntarenas,6540,Mudslide,Downpour,
+333,10/29/07,,Dominican Republic,San Cristóbal,66784,Mudslide,Tropical cyclone,3.0
+334,10/29/07,,Haiti,Ouest,1234742,Complex,Tropical cyclone,
+339,10/31/07,,Jamaica,Saint Thomas,2634,Landslide,Tropical cyclone,1.0
+340,10/31/07,,Jamaica,Saint Catherine,4085,Complex,Rain,
+341,10/31/07,,Jamaica,Saint Andrew,1088,Landslide,Tropical cyclone,
+342,10/31/07,,Mexico,Tabasco,4468,Landslide,Rain,18.0
+343,11/1/07,,Dominican Republic,La Vega,3613,Complex,Tropical cyclone,68.0
+346,11/4/07,,Mexico,Chiapas,3183,Mudslide,Rain,5.0
+354,11/12/07,,Jamaica,Saint Ann,13671,Landslide,Rain,
+357,11/17/07,,Trinidad and Tobago,Eastern Tobago,0,Landslide,Rain,
+376,11/30/07,,United States,California,3117,Debris flow,Rain,
+386,12/8/07,,United States,Indiana,5042,Landslide,Rain,
+388,12/11/07,,Dominican Republic,Santiago,1200000,Landslide,Tropical cyclone,17.0
+390,12/11/07,,Trinidad and Tobago,Sangre Grande,15968,Landslide,Tropical cyclone,3.0
+391,12/11/07,,Trinidad and Tobago,Eastern Tobago,0,Landslide,Tropical cyclone,
+392,12/11/07,,Trinidad and Tobago,Eastern Tobago,0,Landslide,Tropical cyclone,
+393,12/12/07,,Puerto Rico,San Juan,418140,Landslide,Tropical cyclone,
+396,12/16/07,,United States,Pennsylvania,3174,Landslide,Rain,3.0
+397,12/19/07,,Colombia,Tolima,4892,Landslide,Rain,
+403,1/1/08,,United States,Pennsylvania,4020,Landslide,Rain,
+414,1/6/08,,United States,California,42808,Landslide,Rain,
+417,1/7/08,,Mexico,Baja California,1376457,Landslide,Rain,1.0
+418,1/7/08,,United States,California,59518,Landslide,Rain,
+436,1/28/08,19:30:00,United States,California,42808,Landslide,Rain,
+446,2/5/08,,United States,Pennsylvania,1728,Landslide,Rain,
+449,2/9/08,,United States,Pennsylvania,3451,Landslide,Rain,
+468,2/28/08,,Ecuador,Napo,7309,Landslide,Rain,7.0
+469,3/4/08,,United States,Pennsylvania,3165,Landslide,Rain,0.0
+472,3/5/08,,Peru,Huanuco,53177,Landslide,Rain,7.0
+476,3/9/08,,United States,New York,2620,Landslide,Rain,0.0
+477,3/10/08,,United States,Pennsylvania,3294,Landslide,Rain,0.0
+479,3/14/08,,United States,Ohio,5091,Mudslide,Rain,
+480,3/16/08,,United States,Ohio,4741,Landslide,Rain,0.0
+485,3/24/08,,United States,Ohio,3541,Landslide,Rain,
+487,3/28/08,,United States,Kentucky,4407,Landslide,Rain,
+489,4/1/08,,Ecuador,Pichincha,1399814,Landslide,Rain,
+491,4/1/08,,United States,Illinois,8465,Landslide,Rain,
+494,4/8/08,,United States,Pennsylvania,13470,Landslide,Rain,
+497,4/11/08,,Peru,Ancash,5044,Landslide,Rain,
+498,4/11/08,,United States,Wisconsin,2200,Landslide,Unknown,
+499,4/13/08,,United States,Colorado,6447,Mudslide,Rain,
+501,4/16/08,,Jamaica,Saint Ann,9450,Mudslide,Rain,
+506,4/20/08,,Haiti,Ouest,1234742,Mudslide,Rain,3.0
+509,4/25/08,,United States,Minnesota,27592,Mudslide,Rain,
+514,4/29/08,,United States,New Hampshire,1813,Rockfall,Rain,
+515,4/29/08,,United States,New Hampshire,1142,Mudslide,Rain,
+530,5/9/08,,United States,Virginia,1698,Mudslide,Downpour,
+532,5/12/08,,United States,West Virginia,1638,Rockfall,Rain,
+546,5/20/08,,United States,Kentucky,5723,Mudslide,Rain,
+555,5/28/08,,United States,Colorado,6658,Mudslide,Rain,
+556,5/29/08,,Costa Rica,Guanacaste,4108,Landslide,Tropical cyclone,
+562,5/31/08,,Colombia,Antioquia,1999979,Complex,Downpour,27.0
+563,6/1/08,,Guatemala,Escuintla,31329,Mudslide,Tropical cyclone,1.0
+564,6/2/08,,El Salvador,La Libertad,124694,Landslide,Tropical cyclone,
+577,6/7/08,,United States,Indiana,11828,Mudslide,Downpour,
+590,6/16/08,,United States,New York,1031,Mudslide,Rain,
+591,6/18/08,,Guatemala,Guatemala,994938,Complex,Rain,8.0
+597,6/20/08,,United States,Arkansas,466,Mudslide,Rain,
+605,6/24/08,,Colombia,Norte de Santander,1502,Landslide,Downpour,10.0
+617,6/29/08,,United States,New Jersey,34457,Mudslide,Rain,
+629,7/5/08,,United States,New Mexico,13753,Debris flow,Downpour,
+633,7/9/08,,United States,West Virginia,3191,Landslide,Downpour,
+634,7/9/08,,United States,West Virginia,51400,Mudslide,Downpour,
+635,7/9/08,,United States,Iowa,1919,Landslide,Downpour,
+643,7/13/08,,United States,Colorado,16887,Mudslide,Downpour,
+644,7/14/08,,Colombia,Cundinamarca,1374,Landslide,Downpour,4.0
+649,7/16/08,,United States,Wisconsin,1887,Mudslide,Flooding,
+650,7/17/08,,Colombia,Antioquia,2214,Landslide,Rain,8.0
+656,7/21/08,,Guatemala,Zacapa,3682,Mudslide,Tropical cyclone,21.0
+658,7/22/08,,United States,Colorado,2826,Mudslide,Downpour,
+659,7/22/08,,United States,Idaho,2991,Mudslide,Downpour,
+660,7/22/08,,United States,Idaho,3112,Mudslide,Downpour,
+675,7/28/08,,United States,Colorado,3068,Mudslide,Downpour,
+686,8/4/08,,United States,New Mexico,1788,Mudslide,Rain,
+690,8/6/08,,United States,Colorado,3068,Mudslide,Rain,
+691,8/6/08,,United States,New Hampshire,1126,Mudslide,Rain,
+693,8/7/08,,United States,California,20292,Complex,Downpour,
+694,8/7/08,,United States,Colorado,6427,Mudslide,Rain,
+695,8/7/08,,United States,Utah,7979,Mudslide,Downpour,
+698,8/8/08,,United States,Utah,1270,Landslide,Rain,
+724,8/17/08,,Dominican Republic,Hato Mayor,13977,Complex,Tropical cyclone,
+728,8/18/08,,Colombia,Antioquia,65565,Landslide,Rain,
+729,8/18/08,,Colombia,Córdoba,55513,Landslide,Rain,
+742,8/23/08,,United States,Colorado,5236,Mudslide,Rain,
+743,8/24/08,,United States,Colorado,1646,Mudslide,Rain,
+744,8/25/08,,Mexico,México,7182,Mudslide,Downpour,1.0
+746,8/26/08,,Dominican Republic,Distrito Nacional,10457,Mudslide,Tropical cyclone,8.0
+747,8/26/08,,Haiti,Sud-Est,137966,Landslide,Tropical cyclone,25.0
+748,8/26/08,,Haiti,Ouest,1234742,Mudslide,Tropical cyclone,3.0
+750,8/26/08,,Panama,Panamá,1287,Landslide,Downpour,
+751,8/26/08,,United States,North Carolina,1192,Mudslide,Rain,
+756,8/28/08,,Jamaica,Saint Andrew,1821,Landslide,Tropical cyclone,7.0
+757,8/28/08,,United States,North Carolina,1192,Mudslide,Tropical cyclone,
+771,9/3/08,,Haiti,Artibonite,84961,Mudslide,Tropical cyclone,26.0
+774,9/4/08,,Jamaica,Saint Thomas,2382,Complex,Tropical cyclone,
+776,9/6/08,,Costa Rica,San José,10028,Mudslide,Downpour,
+779,9/6/08,,United States,Massachusetts,39880,Mudslide,Tropical cyclone,
+780,9/7/08,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,
+800,9/20/08,,United States,Idaho,1406,Mudslide,Downpour,
+826,10/3/08,,Nicaragua,Masaya,5182,Landslide,Downpour,9.0
+837,10/12/08,,Colombia,Córdoba,5385,Landslide,Downpour,
+838,10/12/08,,Costa Rica,San José,34877,Landslide,Downpour,
+839,10/12/08,,Costa Rica,San José,8292,Landslide,Downpour,
+841,10/12/08,,Saint Lucia,Vieux-Fort,4574,Landslide,Downpour,
+845,10/15/08,,Costa Rica,Puntarenas,6777,Landslide,Downpour,
+848,10/16/08,,Costa Rica,Puntarenas,6540,Complex,Downpour,
+852,10/18/08,,Guatemala,Chimaltenango,5987,Landslide,Tropical cyclone,
+854,10/19/08,,Honduras,Copán,4752,Landslide,Tropical cyclone,23.0
+855,10/20/08,,Honduras,Francisco Morazán ,850848,Mudslide,Tropical cyclone,29.0
+857,10/22/08,,Barbados,Saint Joseph,1765,Mudslide,Downpour,
+867,10/28/08,,Guatemala,Huehuetenango,1311,Mudslide,Downpour,
+889,11/16/08,,Colombia,Antioquia,1999979,Mudslide,Downpour,8.0
+891,11/16/08,,Trinidad and Tobago,City of Port of Spain,49031,Complex,Downpour,1.0
+896,11/20/08,,Venezuela,Distrito Federal,3000000,Mudslide,Downpour,8.0
+904,11/24/08,,Colombia,Cauca,13223,Mudslide,Downpour,10.0
+905,11/25/08,,Panama,Chiriquí,6123,Complex,Downpour,8.0
+908,11/26/08,,United States,California,9277,Debris flow,Rain,
+928,12/14/08,Night,Guatemala,Izabal,18994,Mudslide,Rain,2.0
+937,12/17/08,,United States,California,3148,Mudslide,Rain,
+938,12/18/08,,Trinidad and Tobago,Diego Martin,8140,Mudslide,Downpour,
+939,12/19/08,,Trinidad and Tobago,Diego Martin,8140,Complex,Downpour,
+941,12/20/08,,Trinidad and Tobago,Penal/Debe,12281,Mudslide,Downpour,
+946,12/22/08,,United States,California,3841,Complex,Downpour,
+947,12/22/08,Early morning,United States,Tennessee,5934,Lahar,Dam embankment collapse,
+958,1/7/09,1:41:00,United States,North Carolina,1150,Landslide,Rain,0.0
+975,1/22/09,,Mexico,The Federal District,12294193,Landslide,Downpour,2.0
+984,2/12/09,,Dominican Republic,Santiago,1457,Mudslide,Downpour,0.0
+995,3/10/09,Afternoon,United States,Pennsylvania,5951,Mudslide,Rain,0.0
+996,3/19/09,,Colombia,Huila,4444,Mudslide,Continuous rain,5.0
+1000,4/8/09,Early morning,United States,Tennessee,2845,Rockfall,Rain,0.0
+1001,4/11/09,11:30:00,United States,Utah,112488,Rockfall,Downpour,0.0
+1003,4/13/09,Early morning,United States,Virginia,1463,Mudslide,Downpour,0.0
+1004,4/14/09,,Peru,La Libertad,0,Mudslide,Downpour,12.0
+1005,4/14/09,,Peru,La Libertad,0,Mudslide,Downpour,0.0
+1006,4/14/09,Night,United States,Utah,33433,Rockfall,Rain,0.0
+1007,4/15/09,Morning,United States,Utah,20816,Rockfall,Rain,0.0
+1008,4/15/09,Morning,United States,Utah,10062,Rockfall,Rain,0.0
+1010,4/20/09,Morning,United States,Virginia,1463,Mudslide,Downpour,0.0
+1011,4/20/09,23:25:00,United States,Colorado,97385,Mudslide,Rain,0.0
+1014,4/24/09,,Colombia,Córdoba,59188,Mudslide,Downpour,1.0
+1017,5/4/09,,United States,Missouri,17916,Landslide,Continuous rain,0.0
+1019,5/6/09,,Brazil,Pará,70888,Mudslide,Rain,19.0
+1020,5/6/09,,Brazil,Maranhão,48901,Mudslide,Rain,3.0
+1022,5/8/09,,United States,Kentucky,777,Landslide,Downpour,0.0
+1023,5/8/09,,United States,Kentucky,2231,Landslide,Downpour,0.0
+1024,5/11/09,,United States,Kentucky,6903,Landslide,Downpour,
+1026,5/17/09,,United States,North Carolina,18228,Mudslide,Downpour,1.0
+1033,5/30/09,,United States,West Virginia,1142,Mudslide,Unknown,0.0
+1038,6/18/09,Night,United States,Utah,42274,Landslide,Downpour,0.0
+1039,6/19/09,,United States,North Carolina,3776,Rockfall,Downpour,0.0
+1040,6/21/09,18:00:00,United States,Idaho,2689,Mudslide,Downpour,0.0
+1069,7/31/09,Night,United States,Kentucky,5338,Mudslide,Rain,0.0
+1105,8/19/09,,United States,Kentucky,31577,Landslide,Unknown,0.0
+1116,8/20/09,,United States,Wisconsin,5911,Landslide,Rain,0.0
+1117,8/21/09,,Trinidad and Tobago,City of San Fernando,26700,Landslide,Downpour,0.0
+1131,9/1/09,,Mexico,Baja California Sur,48518,Mudslide,Tropical cyclone,
+1140,9/7/09,Early morning,Haiti,Artibonite,66226,Mudslide,Downpour,1.0
+1155,9/11/09,,United States,Texas,4529,Mudslide,Downpour,
+1167,9/15/09,,Mexico,The Federal District,228927,Mudslide,Downpour,3.0
+1177,9/20/09,,Dominican Republic,Puerto Plata,4563,Landslide,Downpour,2.0
+1178,9/20/09,,Dominican Republic,Santiago,23304,Landslide,Downpour,
+1180,9/20/09,,United States,Georgia,3410,Mudslide,Downpour,
+1182,9/21/09,,United States,Alabama,3485,Mudslide,Downpour,
+1183,9/21/09,,United States,Georgia,5802,Mudslide,Downpour,
+1184,9/21/09,Early morning,United States,Georgia,1602,Mudslide,Rain,
+1185,9/21/09,,United States,North Carolina,7609,Landslide,Downpour,
+1186,12/28/09,Night,Ecuador,Santo Domingo de los Tsáchilas,200421,Mudslide,Downpour,3.0
+1194,9/26/09,,United States,Georgia,2301,Mudslide,Downpour,
+1195,9/26/09,,United States,Tennessee,3944,Mudslide,Downpour,
+1256,10/12/09,,United States,Texas,45028,Landslide,Rain,0.0
+1265,10/17/09,,United States,Kentucky,365,Rockfall,Downpour,
+1266,10/20/09,,Haiti,Ouest,442156,Landslide,Downpour,4.0
+1285,11/8/09,,El Salvador,San Vicente,41504,Complex,Tropical cyclone,23.0
+1286,11/8/09,,El Salvador,La Libertad,33767,Mudslide,Tropical cyclone,4.0
+1287,11/8/09,,El Salvador,San Vicente,41504,Rockfall,Tropical cyclone,
+1288,11/8/09,,El Salvador,San Vicente,41504,Mudslide,Tropical cyclone,
+1294,11/11/09,,United States,Tennessee,20979,Mudslide,Rain,0.0
+1296,11/13/09,,Costa Rica,Puntarenas,3981,Landslide,Earthquake,1.0
+1307,11/17/09,,United States,Illinois,27865,Mudslide,Downpour,0.0
+1353,12/9/09,,United States,Tennessee,167674,Mudslide,Downpour,0.0
+1354,12/9/09,,United States,Tennessee,7554,Mudslide,Downpour,0.0
+1355,12/9/09,,United States,Tennessee,7554,Mudslide,Downpour,0.0
+1357,12/12/09,,United States,Missouri,3364,Landslide,Rain,0.0
+1358,12/13/09,,United States,California,4862,Complex,Downpour,0.0
+1367,12/18/09,,United States,Mississippi,2175,Mudslide,Downpour,0.0
+1391,1/10/10,,Jamaica,Portland,1119,Landslide,Downpour,0.0
+1393,1/10/10,Night,Ecuador,Pichincha,25742,Mudslide,Rain,3.0
+1431,1/21/10,Morning,United States,California,9277,Mudslide,Downpour,0.0
+1434,1/21/10,22:00:00,United States,Arizona,1424,Complex,Downpour,0.0
+1435,1/21/10,,United States,California,3552,Debris flow,Downpour,0.0
+1439,1/21/10,17:36:00,United States,California,1128,Mudslide,Downpour,0.0
+1441,1/22/10,,United States,Arizona,2633,Mudslide,Downpour,0.0
+1448,1/24/10,Overnight,United States,North Carolina,2937,Mudslide,Downpour,0.0
+1449,1/24/10,16:30:00,United States,Tennessee,4577,Mudslide,Downpour,0.0
+1450,1/24/10,,United States,Tennessee,7554,Mudslide,Downpour,0.0
+1452,1/25/10,Overnight,United States,Tennessee,12714,Complex,Downpour,0.0
+1453,1/25/10,Morning,United States,Pennsylvania,305704,Mudslide,Downpour,0.0
+1454,1/25/10,13:40:00,United States,Connecticut,1212,Mudslide,Downpour,0.0
+1455,1/25/10,Early morning,United States,North Carolina,2441,Mudslide,Downpour,0.0
+1456,1/26/10,,United States,Kentucky,1255,Complex,Downpour,0.0
+1459,1/28/10,15:00:00,Peru,Ancash,0,Complex,Downpour,0.0
+1465,2/3/10,,Ecuador,Tungurahua,9501,Mudslide,Downpour,4.0
+1467,2/4/10,7:00:00,United States,South Carolina,13905,Rockfall,Rain,0.0
+1469,2/5/10,,Mexico,México,505881,Landslide,Downpour,11.0
+1470,2/5/10,,Mexico,Michoacán,78950,Mudslide,Downpour,2.0
+1471,2/5/10,,Mexico,Michoacán,2817,Mudslide,Downpour,1.0
+1472,2/5/10,,Mexico,Michoacán,4943,Mudslide,Downpour,3.0
+1474,2/5/10,19:00:00,United States,North Carolina,1150,Mudslide,Downpour,0.0
+1477,2/4/10,22:00,Mexico,México,2968,Mudslide,Downpour,11.0
+1484,2/6/10,,United States,Kentucky,5245,Mudslide,Downpour,0.0
+1485,2/6/10,,United States,Kentucky,2203,Landslide,Downpour,0.0
+1490,2/8/10,0:00:00,United States,Tennessee,4058,Mudslide,Rain,0.0
+1506,2/15/10,12:00,Haiti,Nord,134815,Mudslide,Downpour,4.0
+1525,2/25/10,6:45:00,United States,California,29603,Complex,Rain,0.0
+1531,2/27/10,,United States,California,209924,Mudslide,Downpour,0.0
+1552,3/11/10,,Dominica,Saint Paul,702,Landslide,Rain,0.0
+1555,3/11/10,,United States,Pennsylvania,305704,Landslide,Downpour,0.0
+1556,3/11/10,Afternoon,United States,Pennsylvania,5951,Landslide,Downpour,0.0
+1557,3/11/10,18:15:00,United States,Wisconsin,2133,Mudslide,Downpour,0.0
+1562,3/12/10,,United States,West Virginia,1260,Mudslide,Downpour,0.0
+1564,3/13/10,,United States,West Virginia,6432,Mudslide,Downpour,0.0
+1565,3/13/10,Night,United States,New Jersey,9916,Mudslide,Downpour,0.0
+1566,3/13/10,,United States,West Virginia,3572,Landslide,Downpour,0.0
+1567,3/14/10,16:30:00,United States,Ohio,6397,Mudslide,Downpour,0.0
+1568,3/14/10,,United States,Massachusetts,2717,Mudslide,Downpour,0.0
+1569,3/14/10,,United States,New Jersey,2410,Mudslide,Downpour,0.0
+1570,3/14/10,,United States,North Carolina,620,Landslide,Downpour,0.0
+1575,3/15/10,2:00:00,United States,Massachusetts,7389,Mudslide,Rain,0.0
+1576,3/15/10,19:00:00,United States,Massachusetts,5918,Landslide,Downpour,0.0
+1578,3/16/10,Late morning,United States,Pennsylvania,2528,Mudslide,Downpour,0.0
+1579,3/18/10,,United States,Tennessee,3944,Landslide,Downpour,0.0
+1584,3/21/10,Overnight,United States,Ohio,1311,Landslide,Downpour,0.0
+1591,3/25/10,Early morning,United States,Alabama,2264,Landslide,Downpour,0.0
+1595,3/26/10,23:30:00,United States,New York,1113,Landslide,Downpour,0.0
+1599,3/29/10,11:00:00,United States,Tennessee,3944,Mudslide,Downpour,0.0
+1601,3/30/10,15:00:00,United States,Connecticut,47648,Landslide,Rain,0.0
+1602,3/30/10,,United States,New York,7612,Mudslide,Downpour,0.0
+1603,3/30/10,7:19:00,United States,New York,195976,Mudslide,Downpour,0.0
+1604,3/30/10,Early morning,United States,Iowa,11051,Mudslide,Rain,0.0
+1605,3/30/10,,United States,Iowa,11051,Landslide,Rain,0.0
+1606,3/30/10,,United States,Maine,7794,Landslide,Downpour,0.0
+1608,3/31/10,Evening,United States,New Hampshire,1108,Landslide,Rain,0.0
+1612,4/1/10,Early morning,Peru,Huanuco,0,Lahar,Downpour,12.0
+1614,4/2/10,,Peru,Huanuco,6865,Landslide,Downpour,28.0
+1739,4/7/10,21:00:00,United States,Iowa,25663,Mudslide,Rain,0.0
+1743,4/12/10,,Dominica,Saint Patrick,2608,Landslide,Downpour,0.0
+1744,4/12/10,,Dominica,Saint Paul,702,Landslide,Downpour,0.0
+1745,4/12/10,,Dominica,Saint Patrick,2608,Landslide,Downpour,0.0
+1746,4/12/10,,Dominica,Saint Patrick,2608,Landslide,Downpour,0.0
+1747,4/12/10,,Dominica,Saint Patrick,1332,Landslide,Downpour,0.0
+1749,4/14/10,,Costa Rica,Alajuela,14448,Landslide,Downpour,0.0
+1751,4/14/10,,Colombia,Cundinamarca,130289,Landslide,Downpour,2.0
+1754,4/16/10,,Dominica,Saint Paul,702,Landslide,Downpour,0.0
+1760,4/18/10,,Jamaica,Saint Thomas,2634,Landslide,Downpour,0.0
+1761,4/18/10,,Jamaica,Clarendon,4514,Landslide,Downpour,0.0
+1762,4/18/10,,Jamaica,Clarendon,44755,Landslide,Downpour,0.0
+1763,4/18/10,,Jamaica,Portland,2757,Landslide,Downpour,0.0
+1764,4/18/10,,Jamaica,Portland,14400,Landslide,Downpour,0.0
+1784,4/25/10,Early morning,United States,Tennessee,2694,Landslide,Downpour,0.0
+1786,4/27/10,Early morning,Costa Rica,Heredia,1355,Landslide,Downpour,0.0
+1804,5/2/10,,United States,Kentucky,6845,Mudslide,Downpour,0.0
+1805,5/2/10,,United States,Kentucky,1883,Landslide,Downpour,0.0
+1806,5/2/10,,United States,Tennessee,2912,Landslide,Downpour,0.0
+1807,5/2/10,,United States,Tennessee,4812,Landslide,Downpour,0.0
+1808,5/2/10,,United States,Tennessee,7720,Landslide,Downpour,0.0
+1809,5/2/10,,United States,Tennessee,31279,Landslide,Downpour,0.0
+1810,5/2/10,,United States,Tennessee,34681,Landslide,Downpour,0.0
+1814,5/3/10,,United States,Kentucky,777,Mudslide,Downpour,0.0
+1815,5/3/10,,United States,Kentucky,365,Mudslide,Downpour,0.0
+1816,5/3/10,,United States,Kentucky,2237,Mudslide,Downpour,0.0
+1817,5/3/10,Overnight,United States,Kentucky,1732,Mudslide,Downpour,0.0
+1818,5/3/10,,United States,Kentucky,3459,Mudslide,Downpour,0.0
+1819,5/3/10,,United States,Kentucky,717,Mudslide,Downpour,0.0
+1820,5/3/10,,United States,West Virginia,3191,Mudslide,Downpour,0.0
+1821,5/3/10,,United States,Kentucky,717,Mudslide,Downpour,0.0
+1822,5/3/10,,United States,Kentucky,4456,Mudslide,Downpour,0.0
+1823,5/3/10,,United States,Kentucky,777,Mudslide,Downpour,0.0
+1824,5/3/10,,United States,Kentucky,777,Rockfall,Downpour,0.0
+1825,5/3/10,,United States,Kentucky,2237,Mudslide,Downpour,0.0
+1826,5/3/10,,United States,Kentucky,2237,Mudslide,Downpour,0.0
+1827,5/3/10,,United States,West Virginia,1090,Mudslide,Downpour,0.0
+1828,5/3/10,,United States,Virginia,1414,Mudslide,Downpour,0.0
+1829,5/3/10,,United States,Kentucky,2203,Mudslide,Downpour,0.0
+1830,5/3/10,,United States,Kentucky,6903,Complex,Downpour,0.0
+1831,5/3/10,,United States,Ohio,11129,Landslide,Downpour,0.0
+1832,5/3/10,,United States,Ohio,11129,Landslide,Downpour,0.0
+1833,5/3/10,,United States,Ohio,2165,Landslide,Downpour,0.0
+1834,5/3/10,Morning,Ecuador,Esmeraldas,165216,Mudslide,Downpour,3.0
+1836,5/4/10,Early morning,Colombia,Valle del Cauca,2392877,Landslide,Downpour,0.0
+1838,5/5/10,,Mexico,Baja California,1376457,Mudslide,Rain,0.0
+1850,5/9/10,,United States,Tennessee,2912,Mudslide,Downpour,0.0
+1855,5/10/10,,United States,Ohio,11129,Landslide,Downpour,0.0
+1859,5/14/10,5:00:00,United States,Missouri,4208,Mudslide,Downpour,0.0
+1869,5/16/10,Early morning,United States,Kentucky,1883,Landslide,Downpour,0.0
+1872,5/17/10,Night,United States,West Virginia,51400,Mudslide,Downpour,0.0
+1886,5/22/10,18:00:00,Costa Rica,Alajuela,14448,Landslide,Downpour,0.0
+1891,5/23/10,10:00:00,United States,North Carolina,872,Mudslide,Downpour,0.0
+1892,5/23/10,,Colombia,Meta,16678,Landslide,Downpour,0.0
+1900,5/24/10,,United States,Utah,10062,Landslide,Rain,0.0
+1904,5/26/10,,Guatemala,Quetzaltenango,11913,Mudslide,Tropical cyclone,4.0
+1909,5/27/10,,Colombia,Cundinamarca,313945,Landslide,Downpour,0.0
+1914,5/29/10,,Guatemala,Escuintla,31329,Mudslide,Tropical cyclone,0.0
+1915,5/29/10,,Guatemala,Guatemala,71836,Mudslide,Tropical cyclone,0.0
+1916,5/29/10,,Guatemala,Guatemala,97172,Landslide,Tropical cyclone,11.0
+1917,5/29/10,,Guatemala,Sacatepéquez,15529,Mudslide,Tropical cyclone,0.0
+1919,5/30/10,,Guatemala,Guatemala,994938,Landslide,Tropical cyclone,17.0
+1920,5/30/10,,Guatemala,Sololá,1422,Mudslide,Tropical cyclone,14.0
+1921,5/30/10,,Guatemala,Chimaltenango,2396,Landslide,Tropical cyclone,11.0
+1922,5/29/10,Night,Guatemala,Sololá,9681,Mudslide,Tropical cyclone,1.0
+1923,5/30/10,,Guatemala,Guatemala,47247,Mudslide,Tropical cyclone,4.0
+1924,5/30/10,,Guatemala,Quiché,11046,Landslide,Tropical cyclone,3.0
+1925,5/30/10,,Guatemala,Totonicapán,69734,Landslide,Tropical cyclone,3.0
+1947,6/5/10,17:00:00,United States,Pennsylvania,305704,Mudslide,Downpour,0.0
+1948,6/5/10,,United States,Pennsylvania,4432,Landslide,Downpour,0.0
+1955,6/7/10,1:30:00,United States,North Carolina,7609,Mudslide,Downpour,0.0
+1956,6/7/10,,United States,Nevada,12361,Landslide,Downpour,0.0
+1965,6/13/10,,United States,West Virginia,1654,Mudslide,Downpour,0.0
+2007,6/21/10,,United States,Indiana,67140,Landslide,Downpour,0.0
+2010,6/23/10,Morning,United States,Minnesota,2868,Mudslide,Downpour,0.0
+2011,6/23/10,,United States,Wisconsin,5184,Landslide,Downpour,0.0
+2021,6/27/10,,Guatemala,Sololá,6186,Landslide,Tropical cyclone,2.0
+2027,6/28/10,19:00:00,United States,Colorado,2617,Landslide,Downpour,0.0
+2028,6/28/10,12:00:00,United States,New York,10545,Mudslide,Downpour,0.0
+2033,7/2/10,,Mexico,Nuevo León,254472,Mudslide,Tropical cyclone,1.0
+2062,7/12/10,5:30:00,Honduras,Francisco Morazán ,850848,Mudslide,Downpour,1.0
+2065,7/13/10,,United States,New York,1041,Complex,Downpour,0.0
+2066,7/13/10,,United States,West Virginia,1860,Mudslide,Downpour,0.0
+2085,7/16/10,6:00:00,Canada,Ontario,33232,Mudslide,Downpour,0.0
+2086,7/16/10,Late evening,United States,Georgia,9432,Landslide,Downpour,0.0
+2093,7/18/10,,Honduras,Francisco Morazán ,850848,Landslide,Downpour,0.0
+2101,7/20/10,,United States,Arizona,65870,Debris flow,Downpour,0.0
+2107,7/21/10,,Guatemala,Guatemala,97172,Landslide,Downpour,5.0
+2108,7/21/10,8:00:00,United States,West Virginia,49138,Landslide,Downpour,0.0
+2114,7/22/10,Overnight,Mexico,Chiapas,9570,Mudslide,Downpour,3.0
+2115,7/22/10,,Mexico,Chiapas,128996,Rockfall,Downpour,0.0
+2123,7/23/10,14:30:00,United States,Colorado,16887,Rockfall,Downpour,0.0
+2124,7/23/10,,United States,New Mexico,9051,Landslide,Downpour,0.0
+2142,7/26/10,15:45:00,United States,Colorado,1320,Mudslide,Downpour,0.0
+2149,7/27/10,Afternoon,United States,Colorado,1320,Mudslide,Downpour,0.0
+2150,7/27/10,,United States,Kentucky,5955,Landslide,Downpour,0.0
+2156,7/29/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2157,7/29/10,,Trinidad and Tobago,City of Port of Spain,4342,Landslide,Downpour,0.0
+2158,7/29/10,,Trinidad and Tobago,City of Port of Spain,49031,Landslide,Downpour,0.0
+2174,7/30/10,9:30:00,Costa Rica,Alajuela,14448,Landslide,Rain,0.0
+2175,7/30/10,,Colombia,Magdalena,88311,Mudslide,Downpour,0.0
+2179,7/31/10,18:46:00,United States,Colorado,6427,Mudslide,Rain,0.0
+2185,8/1/10,2:30:00,United States,Colorado,2602,Mudslide,Downpour,0.0
+2186,8/1/10,19:30:00,United States,Utah,1344,Mudslide,Rain,0.0
+2189,8/2/10,15:30:00,Trinidad and Tobago,Diego Martin,8140,Mudslide,Downpour,0.0
+2191,8/2/10,,Mexico,The Federal District,12294193,Mudslide,Construction,2.0
+2193,8/3/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2194,8/3/10,,Colombia,Norte de Santander,2080,Complex,Downpour,4.0
+2199,8/5/10,13:45:00,Trinidad and Tobago,City of Port of Spain,4342,Landslide,Downpour,0.0
+2204,8/6/10,11:00:00,Trinidad and Tobago,San Juan/Laventille,157258,Landslide,Downpour,1.0
+2217,8/7/10,Overnight,Honduras,Francisco Morazán ,850848,Mudslide,Downpour,3.0
+2224,8/9/10,Morning,United States,Iowa,25023,Mudslide,Downpour,0.0
+2233,8/11/10,,Jamaica,Saint Andrew,8551,Complex,Downpour,0.0
+2265,8/18/10,19:30:00,United States,Tennessee,1497,Complex,Downpour,0.0
+2269,8/19/10,13:45:00,United States,Utah,42274,Complex,Downpour,0.0
+2270,8/19/10,Afternoon,United States,Colorado,6427,Mudslide,Downpour,0.0
+2271,8/19/10,15:40:00,United States,Colorado,6427,Mudslide,Downpour,0.0
+2272,8/19/10,Afternoon,United States,Colorado,6427,Mudslide,Downpour,0.0
+2273,8/19/10,Afternoon,United States,Colorado,6427,Mudslide,Downpour,0.0
+2274,8/19/10,Afternoon,United States,Colorado,2826,Mudslide,Downpour,0.0
+2275,8/19/10,Afternoon,United States,Colorado,2826,Mudslide,Downpour,0.0
+2276,8/19/10,Afternoon,United States,Colorado,6427,Mudslide,Downpour,0.0
+2277,8/19/10,Afternoon,United States,Colorado,9614,Mudslide,Downpour,0.0
+2278,8/19/10,,United States,Utah,5046,Landslide,Downpour,0.0
+2289,8/20/10,,Nicaragua,Managua,16469,Mudslide,Downpour,3.0
+2300,8/21/10,Morning,Trinidad and Tobago,City of San Fernando,55419,Landslide,Downpour,0.0
+2321,8/24/10,Morning,Mexico,Oaxaca,1099,Mudslide,Tropical cyclone,2.0
+2322,8/24/10,Morning,Mexico,Oaxaca,1701,Mudslide,Tropical cyclone,2.0
+2330,8/25/10,,Nicaragua,Jinotega,2367,Landslide,Downpour,
+2331,8/25/10,,Colombia,Santander,18739,Landslide,Downpour,0.0
+2333,8/25/10,14:10:00,United States,California,51367,Mudslide,Downpour,0.0
+2348,8/28/10,,Guatemala,Guatemala,473080,Landslide,Downpour,0.0
+2349,8/28/10,,Guatemala,Guatemala,473080,Landslide,Downpour,0.0
+2350,8/28/10,,Guatemala,Guatemala,67994,Landslide,Downpour,0.0
+2351,8/28/10,,Guatemala,Chiquimula,1623,Landslide,Downpour,0.0
+2352,8/28/10,,Guatemala,Huehuetenango,2121,Landslide,Downpour,0.0
+2353,8/28/10,,Guatemala,Sololá,2605,Landslide,Downpour,0.0
+2354,8/28/10,,Guatemala,Alta Verapaz,5633,Mudslide,Downpour,2.0
+2356,8/28/10,,Colombia,Santander,18739,Landslide,Downpour,0.0
+2358,8/29/10,4:30:00,Honduras,Francisco Morazán ,2288,Rockfall,Downpour,5.0
+2377,9/3/10,18:53:00,United States,Pennsylvania,1655,Landslide,Downpour,0.0
+2384,9/4/10,,Guatemala,Sololá,27690,Landslide,Downpour,25.0
+2385,9/4/10,,Guatemala,Quetzaltenango,19115,Landslide,Downpour,4.0
+2386,9/4/10,,Guatemala,Quiché,2090,Landslide,Downpour,1.0
+2387,9/4/10,,Guatemala,Sacatepéquez,17918,Landslide,Downpour,1.0
+2388,9/4/10,,Guatemala,Chimaltenango,82370,Landslide,Downpour,10.0
+2408,9/10/10,,Guatemala,Quiché,12088,Landslide,Downpour,5.0
+2412,9/11/10,11:45:00,United States,Tennessee,178874,Mudslide,Downpour,0.0
+2418,9/13/10,Night,Jamaica,Portland,1119,Landslide,Downpour,0.0
+2438,9/17/10,,Mexico,Veracruz-Llave,1324,Landslide,Tropical cyclone,2.0
+2449,9/19/10,Afternoon,Trinidad and Tobago,Couva-Tabaquite-Talparo,3314,Landslide,Downpour,0.0
+2451,9/19/10,Night,United States,Virginia,11285,Mudslide,Downpour,0.0
+2473,9/20/10,,Venezuela,Vargas,52564,Landslide,Downpour,7.0
+2474,9/20/10,Late night,Mexico,México,9267,Landslide,Downpour,8.0
+2487,9/22/10,6:00:00,United States,Arizona,1424,Complex,Downpour,0.0
+2490,9/23/10,23:00:00,Canada,Quebec,17016,Landslide,Downpour,0.0
+2491,9/23/10,13:00:00,United States,Wisconsin,6448,Mudslide,Downpour,0.0
+2503,9/26/10,,El Salvador,Ahuachapán,5055,Landslide,Tropical cyclone,0.0
+2507,9/27/10,3:00:00,Colombia,Risaralda,6940,Landslide,Downpour,4.0
+2508,9/27/10,,Colombia,Antioquia,1464,Landslide,Downpour,9.0
+2511,9/28/10,,Jamaica,Portland,1119,Landslide,Downpour,0.0
+2514,9/28/10,4:00:00,Mexico,Oaxaca,1813,Mudslide,Tropical cyclone,11.0
+2515,9/28/10,20:00:00,United States,Pennsylvania,3403,Complex,Downpour,0.0
+2516,9/29/10,,Costa Rica,Alajuela,3624,Mudslide,Downpour,0.0
+2517,9/29/10,,Jamaica,Saint Mary,2046,Landslide,Downpour,0.0
+2518,9/29/10,,Jamaica,Saint Andrew,8551,Landslide,Tropical cyclone,0.0
+2519,9/29/10,,Jamaica,Saint Catherine,12873,Landslide,Tropical cyclone,0.0
+2520,9/29/10,,Mexico,Chiapas,3947,Mudslide,Tropical cyclone,16.0
+2521,9/29/10,,Mexico,Chiapas,1088,Complex,Tropical cyclone,3.0
+2522,9/29/10,,United States,Pennsylvania,1244,Complex,Rain,0.0
+2523,9/30/10,Early morning,Jamaica,Saint Andrew,8551,Mudslide,Tropical cyclone,2.0
+2524,9/30/10,Morning,Mexico,Oaxaca,1096,Mudslide,Tropical cyclone,2.0
+2525,9/30/10,,United States,New York,1053,Mudslide,Tropical cyclone,0.0
+2526,10/1/10,,Costa Rica,San José,2833,Landslide,Downpour,0.0
+2527,10/1/10,,Costa Rica,San José,2833,Landslide,Downpour,0.0
+2528,10/1/10,,Haiti,Ouest,442156,Mudslide,Downpour,3.0
+2529,10/1/10,9:30:00,United States,New Hampshire,1126,Mudslide,Downpour,0.0
+2530,10/1/10,Afternoon,United States,Maryland,10519,Landslide,Downpour,0.0
+2533,10/3/10,13:00,Honduras,Comayagua,1484,Mudslide,Rain,0.0
+2543,10/4/10,,Saint Vincent and the Grenadines,Charlotte,1680,Landslide,Downpour,0.0
+2547,10/5/10,,Dominica,Saint Andrew,1020,Landslide,Rain,0.0
+2550,10/6/10,,Puerto Rico,Orocovis,944,Complex,Tropical cyclone,0.0
+2551,10/6/10,,U.S. Virgin Islands,Saint Croix Island,50601,Landslide,Tropical cyclone,0.0
+2558,10/7/10,0:15:00,Colombia,Boyacá,1519,Mudslide,Downpour,2.0
+2598,10/15/10,,Costa Rica,Heredia,1355,Rockfall,Downpour,2.0
+2604,10/17/10,,Haiti,Ouest,134190,Complex,Downpour,8.0
+2605,10/17/10,,Haiti,Ouest,442156,Mudslide,Downpour,2.0
+2611,10/18/10,,Cuba,Provincia de La Habana,132351,Complex,Tropical cyclone,0.0
+2642,10/19/10,,United States,California,7715,Mudslide,Downpour,0.0
+2652,10/25/10,,Honduras,Colón,1441,Landslide,Tropical cyclone,0.0
+2656,10/30/10,,Jamaica,Saint Mary,2046,Landslide,Unknown,0.0
+2657,10/30/10,,Saint Vincent and the Grenadines,Charlotte,1680,Landslide,Tropical cyclone,0.0
+2658,10/30/10,,Saint Lucia,Laborie,1131,Landslide,Tropical cyclone,0.0
+2659,10/31/10,,Saint Lucia,Soufrière,2918,Landslide,Tropical cyclone,2.0
+2660,10/31/10,,Saint Lucia,Soufrière,2918,Landslide,Tropical cyclone,2.0
+2661,10/31/10,,Saint Lucia,Dennery,2870,Landslide,Tropical cyclone,0.0
+2662,10/31/10,,Saint Lucia,Soufrière,2918,Landslide,Tropical cyclone,0.0
+2663,10/31/10,,Saint Lucia,Soufrière,2918,Landslide,Tropical cyclone,0.0
+2664,10/31/10,Early morning,Trinidad and Tobago,Sangre Grande,15968,Landslide,Tropical cyclone,0.0
+2665,10/31/10,Early morning,Trinidad and Tobago,Eastern Tobago,0,Landslide,Tropical cyclone,0.0
+2666,10/31/10,Morning,Trinidad and Tobago,Eastern Tobago,0,Landslide,Tropical cyclone,0.0
+2667,10/31/10,Morning,Trinidad and Tobago,Tunapuna/Piarco,15067,Landslide,Tropical cyclone,0.0
+2668,10/31/10,Morning,Trinidad and Tobago,Eastern Tobago,0,Landslide,Tropical cyclone,0.0
+2669,10/31/10,,Trinidad and Tobago,Tobago,17000,Landslide,Downpour,0.0
+2670,10/31/10,,Trinidad and Tobago,Tobago,17000,Landslide,Downpour,0.0
+2680,11/4/10,0:30:00,Costa Rica,San José,12071,Complex,Tropical cyclone,23.0
+2681,11/4/10,,Costa Rica,San José,4255,Mudslide,Tropical cyclone,3.0
+2682,11/4/10,,Costa Rica,Alajuela,3624,Landslide,Tropical cyclone,0.0
+2683,11/4/10,,Costa Rica,Guanacaste,7301,Landslide,Tropical cyclone,0.0
+2684,11/4/10,,Costa Rica,Cartago,4350,Landslide,Tropical cyclone,0.0
+2685,11/4/10,,Costa Rica,Puntarenas,6777,Landslide,Tropical cyclone,0.0
+2686,11/4/10,,Costa Rica,San José,22433,Landslide,Tropical cyclone,0.0
+2687,11/4/10,,Costa Rica,San José,34877,Landslide,Tropical cyclone,0.0
+2688,11/4/10,,Costa Rica,Puntarenas,7084,Landslide,Tropical cyclone,0.0
+2689,11/4/10,,Costa Rica,Puntarenas,3734,Landslide,Tropical cyclone,0.0
+2690,11/4/10,,Costa Rica,Puntarenas,3850,Landslide,Tropical cyclone,0.0
+2691,11/4/10,,Costa Rica,San José,34877,Landslide,Tropical cyclone,0.0
+2692,11/4/10,,Costa Rica,San José,5467,Landslide,Tropical cyclone,0.0
+2703,11/5/10,,Costa Rica,Alajuela,2107,Landslide,Tropical cyclone,0.0
+2706,11/7/10,,Cuba,Guantanamo,48362,Landslide,Tropical cyclone,0.0
+2707,11/7/10,,Peru,Huanuco,147959,Landslide,Downpour,2.0
+2720,11/13/10,,Colombia,Risaralda,10895,Mudslide,Downpour,4.0
+2721,11/13/10,,Colombia,Antioquia,1999979,Mudslide,Downpour,2.0
+2722,11/13/10,,Colombia,Sucre,36549,Mudslide,Downpour,0.0
+2728,11/16/10,Morning,Colombia,Cundinamarca,10175,Landslide,Downpour,4.0
+2734,11/17/10,10:30:00,United States,Pennsylvania,2763,Landslide,Downpour,0.0
+2735,11/18/10,5:30:00,Jamaica,Portland,2321,Landslide,Downpour,0.0
+2736,11/20/10,,Colombia,Caldas,6224,Landslide,Downpour,5.0
+2737,11/20/10,,Colombia,Caldas,6224,Landslide,Downpour,1.0
+2738,11/20/10,,Colombia,Caldas,1256,Landslide,Downpour,2.0
+2739,11/20/10,,Colombia,Norte de Santander,2702,Landslide,Downpour,0.0
+2740,11/20/10,,Colombia,Santander,3032,Landslide,Downpour,0.0
+2741,11/20/10,,Colombia,Antioquia,4987,Landslide,Downpour,0.0
+2742,11/21/10,,Costa Rica,Heredia,1355,Landslide,Downpour,0.0
+2749,11/25/10,,Venezuela,Miranda,278890,Mudslide,Downpour,1.0
+2753,11/26/10,Before dawn,Venezuela,Distrito Federal,3000000,Mudslide,Downpour,3.0
+2755,11/27/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2756,11/27/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2757,11/27/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2758,11/27/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2759,11/27/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2760,11/27/10,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+2761,11/27/10,,Venezuela,Distrito Federal,0,Mudslide,Downpour,1.0
+2762,11/27/10,Night,Venezuela,Distrito Federal,0,Landslide,Downpour,0.0
+2763,11/27/10,Night,Venezuela,Distrito Federal,0,Landslide,Downpour,2.0
+2764,11/27/10,Night,Venezuela,Distrito Federal,3000000,Landslide,Downpour,0.0
+2765,11/27/10,Night,Venezuela,Miranda,244216,Landslide,Downpour,0.0
+2766,11/27/10,Night,Venezuela,Miranda,57591,Landslide,Downpour,0.0
+2769,11/29/10,Night,Venezuela,Distrito Federal,3000000,Landslide,Downpour,1.0
+2770,11/29/10,Night,Venezuela,Distrito Federal,3000000,Landslide,Downpour,2.0
+2771,11/29/10,,Venezuela,Miranda,191903,Mudslide,Downpour,0.0
+2772,11/29/10,,Venezuela,Distrito Federal,3000000,Landslide,Downpour,0.0
+2773,11/29/10,,Venezuela,Distrito Federal,3000000,Landslide,Downpour,0.0
+2774,11/30/10,,Venezuela,Distrito Federal,3000000,Landslide,Downpour,1.0
+2775,11/30/10,,United States,New York,4946,Mudslide,Downpour,0.0
+2776,12/1/10,4:00:00,United States,Tennessee,178874,Rockfall,Downpour,0.0
+2777,12/1/10,Morning,United States,North Carolina,3114,Landslide,Downpour,0.0
+2784,12/5/10,14:30:00,Colombia,Antioquia,392939,Landslide,Downpour,91.0
+2786,12/7/10,,Trinidad and Tobago,Princes Town,10000,Landslide,Downpour,0.0
+2787,12/7/10,3:00:00,Trinidad and Tobago,Sangre Grande,15968,Landslide,Downpour,0.0
+2788,12/7/10,Afternoon,Trinidad and Tobago,Sangre Grande,15968,Landslide,Downpour,0.0
+2794,12/8/10,,Panama,Colón,1310,Landslide,Downpour,0.0
+2795,12/9/10,Morning,Panama,Colón,1274,Mudslide,Downpour,8.0
+2868,12/19/10,,United States,California,4862,Mudslide,Downpour,0.0
+2873,12/20/10,,United States,Nevada,24085,Mudslide,Downpour,0.0
+2874,12/21/10,,United States,California,59518,Rockfall,Downpour,0.0
+2876,12/21/10,14:10:00,United States,California,10644,Mudslide,Downpour,0.0
+2880,12/22/10,,United States,California,59518,Landslide,Downpour,0.0
+2881,12/22/10,,United States,California,53104,Complex,Downpour,0.0
+2884,12/22/10,9:00:00,United States,California,44199,Landslide,Downpour,0.0
+2885,12/22/10,,United States,California,4862,Landslide,Downpour,0.0
+2887,12/22/10,Morning,United States,California,53104,Mudslide,Downpour,0.0
+2890,12/22/10,,United States,California,4862,Rockfall,Downpour,0.0
+2893,12/22/10,2:30:00,United States,California,105328,Mudslide,Downpour,0.0
+2895,12/22/10,Early morning,United States,California,23261,Mudslide,Downpour,0.0
+2896,12/22/10,3:00:00,United States,California,42808,Mudslide,Downpour,0.0
+2897,12/22/10,7:30:00,United States,California,42808,Mudslide,Downpour,0.0
+2898,12/22/10,Morning,United States,California,23261,Mudslide,Downpour,0.0
+2899,12/23/10,Evening,Colombia,Nariño,6522,Landslide,Downpour,13.0
+2907,12/28/10,9:30:00,United States,California,57065,Mudslide,Downpour,0.0
+2910,12/28/10,14:00:00,United States,California,193365,Landslide,Downpour,0.0
+2930,1/2/11,,United States,Ohio,3454,Mudslide,Freeze thaw,0.0
+2948,1/9/11,,Peru,Ancash,0,Mudslide,Downpour,0.0
+2962,1/11/11,23:30:00,Costa Rica,Limón,19092,Landslide,Downpour,0.0
+3015,1/16/11,,United States,Idaho,485,Mudslide,Downpour,0.0
+3018,1/16/11,,United States,Idaho,145987,Mudslide,Downpour,0.0
+3021,1/16/11,,United States,Idaho,145987,Mudslide,Downpour,0.0
+3043,1/18/11,15:00:00,United States,Idaho,485,Complex,Freeze thaw,0.0
+3076,1/30/11,Morning,United States,West Virginia,1554,Mudslide,Downpour,0.0
+3090,2/5/11,,United States,North Carolina,1150,Mudslide,Rain,0.0
+3119,2/14/11,,Ecuador,Pichincha,25742,Mudslide,Downpour,0.0
+3120,2/14/11,,Ecuador,Cotopaxi,3778,Mudslide,Downpour,2.0
+3130,2/16/11,,Jamaica,Saint Mary,2046,Landslide,Downpour,0.0
+3131,2/16/11,,Jamaica,Portland,2757,Landslide,Downpour,0.0
+3135,2/18/11,,United States,California,1423,Complex,Downpour,0.0
+3167,3/2/11,Night,Panama,Los Santos,1283,Landslide,Downpour,0.0
+3168,3/2/11,Night,Panama,Bocas del Toro,8114,Landslide,Downpour,0.0
+3169,3/2/11,,United States,Pennsylvania,1873,Mudslide,Rain,0.0
+3170,3/3/11,Afternoon,Colombia,Santander,1669,Mudslide,Downpour,3.0
+3175,3/6/11,,United States,North Carolina,1241,Mudslide,Downpour,0.0
+3176,3/6/11,,United States,Connecticut,9549,Mudslide,Downpour,0.0
+3177,3/7/11,2:00:00,United States,Connecticut,28142,Mudslide,Downpour,0.0
+3178,3/7/11,5:00:00,United States,Massachusetts,19753,Mudslide,Rain,0.0
+3180,3/7/11,,Venezuela,Vargas,52564,Mudslide,Downpour,0.0
+3181,3/8/11,Early morning,United States,Pennsylvania,1244,Landslide,Downpour,0.0
+3182,3/8/11,5:00:00,United States,Missouri,35517,Mudslide,Downpour,0.0
+3183,3/8/11,Night,United States,Kentucky,4456,Mudslide,Downpour,0.0
+3187,3/9/11,12:00:00,United States,New York,2701,Rockfall,Downpour,0.0
+3188,3/9/11,Night,United States,West Virginia,1036,Landslide,Downpour,0.0
+3189,3/9/11,Night,United States,West Virginia,1036,Landslide,Downpour,0.0
+3190,3/10/11,Night,United States,Pennsylvania,1836,Mudslide,Downpour,0.0
+3195,3/10/11,,United States,Virginia,207627,Mudslide,Downpour,0.0
+3198,3/10/11,,United States,Virginia,2681,Landslide,Downpour,0.0
+3200,3/11/11,Early morning,United States,Ohio,4278,Landslide,Downpour,0.0
+3201,3/11/11,Early morning,United States,Ohio,1482,Landslide,Downpour,0.0
+3202,3/11/11,1:00:00,United States,Pennsylvania,1836,Mudslide,Downpour,0.0
+3204,3/12/11,18:00:00,United States,Ohio,3541,Mudslide,Downpour,0.0
+3210,3/13/11,23:00:00,United States,Ohio,1482,Landslide,Downpour,0.0
+3227,3/15/11,,United States,Alabama,12548,Landslide,Downpour,0.0
+3231,3/15/11,Night,United States,Pennsylvania,1171,Landslide,Downpour,0.0
+3243,3/16/11,,United States,Ohio,1592,Landslide,Downpour,0.0
+3244,3/16/11,19:00:00,United States,Ohio,3541,Mudslide,Downpour,0.0
+3248,3/18/11,Night,United States,New York,1009,Mudslide,Rain,0.0
+3255,3/20/11,Afternoon,Colombia,Caldas,35302,Landslide,Downpour,0.0
+3262,3/21/11,Morning,United States,Utah,7775,Mudslide,Downpour,0.0
+3300,3/26/11,,Colombia,Norte de Santander,721398,Mudslide,Downpour,0.0
+3303,3/26/11,Morning,United States,California,9277,Landslide,Downpour,0.0
+3311,3/28/11,,Colombia,Caldas,357814,Landslide,Rain,0.0
+3339,4/5/11,3:00:00,United States,Tennessee,14807,Mudslide,Rain,0.0
+3340,4/5/11,,United States,West Virginia,2499,Mudslide,Downpour,0.0
+3343,4/6/11,,United States,Pennsylvania,5677,Landslide,Rain,0.0
+3345,4/8/11,,United States,Ohio,20213,Landslide,Rain,0.0
+3346,4/9/11,,United States,West Virginia,1554,Landslide,Downpour,0.0
+3347,4/10/11,Early morning,Colombia,Antioquia,1999979,Landslide,Downpour,4.0
+3351,4/10/11,,United States,Pennsylvania,3744,Landslide,Downpour,0.0
+3352,4/11/11,Early morning,Colombia,Nariño,7279,Landslide,Downpour,0.0
+3353,4/11/11,,Colombia,Nariño,7279,Mudslide,Downpour,5.0
+3355,4/12/11,3:00:00,Grenada,Saint Mark,2256,Landslide,Downpour,0.0
+3356,4/12/11,Morning,Grenada,Saint John,3378,Landslide,Downpour,0.0
+3357,4/12/11,,Saint Vincent and the Grenadines,Charlotte,1680,Landslide,Downpour,0.0
+3358,4/12/11,Morning,United States,Kentucky,5955,Landslide,Downpour,0.0
+3359,4/13/11,,Colombia,Caldas,357814,Landslide,Downpour,0.0
+3360,4/13/11,Evening,Colombia,Caldas,35302,Landslide,Downpour,20.0
+3361,4/13/11,Morning,United States,Pennsylvania,305704,Complex,Continuous rain,0.0
+3362,4/13/11,Night,Colombia,Antioquia,10191,Landslide,Downpour,4.0
+3363,4/14/11,12:30:00,United States,Pennsylvania,1929,Mudslide,Downpour,0.0
+3364,4/14/11,2:00:00,United States,Pennsylvania,1171,Landslide,Downpour,0.0
+3365,4/15/11,,Colombia,Santander,1227,Mudslide,Downpour,11.0
+3367,4/16/11,,Colombia,Cundinamarca,1577,Landslide,Downpour,0.0
+3368,4/16/11,,United States,New Jersey,50005,Mudslide,Downpour,0.0
+3369,4/16/11,Afternoon,United States,Ohio,1372,Mudslide,Downpour,0.0
+3370,4/16/11,Evening,United States,West Virginia,823,Mudslide,Downpour,0.0
+3371,4/16/11,Afternoon,United States,Ohio,1482,Mudslide,Downpour,0.0
+3372,4/16/11,21:30:00,United States,Pennsylvania,9299,Mudslide,Downpour,0.0
+3379,4/17/11,10:00:00,United States,Maryland,6170,Mudslide,Downpour,0.0
+3386,4/21/11,,United States,Kentucky,24757,Landslide,Downpour,0.0
+3387,4/21/11,,United States,Kentucky,5912,Landslide,Downpour,0.0
+3388,4/21/11,,United States,Kentucky,3925,Landslide,Downpour,0.0
+3389,4/21/11,18:00:00,United States,Kentucky,7489,Mudslide,Downpour,0.0
+3390,4/21/11,,United States,Ohio,5259,Landslide,Downpour,0.0
+3391,4/21/11,,United States,Kentucky,3035,Landslide,Downpour,0.0
+3392,4/21/11,,United States,Kentucky,8477,Landslide,Downpour,0.0
+3393,4/22/11,,Colombia,Antioquia,49169,Landslide,Downpour,2.0
+3398,4/23/11,Night,Colombia,Antioquia,8603,Landslide,Rain,0.0
+3403,4/24/11,,Ecuador,Morona-Santiago,23687,Landslide,Downpour,7.0
+3404,4/24/11,,United States,West Virginia,4028,Mudslide,Downpour,0.0
+3405,4/24/11,,United States,Ohio,3149,Mudslide,Downpour,0.0
+3406,4/24/11,,United States,Ohio,4582,Mudslide,Downpour,0.0
+3408,4/25/11,,United States,Missouri,4426,Mudslide,Downpour,0.0
+3409,4/25/11,,United States,Ohio,3234,Landslide,Downpour,0.0
+3410,4/25/11,,United States,Kentucky,4407,Landslide,Downpour,0.0
+3411,4/25/11,,United States,Kentucky,5955,Landslide,Downpour,0.0
+3412,4/25/11,,United States,Kentucky,2554,Landslide,Downpour,0.0
+3413,4/25/11,20:00:00,United States,Ohio,296943,Landslide,Downpour,0.0
+3414,4/25/11,,United States,Kentucky,15273,Landslide,Downpour,0.0
+3415,4/25/11,,United States,Ohio,296943,Mudslide,Downpour,0.0
+3416,4/25/11,,United States,Ohio,1239,Landslide,Downpour,0.0
+3417,4/25/11,Night,United States,Arkansas,1084,Landslide,Downpour,0.0
+3418,4/25/11,,United States,Ohio,2782,Landslide,Downpour,0.0
+3419,4/25/11,6:00:00,United States,West Virginia,1302,Mudslide,Downpour,0.0
+3427,4/26/11,,United States,Ohio,4801,Landslide,Downpour,0.0
+3428,4/26/11,,United States,Tennessee,5417,Landslide,Downpour,0.0
+3434,4/27/11,Early morning,United States,Tennessee,14538,Landslide,Downpour,0.0
+3435,4/27/11,,United States,Kentucky,4407,Mudslide,Downpour,0.0
+3436,4/27/11,Early morning,United States,Tennessee,1750,Landslide,Downpour,0.0
+3438,4/28/11,,United States,Kentucky,2764,Landslide,Downpour,0.0
+3440,4/29/11,Morning,United States,Kentucky,1745,Mudslide,Continuous rain,0.0
+3441,4/30/11,,United States,Missouri,2184,Landslide,Downpour,0.0
+3443,5/1/11,,United States,Kentucky,2237,Landslide,Downpour,0.0
+3445,5/3/11,Morning,United States,Ohio,5099,Mudslide,Downpour,0.0
+3446,5/3/11,Morning,United States,Ohio,14407,Mudslide,Downpour,0.0
+3448,5/3/11,Morning,United States,Ohio,11585,Mudslide,Downpour,0.0
+3449,5/3/11,Morning,United States,Ohio,5069,Mudslide,Downpour,0.0
+3450,5/3/11,Morning,United States,Kentucky,4407,Mudslide,Downpour,0.0
+3452,5/3/11,Night,Colombia,Boyacá,3689,Complex,Downpour,2.0
+3454,5/3/11,,United States,Kentucky,1190,Mudslide,Downpour,0.0
+3455,5/3/11,Early morning,United States,Kentucky,25527,Mudslide,Downpour,0.0
+3456,5/3/11,Morning,United States,Kentucky,25527,Mudslide,Downpour,0.0
+3457,5/3/11,Early morning,United States,Kentucky,25527,Mudslide,Downpour,0.0
+3458,5/3/11,Morning,United States,Kentucky,9011,Mudslide,Downpour,0.0
+3459,5/3/11,5:00:00,United States,Ohio,1638,Landslide,Downpour,0.0
+3460,5/2/11,12:15,Ecuador,Pichincha,1399814,Mudslide,Unknown,5.0
+3463,5/4/11,Morning,United States,Vermont,2386,Mudslide,Downpour,0.0
+3464,5/4/11,2:00:00,United States,Vermont,2386,Mudslide,Downpour,0.0
+3466,5/5/11,,United States,Vermont,9052,Mudslide,Downpour,0.0
+3471,5/8/11,,Colombia,Boyacá,5411,Landslide,Downpour,0.0
+3472,5/8/11,Night,Costa Rica,Heredia,1355,Landslide,Rain,0.0
+3478,5/8/11,1:52:00,United States,Idaho,1928,Mudslide,Downpour,0.0
+3482,5/10/11,Afternoon,United States,West Virginia,51400,Mudslide,Downpour,0.0
+3486,5/11/11,,United States,Ohio,2676,Landslide,Downpour,0.0
+3487,5/11/11,,United States,Ohio,11129,Landslide,Downpour,0.0
+3488,5/11/11,,United States,Ohio,2165,Landslide,Downpour,0.0
+3489,5/11/11,,United States,Ohio,11129,Landslide,Downpour,0.0
+3490,5/12/11,Late afternoon,United States,Ohio,1543,Mudslide,Downpour,0.0
+3493,5/13/11,Afternoon,United States,Pennsylvania,3450,Mudslide,Downpour,0.0
+3494,5/13/11,Afternoon,United States,Pennsylvania,13663,Mudslide,Downpour,0.0
+3495,5/13/11,,United States,Pennsylvania,7635,Landslide,Continuous rain,0.0
+3498,5/15/11,Late night,United States,New York,2614,Mudslide,Downpour,0.0
+3499,5/16/11,9:50:00,Colombia,Valle del Cauca,2392877,Landslide,Downpour,0.0
+3500,5/16/11,5:45:00,Colombia,Santander,8949,Landslide,Downpour,2.0
+3501,5/17/11,Evening,Colombia,Santander,86387,Landslide,Downpour,0.0
+3502,5/17/11,,United States,Pennsylvania,1064,Landslide,Downpour,0.0
+3503,5/18/11,3:30:00,Colombia,Santander,11265,Complex,Downpour,1.0
+3504,5/18/11,,United States,West Virginia,49138,Landslide,Downpour,0.0
+3505,5/18/11,3:00:00,United States,West Virginia,49138,Landslide,Downpour,0.0
+3506,5/18/11,,United States,West Virginia,49138,Landslide,Downpour,0.0
+3507,5/18/11,,United States,West Virginia,49138,Landslide,Downpour,0.0
+3508,5/18/11,,United States,West Virginia,49138,Landslide,Downpour,0.0
+3509,5/18/11,Night,United States,West Virginia,1542,Mudslide,Downpour,0.0
+3510,5/18/11,3:00:00,United States,Pennsylvania,5677,Landslide,Downpour,0.0
+3511,5/18/11,21:40:00,United States,Pennsylvania,1440,Landslide,Downpour,0.0
+3514,5/19/11,Early morning,United States,Pennsylvania,27126,Landslide,Downpour,0.0
+3515,5/19/11,,United States,Pennsylvania,3050,Landslide,Downpour,0.0
+3516,5/19/11,21:00:00,United States,Utah,1336,Landslide,Downpour,0.0
+3517,5/19/11,Early morning,United States,Pennsylvania,3330,Landslide,Downpour,0.0
+3518,5/20/11,,United States,Pennsylvania,305704,Landslide,Downpour,0.0
+3522,5/21/11,14:00:00,United States,Utah,9128,Mudslide,Downpour,0.0
+3523,5/21/11,,United States,Pennsylvania,1218,Creep,Downpour,0.0
+3524,5/21/11,,United States,Pennsylvania,1218,Creep,Downpour,0.0
+3526,5/22/11,Afternoon,United States,Utah,18275,Mudslide,Downpour,0.0
+3527,5/22/11,12:30:00,United States,Utah,3112,Complex,Downpour,0.0
+3528,5/22/11,,United States,Utah,8893,Mudslide,Downpour,0.0
+3529,5/22/11,,United States,Utah,15335,Landslide,Downpour,0.0
+3531,5/23/11,Late night,United States,Pennsylvania,5157,Landslide,Downpour,0.0
+3537,5/25/11,10:00:00,United States,Iowa,82684,Mudslide,Downpour,0.0
+3538,5/25/11,,United States,Michigan,113934,Mudslide,Downpour,0.0
+3548,5/27/11,Evening,United States,New York,2521,Landslide,Downpour,0.0
+3550,5/28/11,3:00:00,United States,Illinois,27865,Mudslide,Downpour,0.0
+3551,5/29/11,12:00:00,United States,Vermont,9052,Landslide,Downpour,0.0
+3553,5/30/11,Morning,United States,Utah,1336,Landslide,Rain,0.0
+3554,5/30/11,,United States,Wyoming,1182,Mudslide,Unknown,0.0
+3555,5/30/11,Early morning,United States,Vermont,9052,Mudslide,Downpour,0.0
+3563,6/2/11,,Haiti,Sud-Est,137966,Landslide,Downpour,0.0
+3564,6/2/11,,Haiti,Centre,18590,Landslide,Downpour,1.0
+3569,6/3/11,,Dominican Republic,Santiago,9853,Landslide,Downpour,1.0
+3572,6/5/11,,Ecuador,Carchi,3983,Landslide,Downpour,0.0
+3573,6/5/11,,United States,Colorado,1079,Mudslide,Rain,0.0
+3574,6/6/11,Night,Colombia,Bolívar,8904,Landslide,Downpour,2.0
+3576,6/7/11,,Haiti,Ouest,283052,Landslide,Downpour,13.0
+3599,6/11/11,,United States,Kentucky,5338,Mudslide,Rain,0.0
+3600,6/11/11,,United States,Iowa,10780,Mudslide,Downpour,
+3604,6/12/11,Afternoon,United States,Pennsylvania,1319,Mudslide,Downpour,0.0
+3625,6/18/11,20:40:00,United States,Wisconsin,65883,Mudslide,Downpour,0.0
+3635,6/20/11,Morning,United States,Indiana,1712,Mudslide,Downpour,0.0
+3636,6/20/11,Morning,United States,Tennessee,4389,Mudslide,Downpour,0.0
+3639,6/22/11,,Mexico,Nayarit,4463,Landslide,Tropical cyclone,0.0
+3640,6/22/11,,United States,Kentucky,2733,Mudslide,Rain,0.0
+3661,6/27/11,6:00:00,United States,Colorado,1034,Landslide,Rain,0.0
+3684,7/1/11,,Mexico,Veracruz-Llave,425148,Mudslide,Tropical cyclone,0.0
+3719,7/3/11,,United States,Kentucky,15926,Landslide,Downpour,0.0
+3720,7/3/11,,United States,Ohio,1509,Landslide,Downpour,0.0
+3721,7/3/11,,United States,Kentucky,15273,Landslide,Downpour,0.0
+3722,7/3/11,,Venezuela,Aragua,0,Landslide,Rain,0.0
+3723,7/3/11,,Venezuela,Falcón,0,Landslide,Rain,0.0
+3728,7/4/11,19:30:00,United States,Pennsylvania,3165,Landslide,Rain,0.0
+3729,7/4/11,,United States,Colorado,6658,Mudslide,Rain,0.0
+3732,7/5/11,,United States,Pennsylvania,27126,Mudslide,Rain,0.0
+3733,7/5/11,2:30:00,United States,Utah,15523,Landslide,Downpour,0.0
+3736,7/6/11,,Dominican Republic,Distrito Nacional,2201941,Landslide,Downpour,1.0
+3743,7/7/11,,United States,Colorado,3887,Landslide,Rain,0.0
+3744,7/7/11,,United States,Wyoming,17444,Landslide,Rain,0.0
+3755,7/9/11,,United States,Wyoming,17444,Landslide,Rain,0.0
+3758,7/10/11,,United States,Arizona,43888,Debris flow,Downpour,0.0
+3761,7/11/11,,United States,Arizona,43888,Landslide,Downpour,0.0
+3762,7/12/11,,Costa Rica,Alajuela,4185,Landslide,Downpour,0.0
+3765,7/12/11,Evening,United States,Colorado,1451,Mudslide,Downpour,0.0
+3766,7/12/11,Evening,United States,Colorado,1451,Mudslide,Downpour,0.0
+3767,7/12/11,,United States,Arizona,4885,Mudslide,Rain,0.0
+3771,7/13/11,Evening,United States,Colorado,97385,Debris flow,Downpour,0.0
+3774,7/14/11,,United States,Colorado,97385,Rockfall,Downpour,0.0
+3784,7/15/11,,United States,Arizona,14797,Debris flow,Rain,0.0
+3795,7/17/11,,Mexico,Oaxaca,73648,Mudslide,Downpour,0.0
+3796,7/17/11,,Mexico,Oaxaca,3294,Mudslide,Downpour,0.0
+3797,7/17/11,,Mexico,Oaxaca,1019,Mudslide,Downpour,2.0
+3799,7/18/11,Night,United States,Colorado,1320,Landslide,Rain,0.0
+3800,7/18/11,,United States,Colorado,9614,Mudslide,Rain,0.0
+3801,7/18/11,,United States,Pennsylvania,3165,Mudslide,Downpour,0.0
+3802,7/18/11,,United States,Ohio,1411,Mudslide,Rain,0.0
+3811,7/19/11,19:00:00,United States,Kentucky,441,Landslide,Downpour,0.0
+3812,7/19/11,,United States,Colorado,6447,Landslide,Rain,0.0
+3825,7/21/11,,United States,Florida,2768,Landslide,Rain,0.0
+3826,7/21/11,Morning,United States,Kentucky,4456,Landslide,Downpour,0.0
+3832,7/22/11,,Mexico,Chiapas,1005,Landslide,Tropical cyclone,0.0
+3833,7/22/11,,Mexico,Colima,127235,Landslide,Tropical cyclone,0.0
+3834,7/22/11,,Mexico,Guerrero,165250,Landslide,Tropical cyclone,0.0
+3835,7/22/11,,Mexico,Michoacán,2817,Landslide,Tropical cyclone,0.0
+3836,7/22/11,,Mexico,Nayarit,6361,Landslide,Tropical cyclone,0.0
+3842,7/25/11,,United States,Colorado,629,Landslide,Rain,0.0
+3852,7/27/11,,United States,New Mexico,1297,Debris flow,Downpour,0.0
+3865,7/30/11,,United States,Colorado,3801,Mudslide,Rain,0.0
+3866,7/30/11,,United States,Colorado,9614,Mudslide,Rain,0.0
+3867,7/30/11,,United States,Colorado,9172,Mudslide,Rain,0.0
+3870,8/1/11,,United States,Pennsylvania,3263,Mudslide,Rain,0.0
+3878,8/3/11,,United States,Colorado,637,Mudslide,Rain,0.0
+3883,8/5/11,,United States,Tennessee,3944,Landslide,Downpour,0.0
+3901,8/8/11,10:00:00,United States,Tennessee,34681,Mudslide,Rain,0.0
+3911,8/11/11,,United States,Pennsylvania,2541,Landslide,Rain,0.0
+3926,8/15/11,,United States,New Jersey,4933,Landslide,Downpour,0.0
+3957,9/1/11,6:45:00,Bermuda,Hamilton city,902,Landslide,Rain,0.0
+3960,9/1/11,,United States,New York,10082,Mudslide,Rain,0.0
+3966,9/8/11,,United States,New Jersey,2681,Mudslide,Rain,0.0
+3967,9/8/11,,United States,New Jersey,15311,Landslide,Rain,0.0
+3981,9/20/11,15:00,Guatemala,Huehuetenango,14100,Landslide,Rain,15.0
+3985,9/25/11,,Costa Rica,San José,34877,Landslide,Downpour,0.0
+3988,9/26/11,,Honduras,Francisco Morazán ,850848,Landslide,Downpour,2.0
+3993,9/27/11,,Colombia,Antioquia,1999979,Landslide,Downpour,6.0
+4005,10/7/11,Morning,Colombia,Valle del Cauca,240387,Landslide,Downpour,3.0
+4006,10/8/11,5:00:00,United States,Utah,28857,Landslide,Rain,0.0
+4008,10/10/11,,El Salvador,San Salvador,112158,Landslide,Downpour,32.0
+4009,10/12/11,,Mexico,Jalisco,16520,Landslide,Downpour,2.0
+4014,10/15/11,,Colombia,Antioquia,16225,Landslide,Downpour,5.0
+4029,10/25/11,9:30:00,Trinidad and Tobago,San Juan/Laventille,157258,Landslide,Downpour,0.0
+4031,10/31/11,,Costa Rica,Cartago,6784,Landslide,Downpour,0.0
+4032,10/31/11,6:00:00,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,0.0
+4036,11/4/11,Night,Colombia,Quindío,62170,Landslide,Downpour,4.0
+4037,11/4/11,Night,Colombia,Caldas,357814,Landslide,Downpour,48.0
+4049,11/17/11,,Colombia,Tolima,9309,Mudslide,Downpour,0.0
+4051,11/18/11,,Dominican Republic,La Vega,29481,Mudslide,Downpour,0.0
+4057,11/22/11,,United States,Pennsylvania,5012,Landslide,Rain,0.0
+4064,11/24/11,,Colombia,Tolima,9309,Landslide,Downpour,0.0
+4071,11/29/11,,Colombia,Cundinamarca,54421,Landslide,Downpour,3.0
+4072,11/30/11,4:30:00,United States,Alabama,14770,Landslide,Downpour,0.0
+4075,12/2/11,,Colombia,Tolima,5640,Mudslide,Downpour,7.0
+4077,12/2/11,,Trinidad and Tobago,Penal/Debe,12281,Mudslide,Downpour,0.0
+4078,12/2/11,,Trinidad and Tobago,Point Fortin,19056,Mudslide,Downpour,0.0
+4079,12/2/11,,Trinidad and Tobago,Couva-Tabaquite-Talparo,3314,Mudslide,Downpour,0.0
+4080,12/2/11,,Trinidad and Tobago,Diego Martin,8140,Mudslide,Downpour,0.0
+4081,12/2/11,,Trinidad and Tobago,Sangre Grande,15968,Mudslide,Downpour,0.0
+4082,12/2/11,,Trinidad and Tobago,Couva-Tabaquite-Talparo,3314,Mudslide,Downpour,0.0
+4083,12/2/11,,Trinidad and Tobago,Borough of Arima,35000,Mudslide,Downpour,0.0
+4085,12/4/11,3:00:00,Trinidad and Tobago,Sangre Grande,15968,Mudslide,Downpour,1.0
+4087,12/6/11,,Venezuela,Distrito Federal,3000000,Landslide,Downpour,2.0
+4088,12/7/11,,Colombia,Santander,1310,Mudslide,Downpour,2.0
+4089,12/8/11,,Colombia,Cundinamarca,313945,Mudslide,Downpour,6.0
+4091,12/13/11,,Colombia,Cauca,8751,Landslide,Downpour,1.0
+4094,12/15/11,,Colombia,Caldas,5976,Landslide,Downpour,5.0
+4095,12/15/11,,Colombia,Nariño,2394,Landslide,Downpour,9.0
+4096,12/16/11,,Colombia,Magdalena,431781,Landslide,Downpour,1.0
+4097,12/16/11,,Colombia,Caldas,9327,Landslide,Downpour,9.0
+4104,12/23/11,,Colombia,Risaralda,179583,Landslide,Downpour,0.0
+4105,12/23/11,0:00:00,United States,Pennsylvania,2449,Landslide,Downpour,0.0
+4106,12/23/11,,United States,Kentucky,5338,Landslide,Downpour,0.0
+4108,12/25/11,,Trinidad and Tobago,Tunapuna/Piarco,15067,Landslide,Downpour,0.0
+4121,12/30/11,,Colombia,Antioquia,163007,Landslide,Downpour,3.0
+4136,1/9/12,Late night,United States,Kentucky,5338,Mudslide,Continuous rain,0.0
+4138,1/11/12,,United States,Pennsylvania,305704,Landslide,Rain,0.0
+4174,1/27/12,,United States,Kentucky,4407,Mudslide,Rain,0.0
+4175,1/27/12,,United States,Pennsylvania,3165,Mudslide,Rain,0.0
+4200,2/15/12,Early morning,Peru,Ancash,0,Mudslide,Downpour,3.0
+4239,3/2/12,,United States,West Virginia,1256,Mudslide,Rain,0.0
+4249,3/8/12,19:00:00,United States,Kentucky,31364,Mudslide,Downpour,0.0
+4252,3/9/12,,United States,Tennessee,2020,Landslide,Unknown,0.0
+4256,3/13/12,,Ecuador,Manabi ,44751,Landslide,Downpour,20.0
+4263,3/15/12,17:45:00,United States,Ohio,8375,Mudslide,Rain,0.0
+4266,3/15/12,Night,United States,Kentucky,1461,Landslide,Downpour,0.0
+4282,3/22/12,Early morning,United States,Kansas,6731,Mudslide,Downpour,0.0
+4283,3/24/12,,Ecuador,Manabi ,14680,Mudslide,Downpour,0.0
+4289,3/30/12,Late night,Haiti,Ouest,283052,Landslide,Downpour,6.0
+4296,3/30/12,,United States,New York,2072,Landslide,Downpour,
+4312,4/8/12, ,Haiti,Nord,32645,Landslide,Downpour,2.0
+4320,4/12/12,,Colombia,Antioquia,9733,Landslide,Downpour,3.0
+4327,4/18/12,,Trinidad and Tobago,Eastern Tobago,0,Landslide,Downpour,
+4328,4/18/12,,Trinidad and Tobago,Tobago,17000,Landslide,Downpour,
+4332,4/22/12,,Colombia,Caquetá,130337,Landslide,Downpour,4.0
+4344,5/1/12,,United States,Kentucky,5338,Landslide,Downpour,
+4351,5/5/12,,United States,West Virginia,2892,Landslide,Downpour,
+4353,5/6/12,,United States,Kentucky,5955,Landslide,Downpour,
+4354,5/6/12,,United States,Ohio,66982,Landslide,Downpour,
+4358,5/13/12,,Costa Rica,Heredia,5745,Landslide,Downpour,
+4361,5/15/12,,Guatemala,Quiché,11657,Landslide,Downpour,1.0
+4364,5/24/12,,United States,Minnesota,9552,Mudslide,Downpour,
+4374,5/30/12,,Trinidad and Tobago,Tunapuna/Piarco,15067,Landslide,Downpour,
+4375,5/31/12,,Costa Rica,Guanacaste,7301,Landslide,Downpour,
+4410,6/14/12,,Costa Rica,Limón,18231,Landslide,Downpour,
+4412,6/15/12,,Mexico,Oaxaca,262566,Mudslide,Downpour,3.0
+4450,7/6/12,,United States,Colorado,2450,Landslide,Rain,
+4455,7/9/12,,United States,Colorado,1794,Landslide,Downpour,
+4456,7/9/12,,United States,Colorado,1655,Mudslide,Downpour,
+4470,8/12/12,,United States,Wyoming,9520,Mudslide,Downpour,
+4474,8/14/12,,United States,Arkansas,466,Landslide,Downpour,
+4491,8/17/12,,United States,California,51367,Mudslide,Downpour,
+4510,8/23/12,,Trinidad and Tobago,Diego Martin,8140,Landslide,Tropical cyclone,
+4511,8/23/12,,Trinidad and Tobago,Diego Martin,8140,Landslide,Downpour,
+4512,8/23/12,,United States,Arizona,1445632,Mudslide,Downpour,
+4518,8/27/12,21:00:00,Jamaica,Portland,2321,Landslide,Downpour,
+4529,9/1/12,,United States,Utah,17781,Mudslide,Downpour,
+4531,9/2/12,,United States,Utah,1247,Debris flow,Downpour,
+4532,9/2/12,,United States,Utah,1247,Debris flow,Downpour,
+4533,9/2/12,,United States,Utah,1247,Debris flow,Downpour,
+4534,9/2/12,,United States,Utah,3260,Debris flow,Downpour,
+4543,9/7/12,Night,Trinidad and Tobago,,8140,Mudslide,Downpour,
+4558,9/16/12,Early morning,Trinidad and Tobago,City of Port of Spain,49031,Landslide,Downpour,
+4568,9/18/12,,United States,Tennessee,20979,Landslide,Downpour,
+4575,9/27/12,Morning,United States,Colorado,2450,Landslide,Downpour,
+4576,9/27/12,Morning,United States,Colorado,5858,Landslide,Downpour,
+4583,10/7/12,,Colombia,Huila,9481,Landslide,Downpour,10.0
+4588,10/17/12,,Peru,San Martín,0,Landslide,Downpour,13.0
+4593,10/23/12,,Costa Rica,San José,10028,Landslide,Tropical cyclone,
+4599,10/30/12,,United States,New Hampshire,1213,Landslide,Tropical cyclone,1.0
+4600,10/30/12,,United States,Pennsylvania,20313,Landslide,Tropical cyclone,
+4604,11/1/12,Early morning,United States,Pennsylvania,3260,Landslide,Rain,
+4606,11/2/12,,United States,Pennsylvania,305704,Landslide,Tropical cyclone,
+4613,11/14/12,,United States,North Carolina,1192,Landslide,Rain,
+4632,11/25/12,,Panama,Colón,76643,Landslide,Rain,2.0
+4634,11/27/12,,Jamaica,Portland,1119,Landslide,Rain,
+4637,11/28/12,,Colombia,Norte de Santander,2080,Landslide,Rain,
+4647,12/2/12,,United States,Idaho,2991,Landslide,Rain,
+4655,12/5/12,,Dominican Republic,Puerto Plata,146000,Landslide,Rain,
+4672,12/21/12,11:50:00,United States,Pennsylvania,305704,Landslide,Rain,
+4678,12/25/12,3:00:00,Trinidad and Tobago,Eastern Tobago,0,Landslide,Rain,
+4679,12/25/12,3:00:00,Trinidad and Tobago,Eastern Tobago,0,Landslide,Rain,
+4680,12/25/12,3:00:00,Trinidad and Tobago,Eastern Tobago,0,Landslide,Rain,
+4688,12/29/12,15:32,Colombia,Huila,9829,Landslide,Mining digging,5.0
+4710,1/13/13,,Canada,Ontario,115760,Mudslide,Rain,
+4711,1/13/13,,United States,Kentucky,2583,Landslide,Rain,
+4712,1/14/13,Morning,United States,Kentucky,225366,Landslide,Rain,
+4714,1/15/13,,United States,North Carolina,1869,Mudslide,Rain,
+4715,1/15/13,,United States,North Carolina,1150,Mudslide,Rain,
+4716,1/15/13,,United States,Tennessee,178874,Landslide,Rain,
+4717,1/16/13,9:40:00,United States,North Carolina,2138,Landslide,Rain,
+4719,1/16/13,,United States,New Jersey,3279,Landslide,Downpour,
+4720,1/16/13,,United States,North Carolina,6123,Landslide,Rain,
+4721,1/16/13,,United States,Tennessee,2355,Mudslide,Rain,
+4723,1/17/13,Morning,United States,North Carolina,620,Landslide,Rain,
+4724,1/17/13,,United States,Pennsylvania,305704,Mudslide,Rain,
+4725,1/18/13,,United States,North Carolina,1150,Mudslide,Rain,
+4730,1/24/13,,Ecuador,Guayas,12205,Landslide,Rain,10.0
+4742,1/30/13,,United States,Kentucky,777,Landslide,Rain,
+4760,2/20/13,5:00:00,United States,Arizona,1443,Landslide,Unknown,
+4771,3/12/13,Night,United States,Pennsylvania,1257,Landslide,Downpour,0.0
+4776,3/18/13,,United States,Kentucky,28015,Landslide,Rain,
+4789,3/28/13,0:30:00,Brazil,Amapá,83927,Landslide,Other,6.0
+4802,4/10/13,21:30:00,United States,Utah,21785,Landslide,Mining digging,0.0
+4804,4/15/13,Morning,United States,Pennsylvania,20079,Landslide,Downpour,0.0
+4805,4/17/13,8:00:00,United States,Kentucky,6903,Landslide,Rain,
+4806,4/17/13,23:30:00,United States,Iowa,67862,Mudslide,Rain,
+4807,4/17/13,,United States,Kentucky,1461,Landslide,Rain,
+4809,4/17/13,,United States,Kentucky,1745,Landslide,Rain,
+4810,4/18/13,10:00:00,United States,Illinois,1427,Mudslide,Rain,
+4811,4/18/13,,United States,Illinois,23402,Mudslide,Rain,
+4821,4/23/13,,Ecuador,Esmeraldas,165216,Landslide,Rain,14.0
+4822,4/25/13,,United States,North Carolina,872,Landslide,Rain,
+4824,4/26/13,,Trinidad and Tobago,Tobago,17000,Landslide,Rain,
+4828,4/29/13,,United States,Ohio,1791,Landslide,Rain,
+4829,4/29/13,,United States,North Carolina,1171,Landslide,Rain,
+4830,4/30/13,21:00:00,United States,Florida,28742,Mudslide,Rain,
+4835,5/6/13,2:00:00,United States,North Carolina,7848,Mudslide,Rain,1.0
+4837,5/6/13,,United States,North Carolina,18228,Landslide,Rain,
+4838,5/6/13,,United States,North Carolina,4227,Landslide,Rain,
+4839,5/6/13,,United States,North Carolina,2031,Mudslide,Rain,
+4841,5/7/13,,United States,Kentucky,4407,Landslide,Rain,
+4842,5/7/13,,United States,Kentucky,1732,Mudslide,Rain,
+4843,5/7/13,,United States,North Carolina,4227,Mudslide,Rain,
+4844,5/7/13,,United States,North Carolina,1192,Landslide,Rain,
+4850,5/8/13,,United States,North Carolina,1424,Landslide,Rain,
+4862,5/13/13,,U.S. Virgin Islands,Saint John Island,2743,Mudslide,Rain,
+4863,5/13/13,,United States,Tennessee,2355,Landslide,Downpour,
+4866,5/15/13,,United States,North Carolina,7848,Mudslide,Rain,
+4868,5/19/13,,United States,Georgia,2536,Landslide,Rain,
+4871,5/22/13,21:30:00,United States,South Carolina,1312,Landslide,Rain,
+4872,5/22/13,1:13,United States,Minnesota,19540,Rockfall,Rain,2.0
+4874,5/26/13,,Mexico,Hidalgo,33196,Landslide,Rain,7.0
+4877,5/27/13,,United States,Missouri,17916,Landslide,Rain,0.0
+4879,5/28/13,,Panama,Colón,1274,Landslide,Downpour,0.0
+4880,5/28/13,,Panama,Colón,3302,Landslide,Downpour,0.0
+4881,5/28/13,,Panama,Colón,76643,Landslide,Downpour,0.0
+4884,5/29/13,Early morning,United States,Illinois,40633,Landslide,Downpour,0.0
+4886,5/29/13,,United States,New York,1213,Mudslide,Downpour,0.0
+4890,5/31/13,,Ecuador,Pichincha,26582,Landslide,Downpour,0.0
+4893,6/1/13,,United States,South Dakota,3124,Mudslide,Rain,0.0
+4902,6/6/13,10:00:00,United States,New York,1213,Mudslide,Downpour,0.0
+4907,6/7/13,,United States,Connecticut,3554,Mudslide,Tropical cyclone,0.0
+4909,6/10/13,19:30:00,United States,Pennsylvania,1526006,Mudslide,Downpour,0.0
+4918,6/13/13,,United States,Kentucky,1461,Mudslide,Rain,0.0
+4919,6/14/13,Morning,Trinidad and Tobago,Tunapuna/Piarco,17758,Landslide,Downpour,0.0
+4922,6/16/13,0:00:00,United States,New York,1500,Mudslide,Rain,0.0
+4935,6/17/13,4:30:00,United States,New York,1213,Mudslide,Downpour,0.0
+4961,6/18/13,,United States,Vermont,1162,Landslide,Rain,0.0
+4971,6/23/13,3:20:00,United States,Iowa,3897,Mudslide,Downpour,0.0
+4972,6/23/13,,United States,New York,2598,Mudslide,Downpour,0.0
+4973,6/24/13,9:00:00,United States,Wisconsin,3231,Mudslide,Downpour,0.0
+4977,6/24/13,,United States,Wisconsin,5911,Landslide,Rain,0.0
+4980,6/25/13,10:30:00,United States,Minnesota,2868,Rockfall,Downpour,
+4985,6/26/13,8:00:00,United States,New York,1213,Mudslide,Downpour,0.0
+4986,6/26/13,Late afternoon,United States,Wisconsin,1418,Mudslide,Downpour,0.0
+4989,6/27/13,18:00:00,United States,Pennsylvania,14324,Mudslide,Downpour,0.0
+4992,6/27/13,,United States,New York,47376,Mudslide,Rain,0.0
+4994,6/28/13,20:45:00,United States,Colorado,2450,Mudslide,Downpour,0.0
+4998,6/29/13,,United States,Pennsylvania,5565,Landslide,Unknown,0.0
+5003,7/1/13,Night,United States,Colorado,4992,Mudslide,Downpour,0.0
+5004,7/1/13,Night,United States,Kentucky,5338,Mudslide,Downpour,0.0
+5008,7/1/13,,United States,North Carolina,1655,Landslide,Downpour,0.0
+5009,7/1/13,,United States,North Carolina,2588,Landslide,Downpour,0.0
+5010,7/1/13,,United States,Pennsylvania,11372,Landslide,Downpour,0.0
+5018,7/3/13,Night,United States,Virginia,24922,Landslide,Rain,0.0
+5019,7/4/13,21:00:00,United States,North Carolina,83393,Landslide,Flooding,0.0
+5020,7/4/13,23:30:00,United States,Wyoming,9520,Mudslide,Rain,0.0
+5025,7/4/13,,United States,North Carolina,6123,Landslide,Continuous rain,0.0
+5026,7/4/13,,United States,North Carolina,83393,Landslide,Downpour,
+5027,7/4/13,,United States,North Carolina,6123,Landslide,Downpour,
+5028,7/4/13,,United States,North Carolina,83393,Landslide,Downpour,
+5029,7/4/13,,United States,North Carolina,6123,Landslide,Downpour,
+5030,7/4/13,,United States,North Carolina,1241,Landslide,Downpour,0.0
+5031,7/4/13,,United States,North Carolina,7609,Landslide,Rain,0.0
+5033,7/5/13,2:30:00,United States,Utah,1932,Landslide,Downpour,0.0
+5035,7/5/13,23:30:00,United States,Utah,1932,Landslide,Downpour,0.0
+5038,7/6/13,15:15:00,United States,Utah,9796,Landslide,Downpour,0.0
+5041,7/6/13,Night,United States,Utah,15523,Mudslide,Downpour,0.0
+5042,7/6/13,Night,United States,Utah,9796,Mudslide,Downpour,0.0
+5046,7/6/13,,United States,New York,8053,Mudslide,Rain,0.0
+5048,7/7/13,Morning,United States,Kentucky,2231,Mudslide,Continuous rain,0.0
+5055,7/7/13,,United States,North Carolina,1241,Landslide,Downpour,0.0
+5059,7/8/13,15:00:00,United States,New Mexico,1770,Mudslide,Downpour,0.0
+5060,7/8/13,Morning,United States,New York,2199,Mudslide,Downpour,0.0
+5061,7/8/13,,United States,Kentucky,2231,Landslide,Unknown,0.0
+5067,7/9/13,,Cuba,Artemisa Province,7205,Landslide,Downpour,0.0
+5070,7/10/13,13:30:00,United States,Colorado,2193,Mudslide,Rain,0.0
+5071,7/10/13,Afternoon,United States,Colorado,4992,Mudslide,Rain,0.0
+5077,7/10/13,,United States,Colorado,4992,Mudslide,Downpour,0.0
+5078,7/11/13,,United States,West Virginia,1779,Landslide,Rain,0.0
+5080,7/12/13,15:25:00,United States,Colorado,2450,Mudslide,Downpour,0.0
+5081,7/12/13,16:00:00,United States,Colorado,2450,Landslide,Downpour,0.0
+5083,7/12/13,Afternoon,United States,Nevada,24085,Debris flow,Rain,0.0
+5089,7/12/13,,United States,Colorado,2450,Mudslide,Downpour,0.0
+5090,7/12/13,,United States,West Virginia,51400,Mudslide,Rain,0.0
+5104,7/14/13,,United States,North Carolina,4051,Mudslide,Rain,0.0
+5105,7/15/13,Night,United States,North Carolina,698,Landslide,Rain,0.0
+5109,7/16/13,18:00:00,United States,Colorado,1320,Mudslide,Rain,
+5110,7/16/13,18:00:00,United States,Colorado,1320,Mudslide,Downpour,0.0
+5111,7/16/13,19:45:00,United States,Utah,9555,Mudslide,Rain,0.0
+5113,7/16/13,Late night,United States,Utah,47407,Mudslide,Rain,0.0
+5114,7/16/13,Late night,United States,Utah,15523,Mudslide,Rain,0.0
+5115,7/16/13,Night,United States,Utah,1626,Mudslide,Downpour,0.0
+5116,7/16/13,Night,United States,Utah,15523,Mudslide,Downpour,0.0
+5121,7/17/13,16:00:00,United States,Colorado,2826,Mudslide,Downpour,0.0
+5124,7/17/13,,United States,Montana,1271,Mudslide,Downpour,0.0
+5125,7/18/13,Afternoon,United States,Arizona,7247,Debris flow,Downpour,0.0
+5127,7/18/13,,United States,Colorado,5858,Landslide,Rain,0.0
+5128,7/18/13,,Colombia,Caquetá,130337,Landslide,Downpour,6.0
+5131,7/18/13,,United States,Colorado,2692,Mudslide,Downpour,0.0
+5132,7/18/13,,United States,Colorado,1027,Mudslide,Downpour,0.0
+5133,7/18/13,,United States,Colorado,2826,Mudslide,Downpour,0.0
+5134,7/18/13,,United States,Colorado,6427,Mudslide,Downpour,0.0
+5137,7/19/13,,United States,Arizona,4885,Landslide,Downpour,0.0
+5141,7/20/13,15:00:00,United States,New Mexico,1770,Mudslide,Rain,0.0
+5156,7/22/13,Late morning,United States,California,3583,Mudslide,Downpour,0.0
+5172,7/23/13,,United States,Pennsylvania,28386,Landslide,Rain,0.0
+5173,7/23/13,,United States,Pennsylvania,28386,Landslide,Rain,0.0
+5174,7/23/13,,United States,Pennsylvania,7862,Landslide,Downpour,0.0
+5175,7/23/13,,United States,Pennsylvania,7862,Landslide,Downpour,0.0
+5185,7/24/13,,United States,Ohio,1592,Mudslide,Downpour,
+5186,7/24/13,,United States,West Virginia,1779,Landslide,Downpour,
+5188,7/25/13,4:55:00,United States,Ohio,1592,Mudslide,Rain,0.0
+5190,7/25/13,10:00:00,United States,West Virginia,1554,Landslide,Downpour,0.0
+5191,7/25/13,15:25:00,United States,Colorado,2450,Mudslide,Downpour,0.0
+5192,7/25/13,15:30:00,Colombia,Huila,3942,Rockfall,Rain,5.0
+5212,7/27/13,Night,United States,North Carolina,40010,Mudslide,Rain,0.0
+5216,7/27/13,,United States,North Carolina,2112,Landslide,Rain,
+5219,7/28/13,6:15:00,United States,Colorado,2450,Mudslide,Downpour,
+5221,7/28/13,17:15:00,United States,Colorado,2450,Mudslide,Downpour,
+5229,7/28/13,,United States,Colorado,1451,Debris flow,Downpour,0.0
+5242,7/31/13,Night,United States,Georgia,3684,Mudslide,Rain,
+5243,7/31/13,Night,United States,Georgia,3684,Mudslide,Rain,
+5245,8/1/13,Early morning,United States,Alabama,15326,Landslide,Rain,0.0
+5246,8/1/13,Early morning,Panama,Colón,3302,Mudslide,Downpour,4.0
+5248,8/1/13,,United States,Utah,3260,Mudslide,Downpour,0.0
+5249,8/1/13,,United States,Utah,3260,Debris flow,Rain,0.0
+5299,8/9/13,Night,United States,Colorado,4992,Debris flow,Rain,1.0
+5318,8/13/13,16:58:00,United States,Kentucky,1706,Mudslide,Downpour,0.0
+5319,8/13/13,Afternoon,United States,West Virginia,5366,Landslide,Downpour,0.0
+5345,8/17/13,,United States,Alabama,9015,Landslide,Tropical cyclone,
+5350,8/18/13,Afternoon,United States,Nevada,24085,Debris flow,Downpour,0.0
+5351,8/18/13,Afternoon,United States,Nevada,36441,Debris flow,Downpour,0.0
+5385,8/22/13,23:30:00,United States,Utah,9555,Mudslide,Downpour,0.0
+5387,8/23/13,10:00:00,United States,Pennsylvania,1048,Mudslide,Downpour,0.0
+5389,8/23/13,Afternoon,United States,Idaho,54255,Mudslide,Downpour,0.0
+5390,8/23/13,Morning,United States,Utah,2129,Debris flow,Downpour,0.0
+5397,8/24/13,,United States,Tennessee,12714,Mudslide,Rain,0.0
+5400,8/25/13,18:00:00,United States,California,3552,Mudslide,Tropical cyclone,0.0
+5403,8/26/13,20:20:00,Mexico,Veracruz-Llave,30607,Landslide,Tropical cyclone,3.0
+5405,8/26/13,,Mexico,Veracruz-Llave,15800,Landslide,Tropical cyclone,1.0
+5406,8/26/13,,Mexico,Veracruz-Llave,3198,Landslide,Downpour,9.0
+5408,8/27/13,,Costa Rica,Alajuela,1015,Landslide,Downpour,
+5411,8/28/13,Night,United States,Colorado,2325,Rockfall,Downpour,0.0
+5415,8/29/13,0:05:00,Honduras,Cortés,1146,Landslide,Downpour,6.0
+5418,8/29/13,Afternoon,United States,Idaho,3112,Debris flow,Downpour,0.0
+5419,8/30/13,Afternoon,United States,California,29603,Debris flow,Downpour,0.0
+5420,8/30/13,Night,United States,Nevada,36441,Mudslide,Rain,0.0
+5432,9/2/13,20:30:00,United States,Utah,7979,Mudslide,Downpour,0.0
+5433,9/2/13,20:30:00,United States,Utah,7979,Mudslide,Downpour,0.0
+5434,9/2/13,20:30:00,United States,Utah,7979,Mudslide,Downpour,0.0
+5435,9/2/13,evening,United States,Utah,2129,Mudslide,Downpour,0.0
+5436,9/2/13,evening,United States,Utah,3276,Mudslide,Downpour,0.0
+5440,9/2/13,Night,United States,Idaho,7960,Mudslide,Downpour,0.0
+5451,9/5/13,18:30:00,United States,Idaho,485,Mudslide,Downpour,0.0
+5474,9/6/13,,United States,California,1502,Mudslide,Downpour,0.0
+5475,9/7/13,0:13:00,Guatemala,San Marcos,8164,Landslide,Earthquake,0.0
+5477,9/7/13,Afternoon,United States,Utah,9796,Debris flow,Downpour,0.0
+5478,9/7/13,Afternoon,United States,Utah,15523,Debris flow,Downpour,0.0
+5479,9/7/13,evening,United States,Utah,15523,Debris flow,Downpour,0.0
+5481,9/7/13,,United States,Utah,112488,Landslide,Downpour,0.0
+5483,9/8/13,16:45:00,United States,Idaho,5204,Landslide,Downpour,0.0
+5486,9/9/13,Night,Mexico,Veracruz-Llave,12920,Landslide,Downpour,14.0
+5489,9/10/13,7:30:00,United States,Arizona,65870,Landslide,Rain,0.0
+5496,9/11/13,Night,United States,Utah,3260,Rockfall,Downpour,0.0
+5497,9/11/13,Night,United States,Utah,33433,Mudslide,Downpour,0.0
+5498,9/11/13,Night,United States,Utah,1470,Debris flow,Downpour,0.0
+5501,9/12/13,1:00:00,United States,Colorado,97385,Landslide,Rain,3.0
+5502,9/12/13,6:40:00,United States,Utah,1690,Mudslide,Downpour,0.0
+5503,9/12/13,evening,United States,Colorado,13813,Mudslide,Downpour,0.0
+5504,9/12/13,evening,United States,Idaho,14206,Mudslide,Downpour,0.0
+5506,9/12/13,Night,United States,Wyoming,1094,Mudslide,Downpour,0.0
+5507,9/12/13,Night,United States,Wyoming,1094,Mudslide,Downpour,0.0
+5508,9/12/13,Night,United States,Colorado,97385,Mudslide,Rain,0.0
+5509,9/12/13,,United States,Colorado,2400,Landslide,Rain,
+5510,9/12/13,,United States,Colorado,2400,Landslide,Rain,
+5511,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5512,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5513,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5514,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5515,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5516,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5517,9/12/13,,United States,Colorado,97385,Mudslide,Downpour,0.0
+5518,9/12/13,,United States,Idaho,485,Mudslide,Downpour,0.0
+5519,9/12/13,,United States,Idaho,485,Mudslide,Downpour,0.0
+5520,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5521,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5522,9/12/13,,United States,Idaho,14206,Mudslide,Downpour,0.0
+5523,9/13/13,14:25:00,United States,Utah,21785,Landslide,Downpour,0.0
+5524,9/14/13,23:00:00,United States,New Mexico,545852,Mudslide,Downpour,0.0
+5525,9/14/13,Afternoon,United States,Idaho,19908,Mudslide,Rain,0.0
+5526,9/14/13,,Mexico,Oaxaca,3630,Landslide,Tropical cyclone,1.0
+5527,9/15/13,,Mexico,Hidalgo,1236,Landslide,Tropical cyclone,3.0
+5528,9/15/13,,Mexico,Puebla,9720,Landslide,Tropical cyclone,3.0
+5529,9/15/13,,United States,Colorado,5858,Landslide,Tropical cyclone,0.0
+5530,9/15/13,,Mexico,Guerrero,652136,Mudslide,Downpour,
+5532,9/16/13,8:00:00,Mexico,Veracruz-Llave,15800,Landslide,Tropical cyclone,12.0
+5534,9/16/13,15:30,Mexico,Guerrero,21407,Mudslide,Tropical cyclone,71.0
+5538,9/16/13,,Mexico,Guerrero,1252,Landslide,Downpour,0.0
+5539,9/16/13,,Mexico,Puebla,1123,Landslide,Tropical cyclone,0.0
+5540,9/16/13,,Costa Rica,Alajuela,1015,Landslide,Tropical cyclone,
+5541,9/16/13,,Costa Rica,Heredia,5745,Landslide,Tropical cyclone,0.0
+5542,9/16/13,,Mexico,Veracruz-Llave,1543,Landslide,Tropical cyclone,13.0
+5543,9/16/13,,Mexico,Guerrero,165250,Mudslide,Tropical cyclone,4.0
+5544,9/18/13,21:30:00,United States,Utah,21785,Landslide,Mining digging,0.0
+5545,9/19/13,17:30:00,United States,Colorado,16887,Debris flow,Downpour,0.0
+5546,9/19/13,17:30:00,United States,Colorado,16887,Mudslide,Downpour,0.0
+5547,9/19/13,17:30:00,United States,Colorado,16887,Mudslide,Downpour,0.0
+5560,9/29/13,,United States,Idaho,485,Landslide,Continuous rain,0.0
+5561,9/29/13,,United States,Idaho,485,Landslide,Downpour,0.0
+5562,9/29/13,,Panama,Panamá,69102,Landslide,Downpour,
+5564,9/30/13,11:00:00,United States,Colorado,2617,Landslide,Unknown,5.0
+5566,9/30/13,,United States,Massachusetts,19030,Landslide,Continuous rain,0.0
+5571,10/3/13,,Costa Rica,Guanacaste,7301,Landslide,Mining digging,
+5576,10/5/13,Night,United States,Minnesota,27592,Mudslide,Downpour,0.0
+5577,10/5/13,Night,United States,Wisconsin,1529,Mudslide,Downpour,0.0
+5590,10/8/13,11:30:00,United States,Wyoming,9577,Landslide,Unknown,0.0
+5591,10/8/13,Morning,Costa Rica,Guanacaste,7301,Landslide,Rain,2.0
+5640,11/14/13,,Trinidad and Tobago,Tobago,17000,Landslide,Downpour,0.0
+5641,11/14/13,,Trinidad and Tobago,Tobago,17000,Landslide,Downpour,0.0
+5653,11/20/13,Night,United States,West Virginia,1638,Mudslide,Unknown,0.0
+5663,11/27/13,9:00:00,United States,New Jersey,50005,Mudslide,Unknown,0.0
+5675,12/6/13,16:00:00,United States,West Virginia,1779,Mudslide,Downpour,0.0
+5677,12/6/13,,United States,West Virginia,1749,Landslide,Other,0.0
+5678,12/7/13,2:30:00,United States,West Virginia,1779,Mudslide,Downpour,0.0
+5680,12/7/13,,United States,West Virginia,1090,Mudslide,Downpour,0.0
+5684,12/10/13,Morning,United States,West Virginia,1779,Mudslide,Downpour,0.0
+5690,12/11/13,,Trinidad and Tobago,Sangre Grande,15968,Mudslide,Rain,0.0
+5691,12/12/13,Night,United States,Utah,2726,Rockfall,Freeze thaw,2.0
+5693,12/16/13,,Mexico,Tabasco,1732,Landslide,Continuous rain,
+5697,12/19/13,16:15:00,United States,California,20292,Mudslide,Rain,0.0
+5704,12/21/13,7:00:00,United States,Pennsylvania,1746,Landslide,Unknown,0.0
+5705,12/21/13,16:15:00,United States,Pennsylvania,11761,Landslide,Unknown,0.0
+5709,12/22/13,Morning,United States,Kentucky,777,Mudslide,Rain,0.0
+5715,12/24/13,2:00:00,Dominica,Saint Paul,702,Mudslide,Downpour,0.0
+5718,12/24/13,Night,Saint Lucia,Praslin,1906,Landslide,Downpour,
+5719,12/24/13,Night,Saint Vincent and the Grenadines,Charlotte,1680,Landslide,Downpour,5.0
+5720,12/24/13,,Dominica,Saint John,3633,Landslide,Downpour,0.0
+5721,12/24/13,,Dominica,Saint Mark,1416,Landslide,Downpour,0.0
+5730,12/27/13,,United States,West Virginia,1394,Landslide,Unknown,0.0
+5731,12/28/13,2:00:00,Mexico,Baja California,9085,Mudslide,Downpour,0.0
+5732,12/28/13,17:30:00,United States,New Hampshire,1600,Snow avalanche,Other,0.0
+5735,12/30/13,22:00:00,United States,West Virginia,2406,Landslide,Unknown,0.0
+5743,1/2/14,****,United States,Ohio,3822,Landslide,Unknown,0.0
+5744,1/2/14,,United States,North Carolina,1424,Landslide,unknown,0.0
+5754,1/7/14,Morning,Dominica,Saint Joseph,2184,Landslide,unknown,0.0
+5777,1/14/14,Morning,United States,Pennsylvania,305704,Landslide,unknown,0.0
+5785,1/14/14,Morning,United States,Pennsylvania,9643,Landslide,unknown,0.0
+5841,2/5/14,Morning,United States,Kentucky,6845,Landslide,Rain,0.0
+5842,2/5/14,8:30:00,United States,Kentucky,3255,Mudslide,unknown,0.0
+5859,2/11/14,,United States,Oregon,1081,Snow avalanche,unknown,2.0
+5868,2/14/14,,Colombia,Nariño,1091,Landslide,Downpour,5.0
+5871,2/15/14,,Bermuda,Hamilton city,902,Landslide,Downpour,0.0
+5888,2/21/14,,United States,Kentucky,4407,Mudslide,Continuous rain,0.0
+5893,2/22/14,Morning,United States,Kentucky,3255,Mudslide,Snowfall snowmelt,0.0
+5896,2/23/14,,United States,Kentucky,15273,Mudslide,Snowfall snowmelt,0.0
+5903,2/27/14,,United States,Utah,6051,Landslide,Downpour,0.0
+5915,3/3/14,Morning,United States,Kentucky,6903,Mudslide,Snowfall snowmelt,0.0
+5917,3/4/14,,United States,Kentucky,81,Mudslide,Continuous rain,0.0
+5944,3/12/14,15:00:00,United States,Pennsylvania,2801,Mudslide,unknown,0.0
+5945,3/12/14,12:00:00,United States,Kentucky,2970,Landslide,unknown,0.0
+5948,3/13/14,,United States,Ohio,4368,Landslide,Continuous rain,0.0
+5950,3/14/14,19:00:00,United States,Pennsylvania,3239,Landslide,unknown,0.0
+5951,3/15/14,Morning,United States,Pennsylvania,3403,Landslide,unknown,0.0
+5957,3/13/14,8:30,Colombia,Valle del Cauca,247986,Mudslide,Continuous rain,2.0
+5959,3/16/14,,Colombia,Huila,9896,mudslide,Continuous rain,1.0
+5960,3/16/14,,Colombia,Santander,571820,mudslide,Continuous rain,2.0
+5961,3/17/14,14:20:00,United States,Pennsylvania,305704,mudslide,unknown,0.0
+5967,3/20/14,Morning,United States,Connecticut,51384,Mudslide,Continuous rain,0.0
+5973,3/26/14,,United States,Kentucky,16325,Landslide,unknown,0.0
+5977,3/29/14,Night,United States,New York,2244,Mudslide,Rain,0.0
+5981,4/4/14,,United States,Kentucky,3938,Landslide,Rain,0.0
+5983,4/6/14,18:30:00,United States,Kentucky,3938,Landslide,Rain,0.0
+5985,4/7/14,Morning,United States,Alabama,34033,Mudslide,Downpour,0.0
+5987,4/8/14,4:00:00,United States,Pennsylvania,305704,Landslide,Rain,0.0
+5988,4/9/14,Morning,United States,Ohio,5785,Mudslide,Rain,0.0
+5992,4/12/14,19:00:00,United States,New York,3103,Mudslide,Rain,0.0
+5993,4/12/14,12:00:00,United States,West Virginia,1413,Mudslide,Rain,0.0
+6002,5/1/14,2:15,United States,New York,4995,Landslide,Rain,0.0
+6003,4/30/14,16:00:00,United States,Maryland,620961,Landslide,Downpour,0.0
+6004,4/30/14,Night,United States,Kentucky,3255,Mudslide,Rain,0.0
+6006,5/1/14,,United States,Maryland,1116,Mudslide,Rain,0.0
+6007,4/30/14,Night,United States,New Jersey,1849,Mudslide,Downpour,0.0
+6023,5/13/14,9:30:00,United States,Pennsylvania,305704,Landslide,Rain,0.0
+6026,5/15/14,Morning,United States,New York,1183,Landslide,Rain,0.0
+6028,5/16/14,,United States,Virginia,7042,Mudslide,Rain,0.0
+6038,5/25/14,,United States,Colorado,2253,Complex,Rain,3.0
+6039,5/27/14,16:00:00,United States,Colorado,1079,Mudslide,Rain,0.0
+6040,5/30/14,18:00,Guatemala,Huehuetenango,3554,Mudslide,Downpour,6.0
+6045,6/1/14,,United States,Minnesota,11071,Mudslide,Continuous rain,0.0
+6046,6/1/14,,United States,Minnesota,60797,Mudslide,Downpour,0.0
+6049,6/5/14,,United States,Georgia,22958,Mudslide,Downpour,0.0
+6052,6/10/14,,United States,Minnesota,11071,Landslide,Rain,0.0
+6058,6/15/14,8:00:00,United States,Maine,1097,Landslide,Continuous rain,0.0
+6064,6/18/14,Morning,United States,Minnesota,13394,Mudslide,Downpour,0.0
+6066,6/18/14,,United States,Minnesota,39309,Mudslide,Rain,0.0
+6067,6/18/14,Morning,United States,Minnesota,4058,Landslide,Downpour,0.0
+6071,6/19/14,,United States,Minnesota,6661,Mudslide,Continuous rain,0.0
+6072,6/19/14,,United States,Minnesota,382578,Mudslide,Continuous rain,0.0
+6073,6/19/14,Night,United States,Minnesota,285068,Mudslide,Continuous rain,0.0
+6076,6/19/14,19:00:00,United States,Minnesota,382578,Mudslide,Continuous rain,0.0
+6079,6/20/14,,United States,Minnesota,4058,Mudslide,Continuous rain,0.0
+6080,6/20/14,Morning,United States,Minnesota,285068,Mudslide,Continuous rain,0.0
+6083,6/20/14,,United States,Minnesota,6661,Mudslide,Rain,0.0
+6088,6/23/14,,United States,Minnesota,6661,Mudslide,Downpour,0.0
+6089,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6090,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6091,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6092,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6093,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6094,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6095,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6096,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6097,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6098,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6099,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6100,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6101,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6102,6/23/14,,Nicaragua,Chontales,5827,Landslide,Continuous rain,0.0
+6103,6/25/14,,United States,Pennsylvania,3722,Mudslide,Rain,0.0
+6109,6/27/14,Morning,United States,Minnesota,1325,Mudslide,Rain,0.0
+6114,6/29/14,Night,United States,Iowa,126326,Mudslide,Rain,0.0
+6122,7/2/14,Morning,Mexico,Chihuahua,1512354,Landslide,Rain,3.0
+6123,7/2/14,16:30,Honduras,Choluteca,75872,Landslide,Mining digging,8.0
+6128,7/7/14,,United States,Arizona,10031,Mudslide,Continuous rain,0.0
+6137,7/12/14,Afternoon,United States,Colorado,416427,Mudslide,Rain,0.0
+6148,7/15/14,Afternoon,United States,Wyoming,9520,Mudslide,Rain,0.0
+6149,7/15/14,16:30:00,United States,Colorado,5236,Mudslide,Rain,0.0
+6161,7/19/14,,United States,Colorado,1655,Mudslide,Downpour,0.0
+6166,7/20/14,,United States,California,3429,Mudslide,Downpour,0.0
+6185,7/28/14,16:00:00,United States,Utah,5389,Mudslide,Rain,0.0
+6201,8/3/14,15:30,United States,California,6362,Mudslide,Continuous rain,0.0
+6202,5/20/14,,Honduras,Yoro,15774,Landslide,Rain,0.0
+6216,10/4/14,,Costa Rica,Alajuela,3010,Landslide,Rain,0.0
+6219,10/7/14,,Colombia,Magdalena,26246,Landslide,Rain,6.0
+6221,9/24/14,,United States,Iowa,1459,Landslide,Unknown,0.0
+6226,4/17/14,evening,United States,Wyoming,9577,Creep,Snowfall snowmelt,0.0
+6246,10/14/14,,United States,Tennessee,1832,Landslide,Downpour,0.0
+6251,10/13/14,Night,El Salvador,San Miguel,6393,Rockfall,Earthquake,0.0
+6253,6/1/07,,United States,Colorado,1864,Landslide,Unknown,0.0
+6254,5/15/14,Night,United States,Pennsylvania,1515,Landslide,Continuous rain,0.0
+6257,8/5/14,6:00,United States,Utah,16322,Landslide,Downpour,0.0
+6269,10/18/14,,Mexico,Guerrero,1018,Landslide,Tropical cyclone,0.0
+6270,10/16/14,Night,Nicaragua,Managua,70013,Mudslide,Downpour,9.0
+6278,5/15/14,,United States,Maryland,23717,Mudslide,Downpour,0.0
+6297,9/19/14,Afternoon,Costa Rica,Alajuela,9687,Landslide,Rain,0.0
+6301,10/23/14,Morning,Trinidad and Tobago,Siparia,8568,Mudslide,Downpour,0.0
+6303,6/11/09,,United States,Utah,48174,Landslide,Flooding,3.0
+6308,10/20/14,19:33,Ecuador,Carchi,15112,Rockfall,Earthquake,0.0
+6309,10/21/14,3:00,Colombia,Santander,11265,Rockfall,Rain,0.0
+6318,9/16/14,,United States,Utah,18761,Debris flow,Rain,0.0
+6319,9/7/14,,United States,California,14578,Debris flow,Rain,0.0
+6335,11/1/14,1:23,Costa Rica,Alajuela,14448,Landslide,Earthquake,0.0
+6342,1/15/14,,United States,Pennsylvania,2190,Rockfall,Unknown,0.0
+6345,9/8/14,0:15,Jamaica,Portland,14400,Mudslide,Downpour,0.0
+6362,11/4/14,,United States,Massachusetts,11547,Landslide,Mining digging,0.0
+6367,9/3/14,Night,United States,Georgia,189885,Mudslide,Rain,0.0
+6368,8/4/14,,United States,Idaho,485,Landslide,Rain,0.0
+6372,8/23/14,,United States,Wyoming,9520,Rockfall,Unknown,0.0
+6382,11/9/14,,United States,Ohio,49138,Landslide,Construction,0.0
+6388,11/17/14,2:00,United States,Alabama,81619,Landslide,Downpour,0.0
+6390,11/21/14,3:23,United States,California,44199,Landslide,Rain,0.0
+6395,4/18/13,,United States,Illinois,23402,Landslide,Rain,0.0
+6396,4/18/13,,United States,Illinois,23402,Landslide,Rain,0.0
+6404,11/28/14,8:30,Canada,Ontario,519949,Landslide,Unknown,0.0
+6417,8/28/14,Morning,Nicaragua,Ogun State,6315,Landslide,Downpour,7.0
+6421,12/4/14,Unknown,United States,California,143911,Debris flow,Rain,0.0
+6422,12/4/14,1:00,United States,California,44199,Mudslide,Downpour,0.0
+6423,12/3/14,,United States,California,2593,Mudslide,Rain,0.0
+6430,8/3/14,,United States,California,51367,Mudslide,Downpour,0.0
+6446,8/1/14,16:30,United States,Colorado,5236,Mudslide,Rain,0.0
+6456,12/9/14,17:15,United States,Massachusetts,2717,Mudslide,Rain,0.0
+6464,8/10/14,,United States,New Mexico,8329,Mudslide,Downpour,0.0
+6468,8/10/14,18:44,United States,Colorado,5236,Mudslide,Downpour,0.0
+6469,8/10/14,18:44,United States,Colorado,5236,Mudslide,Downpour,0.0
+6471,8/11/14,Night,United States,Colorado,629,Mudslide,Downpour,0.0
+6485,8/12/14,13:00,Ecuador,Pichincha,1399814,Rockfall,Earthquake,2.0
+6486,8/12/14,15:00,Ecuador,Pichincha,1399814,Rockfall,Earthquake,0.0
+6491,12/6/14,,United States,Ohio,49138,Landslide,Continuous rain,0.0
+6505,12/13/14,20:30,Ecuador,Sucumbios,0,Mudslide,Unknown,13.0
+6506,8/13/14,19:00,United States,Idaho,485,Mudslide,Rain,0.0
+6507,8/14/14,Afternoon,United States,Nevada,15023,Debris flow,Downpour,0.0
+6508,8/14/14,evening,United States,Wyoming,1176,Creep,Downpour,0.0
+6509,8/12/14,Afternoon,United States,Colorado,2325,Debris flow,Downpour,0.0
+6533,8/18/14,,United States,Kentucky,777,Mudslide,Downpour,0.0
+6542,8/21/14,21:30,United States,New York,2229,Mudslide,Downpour,0.0
+6543,8/21/14,22:30,Costa Rica,Alajuela,9853,Mudslide,Unknown,0.0
+6547,8/22/14,21:30,United States,Kentucky,1706,Mudslide,Downpour,0.0
+6579,12/21/14,,Colombia,Cauca,3120,Mudslide,Rain,6.0
+6581,1/16/14,,United States,Pennsylvania,4176,Landslide,Unknown,0.0
+6585,5/11/08,5:45,United States,Maryland,19096,Other,Continuous rain,0.0
+6586,10/20/14,,Guatemala,Sololá,9986,Landslide,Rain,6.0
+6591,1/4/14,,Brazil,Pará,78050,Riverbank collapse,Unknown,0.0
+6603,12/25/14,,Canada,Quebec,3805,Landslide,Unknown,0.0
+6607,12/27/14,18:45,United States,Colorado,1027,Rockfall,Unknown,0.0
+6617,1/3/15,0:34,United States,Idaho,1081,Rockfall,Earthquake,0.0
+6660,7/28/14,,Guatemala,Baja Verapaz,5370,Landslide,Rain,0.0
+6661,9/23/14,14:30,Guatemala,Guatemala,67994,Landslide,Rain,3.0
+6662,12/20/14,11:30,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+6663,5/21/14,,United States,Illinois,5405,Other,Rain,0.0
+6664,3/12/14,Night,Guatemala,Quiché,7850,Landslide,Downpour,0.0
+6665,7/4/14,,Guatemala,Jutiapa,10469,Landslide,Downpour,0.0
+6666,9/27/14,,Guatemala,Huehuetenango,1713,Landslide,Downpour,0.0
+6667,10/31/14,2:00,Guatemala,Guatemala,97172,Landslide,Downpour,1.0
+6668,6/24/14,,Guatemala,Quiché,2693,Landslide,Rain,2.0
+6669,9/27/14,,Guatemala,San Marcos,6438,Landslide,Rain,2.0
+6670,11/14/14,,Colombia,Antioquia,16707,Landslide,Unknown,2.0
+6672,10/13/14,,Honduras,Ocotepeque,2389,Landslide,Downpour,0.0
+6673,8/10/14,10:00,Costa Rica,Alajuela,14448,Rockfall,Rain,0.0
+6674,9/29/14,7:40,Ecuador,Azuay,276964,Rockfall,Unknown,0.0
+6675,5/22/14,Night,El Salvador,San Miguel,19095,Debris flow,Rain,0.0
+6679,4/21/14,Afternoon,El Salvador,Cabañas,39361,Landslide,Unknown,1.0
+6680,4/30/14,4:30,Ecuador,Zamora-Chinchipe,15276,Landslide,Downpour,3.0
+6681,10/15/14,,El Salvador,Sonsonate,7358,Landslide,Continuous rain,0.0
+6682,10/15/14,,El Salvador,Sonsonate,15446,Landslide,Continuous rain,0.0
+6683,10/15/14,,El Salvador,La Paz,2654,Landslide,Continuous rain,0.0
+6684,10/15/14,,El Salvador,San Miguel,6393,Landslide,Continuous rain,0.0
+6685,10/12/14,,El Salvador,Santa Ana,5773,Landslide,Rain,3.0
+6686,10/12/14,,El Salvador,La Libertad,124694,Landslide,Rain,0.0
+6687,10/12/14,,El Salvador,San Salvador,33767,Other,Rain,0.0
+6688,1/5/14,Night,Mexico,Veracruz,9277,Landslide,Rain,0.0
+6689,7/31/14,Night,Honduras,Cortés,1043,Landslide,Unknown,0.0
+6690,11/19/14,,Peru,Ancash,0,Landslide,Downpour,0.0
+6691,10/14/14,Night,Honduras,Santa Bárbara,1759,Landslide,Rain,1.0
+6692,11/23/14,Afternoon,Nicaragua,Rivas,2771,Landslide,Unknown,1.0
+6693,10/9/14,,Nicaragua,Rivas,2771,Landslide,Rain,0.0
+6694,10/9/14,,Nicaragua,Río San Juan,13451,Landslide,Rain,0.0
+6695,9/13/14,,Costa Rica,Cartago,26594,Landslide,Rain,0.0
+6696,12/13/14,Night,Costa Rica,Heredia,0,Landslide,Unknown,0.0
+6697,11/3/14,,Costa Rica,San José,0,Landslide,Rain,0.0
+6698,9/19/14,,Costa Rica,San José,34877,Landslide,Rain,0.0
+6699,9/12/14,,Panama,Chiriquí,11245,Landslide,Rain,0.0
+6700,9/25/14,,Panama,Chiriquí,1908,Landslide,Downpour,0.0
+6701,9/14/14,Morning,Panama,Panamá,19782,Other,Rain,0.0
+6702,5/9/14,,Panama,Colón,1232,Landslide,Downpour,0.0
+6703,6/17/14,,Panama,Panamá,321501,Mudslide,Unknown,0.0
+6704,8/17/14,Afternoon,Panama,Chiriquí,2957,Landslide,Downpour,0.0
+6705,6/24/14,,Panama,Panamá,9169,Landslide,Unknown,0.0
+6706,8/3/14,,Dominican Republic,Santo Domingo,0,Landslide,Tropical cyclone,0.0
+6707,11/7/14,,Dominican Republic,Puerto Plata,4393,Landslide,Rain,0.0
+6708,5/18/14,16:30,Puerto Rico,Vega Alta,12036,Other,Rain,0.0
+6709,9/24/14,,Puerto Rico,Aguada,4040,Landslide,Downpour,0.0
+6710,8/24/14,3:00,Puerto Rico,Ponce,5080,Landslide,Downpour,0.0
+6711,8/24/14,,Puerto Rico,Ponce,5080,Landslide,Downpour,0.0
+6712,11/7/14,Afternoon,Puerto Rico,Villalba,4555,Landslide,Unknown,0.0
+6713,11/1/14,,Haiti,Nord,134815,Landslide,Downpour,1.0
+6722,5/27/14,,Haiti,Nord,134815,Landslide,Continuous rain,3.0
+6731,1/21/15,,United States,Idaho,1081,Rockfall,Unknown,0.0
+6735,1/28/15,23:00,Costa Rica,San José,34877,Landslide,Continuous rain,0.0
+6738,2/1/15,10:05,United States,California,14236,Rockfall,Unknown,0.0
+6747,2/6/15,Afternoon,Costa Rica,San José,0,Mudslide,Downpour,0.0
+6787,2/21/15,,United States,Pennsylvania,8987,Landslide,Unknown,0.0
+6791,2/21/15,,United States,Virginia,3884,Landslide,Snowfall snowmelt,0.0
+6796,2/21/15,Night,United States,Kentucky,3255,Mudslide,Snowfall snowmelt,0.0
+6801,2/23/15,Morning,United States,Kentucky,1416,Rockfall,Snowfall snowmelt,0.0
+6809,3/2/15,Morning,United States,Kentucky,1706,Mudslide,Snowfall snowmelt,0.0
+6811,3/4/15,Morning,United States,Kentucky,7622,Mudslide,Rain,0.0
+6815,3/4/15,,United States,West Virginia,1090,Mudslide,Rain,0.0
+6816,3/4/15,,United States,West Virginia,1090,Mudslide,Rain,0.0
+6817,3/5/15,,United States,West Virginia,4028,Mudslide,Snowfall snowmelt,0.0
+6818,3/4/15,,United States,West Virginia,717,Mudslide,Rain,0.0
+6819,3/4/15,,United States,West Virginia,3191,Mudslide,Rain,0.0
+6820,3/4/15,21:00,United States,Kentucky,1745,Mudslide,Downpour,0.0
+6821,3/4/15,,United States,West Virginia,1631,Other,Rain,0.0
+6822,3/4/15,,United States,West Virginia,51400,Other,Rain,0.0
+6823,3/4/15,21:00,United States,West Virginia,1638,Other,Rain,0.0
+6824,3/4/15,,United States,West Virginia,1779,Mudslide,Rain,0.0
+6825,3/3/15,Night,United States,West Virginia,2406,Mudslide,Rain,0.0
+6828,3/3/15,,Peru,San Martín,0,Landslide,Downpour,0.0
+6829,3/4/15,,Peru,San Martín,0,Mudslide,Rain,0.0
+6831,3/6/15,Morning,United States,Kentucky,2237,Mudslide,Snowfall snowmelt,0.0
+6832,3/5/15,22:30,United States,West Virginia,3191,Mudslide,Rain,0.0
+6833,3/4/15,,United States,West Virginia,1090,Mudslide,Rain,0.0
+6834,3/5/15,5:00,United States,Kentucky,2139,Mudslide,Rain,0.0
+6835,3/4/15,Night,United States,Kentucky,4456,Mudslide,Snowfall snowmelt,0.0
+6836,3/5/15,Morning,United States,West Virginia,1344,Mudslide,Rain,0.0
+6837,3/5/15,Night,United States,West Virginia,9318,Mudslide,Rain,0.0
+6838,3/5/15,Afternoon,United States,Virginia,3286,Landslide,Rain,0.0
+6843,3/9/15,,United States,Kentucky,3435,Mudslide,Unknown,0.0
+6844,3/9/15,,United States,Kentucky,777,Mudslide,Unknown,0.0
+6845,3/7/15,Afternoon,United States,Virginia,5614,Mudslide,Rain,0.0
+6848,3/4/15,23:59,United States,Virginia,1021,Mudslide,Rain,0.0
+6850,3/10/15,15:00,United States,West Virginia,1747,Mudslide,Rain,1.0
+6853,3/9/15,Afternoon,United States,Kentucky,2672,Landslide,Rain,0.0
+6854,3/10/15,13:00,United States,New York,195976,Mudslide,Unknown,0.0
+6855,3/10/15,Afternoon,United States,Ohio,5955,Mudslide,Rain,0.0
+6858,3/10/15,,United States,Georgia,3846,Mudslide,Continuous rain,0.0
+6859,3/12/15,11:50,United States,West Virginia,51400,Landslide,Rain,0.0
+6860,3/11/15,Afternoon,United States,West Virginia,3191,Rockfall,Continuous rain,0.0
+6861,3/11/15,Afternoon,United States,West Virginia,3191,Mudslide,Continuous rain,0.0
+6862,3/12/15,4:00,United States,Ohio,66982,Mudslide,Unknown,0.0
+6875,3/15/15,13:30,United States,Pennsylvania,2801,Other,Unknown,0.0
+6879,3/17/15,,United States,Kentucky,6903,Unknown,Unknown,0.0
+6886,3/17/15,,United States,Kentucky,16325,Mudslide,Unknown,0.0
+6888,3/18/15,Morning,United States,Ohio,3924,Landslide,Unknown,0.0
+6893,3/18/15,Night,Ecuador,Loja,13035,Landslide,Continuous rain,0.0
+6900,3/18/15,,Ecuador,Loja,117796,Landslide,Continuous rain,0.0
+6901,3/18/15,,Ecuador,Loja,18565,Landslide,Continuous rain,0.0
+6902,3/18/15,,Ecuador,Azuay,276964,Landslide,Continuous rain,0.0
+6903,3/6/15,,United States,Kentucky,717,Mudslide,Rain,0.0
+6914,3/21/15,,Colombia,Putumayo,4350,Landslide,Unknown,0.0
+6916,5/18/15,3:00,Colombia,Antioquia,6428,Mudslide,Rain,92.0
+6918,3/20/15,,United States,Arkansas,12943,Landslide,Unknown,0.0
+6920,3/14/15,,United States,Ohio,2620,Landslide,Flooding,0.0
+6940,6/19/15,,United States,Colorado,6900,Landslide,Continuous rain,0.0
+6943,6/17/15,,Costa Rica,Alajuela,3010,Landslide,Continuous rain,0.0
+6951,6/21/15,Morning,United States,Maryland,2953,Mudslide,Downpour,0.0
+6952,6/18/15,,United States,Oklahoma,2739,Mudslide,Continuous rain,0.0
+6953,6/18/15,,United States,Pennsylvania,1432,Landslide,,0.0
+6954,6/18/15,6:45,United States,Oklahoma,2683,Landslide,Tropical cyclone,0.0
+6955,6/16/15,,United States,Wyoming,9520,mudslide,Downpour,0.0
+6956,6/16/15,Morning,United States,Arkansas,3684,Landslide,Continuous rain,0.0
+6957,6/16/15,,United States,Pennsylvania,20978,Landslide,Continuous rain,0.0
+6958,6/15/15,20:30,United States,Pennsylvania,1233,Mudslide,Flooding,0.0
+6960,6/10/15,,United States,Alabama,23330,Landslide,Continuous rain,0.0
+6986,6/13/15,13:00,Colombia,Cauca,1972,Landslide,Rain,0.0
+6987,6/23/15,21:00,United States,Pennsylvania,1569,Landslide,Unknown,0.0
+6991,6/5/15,12:00,United States,Arizona,7247,Mudslide,Downpour,0.0
+6994,4/29/15,,United States,Colorado,12088,Landslide,Continuous rain,0.0
+6999,6/3/15,Afternoon,Costa Rica,Alajuela,7014,Rockfall,Downpour,0.0
+7008,6/27/15,,United States,New Mexico,1021,Rockslide,Unknown,0.0
+7009,6/27/15,,United States,Pennsylvania,1320,Mudslide,Downpour,0.0
+7017,6/2/15,7:30,United States,New Jersey,146199,Rockfall,Downpour,0.0
+7019,5/30/15,Afternoon,United States,Utah,112488,Landslide,Continuous rain,0.0
+7024,5/31/15,evening,United States,Pennsylvania,6025,Mudslide,Downpour,0.0
+7025,5/29/15,,United States,Oklahoma,39223,Mudslide,Downpour,0.0
+7030,6/24/15,,United States,Wyoming,3009,Landslide,Downpour,0.0
+7042,,Morning,United States,Kansas,857,Mudslide,Downpour,0.0
+7046,5/23/15,,United States,Oklahoma,1114,Landslide,Flooding,0.0
+7047,5/11/15,,United States,Colorado,18867,Mudslide,Continuous rain,0.0
+7048,5/21/15,,United States,Colorado,416427,Mudslide,Continuous rain,0.0
+7049,5/20/15,,United States,Wyoming,1271,Rockfall,Downpour,0.0
+7051,5/19/15,,United States,Colorado,3546,Mudslide,Continuous rain,0.0
+7052,5/19/15,,United States,Colorado,3582,Landslide,Continuous rain,0.0
+7053,5/19/15,,United States,Colorado,3582,Landslide,Continuous rain,0.0
+7054,5/20/15,,United States,Kentucky,2139,Landslide,Unknown,0.0
+7055,5/19/15,,Canada,Ontario,22625,Mudslide,Unknown,0.0
+7056,5/17/15,,Mexico,Baja California,1173,Landslide,Rain,0.0
+7060,5/13/15,,United States,Colorado,6680,Landslide,Continuous rain,0.0
+7064,5/10/15,,United States,Arkansas,1012,Landslide,Downpour,0.0
+7065,5/9/15,12:20,United States,Pennsylvania,3744,Landslide,Unknown,0.0
+7078,7/2/15,,United States,Colorado,2617,Mudslide,Unknown,0.0
+7080,,13:00,United States,Ohio,4113,Landslide,Unknown,0.0
+7082,7/3/15,,United States,Colorado,637,Landslide,Unknown,0.0
+7085,6/30/15,,United States,Kentucky,2304,Landslide,Downpour,0.0
+7114,7/8/15,Evening,United States,Colorado,1293,Mudslide,Continuous rain,0.0
+7115,7/7/15,,United States,West Virginia,2676,Creep,Continuous rain,0.0
+7120,4/27/15,,United States,Kentucky,4456,Landslide,Unknown,0.0
+7122,4/23/15,,United States,Kentucky,2139,Mudslide,Downpour,0.0
+7124,4/20/15,,United States,New York,8195,Landslide,Construction,0.0
+7128,4/20/15,,United States,Kentucky,3255,Mudslide,Unknown,0.0
+7129,4/20/15,,United States,Mississippi,9486,landslide,Continuous rain,0.0
+7130,4/19/15,,United States,Pennsylvania,2633,Landslide,Unknown,0.0
+7132,4/17/15,,United States,Maryland,5439,Landslide,Downpour,0.0
+7135,4/18/15,,United States,West Virginia,13450,Mudslide,Unknown,0.0
+7136,4/17/15,,United States,Pennsylvania,1746,Landslide,Unknown,0.0
+7137,4/17/15,17:00,Canada,Nova Scotia,2052,,Unknown,0.0
+7142,7/7/15,overnight,United States,Colorado,2325,Landslide,Continuous rain,0.0
+7143,4/14/15,Night,United States,Kentucky,6903,Mudslide,Downpour,0.0
+7144,4/14/15,Afternoon,United States,Kentucky,3255,Landslide,Downpour,0.0
+7145,4/14/15,,United States,Kentucky,31364,Mudslide,Downpour,0.0
+7146,4/14/15,,United States,Kentucky,5245,Landslide,Downpour,0.0
+7147,4/14/15,,United States,Kentucky,486,Rockfall,Downpour,0.0
+7149,4/14/15,9:00,United States,Kentucky,3255,Mudslide,Downpour,0.0
+7150,4/14/15,,United States,Kentucky,4456,Mudslide,Downpour,0.0
+7151,4/11/15,8:30,United States,West Virginia,1860,Landslide,Continuous rain,0.0
+7152,4/10/15,,United States,Ohio,1526,Landslide,Continuous rain,0.0
+7153,4/10/15,,United States,West Virginia,1482,Landslide,Continuous rain,0.0
+7154,4/10/15,,United States,West Virginia,13175,Landslide,Continuous rain,0.0
+7162,7/12/15,,United States,Pennsylvania,6303,Rockfall,Unknown,0.0
+7163,7/8/15,Afternoon,United States,New Mexico,1770,Mudslide,Continuous rain,0.0
+7165,,12:15,United States,Indiana,2085,Landslide,Rain,0.0
+7179,7/6/15,,Costa Rica,San José,1355,Landslide,Downpour,0.0
+7180,7/6/15,,Costa Rica,San José,0,Landslide,Downpour,0.0
+7181,4/3/15,,United States,Kentucky,6903,Mudslide,Downpour,0.0
+7182,4/3/15,Night,United States,West Virginia,1358,Mudslide,Downpour,0.0
+7183,4/3/15,Morning,United States,Kentucky,3255,Mudslide,Downpour,0.0
+7187,4/2/15,,United States,Ohio,565,Riverbank collapse,Unknown,0.0
+7193,7/13/15,,United States,West Virginia,994,Landslide,Continuous rain,0.0
+7197,7/12/15,13:00,United States,West Virginia,1036,Landslide,Continuous rain,0.0
+7199,7/14/15,2:00,United States,Ohio,1551,Mudslide,Downpour,0.0
+7200,7/14/15,,United States,Tennessee,6097,Landslide,Continuous rain,0.0
+7201,7/14/15,,United States,West Virginia,1227,Mudslide,Continuous rain,0.0
+7216,7/13/15,,United States,West Virginia,1009,Landslide,Downpour,0.0
+7217,7/13/15,,United States,West Virginia,1009,Landslide,downpour,0.0
+7218,7/11/15,overnight,United States,Missouri,17916,Landslide,Continuous rain,0.0
+7219,7/14/15,,United States,Kentucky,6903,Landslide,Continuous rain,0.0
+7228,7/19/15,,United States,California,57065,Rockfall,Downpour,0.0
+7229,7/19/15,,United States,California,20292,Landslide,Downpour,0.0
+7230,7/19/15,,United States,California,1502,Landslide,Downpour,0.0
+7231,7/19/15,,United States,California,10109,Landslide,Downpour,0.0
+7232,7/19/15,,United States,California,20292,Landslide,Downpour,0.0
+7233,7/19/15,,United States,California,1006,Landslide,Downpour,0.0
+7235,7/18/15,Night,United States,Ohio,5338,Mudslide,Downpour,0.0
+7237,7/10/15,,United States,Missouri,12790,Mudslide,Continuous rain,0.0
+7240,7/18/15,15:20,United States,California,51367,Rockfall,Downpour,0.0
+7257,7/21/15,,United States,West Virginia,1638,Landslide,Downpour,0.0
+7290,7/27/15,17:00,United States,Massachusetts,1318,Mudslide,Downpour,0.0
+7291,7/27/15,,United States,Massachusetts,1222,Mudslide,Downpour,0.0
+7322,8/13/15,Night,United States,Utah,1344,Mudslide,Downpour,0.0
+7340,8/15/15,,United States,Colorado,416427,Landslide,Rain,0.0
+7343,10/1/15,21:30,Guatemala,Guatemala,67994,Mudslide,Rain,280.0
+7344,10/2/15,,United States,North Carolina,7848,Mudslide,Rain,0.0
+7345,10/19/15,,Guatemala,Guatemala,67994,Mudslide,Tropical cyclone,0.0
+7346,10/19/15,,Guatemala,Santa Rosa,3634,Landslide,Tropical cyclone,0.0
+7347,10/19/15,,Guatemala,Suchitepeque,2680,Landslide,Rain,0.0
+7348,7/19/15,,United States,California,193365,Debris flow,Downpour,0.0
+7368,8/9/15,,United States,Arizona,1443,Debris flow,Downpour,0.0
+7399,4/13/07,,United States,Pennsylvania,3165,Landslide,Unknown,0.0
+7402,1/29/16,,Colombia,Huila,8044,Landslide,Rain,0.0
+7403,4/29/11,12:00,Ecuador,Pichincha,1399814,Landslide,Rain,0.0
+7407,8/2/15,13:50,United States,Utah,7979,Mudslide,Downpour,0.0
+7412,6/6/15,,Guatemala,Guatemala,28492,Landslide,Rain,0.0
+7413,9/27/15,,Guatemala,Chimaltenango,16494,Landslide,Rain,0.0
+7414,9/27/15,,Guatemala,Guatemala,473080,Landslide,Rain,0.0
+7415,9/27/15,,Guatemala,Guatemala,141455,Landslide,Rain,0.0
+7416,9/27/15,,Guatemala,Sololá,3588,Landslide,Rain,0.0
+7417,9/27/15,,Guatemala,Sololá,2605,Landslide,Rain,0.0
+7418,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7419,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7420,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7421,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7422,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7423,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7424,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7425,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7426,9/27/15,,Guatemala,Guatemala,994938,Landslide,Rain,0.0
+7427,9/27/15,,Guatemala,Quiché,79759,Landslide,Rain,2.0
+7428,7/11/15,Morning,Guatemala,Guatemala,97172,Landslide,Rain,0.0
+7429,11/23/15,,Guatemala,Guatemala,97172,Landslide,Rain,0.0
+7430,10/7/15,,Mexico,Tabasco,1042,Landslide,Rain,0.0
+7431,10/7/15,,Mexico,Tabasco,2500,Landslide,Rain,0.0
+7432,9/23/15,,Guatemala,Sacatepéquez,3214,Landslide,Continuous rain,0.0
+7433,10/15/15,,Guatemala,Alta Verapaz,4671,Landslide,Rain,1.0
+7434,5/4/15,13:32,Guatemala,Escuintla,11121,Landslide,Unknown,0.0
+7435,11/24/15,,Guatemala,Guatemala,122194,Landslide,Rain,0.0
+7436,9/6/15,Afternoon,Guatemala,Sololá,2605,Debris flow,Rain,0.0
+7437,11/24/15,10:00,Belize,Cayo,13381,Rockfall,Mining digging,0.0
+7438,7/18/15,,El Salvador,Santa Ana,10095,Landslide,Rain,0.0
+7439,10/6/15,,Guatemala,Quetzaltenango,45654,Landslide,Rain,0.0
+7440,11/3/15,1:00,El Salvador,La Libertad,124694,Mudslide,Rain,0.0
+7441,11/4/15,,El Salvador,La Libertad,124694,Other,Rain,0.0
+7442,10/19/15,,El Salvador,Sonsonate,9936,Landslide,Downpour,0.0
+7443,6/9/15,,Honduras,El Paraíso,1160,Landslide,Unknown,0.0
+7444,10/29/15,,Costa Rica,San José,26047,Landslide,Rain,0.0
+7445,9/17/15,,Mexico,Veracruz,1005,Landslide,Rain,6.0
+7446,9/28/15,,Honduras,Francisco Morazán ,1438,Landslide,Rain,0.0
+7447,9/28/15,,Honduras,Francisco Morazán ,850848,Other,Downpour,0.0
+7448,6/11/15,,Honduras,Choluteca,1164,Landslide,Rain,0.0
+7449,12/15/15,,Honduras,Choluteca,1199,Rockfall,Rain,1.0
+7450,9/7/15,,Panama,Colón,0,Landslide,Downpour,0.0
+7451,7/2/15,,Panama,Colón,1146,Other,Construction,1.0
+7452,11/16/15,,Panama,Colón,29607,Landslide,Rain,0.0
+7453,6/5/15,Afternoon,Panama,Panamá,0,Landslide,Downpour,0.0
+7454,10/16/15,18:00,Honduras,Comayagua,1389,Rockfall,Rain,0.0
+7455,10/29/15,,Honduras,Comayagua,4673,Landslide,Continuous rain,1.0
+7456,10/16/15,23:00,Honduras,Comayagua,1470,Landslide,Rain,5.0
+7457,9/6/15,,Honduras,Copán,27753,Landslide,Continuous rain,0.0
+7458,9/6/15,,Honduras,Copán,27753,Landslide,Continuous rain,0.0
+7459,11/21/15,22:30,Honduras,Copán,1340,Landslide,Rain,1.0
+7460,9/25/15,,Honduras,La Paz,1463,Landslide,Rain,0.0
+7461,9/24/15,,Honduras,Copán,1452,Landslide,Rain,0.0
+7462,9/25/15,,Honduras,Ocotepeque,1416,Landslide,Rain,0.0
+7463,6/13/15,Morning,Honduras,Francisco Morazán ,2295,Rockfall,Rain,0.0
+7464,9/28/15,Morning,Honduras,Santa Bárbara,1811,Rockfall,Rain,0.0
+7465,5/13/15,,Mexico,Guerrero,652136,Landslide,Construction,0.0
+7466,10/21/15,,Honduras,Francisco Morazán ,1817,Rockfall,Unknown,0.0
+7467,1/22/15,,Honduras,Yoro,2188,Rockfall,Continuous rain,0.0
+7468,6/13/15,Afternoon,Honduras,Francisco Morazán ,1121,Landslide,Downpour,0.0
+7469,12/16/15,,Mexico,Tabasco,1732,Riverbank collapse,Flooding,0.0
+7470,10/8/15,,Nicaragua,Jinotega,6955,Landslide,Rain,0.0
+7471,2/19/16,,Nicaragua,Jinotega,51073,Landslide,Rain,0.0
+7472,12/1/15,,Jamaica,Saint Catherine,12873,Landslide,Rain,0.0
+7473,12/1/15,,Jamaica,Saint Ann,13671,Landslide,Rain,0.0
+7474,12/1/15,,Jamaica,Portland,14400,Landslide,Rain,0.0
+7475,9/27/15,,Nicaragua,Madriz,1257,Landslide,Downpour,0.0
+7476,9/27/15,,Nicaragua,Madriz,1257,Landslide,Rain,0.0
+7477,6/12/15,,Nicaragua,Managua,1902,Landslide,Rain,0.0
+7478,6/10/15,Night,Nicaragua,Ogun State,6315,Landslide,Rain,0.0
+7479,10/3/15,Night,Mexico,Guerrero,1201,Landslide,Tropical cyclone,0.0
+7480,7/23/15,,Nicaragua,Ogun State,16056,Landslide,Rain,0.0
+7481,5/13/15,,Nicaragua,Masaya,2111,Debris flow,Rain,0.0
+7482,9/28/15,Afternoon,Honduras,Francisco Morazán ,850848,Landslide,Downpour,0.0
+7483,9/28/15,Morning,Honduras,Francisco Morazán ,1449,Landslide,Downpour,0.0
+7484,9/9/15,,Honduras,Francisco Morazán ,2055,Other,Unknown,0.0
+7485,9/20/15,,Honduras,Francisco Morazán ,850848,Riverbank collapse,Flooding,0.0
+7486,10/27/15,,Costa Rica,Alajuela,5745,Mudslide,Rain,0.0
+7487,11/18/15,1:11,Costa Rica,Alajuela,47494,Landslide,Unknown,1.0
+7488,10/29/15,,Costa Rica,Alajuela,11853,Landslide,Downpour,1.0
+7489,6/21/15,Morning,Panama,Bocas del Toro,993,Landslide,Rain,0.0
+7490,10/15/15,,Costa Rica,Cartago,4060,Landslide,Downpour,0.0
+7491,3/20/15,8:00,Costa Rica,Cartago,6784,Other,Volcano,0.0
+7492,3/18/15,,Costa Rica,Cartago,26594,Landslide,Downpour,0.0
+7493,11/23/15,,Costa Rica,Puntarenas,11680,Landslide,Unknown,0.0
+7494,9/25/15,,Costa Rica,San José,335007,Landslide,Rain,0.0
+7495,11/5/15,,Costa Rica,San José,5467,Landslide,Rain,0.0
+7496,11/11/15,,Costa Rica,San José,8292,Landslide,Rain,0.0
+7497,6/29/15,,Panama,Bocas del Toro,22900,Landslide,Downpour,0.0
+7498,6/29/15,,Panama,Bocas del Toro,918,Landslide,Downpour,0.0
+7499,12/21/15,,Panama,Bocas del Toro,0,Mudslide,Rain,0.0
+7500,5/24/15,23:30,Panama,Bocas del Toro,918,Mudslide,Rain,0.0
+7501,10/8/15,,Panama,Bocas del Toro,0,Landslide,Rain,0.0
+7502,2/10/15,,Panama,Chiriquí,0,Landslide,Rain,0.0
+7503,11/23/15,,Panama,Chiriquí,1908,Landslide,Rain,0.0
+7504,11/22/15,,Panama,Chiriquí,0,Landslide,Rain,0.0
+7505,8/26/15,,Panama,Chiriquí,0,Landslide,Continuous rain,0.0
+7506,9/10/15,,Panama,Panamá,321501,Landslide,Downpour,0.0
+7507,11/11/15,,Panama,Chiriquí,2823,Landslide,Downpour,0.0
+7508,9/17/15,,Panama,Coclé,0,Landslide,Flooding,0.0
+7509,9/10/15,,Panama,Panamá,321501,Landslide,Downpour,0.0
+7510,8/31/15,,Panama,Panamá,321501,Landslide,Downpour,0.0
+7511,8/31/15,,Panama,Panamá,321501,Landslide,Downpour,0.0
+7512,9/22/15,,Panama,Panamá,76815,Landslide,Downpour,0.0
+7513,5/9/15,,Colombia,Antioquia,4811,Landslide,Downpour,0.0
+7514,5/23/15,,Mexico,Chiapas,3796,Landslide,Rain,0.0
+7515,10/21/15,,Mexico,Chiapas,19092,Landslide,Rain,0.0
+7516,10/21/15,,Mexico,Chiapas,18608,Landslide,Rain,0.0
+7517,9/12/15,,Mexico,Chiapas,6089,Landslide,Rain,0.0
+7518,10/15/15,,Mexico,Tabasco,32415,Landslide,Flooding,0.0
+7519,2/24/16,,United States,Virginia,1371,Landslide,Unknown,0.0
+7520,2/24/16,Night,United States,Pennsylvania,5951,Rockfall,Rain,0.0
+7521,2/15/16,Morning,United States,Colorado,9614,Rockfall,Freeze thaw,0.0
+7522,2/24/16,,United States,Virginia,1128,Rockfall,Unknown,0.0
+7524,2/21/16,14:00,United States,West Virginia,51400,Landslide,Unknown,0.0
+7526,2/24/16,Morning,Canada,Ontario,519949,Rockfall,Freeze thaw,0.0
+7527,1/28/16,9:45,United States,North Carolina,1241,Rockfall,Unknown,0.0
+7528,2/24/16,4:00,United States,Ohio,1560,Rockfall,Rain,0.0
+7529,2/27/16,,United States,Idaho,939,Rockfall,Unknown,0.0
+7530,2/27/16,15:30,United States,Idaho,485,Rockfall,Rain,0.0
+7531,2/14/16,,United States,Colorado,16887,Rockfall,Freeze thaw,0.0
+7532,2/26/16,15:00,United States,Tennessee,2020,Rockfall,Unknown,0.0
+7533,2/27/16,12:15,United States,West Virginia,2184,Rockfall,Unknown,0.0
+7534,11/29/15,,United States,North Carolina,1646,Mudslide,Unknown,0.0
+7535,12/7/15,,United States,North Carolina,1646,Rockfall,,0.0
+7537,2/22/16,0:00,United States,West Virginia,51400,Mudslide,Unknown,0.0
+7539,2/23/16,,United States,West Virginia,2406,Landslide,Rain,0.0
+7540,2/26/16,21:06,United States,West Virginia,1048,Rockfall,Unknown,0.0
+7541,3/2/16,8:00,United States,Vermont,2066,Rockfall,Unknown,0.0
