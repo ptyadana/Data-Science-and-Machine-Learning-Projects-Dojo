@@ -221,6 +221,27 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
 	+ [PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
 
+## [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
++ [x] 04 - Dataframes & Datasets
++ [x] 05 - Basic DataFrame Methods & Computations
++ [x] 06 - Series & Columns
++ [] 07 - Indexing & Sorting
++ [] 08 - Filtering DataFrames
++ [] 09 - Adding & Removing Columns
++ [] 10 - Updating Values
++ [] 11 - Working With Types and NA Values
++ [] 12 - Working With Dates & Times
++ [] 13 - Matplotlib
++ [] 14 - Revisiting Pandas Plotting
++ [] 15 - Grouping & Aggregating
++ [] 16 - Hierarchical Indexing
++ [] 17 - Working With Text
++ [] 18 - Apply, Map, & Applymap
++ [] 19 - Combining Series & DataFrames
++ [] 20 - Seaborn
++ [] 21 - Seaborn Categorical Plots
++ [] 22 - Controlling Seaborn Aesthetics
+
 ## [Complete Machine Learning and Data Science - Zero to Mastery](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN)
 + Data Analysis with Pandas
 + Data Analysis with NumPy
@@ -445,6 +466,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 
 
 ## Data Analysis, Manipulation & Data Visualization
++ [] [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] [Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
 + [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
