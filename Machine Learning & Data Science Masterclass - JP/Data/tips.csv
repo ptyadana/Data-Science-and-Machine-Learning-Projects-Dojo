@@ -67,7 +67,7 @@ total_bill,tip,sex,smoker,day,time,size,price_per_person,Payer Name,CC Number,Pa
 20.08,3.15,Male,No,Sat,Dinner,3,6.69,Justin Dixon,180021262464926,Sat6840
 16.45,2.47,Female,No,Sat,Dinner,2,8.22,Rachel Vaughn,3569262692675583,Sat4750
 3.07,1.0,Female,Yes,Sat,Dinner,1,3.07,Tiffany Brock,4359488526995267,Sat3455
-20.23,2.01,Male,No,Sat,Dinner,2,10.12,Mr. Travis Bailey Jr.,060406789937,Sat561
+20.23,2.01,Male,No,Sat,Dinner,2,10.12,Mr. Travis Bailey Jr.,60406789937,Sat561
 15.01,2.09,Male,Yes,Sat,Dinner,2,7.5,Adam Hall,4700924377057571,Sat855
 12.02,1.97,Male,No,Sat,Dinner,2,6.01,Max Brown,213139760497718,Sat2100
 17.07,3.0,Female,No,Sat,Dinner,3,5.69,Teresa Fisher,5442222963796367,Sat3469
@@ -145,7 +145,7 @@ total_bill,tip,sex,smoker,day,time,size,price_per_person,Payer Name,CC Number,Pa
 27.05,5.0,Female,No,Thur,Lunch,6,4.51,Regina Jones,4311048695487,Thur6179
 16.43,2.3,Female,No,Thur,Lunch,2,8.22,Linda Jones,6542729219645658,Thur9002
 8.35,1.5,Female,No,Thur,Lunch,2,4.18,Amy Young,4285454264477,Thur9331
-18.64,1.36,Female,No,Thur,Lunch,3,6.21,Kelly Estrada,060463302327,Thur3941
+18.64,1.36,Female,No,Thur,Lunch,3,6.21,Kelly Estrada,60463302327,Thur3941
 11.87,1.63,Female,No,Thur,Lunch,2,5.94,Annette Cunningham,675937746864,Thur4780
 9.78,1.73,Male,No,Thur,Lunch,2,4.89,David Stewart,3578014604116399,Thur7276
 7.51,2.0,Male,No,Thur,Lunch,2,3.76,Daniel Robbins,4823139288341889,Thur6321
