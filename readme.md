@@ -146,6 +146,18 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 # Bootcamps
 
+## [RL - Practical AI with Python and Reinforcement Learning - JP](RL%20-%20Practical%20AI%20with%20Python%20and%20Reinforcement%20Learning%20-%20JP)
++ [x] 00. NumPy Crash Course
++ [x] 01. Matplotlib Visualization
++ [x] 02. Pandas and Scikit-learn
++ [x] 03. ANNs
++ [x] 04. CNNs
++ [x] 05. Introduction to gym
++ [] 06. Classical Q Learning
++ [] 07. Deep Q Learning
++ [] 08. Deep Q Learning on Images
++ [] 09. Creating Custom Open AI Gym Environment
+
 ## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
 + NumPy Crash Course
 + Pandas Crash Course
@@ -220,6 +232,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Principal Component Analysis (Unsupervised Learning)
 	+ [PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
 	+ [PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
+	+ [PCA - Handwritten Digits classifications](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/02-PCA-Exercise-Project.ipynb)
 
 ## [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] 04 - Dataframes & Datasets
@@ -252,9 +265,20 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [Milestone Project - Supervised Learning (Regression)- Bulldozer Sales Price Prediction](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/12.Bulldozer%20Sales%20Price%20Prediction%20Project/Milestone%20Project%20-%20Bluebook%20Bulldozer%20Price%20Prediction.ipynb)
 + [Deep Learning Project - Dog breed predictions](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/14.Neural%20Network%20-%20Deep%20Learning%20-%20Transfer%20Learning%20with%20Tensorflow%202/Dog_Breed_Vision.ipynb)
 
+
+## [ML - Machine Learning & Data Science A-Z Hands-on Python - NS](ML%20-%20Machine%20Learning%20%26%20Data%20Science%20A-Z%20Hands-on%20Python%20-%20NS)
++ [x] 03. Preprocessing
++ [x] 04. Machine Learning Types
++ [x] 05. Supervised Learning - Classification
++ [x] 06. Supervised Learning - Regression
++ [x] 07. Unsupervised Learning - Clustering
++ [x] 08. Hyper Parameters Optimization
+
+
 ## [Deep Learning TensorFlow Developer Certificate - ZTM](Tensorflow%20-%20Deep%20Learning%20TensorFlow%20Developer%20Certificate%20-%20ZTM)
 + [x] Deep Learning and TensorFlow Fundamentals
 + [ ] Neural Network Regression with Tensorflow
+
 
 ## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
 + [x] The Fundamentals of Machine Learning
@@ -262,6 +286,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] End-to-End Machine Learning Project
 + [x] Classification
 + [ ] Training Models
+
 
 ## Data Scientist Supplementary Materials
 + Supervised Learning
@@ -276,8 +301,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [ ] Lesson 09: Training and Tuning
 	+ [ ] Lesson 10: Finding Donors Project
 
-
-
+	
 ## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
 + [x] Week 01 - Exploring a Larger Dataset
 + [ ] Week 02 - Augmentation: A technique to avoid overfitting
@@ -290,6 +314,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] Week 02 - Introduction to Computer Vision
 + [x] Week 03 - Enhancing Vision with CNN
 + [x] Week 04 - Using Real-world images
+
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + Python Crash Course
@@ -339,7 +364,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 # Advancing Machine Learning & Data Science Journey - (In Progress)
 To skill up my ML & DS related skills in specific areas and topics:
 
-## [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Ensemble%20Learning)
+## [Applied Machine Learning - Ensemble Learning](ML%20-%20Applied%20Machine%20Learning%20-%20Ensemble%20Learning)
 + Project: Titanic dataset
 + 01.ML Basic
 + 02.Preparing the Data
