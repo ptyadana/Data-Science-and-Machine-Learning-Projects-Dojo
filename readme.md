@@ -191,7 +191,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [Iris Flower Predictions Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/09-Deployment/00-Iris-Flower-Predictions-Basic-Model.ipynb)
 	+ [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
 
-## [Machine Learning & Data Science Masterclass - JP (in progress)](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
+## [Machine Learning & Data Science Masterclass - JP](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
 + new track [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 + Python Crash Course
 + NumPy
@@ -233,6 +233,8 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
 	+ [PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
 	+ [PCA - Handwritten Digits classifications](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/02-PCA-Exercise-Project.ipynb)
++ Model Deployment
+	+ Serving model as API with Flask
 
 ## [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] 04 - Dataframes & Datasets
