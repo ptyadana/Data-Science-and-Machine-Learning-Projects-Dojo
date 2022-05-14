@@ -158,6 +158,19 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [] 08. Deep Q Learning on Images
 + [] 09. Creating Custom Open AI Gym Environment
 
+## [DeepLearning.AI - Course 02.Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
++ [x] Week 01 - Exploring a Larger Dataset
++ [x] Week 02 - Augmentation: A technique to avoid overfitting
++ [x] Week 03 - Transfer Learning
++ [x] Week 04 - Multiclass Classification
+
+
+## [DeepLearning.AI - Course 01.Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](Tensorflow%20-%20DeepLearning.AI%20-%2001.Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL_v2)
++ [x] Week 01 - A New Programming Paradigm
++ [x] Week 02 - Introduction to Computer Vision
++ [x] Week 03 - Enhancing Vision with CNN
++ [x] Week 04 - Using Real-world images
+
 ## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
 + NumPy Crash Course
 + Pandas Crash Course
@@ -236,7 +249,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Model Deployment
 	+ Serving model as API with Flask
 
-## [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
+## [Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] 04 - Dataframes & Datasets
 + [x] 05 - Basic DataFrame Methods & Computations
 + [x] 06 - Series & Columns
@@ -304,20 +317,6 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 	+ [ ] Lesson 10: Finding Donors Project
 
 	
-## [DeepLearning.AI - Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
-+ [x] Week 01 - Exploring a Larger Dataset
-+ [ ] Week 02 - Augmentation: A technique to avoid overfitting
-+ [ ] Week 03 - Transfer Learning
-+ [ ] Week 04 - Multiclass Classification
-
-
-## [DeepLearning.AI - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](Tensorflow%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL)
-+ [x] Week 01 - A New Programming Paradigm
-+ [x] Week 02 - Introduction to Computer Vision
-+ [x] Week 03 - Enhancing Vision with CNN
-+ [x] Week 04 - Using Real-world images
-
-
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + Python Crash Course
 + Python for Data Analysis - NumPy
@@ -357,7 +356,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [ ] Part 3 - Statistics (Descriptive & Inferential)
 + [x] Part 4 - Python
 + [ ] Part 5 - Advanced Statistical Methods in Python / Machine Learning in Python
-+ [ ] Part 6 - Mathematics
++ [x] Part 6 - Mathematics
 + [ ] Part 7 - Deep Learning
 + [ ] Software Integration
 + [ ] Case Study - Absenteeism
