@@ -158,12 +158,18 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [] 08. Deep Q Learning on Images
 + [] 09. Creating Custom Open AI Gym Environment
 
+
+## [DeepLearning.AI - Course 03.Netural Language Processing in Tensorflow](Tensorflow%20-%20DeepLearning.AI%20-%2003.Natural%20Language%20Processing%20in%20TensorFlow)
++ [x] Week 01 - Sentiment in Text
++ [x] Week 02 - Word Embeddings
++ [x] Week 03 - Sequence Models
++ [x] Week 04 - Sequence Models and Literature
+
 ## [DeepLearning.AI - Course 02.Convolutional Neural Networks in TensorFlow](Tensorflow%20-%20DeepLearning.AI%20-%2002.Convolutional%20Neural%20Networks%20in%20TensorFlow)
 + [x] Week 01 - Exploring a Larger Dataset
 + [x] Week 02 - Augmentation: A technique to avoid overfitting
 + [x] Week 03 - Transfer Learning
 + [x] Week 04 - Multiclass Classification
-
 
 ## [DeepLearning.AI - Course 01.Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](Tensorflow%20-%20DeepLearning.AI%20-%2001.Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL_v2)
 + [x] Week 01 - A New Programming Paradigm
