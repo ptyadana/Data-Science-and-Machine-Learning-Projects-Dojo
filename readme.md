@@ -308,21 +308,6 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] Classification
 + [ ] Training Models
 
-
-## Data Scientist Supplementary Materials
-+ Supervised Learning
-	+ [x] Lesson 01: Machine Learning Bird's Eye View
-	+ [ ] Lesson 02: Linear Regression
-	+ [ ] Lesson 03: Perceptron Algorithm
-	+ [ ] Lesson 04: Decision Trees
-	+ [ ] Lesson 05: Naive Bayes
-	+ [ ] Lesson 06: Support Vector Machines
-	+ [ ] Lesson 07: Ensemble Methods
-	+ [x] Lesson 08: Model Evaluation Metrics
-	+ [ ] Lesson 09: Training and Tuning
-	+ [ ] Lesson 10: Finding Donors Project
-
-	
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + Python Crash Course
 + Python for Data Analysis - NumPy
@@ -408,7 +393,6 @@ To skill up my ML & DS related skills in specific areas and topics:
 + 04.Optimizing a Model
 + 05.End to End Pipeline
 
-
 ## [ML - Mistakes to avoid in Machine Learning](ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning/01_00_Mistakes%20to%20avoid%20in%20Machine%20Learning.ipynb)
 + [x] Assuming Data is good to go
 + [x] Neglecting to consult subject matter experts
@@ -426,44 +410,12 @@ To skill up my ML & DS related skills in specific areas and topics:
 + [x] Giving overly technical presentations
 
 
-## [ML - Classification Modelling with Iris flowers](ML%20-%20Classification%20Modelling%20with%20Iris%20flowers)
-+ [Practical Intro to Machine Learning: classification modelling](https://skl.sh/2UXN5RZ)
-+ 01.Exploratory Data Analysis
-+ 02.Model Fitting
-+ 03.Measuring Performance
-
-
-## [Kaggle Courses](https://www.kaggle.com/learn)
-- [x] Python
-- [x] Pandas
-- [x] Data Cleaning
-- [x] Introduction to Machine Learning
-- [x] Machine Learning Intermediate
-- [ ] Feature Engineering
-- [ ] Machine Learning Explaniability
-- [x] Data Visualization
-- [ ] Intro to Deep Learning
-- [ ] Intro to Game AI and Reinforcement Learning
-- [ ] Natural Language Processing
-- [ ] Micro-challenges
-- [ ] Computer Vision
-- [ ] Intro to SQL
-- [ ] Advanced SQL
-
-
-## [Google ML courses](https://developers.google.com/machine-learning/crash-course)
-- [ ] ML Crash Course
-- [ ] Problem Framing
-- [ ] Data Prep
-- [ ] Clustering
-- [ ] Recommendation
-- [ ] Testing and Debugging
-- [ ] GANs
-
 ## Deep Learning , Machine Learning, AI & Data Science
-- [ ] [Deep Learning: Face Recognition](DL%20-%20Deep%20Learning%20-%20Face%20Recognition/myNotes.ipynb)
+- [x] [Deep Learning - Natural Language Processing with TensorFlow](DL%20-%20Deep%20Learning%20Foundation%20-%20Natural%20Language%20Processing%20with%20TensorFlow)
+- [ ] [Deep Learning - Face Recognition](DL%20-%20Deep%20Learning%20-%20Face%20Recognition/myNotes.ipynb)
 - [x] [Deep Learning - Image Recognition](DL%20-%20Deep%20Learning%20-%20Image%20Recognition)
-- [x] [Buliding Deep Learning Applications with Keras 2.0](DL%20-%20Deep%20Learning%20-%20Building%20Deep%20Learning%20Applications)
+- [x] [Deep Learning - Buliding Deep Learning Applications with Keras 2.0](DL%20-%20Deep%20Learning%20-%20Building%20Deep%20Learning%20Applications)
+- [x] [Applied Machine Learning - Ensemble Learning](ML%20-%20Applied%20Machine%20Learning%20-%20Ensemble%20Learning)
 - [x] [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
 - [x] [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
 - [x] [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
@@ -487,8 +439,6 @@ To skill up my ML & DS related skills in specific areas and topics:
 	- [ ] Other Forms of Learning
 	- [ ] Conclusion
 	
-
-
 ## Apache Spark & PySpark
 - [x] [Intro to Spark SQL and DataFrames](Spark%20-%20Spark%20SQL%20and%20Data%20Frames)
 - [x] [Apache Spark Essential Training](Spark%20-%20Apache%20Spark%20Essential%20Training)
@@ -496,6 +446,44 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Apache PySpark by Example](Spark%20-%20Apache%20PySpark%20by%20Example)
 - [x] [Apache Spark Deep Learning Essential Training](Spark%20-%20Apache%20Spark%20Deep%20Learning%20Essential%20Training)
 
+## Data Scientist Reading Materials
++ Supervised Learning
+	+ [x] Lesson 01: Machine Learning Bird's Eye View
+	+ [ ] Lesson 02: Linear Regression
+	+ [ ] Lesson 03: Perceptron Algorithm
+	+ [ ] Lesson 04: Decision Trees
+	+ [ ] Lesson 05: Naive Bayes
+	+ [ ] Lesson 06: Support Vector Machines
+	+ [ ] Lesson 07: Ensemble Methods
+	+ [x] Lesson 08: Model Evaluation Metrics
+	+ [ ] Lesson 09: Training and Tuning
+	+ [ ] Lesson 10: Finding Donors Project
+	
+## [Kaggle Courses](https://www.kaggle.com/learn)
+- [x] Python
+- [x] Pandas
+- [x] Data Cleaning
+- [x] Introduction to Machine Learning
+- [x] Machine Learning Intermediate
+- [ ] Feature Engineering
+- [ ] Machine Learning Explaniability
+- [x] Data Visualization
+- [ ] Intro to Deep Learning
+- [ ] Intro to Game AI and Reinforcement Learning
+- [ ] Natural Language Processing
+- [ ] Micro-challenges
+- [ ] Computer Vision
+- [ ] Intro to SQL
+- [ ] Advanced SQL
+
+## [Google ML courses](https://developers.google.com/machine-learning/crash-course)
+- [ ] ML Crash Course
+- [ ] Problem Framing
+- [ ] Data Prep
+- [ ] Clustering
+- [ ] Recommendation
+- [ ] Testing and Debugging
+- [ ] GANs
 
 ## Data Analysis, Manipulation & Data Visualization
 + [] [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
