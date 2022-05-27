@@ -255,7 +255,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Model Deployment
 	+ Serving model as API with Flask
 
-## [Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
+## [Python Data Analysis & Visualization Masterclass - In Progress](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] 04 - Dataframes & Datasets
 + [x] 05 - Basic DataFrame Methods & Computations
 + [x] 06 - Series & Columns
@@ -411,7 +411,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 
 
 ## Deep Learning , Machine Learning, AI & Data Science
-- [x] [Deep Learning - Natural Language Processing with TensorFlow](DL%20-%20Deep%20Learning%20Foundation%20-%20Natural%20Language%20Processing%20with%20TensorFlow)
+- [x] [Deep Learning - Natural Language Processing with TensorFlow](Tensorflow%20-%20Natural%20Language%20Proceessing%20with%20Tensorflow)
 - [ ] [Deep Learning - Face Recognition](DL%20-%20Deep%20Learning%20-%20Face%20Recognition/myNotes.ipynb)
 - [x] [Deep Learning - Image Recognition](DL%20-%20Deep%20Learning%20-%20Image%20Recognition)
 - [x] [Deep Learning - Buliding Deep Learning Applications with Keras 2.0](DL%20-%20Deep%20Learning%20-%20Building%20Deep%20Learning%20Applications)
@@ -438,7 +438,30 @@ To skill up my ML & DS related skills in specific areas and topics:
 	- [ ] Unsupervised Learning - in-depth material
 	- [ ] Other Forms of Learning
 	- [ ] Conclusion
-	
+
+## Data Analysis, Manipulation & Data Visualization
++ [] [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
++ [x] [Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
++ [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
++ [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
++ [x] [Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)
++ [x] [Python Data Playbook - Cleaning Data](Pandas%20-%20Python%20Data%20Playbook%20-%20Cleaning%20Data)
++ [x] [Pandas Playbook - Manipulating Data](Pandas%20-%20Pandas%20Playbook%20-%20Manipulating%20Data)
++ [x] [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
+
+
+## [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
++ 01.Plotly Foundation
++ 02.Using Scenarios with Plotly
++ 03.Creating Visualization with Plotly
+	+ Basic Charts (Line Graph, Bar Graph, Scatter Plot, Bubble Chart)
+	+ Statstical Charts (Histogram,  Distribution, Scatter Matrix, Correlation Matrix with Imshow, Color Scales and Sequences)
+	+ 3D Plotting (3D Scatter Plot, 3D Bubble Chart, 3D Line Chart, 3D Surface Plot)
+	+ Mapping (Scatter Plot on Map, Choropleth, Mapbox and Geopandas)
+	+ Sunburst Chart
+	+ Snakey Chart
++ 04.Adding Interactivity with Plotly
+
 ## Apache Spark & PySpark
 - [x] [Intro to Spark SQL and DataFrames](Spark%20-%20Spark%20SQL%20and%20Data%20Frames)
 - [x] [Apache Spark Essential Training](Spark%20-%20Apache%20Spark%20Essential%20Training)
@@ -484,29 +507,6 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [ ] Recommendation
 - [ ] Testing and Debugging
 - [ ] GANs
-
-## Data Analysis, Manipulation & Data Visualization
-+ [] [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
-+ [x] [Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
-+ [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
-+ [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
-+ [x] [Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)
-+ [x] [Python Data Playbook - Cleaning Data](Pandas%20-%20Python%20Data%20Playbook%20-%20Cleaning%20Data)
-+ [x] [Pandas Playbook - Manipulating Data](Pandas%20-%20Pandas%20Playbook%20-%20Manipulating%20Data)
-+ [x] [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
-
-
-## [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
-+ 01.Plotly Foundation
-+ 02.Using Scenarios with Plotly
-+ 03.Creating Visualization with Plotly
-	+ Basic Charts (Line Graph, Bar Graph, Scatter Plot, Bubble Chart)
-	+ Statstical Charts (Histogram,  Distribution, Scatter Matrix, Correlation Matrix with Imshow, Color Scales and Sequences)
-	+ 3D Plotting (3D Scatter Plot, 3D Bubble Chart, 3D Line Chart, 3D Surface Plot)
-	+ Mapping (Scatter Plot on Map, Choropleth, Mapbox and Geopandas)
-	+ Sunburst Chart
-	+ Snakey Chart
-+ 04.Adding Interactivity with Plotly
 
 
 ## [Probability & Statistics (in progress)](Probability%20%26%20Statistics)
