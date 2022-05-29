@@ -40,10 +40,9 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 ------------
 # Projects
 
-## [Breast Cancer Tumor Diagnostic - Classification Project](ML%20-%20Breast%20Cancer%20Classification%20Project%20-%20SVM/Breast_Cancer_Classification_Project.ipynb)
+## [Breast Cancer Tumor Diagnostic - Classification Project](Project%20-%20Breast%20Cancer%20Classification%20Project%20-%20SVM/Breast_Cancer_Classification_Project.ipynb)
 + The project is to build a machine learning model to predict whether the tumor is benign or malignant basedon several observations/features.
 + using data from [Breast Cancer Wisconsin (Diagnostic) Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
-
 
 ## [Fandango movie ratings - Capstone Project](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/06-Capstone-Project/00-Capstone-Project.ipynb)
 Data Analysis and Visualization Capstone project from Machine Learning and Datascience Masterclass Course.
@@ -390,7 +389,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 + 06.Boosting
 + 07.Final Model Selection and Evaluation
 
-## [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
+## [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20-%20Foundation)
 + Project: Titanic dataset
 + 01.ML Basic
 + 02.Exploratory Data Analysis and Data Cleaning
@@ -425,7 +424,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
 - [x] [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
 - [x] [ML - Mistakes to avoid in Machine Learning](ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning/01_00_Mistakes%20to%20avoid%20in%20Machine%20Learning.ipynb)
-- [x] [ML - Classification Modelling with Iris flowers](ML%20-%20Classification%20Modelling%20with%20Iris%20flowers)
+- [x] [ML - Classification Modelling with Iris flowers](Project%20-%20Classification%20Modelling%20with%20Iris%20flowers%20-%20Pinata%20Data)
 - [x] Classification Modeling
 - [x] [Data Science A-Z Modeling](DS%20-%20Data%20Science%20A-Z)
 - [x] [Designing for Neural Networks and AI Interfaces](ML%20-%20Designing%20for%20Neural%20Networks%20and%20AI%20Interfaces/mynotes.md)
