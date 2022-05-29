@@ -158,6 +158,11 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [] 08. Deep Q Learning on Images
 + [] 09. Creating Custom Open AI Gym Environment
 
+## [DeepLearning.AI - Course 04.Sequences, Time Series and Predictions in Tensorflow](Tensorflow%20-%20DeepLearning.AI%20-%2004.Sequences%2C%20Time%20Series%20and%20Predictions)
++ [x] Week 01 - Sequences and Prediction
++ [x] Week 02 - Deep Neural Networks for Time Series
++ [x] Week 03 - Recurrent Neural Networks for Time Series
++ [x] Week 04 - Real-world time series data
 
 ## [DeepLearning.AI - Course 03.Netural Language Processing in Tensorflow](Tensorflow%20-%20DeepLearning.AI%20-%2003.Natural%20Language%20Processing%20in%20TensorFlow)
 + [x] Week 01 - Sentiment in Text
@@ -177,37 +182,37 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] Week 03 - Enhancing Vision with CNN
 + [x] Week 04 - Using Real-world images
 
-## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
+## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP](Tensorflow%20-%20Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
 + NumPy Crash Course
 + Pandas Crash Course
 + Visualization Crash Course
 + Basic Artifical Neural Networks - ANNs
-	+ [Basic Keras Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/00-Keras-Syntax-Basics.ipynb)
-	+ [Predict House Price for House Sales in King County, USA - Regression Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/01-Keras-Regression.ipynb)
-	+ [Breast Cancer Wisconsin (Diagnostic) - Classification Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/02-Keras-Classification.ipynb)
-	+ [Loan Default Prediction Prediction - Classification Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/03-Keras-Project-Exercise-Loan-Predictions.ipynb)
+	+ [Basic Keras Project](Tensorflow%20-%20Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/00-Keras-Syntax-Basics.ipynb)
+	+ [Predict House Price for House Sales in King County, USA - Regression Project](Tensorflow%20-%20Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/01-Keras-Regression.ipynb)
+	+ [Breast Cancer Wisconsin (Diagnostic) - Classification Project](Tensorflow%20-%20Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/02-Keras-Classification.ipynb)
+	+ [Loan Default Prediction Prediction - Classification Project](Tensorflow%20-%20Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/03-ANNs/03-Keras-Project-Exercise-Loan-Predictions.ipynb)
 	+ Tensorboard
 + Convolutional Neural Networks - CNNs
-	+ [Convolutional Neural Networks for Image Classification - MNIST data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
-	+ [Convolutional Neural Networks for Image Classification - CIFAR 10 data](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
-	+ [Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
-	+ [Convolutional Neural Networks for Image Classification - Fashion MNIST Data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/04-DL-CV-Assessment%20-%20Fashion%20MNIST%20Data%20Project.ipynb)
+	+ [Convolutional Neural Networks for Image Classification - MNIST data](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
+	+ [Convolutional Neural Networks for Image Classification - CIFAR 10 data](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
+	+ [Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
+	+ [Convolutional Neural Networks for Image Classification - Fashion MNIST Data Project](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/04-DL-CV-Assessment%20-%20Fashion%20MNIST%20Data%20Project.ipynb)
 + Recurrent Neural Networks - RNNs
-	+ [Sinewave Example](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/00-RNN-SineWave-Example.ipynb)
-	+ [RNN Example for Time Series - Advance Monthly Sales for Retail and Food Services](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/01-RNN-Time-Series-Example-MonthlySalesRetailFood.ipynb)
-	+ [RNN Forzen Dessert Sales Forecasting with LSTM](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/02-RNN-Forzen-Dessert-Montly-Sales-Forecasting.ipynb)
-	+ [Multivariate Time Series with RNN](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/04-Multivariate-Time-Series-RNN.ipynb)
+	+ [Sinewave Example](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/00-RNN-SineWave-Example.ipynb)
+	+ [RNN Example for Time Series - Advance Monthly Sales for Retail and Food Services](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/01-RNN-Time-Series-Example-MonthlySalesRetailFood.ipynb)
+	+ [RNN Forzen Dessert Sales Forecasting with LSTM](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/02-RNN-Forzen-Dessert-Montly-Sales-Forecasting.ipynb)
+	+ [Multivariate Time Series with RNN](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/04-Multivariate-Time-Series-RNN.ipynb)
 + Natural Language Processing - NLP
-	+ [Generating Text with RNNs - Shakespeare](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/06-NLP-and-Text-Data/00_Generating_Text_with_RNNs_Shakespears.ipynb)
+	+ [Generating Text with RNNs - Shakespeare](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/06-NLP-and-Text-Data/00_Generating_Text_with_RNNs_Shakespears.ipynb)
 + Auto Encoders
-	+ [AutoEncoders for Dimensionality Reduction](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/00-Autoencoders.ipynb)
-	+ [AutoEncoders on Image Data - Dimensionality Reduction & Noise Removal](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/01-Autoencoders-on-Image-Data.ipynb)
-	+ [Average Eating Habits of UK Countries - Autoencoders](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/02-UK%20countries%20average%20eating%20habits%20-%20Autoencoder.ipynb)
+	+ [AutoEncoders for Dimensionality Reduction](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/00-Autoencoders.ipynb)
+	+ [AutoEncoders on Image Data - Dimensionality Reduction & Noise Removal](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/01-Autoencoders-on-Image-Data.ipynb)
+	+ [Average Eating Habits of UK Countries - Autoencoders](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/02-UK%20countries%20average%20eating%20habits%20-%20Autoencoder.ipynb)
 + Generative Adverserial Networks - GANs
-	+ [GANs - Generative Adverserial Networks with Dense Layers](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/08-GANs/00-Generative-Adversarial-Networks-with-Dense-Layers.ipynb)
-	+ [DCGANs - Deep Convolutional Generative Adverserial Networks](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/08-GANs/01-DCGANS.ipynb)
+	+ [GANs - Generative Adverserial Networks with Dense Layers](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/08-GANs/00-Generative-Adversarial-Networks-with-Dense-Layers.ipynb)
+	+ [DCGANs - Deep Convolutional Generative Adverserial Networks](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/08-GANs/01-DCGANS.ipynb)
 + Deployment
-	+ [Iris Flower Predictions Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/09-Deployment/00-Iris-Flower-Predictions-Basic-Model.ipynb)
+	+ [Iris Flower Predictions Project](Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/09-Deployment/00-Iris-Flower-Predictions-Basic-Model.ipynb)
 	+ [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
 
 ## [Machine Learning & Data Science Masterclass - JP](Machine%20Learning%20&%20Data%20Science%20Masterclass%20-%20JP)
@@ -440,7 +445,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 	- [ ] Conclusion
 
 ## Data Analysis, Manipulation & Data Visualization
-+ [] [Python Data Analysis & Visualization Masterclass] (DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
++ [] [Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] [Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
 + [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
