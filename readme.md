@@ -37,7 +37,8 @@ Collections of Data Science & ML projects and dojo where I practice Data Science
 + [Kaggle](https://www.kaggle.com/) - Source of Dataset collections
 + [Plotly Chart Studio](https://plotly.com/chart-studio/) - The fastest way to publish & embed interactive charts online
 
-------------
+------------------------------------------------------------------
+
 # Projects
 
 ## [Breast Cancer Tumor Diagnostic - Classification Project](Project%20-%20Breast%20Cancer%20Classification%20Project%20-%20SVM/Breast_Cancer_Classification_Project.ipynb)
@@ -141,11 +142,11 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [Smarty Brain Image Prediction - ML Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project): ML project for analyzing images and make predictions.
 
 
--------------------
+------------------------------------------------------------------
 
 # Bootcamps
 
-## [RL - Practical AI with Python and Reinforcement Learning - JP](RL%20-%20Practical%20AI%20with%20Python%20and%20Reinforcement%20Learning%20-%20JP)
+## [RL - Practical AI with Python and Reinforcement Learning - JP - ON HOLD](RL%20-%20Practical%20AI%20with%20Python%20and%20Reinforcement%20Learning%20-%20JP)
 + [x] 00. NumPy Crash Course
 + [x] 01. Matplotlib Visualization
 + [x] 02. Pandas and Scikit-learn
@@ -159,9 +160,9 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 ## [DeepLearning.AI - Course 04.Sequences, Time Series and Predictions in Tensorflow](Tensorflow%20-%20DeepLearning.AI%20-%2004.Sequences%2C%20Time%20Series%20and%20Predictions)
 + [x] Week 01 - Sequences and Prediction
-+ [x] Week 02 - Deep Neural Networks for Time Series
-+ [x] Week 03 - Recurrent Neural Networks for Time Series
-+ [x] Week 04 - Real-world time series data
++ [ ] Week 02 - Deep Neural Networks for Time Series
++ [ ] Week 03 - Recurrent Neural Networks for Time Series
++ [ ] Week 04 - Real-world time series data
 
 ## [DeepLearning.AI - Course 03.Netural Language Processing in Tensorflow](Tensorflow%20-%20DeepLearning.AI%20-%2003.Natural%20Language%20Processing%20in%20TensorFlow)
 + [x] Week 01 - Sentiment in Text
@@ -180,6 +181,25 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] Week 02 - Introduction to Computer Vision
 + [x] Week 03 - Enhancing Vision with CNN
 + [x] Week 04 - Using Real-world images
+
+## [Deep Learning TensorFlow Developer Certificate - ZTM - IN PROGRESS](Tensorflow%20-%20Deep%20Learning%20TensorFlow%20Developer%20Certificate%20-%20ZTM)
++ [x] 01. Introduction
++ [x] 02. Deep Learning and Tensorflow Fundamentals
++ [ ] 03. Neural Network Regression with Tensorflow
++ [ ] 04. Neural Network Classification with Tensorflow
++ [ ] 05. Computer Vision and Convolutional Neural Networks in Tensorflow
++ [ ] 06. Transfer Learning - Feature Extraction
++ [ ] 07. Transfer Learning - Fine Tuning
++ [ ] 08. Transfer Learning - Scaling up
++ [ ] 09. Milestone Project 1 - Food Vision Big
++ [ ] 10. NLP Fundamentals in Tensorflow
++ [ ] 11. Milestone Project 2 - SkimLit
++ [ ] 12. Timseries Fundamentals + Milestone Project 3 - BitPredict
++ [ ] 13. Passing Tensorflow Certificate Exam
++ [ ] 15. Appendix - Machine Learning Primer
++ [ ] 16. Appendix - Machine Learning Framework
++ [ ] 14, 17-19. Misc
+
 
 ## [Complete Tensorflow 2 and Keras Deep Learning Bootcamp - JP](Tensorflow%20-%20Tensorflow%20-%20Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP)
 + NumPy Crash Course
@@ -259,7 +279,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Model Deployment
 	+ Serving model as API with Flask
 
-## [Python Data Analysis & Visualization Masterclass - In Progress](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
+## [Python Data Analysis & Visualization Masterclass - CS - IN PROGRESS](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] 04 - Dataframes & Datasets
 + [x] 05 - Basic DataFrame Methods & Computations
 + [x] 06 - Series & Columns
@@ -299,18 +319,6 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] 07. Unsupervised Learning - Clustering
 + [x] 08. Hyper Parameters Optimization
 
-
-## [Deep Learning TensorFlow Developer Certificate - ZTM](Tensorflow%20-%20Deep%20Learning%20TensorFlow%20Developer%20Certificate%20-%20ZTM)
-+ [x] Deep Learning and TensorFlow Fundamentals
-+ [ ] Neural Network Regression with Tensorflow
-
-
-## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
-+ [x] The Fundamentals of Machine Learning
-+ [x] The Machine Learning Landscape
-+ [x] End-to-End Machine Learning Project
-+ [x] Classification
-+ [ ] Training Models
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
 + Python Crash Course
@@ -356,6 +364,30 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [ ] Software Integration
 + [ ] Case Study - Absenteeism
 
+------------------------------------------------------------------
+# Books
+
+## [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (in progress)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow)
++ [x] The Fundamentals of Machine Learning
++ [x] The Machine Learning Landscape
++ [x] End-to-End Machine Learning Project
++ [x] Classification
++ [ ] Training Models
+
+## The Hundreded page - Machine Learning book
+- [x] Introduction
+- [x] Notation and Definitions
+- [x] Fundamental Algorithms
+- [x] Anatomy of a Learning Algorithm
+- [x] Basic Practice 
+- [ ] Neural Networks and Deep Learning 
+- [ ] Problems and Solutions
+- [ ] Advanced Practice
+- [ ] Unsupervised Learning
+- [ ] Unsupervised Learning - in-depth material
+- [ ] Other Forms of Learning
+- [ ] Conclusion
+------------------------------------------------------------------
 
 # Advancing Machine Learning & Data Science Journey - (In Progress)
 To skill up my ML & DS related skills in specific areas and topics:
@@ -423,48 +455,25 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
 - [x] [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
 - [x] [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
+- [ ] [Machine Learning with Python - 03_k-Means Clustering](ML%20-%20Machine%20Learning%20with%20Python%20-%2003_k-Means%20Clustering)
+- [ ] [Machine Learning with Python - 02_Decision Trees](ML%20-%20Machine%20Learning%20with%20Python%20-%2002_Decision%20Trees)
+- [x] [Machine Learning with Python - 01_Foundations](ML%20-%20Machine%20Learning%20with%20Python%20-%2001_Foundations)
 - [x] [ML - Mistakes to avoid in Machine Learning](ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning/01_00_Mistakes%20to%20avoid%20in%20Machine%20Learning.ipynb)
 - [x] [ML - Classification Modelling with Iris flowers](Project%20-%20Classification%20Modelling%20with%20Iris%20flowers%20-%20Pinata%20Data)
-- [x] Classification Modeling
 - [x] [Data Science A-Z Modeling](DS%20-%20Data%20Science%20A-Z)
 - [x] [Designing for Neural Networks and AI Interfaces](ML%20-%20Designing%20for%20Neural%20Networks%20and%20AI%20Interfaces/mynotes.md)
 - [x] Introduction to GPT-3: A Leap in Artificial Intelligence
-- [ ] The Hundreded page - Machine Learning book
-	- [x] Introduction
-	- [x] Notation and Definitions
-	- [x] Fundamental Algorithms
-	- [x] Anatomy of a Learning Algorithm
-	- [x] Basic Practice 
-	- [ ] Neural Networks and Deep Learning 
-	- [ ] Problems and Solutions
-	- [ ] Advanced Practice
-	- [ ] Unsupervised Learning
-	- [ ] Unsupervised Learning - in-depth material
-	- [ ] Other Forms of Learning
-	- [ ] Conclusion
+
 
 ## Data Analysis, Manipulation & Data Visualization
-+ [] [Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
-+ [x] [Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
-+ [x] [Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
-+ [x] [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
-+ [x] [Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)
-+ [x] [Python Data Playbook - Cleaning Data](Pandas%20-%20Python%20Data%20Playbook%20-%20Cleaning%20Data)
-+ [x] [Pandas Playbook - Manipulating Data](Pandas%20-%20Pandas%20Playbook%20-%20Manipulating%20Data)
++ [] [DA & DV - Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
++ [x] [Pandas - Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
++ [x] [Pandas - Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
++ [x] [DV - Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
++ [x] [DA - Data Analysis with Pandas and Python - BP](Pandas%20-%20Data%20Analysis%20with%20Pandas%20and%20Python%20-%20BP)
++ [x] [DA - Python Data Playbook - Cleaning Data](Pandas%20-%20Python%20Data%20Playbook%20-%20Cleaning%20Data)
++ [x] [Pandas - Pandas Playbook - Manipulating Data](Pandas%20-%20Pandas%20Playbook%20-%20Manipulating%20Data)
 + [x] [More Python Data Tools - Microsoft](More%20Python%20Data%20Tools%20-%20Microsoft)
-
-
-## [Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
-+ 01.Plotly Foundation
-+ 02.Using Scenarios with Plotly
-+ 03.Creating Visualization with Plotly
-	+ Basic Charts (Line Graph, Bar Graph, Scatter Plot, Bubble Chart)
-	+ Statstical Charts (Histogram,  Distribution, Scatter Matrix, Correlation Matrix with Imshow, Color Scales and Sequences)
-	+ 3D Plotting (3D Scatter Plot, 3D Bubble Chart, 3D Line Chart, 3D Surface Plot)
-	+ Mapping (Scatter Plot on Map, Choropleth, Mapbox and Geopandas)
-	+ Sunburst Chart
-	+ Snakey Chart
-+ 04.Adding Interactivity with Plotly
 
 ## Apache Spark & PySpark
 - [x] [Intro to Spark SQL and DataFrames](Spark%20-%20Spark%20SQL%20and%20Data%20Frames)

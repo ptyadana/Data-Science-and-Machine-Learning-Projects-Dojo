@@ -1,0 +1,262 @@
+ID,BrandName,ModelNumber,UPC,Configuration,Features,Market,Volume,IMEF,MinimumIMEF,EnergyUse,IWF,MaximumIWF,WaterUse,DateAvailable,DateCertified,Countries,MostEfficient
+2342279,GE,GTW845C*N***,1,Top Load,"Gentle Cycle,Delayed Start,Sanitize Option",Residential,5,2.06,1.29,192,4.3,8.4,6368,8/5/19,7/31/19,"United States, Canada",No
+2331684,GE,GUD27EE*N***,84691844198,Top Load,Gentle Cycle,Residential,3.9,2.06,1.29,140,4.3,8.4,4947,12/10/18,11/30/18,United States,No
+2331685,GE,GUD27EE*N***,7.57638E+11,Top Load,Gentle Cycle,Residential,3.9,2.06,1.29,140,4.3,8.4,4947,12/10/18,11/30/18,Canada,No
+2331687,GE,GUD27GE*N***,84691844181,Top Load,Gentle Cycle,Residential,3.9,2.06,1.29,140,4.3,8.4,4947,12/10/18,11/30/18,United States,No
+2331686,GE,GUD37EE*N***,7.57638E+11,Top Load,Gentle Cycle,Residential,3.9,2.06,1.29,140,4.3,8.4,4947,12/10/18,11/30/18,Canada,No
+2310465,GE,WCVH4800****,84691191063,Front Load,Other,Residential,2.2,2.1,1.84,99,4.1,4.7,2685,4/1/15,3/5/15,"United States, Canada",No
+2310522,GE,WCVH4800K***,84691191063,Front Load,"Gentle Cycle,Delayed Start,Hand Wash Cycle",Residential,2.2,2.1,1.84,99,4.1,4.7,2685,3/13/15,2/12/18,"United States, Canada",No
+2344117,GE Adora,GTW495*****,7.57638E+11,Top Load,"Other,Gentle Cycle",Residential,4.2,2.15,1.29,160,4,8.4,4956,8/19/19,8/7/19,Canada,No
+2340369,Haier,QFW150S*N***,84691841883,Front Load,"Steam Cycle,Delayed Start,Sanitize Option,Gentle Cycle",Residential,2.4,2.07,1.84,108,4.2,4.7,2974,7/8/19,6/26/19,"United States, Canada",No
+2331774,Inglis,IFW5900H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option",Residential,4.3,2.76,1.84,123,3.2,4.7,4097,12/3/18,8/24/18,"United States, Canada",No
+2305859,Insignia,NS-TWM48WH8B,6.00603E+11,Top Load,None,Residential,4.8,2.06,1.29,92,4.3,8.4,6025,10/12/17,10/12/17,Canada,No
+2355252,Kenmore,2165*20*,8.8305E+11,Top Load,"Delayed Start,Other",Residential,5.2,2.06,1.29,260,4.3,8.4,6609,4/1/20,1/13/20,United States,No
+2310410,Kenmore,2613*41*,8.83049E+11,Top Load,Other,Residential,4.8,2.06,1.29,169,4.3,8.4,6076,3/23/15,2/8/18,"United States, Canada",No
+2310389,Kenmore,2713*41*,8.83049E+11,Top Load,Other,Residential,4.8,2.06,1.29,169,4.3,8.4,6076,3/23/15,2/8/18,"United States, Canada",No
+2310394,Kenmore,2813*41*,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,195,4.3,8.4,6698,2/23/15,2/8/18,"United States, Canada",No
+2310402,Kenmore,2913*41*,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,195,4.3,8.4,6698,2/23/15,2/8/18,"United States, Canada",No
+2308536,Kenmore,3143#,1,Top Load,"Anti-Wrinkle,Steam Cycle,Delayed Start,Sanitize Option",Residential,5,2.38,1.29,150,3.7,8.4,5479,11/2/17,12/18/17,"United States, Canada",No
+2352037,Kenmore,3145#,1,Top Load,None,Residential,4.5,2.06,1.29,220,4.3,8.4,5721,12/18/19,12/18/19,"United States, Canada",No
+2310478,Kenmore,3155#,1,Top Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.38,1.29,130,3.7,8.4,5643,6/24/16,2/8/18,"United States, Canada",No
+2310411,Kenmore,3163*61*,8.83049E+11,Top Load,"Other,Delayed Start,Steam Cycle",Residential,6.2,2.06,1.29,271,4.3,8.4,7827,4/4/16,2/8/18,"United States, Canada",No
+2355251,Kenmore,3165*20*,8.8305E+11,Top Load,"Delayed Start,Other",Residential,5.3,2.06,1.29,270,4.3,8.4,6736,4/1/20,1/13/20,United States,No
+2351914,Kenmore,3171#,1,Top Load,None,Residential,5.5,2.76,1.29,130,3.2,8.4,5145,12/11/19,12/4/19,"United States, Canada",No
+2351913,Kenmore,3177#,1,Top Load,None,Residential,5.5,2.76,1.29,150,3.2,8.4,5145,12/11/19,12/4/19,"United States, Canada",No
+2347077,Kenmore,4107#,1,Front Load,None,Residential,5.2,2.92,1.84,120,3.2,4.7,4899,9/24/19,9/19/19,"United States, Canada",Yes
+2310500,Kenmore,4126#,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4220,7/29/16,2/9/18,"United States, Canada",Yes
+2310487,Kenmore,4130#,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,3.2,4.7,4239,7/22/16,2/8/18,"United States, Canada",No
+2345935,Kenmore,4136#,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3833,9/4/18,9/3/19,"United States, Canada",Yes
+2310483,Kenmore,4139#,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4239,7/28/16,2/8/18,"United States, Canada",No
+2345994,Kenmore,4146#,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3833,9/5/19,9/5/19,"United States, Canada",Yes
+2340664,Kenmore,4156#,1,Front Load,None,Residential,4.5,2.92,1.84,105,2.9,4.7,3850,6/28/19,6/28/19,"United States, Canada",Yes
+2310489,Kenmore,4158#,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,3.2,4.7,4239,3/1/15,2/9/18,"United States, Canada",No
+2310486,Kenmore,4168#,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,3.2,4.7,4239,7/22/16,2/8/18,"United States, Canada",No
+2310167,Kenmore,417.4194*71*,12505387197,Front Load,None,Residential,2.4,2.13,1.84,90,3.8,4.7,2690,1/19/18,2/24/14,"United States, Canada",No
+2306857,Kenmore,4178#,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.76,1.84,160,3.2,4.7,4201,12/21/17,11/27/17,"United States, Canada",No
+2310506,Kenmore,4196#,1,Front Load,None,Residential,5.2,2.92,1.84,100,3.2,4.7,4880,6/4/16,2/9/18,"United States, Canada",No
+2347078,Kenmore,4198#,1,Front Load,None,Residential,5.2,2.92,1.84,120,3.2,4.7,4899,9/24/19,9/19/19,"United States, Canada",Yes
+2310466,Kenmore,592-2922*,8.87276E+11,Top Load,Other,Residential,4.3,2.09,1.29,132,4,8.4,5050,4/22/15,4/22/15,Canada,No
+2310467,Kenmore,592-2933*,8.87277E+11,Top Load,Other,Residential,4.8,2.11,1.29,176,4.1,8.4,5757,4/22/15,4/22/15,Canada,No
+2310468,Kenmore,592-4961*,8.87276E+11,Front Load,Other,Residential,4.2,2.8,1.84,85,3.2,4.7,3927,1/23/16,1/11/16,"United States, Canada",No
+2310469,Kenmore,592-4968*,8.87276E+11,Front Load,Other,Residential,4.5,2.8,1.84,110,3,4.7,3956,1/23/16,1/11/16,"United States, Canada",No
+2310470,Kenmore,592-4969*,8.87276E+11,Front Load,Other,Residential,5,2.92,1.84,105,2.9,4.7,4278,5/15/16,4/21/16,"United States, Canada",No
+2311005,LG,WM1385H*,1,Front Load,None,Residential,2.3,2.07,1.84,120,4.2,4.7,2850,3/19/16,2/26/18,"United States, Canada",No
+2310496,LG,WM1388H*,1,Front Load,None,Residential,2.3,2.07,1.84,120,4.2,4.7,2850,3/19/16,2/9/18,"United States, Canada",No
+2321541,LG,WM1399H*A,1,Front Load,None,Residential,2.3,2.07,1.84,120,4.2,4.7,2850,6/22/18,6/22/18,"United States, Canada",No
+2354285,LG,WM1455H*A,1,Front Load,None,Residential,2.4,2.07,1.84,120,4.2,4.7,2949,1/29/20,1/29/20,"United States, Canada",No
+2308538,LG,WM3080C*,1,Front Load,Delayed Start,Residential,4.3,2.92,1.84,90,3.2,4.7,4050,12/1/17,12/18/17,"United States, Canada",No
+2310480,LG,WM3085C*,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4220,12/11/16,2/8/18,"United States, Canada",No
+2328318,LG,WM3090C*,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3841,10/31/18,10/23/18,"United States, Canada",No
+2320406,LG,WM3095C*,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3841,5/18/18,5/16/18,"United States, Canada",No
+2310476,LG,WM3180C*,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4220,4/17/17,2/8/18,"United States, Canada",No
+2310498,LG,WM3270C*,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4220,7/29/16,2/9/18,"United States, Canada",Yes
+2310499,LG,WM3275C*,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4220,7/29/16,2/9/18,"United States, Canada",No
+2350799,LG,WM3400C*,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3841,12/4/19,12/3/19,"United States, Canada",Yes
+2339489,LG,WM3460C*,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3841,6/6/19,6/6/19,"United States, Canada",Yes
+2319458,LG,WM3500C*,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3841,5/9/18,5/4/18,"United States, Canada",Yes
+2320405,LG,WM3505C*,1,Front Load,None,Residential,4.5,2.92,1.84,100,2.9,4.7,3841,5/18/18,5/16/18,"United States, Canada",No
+2310484,LG,WM3575C*,1,Front Load,None,Residential,4.5,2.92,1.84,90,3.2,4.7,4239,7/28/16,2/8/18,"United States, Canada",No
+2358067,LG,WM3600H*A,1,Front Load,None,Residential,4.5,2.92,1.84,105,2.9,4.7,3841,4/14/20,4/14/20,"United States, Canada",Yes
+2310497,LG,WM3670H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,100,3.2,4.7,4220,9/1/16,2/9/18,"United States, Canada",No
+2318268,LG,WM3700H*A,1,Front Load,None,Residential,4.5,2.92,1.84,105,2.9,4.7,3841,4/21/18,4/9/18,"United States, Canada",Yes
+2310488,LG,WM3770H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,3.2,4.7,4239,7/22/16,2/8/18,"United States, Canada",No
+2337192,LG,WM3800H*A,1,Front Load,None,Residential,4.5,2.92,1.84,105,2.9,4.7,3850,4/29/19,4/24/19,"United States, Canada",Yes
+2337191,LG,WM3900H*A,1,Front Load,None,Residential,4.5,2.92,1.84,105,2.9,4.7,3850,4/29/19,4/24/19,"United States, Canada",Yes
+2358068,LG,WM4000H*A,1,Front Load,None,Residential,4.5,2.92,1.84,105,2.9,4.7,3841,4/14/20,4/14/20,"United States, Canada",Yes
+2310485,LG,WM4370H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,3.2,4.7,4239,7/22/16,2/8/18,"United States, Canada",No
+2355243,LG,WM4500H*A,1,Front Load,None,Residential,5,3.1,1.84,105,2.9,4.7,4278,2/24/20,2/24/20,"United States, Canada",Yes
+2310475,LG,WM5000H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,2.8,4.7,3676,5/24/17,2/8/18,"United States, Canada",No
+2309302,Amana,NFW5800D**,8.83049E+11,Front Load,Other,Residential,4.2,2.76,1.84,109,3.2,4.7,3936,4/15/15,1/17/18,"United States, Canada",No
+2331773,Amana,NFW5800H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option",Residential,4.3,2.76,1.84,123,3.2,4.7,4097,12/3/18,8/24/18,"United States, Canada",No
+2309900,Asko,W2084.W.U,578206,Front Load,"Anti-Wrinkle,Gentle Cycle,Other,Delayed Start,Hand Wash Cycle",Residential,2,2.31,1.84,75,2.9,4.7,1728,1/1/18,2/2/18,"United States, Canada",No
+2309902,Asko,W4114C.T.U,578207,Front Load,"Anti-Wrinkle,Gentle Cycle,Delayed Start,Hand Wash Cycle",Residential,2.7,2.41,1.84,75,3.1,4.7,2478,10/1/17,2/2/18,"United States, Canada",No
+2309901,Asko,W4114C.W.U,578205,Front Load,"Anti-Wrinkle,Gentle Cycle,Delayed Start,Hand Wash Cycle",Residential,2.7,2.41,1.84,75,3.1,4.7,2478,10/1/17,2/2/18,"United States, Canada",No
+2309903,Asko,W6124X.W.U,578203,Front Load,"Anti-Wrinkle,Gentle Cycle,Delayed Start,Hand Wash Cycle",Residential,2.7,2.41,1.84,75,3.1,4.7,2478,10/1/18,2/2/18,"United States, Canada",No
+2332833,Beko,BWM7200X,8.69084E+12,Front Load,"Gentle Cycle,Other,Hand Wash Cycle",Residential,1.9,2.07,1.84,84,3.6,4.7,2060,2/1/19,1/31/19,United States,No
+2318078,Beko,WMY 10148 C2,8.69084E+12,Front Load,None,Residential,2.5,2.29,1.84,82,3.6,4.7,2655,4/1/15,4/13/15,"United States, Canada",No
+2318135,Beko,WTE 7604XLW0,8.69084E+12,Front Load,None,Residential,2,2.09,1.84,67,3.5,4.7,2013,4/1/15,4/10/15,"United States, Canada",No
+2332834,Blomberg,WM72200W,8.69084E+12,Front Load,"Gentle Cycle,Other,Hand Wash Cycle",Residential,1.9,2.07,1.84,84,3.6,4.7,2060,2/1/19,1/31/19,United States,No
+2318129,Blomberg,WM 98200 SX2,8.69084E+12,Front Load,None,Residential,2.5,2.29,1.84,82,3.6,4.7,2655,4/1/15,4/13/15,"United States, Canada",No
+2318079,Blomberg,WM 98400 SX2,8.69084E+12,Front Load,None,Residential,2.5,2.29,1.84,82,3.6,4.7,2655,4/1/15,4/13/15,"United States, Canada",No
+2311151,Bosch,WAT28400UC,8.25226E+11,Front Load,Delayed Start,Residential,2.2,2.22,1.84,84,3.6,4.7,2294,5/1/15,3/20/15,"United States, Canada",No
+2311152,Bosch,WAT28401UC,8.25226E+11,Front Load,Delayed Start,Residential,2.2,2.22,1.84,84,3.6,4.7,2294,9/16/15,3/20/15,"United States, Canada",No
+2311153,Bosch,WAT28402UC,8.25226E+11,Front Load,Delayed Start,Residential,2.2,2.22,1.84,84,3.6,4.7,2294,9/16/15,3/20/15,"United States, Canada",No
+2310610,Bosch,WAW285H2UC,8.25226E+11,Front Load,"Anti-Wrinkle,Gentle Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.2,2.22,1.84,84,3.7,4.7,2358,9/1/17,5/1/17,"United States, Canada",No
+2309934,Crosley,CFWH4084G**,8.83049E+11,Front Load,Other,Residential,4.2,2.92,1.84,85,3.2,4.7,3936,2/1/17,2/2/18,"United States, Canada",No
+2325258,Crosley,YFW450S*M***,84691841524,Front Load,"Gentle Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,4.5,2.76,1.84,116,3.2,4.7,4220,9/3/18,8/22/18,United States,No
+2350855,Crosley,YTW4514*N***,1,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.5,2.06,1.29,150,4.3,8.4,5683,12/4/19,12/2/19,United States,No
+2310166,Electrolux,EFLS210****,12505387180,Front Load,None,Residential,2.4,2.13,1.84,90,3.8,4.7,2690,1/19/18,2/24/14,"United States, Canada",No
+2309144,Electrolux,EFLS527****,12505387265,Front Load,None,Residential,4.3,2.92,1.84,75,3.2,4.7,4059,1/19/18,1/2/18,"United States, Canada",Yes
+2310162,Electrolux,EFLS627****,12505387289,Front Load,None,Residential,4.4,2.92,1.84,85,3.2,4.7,4154,1/19/18,2/8/16,"United States, Canada",Yes
+2358142,Electrolux,EFLS628****,12505387654,Front Load,Sanitize Option,Residential,4.4,2.92,1.84,85,3.2,4.7,4154,5/1/20,4/10/20,United States,Yes
+2310004,Electrolux,EFLW317****,12505386947,Front Load,None,Residential,4.3,2.76,1.84,60,3.2,4.7,4059,1/29/18,1/26/18,"United States, Canada",No
+2310163,Electrolux,EFLW427****,12505387258,Front Load,None,Residential,4.3,2.92,1.84,60,3.2,4.7,4059,1/19/18,3/1/16,"United States, Canada",Yes
+2358143,Electrolux,ELFW4222***,12505387623,Front Load,Sanitize Option,Residential,2.4,2.13,1.84,90,3.8,4.7,2690,5/1/20,4/10/20,"United States, Canada",No
+2300873,Fisher & Paykel,WH2424F1,8.22844E+11,Front Load,Steam Cycle,Residential,2.4,2.09,1.84,80,2.8,4.7,1982,7/30/17,7/4/17,"United States, Canada",No
+2300874,Fisher & Paykel,WH2424P1,8.22844E+11,Front Load,Hand Wash Cycle,Residential,2.4,2.09,1.84,80,2.8,4.7,1982,7/30/17,7/4/17,"United States, Canada",No
+2310611,Gaggenau,WM262700,8.25226E+11,Front Load,"Anti-Wrinkle,Gentle Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.2,2.22,1.84,84,3.7,4.7,2358,6/1/18,5/1/17,"United States, Canada",No
+2310521,GE,GFW148S*L***,84691824183,Front Load,"Gentle Cycle,Steam Cycle,Delayed Start,Sanitize Option",Residential,2.4,2.07,1.84,80,4.2,4.7,2912,2/9/17,2/12/18,United States,No
+2324849,GE,GFW148S*M***,84691826651,Front Load,"Gentle Cycle,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.4,2.07,1.84,97,4.2,4.7,2961,8/27/18,8/27/18,"United States, Canada",No
+2306811,GE,GFW400S*M***,84691826552,Front Load,"Gentle Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,4.1,2.76,1.84,113,3.2,4.7,3852,12/4/17,11/27/17,"United States, Canada",No
+2310043,GE,GFW430S*M***,84691826569,Front Load,"Gentle Cycle,Other,Delayed Start,Hand Wash Cycle",Residential,4.5,2.76,1.84,123,3.2,4.7,4220,1/8/18,2/6/18,"United States, Canada",No
+2306813,GE,GFW450S*M***,84691826576,Front Load,"Gentle Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,4.5,2.76,1.84,116,3.2,4.7,4220,12/4/17,11/27/17,"United States, Canada",No
+2310529,GE,GFW480S*K***,84691820222,Front Load,"Gentle Cycle,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,4.9,2.76,1.84,153,2.8,4.7,4047,10/3/16,2/12/18,United States,No
+2310530,GE,GFW490R*K***,84691820253,Front Load,"Gentle Cycle,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,4.9,2.76,1.84,153,2.8,4.7,4047,10/3/16,2/12/18,United States,No
+2351443,GE,GFW510S*N***,84691849377,Front Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.5,2.76,1.84,150,3,4.7,3983,1/13/20,12/18/19,"United States, Canada",No
+2350140,GE,GFW550S*N***,1,Front Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.8,2.76,1.84,158,3,4.7,4239,11/25/19,11/21/19,"United States, Canada",No
+2346259,GE,GFW650S*N***,84691849315,Front Load,"Steam Cycle,Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.8,2.76,1.84,158,3,4.7,4239,9/16/19,9/12/19,"United States, Canada",No
+2346625,GE,GFW850S*N***,84691849292,Front Load,"Steam Cycle,Delayed Start,Sanitize Option,Gentle Cycle",Residential,5,2.76,1.84,158,3,4.7,4460,9/19/19,9/17/19,"United States, Canada",No
+2306360,GE,GTW470BMM***,7.57639E+11,Top Load,"Gentle Cycle,Other",Residential,4.2,2.15,1.29,160,4,8.4,4956,1/15/18,11/13/17,Canada,No
+2310717,GE,GTW485ASJ2WS,84691815235,Top Load,Gentle Cycle,Residential,4.2,2.06,1.29,152,4.3,8.4,5340,7/11/16,2/12/18,United States,No
+2310718,GE,GTW485ASJ3WS,84691815235,Top Load,Gentle Cycle,Residential,4.2,2.06,1.29,152,4.3,8.4,5340,12/12/16,2/12/18,United States,No
+2300602,GE,GTW485ASJ4WS,84691815235,Top Load,Gentle Cycle,Residential,4.2,2.06,1.29,152,4.3,8.4,5328,8/10/17,7/17/17,United States,No
+2319465,GE,GTW485ASJ5WS,84691815235,Top Load,Gentle Cycle,Residential,4.2,2.06,1.29,152,4.3,8.4,5340,5/15/18,5/7/18,United States,No
+2306361,GE,GTW485BMM***,7.57639E+11,Top Load,"Gentle Cycle,Other",Residential,4.2,2.15,1.29,160,4,8.4,4956,1/15/18,11/13/17,Canada,No
+2310625,GE,GTW490ACJ2WS,84691815884,Top Load,Gentle Cycle,Residential,4.4,2.07,1.29,133,4.1,8.4,5273,7/11/16,2/12/18,United States,No
+2310626,GE,GTW490ACJ3WS,84691815884,Top Load,Gentle Cycle,Residential,4.4,2.07,1.29,133,4.1,8.4,5273,12/12/16,2/12/18,United States,No
+2300603,GE,GTW490ACJ4WS,84691815884,Top Load,Gentle Cycle,Residential,4.4,2.07,1.29,133,4.1,8.4,5322,8/10/17,7/17/17,United States,No
+2319462,GE,GTW490ACJ5WS,84691815884,Top Load,Gentle Cycle,Residential,4.4,2.07,1.29,133,4.1,8.4,5273,5/15/18,5/7/18,United States,No
+2319463,GE,GTW490ACJ5WW,84691812012,Top Load,Gentle Cycle,Residential,4.4,2.07,1.29,133,4.1,8.4,5273,5/15/18,5/7/18,United States,No
+2331678,GE,GTW500A*N***,84691845638,Top Load,"Gentle Cycle,Delayed Start",Residential,4.6,2.06,1.29,175,4.3,8.4,5860,12/17/18,12/5/18,"United States, Canada",No
+2333287,GE,GTW560BM***,7.57638E+11,Top Load,Other,Residential,4.3,2.2,1.29,137,3.7,8.4,4726,1/2/19,2/11/19,Canada,No
+2333288,GE,GTW575BM***,7.57638E+11,Top Load,Other,Residential,4.3,2.2,1.29,137,3.7,8.4,4726,1/2/19,2/11/19,Canada,No
+2306362,GE,GTW680BMM**,7.57639E+11,Top Load,"Gentle Cycle,Other",Residential,4.6,2.16,1.29,165,3.4,8.4,4624,1/15/18,11/13/17,Canada,No
+2306363,GE,GTW680BMM**,7.57639E+11,Top Load,"Gentle Cycle,Other",Residential,4.6,2.16,1.29,165,3.4,8.4,4624,1/15/18,11/13/17,Canada,No
+2300604,GE,GTW680BPL0DG,84691825722,Top Load,"Gentle Cycle,Delayed Start,Sanitize Option",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,6/19/17,7/26/17,United States,No
+2319459,GE,GTW680BPL1DG,84691825722,Top Load,"Gentle Cycle,Delayed Start,Sanitize Option",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,5/15/18,5/7/18,United States,No
+2341016,GE,GTW680BPL2DG,84691825722,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,7/15/19,7/10/19,United States,No
+2310662,GE,GTW680BSJ3WS,84691810780,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,7/11/16,2/12/18,United States,No
+2310660,GE,GTW680BSJ4WS,84691810780,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,12/12/16,2/12/18,United States,No
+2310661,GE,GTW680BSJ5WS,84691810780,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,5/1/17,2/12/18,United States,No
+2319460,GE,GTW680BSJ6WS,84691810780,Top Load,"Gentle Cycle,Delayed Start,Sanitize Option",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,5/15/18,5/7/18,United States,No
+2341017,GE,GTW680BSJ7WS,84691810780,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.6,2.08,1.29,143,3.6,8.4,4906,7/15/19,7/10/19,United States,No
+2310720,GE,GTW685B*L***,84691825609,Top Load,"Gentle Cycle,Delayed Start,Sanitize Option",Residential,4.5,2.06,1.29,150,4.3,8.4,5683,5/3/17,2/12/18,United States,No
+2340782,GE,GTW720B*N***,"084691842910, 084691842965",Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.8,2.06,1.29,165,4.3,8.4,6076,7/8/19,7/3/19,"United States, Canada",No
+2340281,GE,GTW725B*N***,84691842958,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,4.6,2.06,1.29,158,4.3,8.4,5886,7/8/19,6/25/19,"United States, Canada",No
+2310722,GE,GTW750C*L***,84691825623,Top Load,"Gentle Cycle,Delayed Start,Sanitize Option",Residential,5,2.06,1.29,176,4.3,8.4,6381,5/30/17,2/12/18,"United States, Canada",No
+2316641,GE,GTW755C*M***,84691832263,Top Load,"Gentle Cycle,Other,Delayed Start",Residential,4.9,2.06,1.29,181,4.3,8.4,6203,4/9/18,3/30/18,"United States, Canada",No
+2316642,GE,GTW755C*M***,84691832256,Top Load,"Gentle Cycle,Other,Delayed Start",Residential,4.9,2.06,1.29,181,4.3,8.4,6203,4/9/18,3/30/18,"United States, Canada",No
+2341109,GE,GTW840C*N***,84691842934,Top Load,"Delayed Start,Sanitize Option,Gentle Cycle",Residential,5.2,2.06,1.29,175,4.3,8.4,6558,7/22/19,7/12/19,"United States, Canada",No
+2341069,Samsung,WF50R85**A*,8.87276E+11,Front Load,"Gentle Cycle,Other",Residential,5,2.92,1.84,100,2.9,4.7,4235,8/16/19,7/4/19,"United States, Canada",Yes
+2356083,Samsung,WF50T85**A*,8.87276E+11,Front Load,Steam Cycle,Residential,5,2.92,1.84,110,2.9,4.7,4235,3/20/20,3/6/20,"United States, Canada",Yes
+2310447,Samsung,WF56H91**A*,8.87277E+11,Front Load,Other,Residential,5.6,3.1,1.84,135,2.7,4.7,4429,4/1/15,2/16/15,"United States, Canada",Yes
+2310439,Samsung,WF56H91**C*,8.87276E+11,Front Load,Other,Residential,5.6,2.8,1.84,130,2.8,4.7,4593,10/15/14,9/25/14,"United States, Canada",No
+2300867,Samsung,WV55M96**A***,8.87276E+11,Front Load,"Anti-Wrinkle,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle,Supplementary Wash System",Residential,4.5,2.92,1.84,105,2.9,4.7,3850,1/23/17,5/26/17,"United States, Canada",Yes
+2300868,Samsung,WV60M99**A***,8.87276E+11,Front Load,"Anti-Wrinkle,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle,Supplementary Wash System",Residential,5,2.92,1.84,105,2.9,4.7,4278,1/23/17,5/26/17,"United States, Canada",Yes
+2310452,Samsung,WW22K680*A*,8.87276E+11,Front Load,Other,Residential,2.2,2.25,1.84,90,4,4.7,2596,12/20/15,11/30/15,"United States, Canada",No
+2309556,Samsung,WW22N685*Q*,8.87276E+11,Front Load,Steam Cycle,Residential,2.2,2.25,1.84,85,3.7,4.7,2401,3/5/18,1/23/18,"United States, Canada",Yes
+2310204,Whirlpool,WFW3090G**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,2,2.38,1.84,115,3.7,4.7,2150,7/18/16,2/5/18,"United States, Canada",No
+2332088,Whirlpool,WFW3090J**,8.8305E+11,Front Load,Delayed Start,Residential,2,2.07,1.84,118,4.2,4.7,2441,1/21/19,12/23/18,"United States, Canada",No
+2332089,Whirlpool,WFW5090J**,8.8305E+11,Front Load,"Delayed Start,Hand Wash Cycle",Residential,2.3,2.07,1.84,128,4.2,4.7,2899,1/21/19,12/23/18,"United States, Canada",No
+2331764,Whirlpool,WFW560CH**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option",Residential,4.3,2.76,1.84,123,3.2,4.7,4097,12/3/18,8/24/18,"United States, Canada",No
+2331766,Whirlpool,WFW5620H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option",Residential,4.5,2.76,1.84,139,3.2,4.7,4267,12/3/18,8/24/18,"United States, Canada",No
+2331767,Whirlpool,WFW6620H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option",Residential,4.5,2.76,1.84,139,3.2,4.7,4267,12/3/18,8/24/18,"United States, Canada",No
+2310326,Whirlpool,WFW7540F**,8.83049E+11,Front Load,Delayed Start,Residential,4.5,2.92,1.84,88,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310328,Whirlpool,WFW7590F**,8.83049E+11,Front Load,Delayed Start,Residential,4.2,2.92,1.84,87,3.2,4.7,3936,6/1/16,2/5/18,"United States, Canada",No
+2310418,Whirlpool,WFW75HEF**,8.83049E+11,Front Load,Delayed Start,Residential,4.5,2.92,1.84,88,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310208,Whirlpool,WFW8540F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,87,3.2,4.7,4210,7/11/16,2/5/18,"United States, Canada",No
+2310207,Whirlpool,WFW85HEF**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,87,3.2,4.7,4210,7/11/16,2/5/18,"United States, Canada",No
+2310296,Whirlpool,WFW90HEF**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,89,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310405,Whirlpool,WFW9290F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.2,2.92,1.84,89,3.2,4.7,3936,6/1/16,2/5/18,"United States, Canada",No
+2310327,Whirlpool,WFW92HEF**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,89,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310416,Whirlpool,WFW92HEF**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,89,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310408,Whirlpool,WTW7000D**,8.83049E+11,Top Load,"Other,Delayed Start",Residential,4.8,2.06,1.29,169,4.3,8.4,6076,6/1/16,2/5/18,"United States, Canada",No
+2310395,Whirlpool,WTW7040D**,8.83049E+11,Top Load,"Other,Delayed Start",Residential,4.8,2.06,1.29,169,4.3,8.4,6076,6/1/16,2/5/18,"United States, Canada",No
+2346209,Whirlpool,WTW7120H**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,263,4.3,8.4,6761,1/1/20,9/11/19,"United States, Canada",No
+2310407,Whirlpool,WTW7300D**,8.83049E+11,Top Load,"Other,Delayed Start",Residential,4.8,2.06,1.29,169,4.3,8.4,6076,6/1/16,2/5/18,"United States, Canada",No
+2309992,Whirlpool,WTW7500G**,8.83049E+11,Top Load,"Other,Delayed Start",Residential,4.8,2.06,1.29,212,4.3,8.4,6076,9/1/17,2/5/18,"United States, Canada",No
+2310404,Whirlpool,WTW8000D**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,196,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2310393,Whirlpool,WTW8000D*+,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,196,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2310396,Whirlpool,WTW8040D**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,196,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2346210,Whirlpool,WTW8120H**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,260,4.3,8.4,6761,1/1/20,9/11/19,"United States, Canada",No
+2310391,Whirlpool,WTW8510F**,8.83049E+11,Top Load,"Other,Delayed Start",Residential,5.3,2.06,1.29,194,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2307388,Whirlpool,WTW8700E**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,251,4.3,8.4,6698,6/1/16,12/5/17,"United States, Canada",No
+2310474,LG,WM5005H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,4.5,2.92,1.84,105,2.8,4.7,3676,5/24/17,2/8/18,"United States, Canada",No
+2310481,LG,WM8100H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.92,1.84,120,3.2,4.7,4880,5/2/16,2/8/18,"United States, Canada",Yes
+2310504,LG,WM9000H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.92,1.84,120,3.2,4.7,4880,6/29/15,2/9/18,"United States, Canada",Yes
+2310479,LG,WM9500H*A,1,Front Load,"Steam Cycle,Sanitize Option",Residential,5.8,3.1,1.84,120,2.7,4.7,4588,6/26/16,2/8/18,"United States, Canada",Yes
+2310494,LG,WT1150C*,1,Top Load,None,Residential,4.5,2.38,1.29,140,3.7,8.4,4901,9/30/16,2/9/18,"United States, Canada",No
+2310503,LG,WT1501C*,1,Top Load,None,Residential,4.5,2.38,1.29,140,3.7,8.4,4901,6/29/15,2/9/18,"United States, Canada",No
+2310493,LG,WT1901C*,1,Top Load,None,Residential,5,2.38,1.29,130,3.7,8.4,5479,12/22/16,2/9/18,"United States, Canada",No
+2310495,LG,WT5275C*,1,Top Load,None,Residential,4.5,2.38,1.29,140,3.7,8.4,4901,6/30/16,2/9/18,"United States, Canada",No
+2310501,LG,WT5680H*A,1,Top Load,"Steam Cycle,Sanitize Option",Residential,5,2.38,1.29,135,3.7,8.4,5479,2/15/15,2/9/18,"United States, Canada",No
+2310477,LG,WT7050C*,1,Top Load,None,Residential,4.5,2.06,1.29,180,4.3,8.4,5696,4/16/17,2/8/18,"United States, Canada",No
+2341401,LG,WT7060C*,1,Top Load,None,Residential,4.5,2.06,1.29,220,4.3,8.4,5721,7/22/19,7/18/19,"United States, Canada",No
+2308537,LG,WT7100C*,1,Top Load,Delayed Start,Residential,4.5,2.06,1.29,220,4.3,8.4,5721,11/30/17,12/18/17,"United States, Canada",No
+2359624,LG,WT7150C*,1,Top Load,None,Residential,5,2.06,1.29,200,4.3,8.4,6292,5/13/20,5/8/20,"United States, Canada",No
+2310492,LG,WT7200C*,1,Top Load,None,Residential,5,2.38,1.29,130,3.7,8.4,5479,12/5/16,2/9/18,"United States, Canada",No
+2320407,LG,WT7250C*,1,Top Load,None,Residential,5,2.76,1.29,110,3.2,8.4,4720,5/18/18,5/16/18,"United States, Canada",No
+2320408,LG,WT7300C*,1,Top Load,None,Residential,5,2.76,1.29,110,3.2,8.4,4720,5/18/18,5/16/18,"United States, Canada",No
+2310491,LG,WT7500C*,1,Top Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.38,1.29,130,3.7,8.4,5621,2/15/16,2/9/18,"United States, Canada",No
+2310490,LG,WT7600H*A,1,Top Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.38,1.29,130,3.7,8.4,5643,2/15/16,2/9/18,"United States, Canada",No
+2310502,LG,WT7700H*A,1,Top Load,"Steam Cycle,Sanitize Option",Residential,5.7,2.76,1.29,150,3.2,8.4,5381,4/21/15,2/9/18,"United States, Canada",No
+2335213,LG,WT7710H*A,1,Top Load,"Steam Cycle,Sanitize Option",Residential,5.7,2.76,1.29,150,3.2,8.4,5381,3/26/19,3/26/19,"United States, Canada",No
+2334257,LG,WT7800C*,1,Top Load,None,Residential,5.5,2.76,1.29,130,3.2,8.4,5145,3/6/19,3/6/19,"United States, Canada",No
+2344732,LG,WT7850H*A,1,Top Load,None,Residential,5.2,2.38,1.29,130,3.7,8.4,5665,8/14/19,8/14/19,"United States, Canada",No
+2354284,LG,WT7880H*A,1,Top Load,None,Residential,5.5,2.76,1.29,150,3.2,8.4,5145,1/29/20,1/29/20,"United States, Canada",No
+2321577,LG,WT7900H*A,1,Top Load,None,Residential,5.5,2.76,1.29,150,3.2,8.4,5145,7/3/18,6/25/18,"United States, Canada",No
+2335028,Magic Chef,MCSFLW27S,6.65679E+11,Front Load,Delayed Start,Residential,2.7,2.76,1.84,75,3.2,4.7,2549,1/11/19,3/13/19,United States,No
+2335029,Magic Chef,MCSFLW27W,6.65679E+11,Front Load,Delayed Start,Residential,2.7,2.76,1.84,75,3.2,4.7,2549,1/11/19,3/13/19,United States,No
+2310325,Maytag,MHW3500F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,87,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310417,Maytag,MHW3500F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,87,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2310294,Maytag,MHW3505F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.4,2.92,1.84,88,3.2,4.7,4116,6/1/16,2/5/18,"United States, Canada",No
+2310290,Maytag,MHW5500F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,89,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2331769,Maytag,MHW5630H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Delayed Start",Residential,4.5,2.76,1.84,128,3.2,4.7,4267,12/3/18,8/24/18,"United States, Canada",No
+2331771,Maytag,MHW6630H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option,Delayed Start",Residential,4.8,2.76,1.84,143,3.2,4.7,4541,12/3/18,8/24/18,"United States, Canada",No
+2310392,Maytag,MHW8150E**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.76,1.84,79,3.2,4.7,4239,6/1/16,2/5/18,"United States, Canada",No
+2310293,Maytag,MHW8200F**,8.83049E+11,Front Load,"Other,Delayed Start",Residential,4.5,2.92,1.84,89,3.2,4.7,4210,6/1/16,2/5/18,"United States, Canada",No
+2331772,Maytag,MHW8630H**,8.83049E+11,Front Load,"Anti-Wrinkle,Other,Sanitize Option,Delayed Start,Steam Cycle",Residential,5,2.76,1.84,159,3.2,4.7,4720,12/3/18,8/24/18,"United States, Canada",No
+2345404,Maytag,MVW7230H**,8.83049E+11,Top Load,Other,Residential,5.2,2.06,1.29,260,4.3,8.4,6622,1/1/20,8/23/19,"United States, Canada",No
+2345405,Maytag,MVW7232H**,8.8305E+11,Top Load,Other,Residential,5.3,2.06,1.29,270,4.3,8.4,6736,1/1/20,8/23/19,"United States, Canada",No
+2345398,Maytag,MVW8230H**,8.83049E+11,Top Load,Other,Residential,5.2,2.06,1.29,260,4.3,8.4,6622,1/1/20,8/23/19,"United States, Canada",No
+2310390,Maytag,MVWB755D**,8.83049E+11,Top Load,Other,Residential,4.8,2.06,1.29,160,4.3,8.4,6076,6/1/16,2/5/18,"United States, Canada",No
+2310403,Maytag,MVWB835D**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,187,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2310409,Maytag,MVWB855D**,8.83049E+11,Top Load,Other,Residential,5.3,2.06,1.29,187,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2310412,Maytag,MVWB865F**,8.83049E+11,Top Load,"Other,Delayed Start",Residential,5.3,2.06,1.29,198,4.3,8.4,6698,6/1/16,2/5/18,"United States, Canada",No
+2310288,Maytag,MVWB955F**,8.83049E+11,Top Load,"Other,Steam Cycle",Residential,6.2,2.38,1.29,197,3.7,8.4,6735,6/1/16,2/5/18,"United States, Canada",No
+2309397,Maytag,MVWB965H**,8.83049E+11,Top Load,"Steam Cycle,Sanitize Option",Residential,6,2.06,1.29,311,4.3,8.4,7636,4/1/18,12/18/17,"United States, Canada",No
+2341456,Midea,MLH52S7AGS,8.10005E+11,Front Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.92,1.84,110,3.2,4.7,4909,8/30/19,7/22/19,"United States, Canada",No
+2341457,Midea,MLH52S7AWW,8.10005E+11,Front Load,"Steam Cycle,Sanitize Option",Residential,5.2,2.92,1.84,110,3.2,4.7,4909,8/30/19,7/22/19,"United States, Canada",No
+2330886,Miele,WWB020,4.00252E+12,Front Load,"Anti-Wrinkle,Gentle Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.3,2.24,1.84,116,3.7,4.7,2467,1/1/19,12/6/18,"United States, Canada",No
+2309345,Miele,WWF060,4.00252E+12,Front Load,"Anti-Wrinkle,Gentle Cycle,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.3,2.13,1.84,116,3.7,4.7,2467,1/1/18,11/25/17,"United States, Canada",No
+2309344,Miele,WWH660,4.00252E+12,Front Load,"Anti-Wrinkle,Gentle Cycle,Other,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.3,2.13,1.84,116,3.7,4.7,2467,1/1/18,11/25/17,"United States, Canada",No
+2309343,Miele,WWH860,4.00252E+12,Front Load,"Anti-Wrinkle,Gentle Cycle,Other,Steam Cycle,Delayed Start,Sanitize Option,Hand Wash Cycle",Residential,2.3,2.13,1.84,116,3.7,4.7,2467,1/1/18,11/25/17,"United States, Canada",No
+2310449,Samsung,WA45H70**A*,8.87277E+11,Top Load,Other,Residential,4.5,2.06,1.29,131,3.8,8.4,5011,4/15/15,3/3/15,"United States, Canada",No
+2310450,Samsung,WA45H72**A*,87276857954,Top Load,Other,Residential,4.3,2.06,1.29,131,4,8.4,5050,4/22/15,4/22/15,Canada,No
+2310454,Samsung,WA45K71**A*,8.87276E+11,Top Load,Other,Residential,4.5,2.06,1.29,125,4.3,8.4,5708,1/23/16,1/8/16,"United States, Canada",No
+2310453,Samsung,WA45K76**A*,8.87276E+11,Top Load,Other,Residential,4.5,2.06,1.29,125,4.3,8.4,5708,1/23/16,1/8/16,"United States, Canada",No
+2310458,Samsung,WA45M70**A*,8.87276E+12,Top Load,Other,Residential,4.5,2.06,1.29,125,4.3,8.4,5708,1/1/17,11/23/16,"United States, Canada",No
+2320117,Samsung,WA45N71**A*,8.87276E+11,Top Load,Other,Residential,4.5,2.06,1.29,125,4.3,8.4,5708,6/11/18,4/25/18,"United States, Canada",No
+2310438,Samsung,WA48H74**A*,8.87276E+11,Top Load,Other,Residential,4.8,2.21,1.29,145,3.9,8.4,5476,9/15/14,8/1/14,"United States, Canada",No
+2310442,Samsung,WA48J770*A*,8.87276E+11,Top Load,Other,Residential,4.8,2.29,1.29,129,3.9,8.4,5476,3/15/15,2/11/15,United States,No
+2310443,Samsung,WA48J777*A*,8.87276E+11,Top Load,Other,Residential,4.8,2.29,1.29,129,3.9,8.4,5476,3/15/15,2/11/15,United States,No
+2310451,Samsung,WA50K86**A*,8.87276E+11,Top Load,Other,Residential,5,2.38,1.29,120,3.7,8.4,5458,12/20/15,11/30/15,"United States, Canada",No
+2310461,Samsung,WA50M74**A*,8.87276E+11,Top Load,Other,Residential,5,2.06,1.29,125,4.3,8.4,6343,2/12/17,12/27/16,"United States, Canada",No
+2320118,Samsung,WA50N73**A*,8.87276E+11,Top Load,Other,Residential,5,2.06,1.29,125,4.3,8.4,6343,5/28/18,4/25/18,"United States, Canada",No
+2333512,Samsung,WA50R52**A*,8.87276E+11,Top Load,Other,Residential,5,2.06,1.29,120,4.3,8.4,6292,2/1/19,1/16/19,"United States, Canada",No
+2333511,Samsung,WA50R54**A*,8.87276E+11,Top Load,Other,Residential,5,2.06,1.29,120,4.3,8.4,6292,2/1/19,1/16/19,"United States, Canada",No
+2352575,Samsung,WA50T53**A*,8.87276E+11,Top Load,"Steam Cycle,Other",Residential,5,2.06,1.29,120,4.3,8.4,6292,1/17/20,12/19/19,"United States, Canada",No
+2350126,Samsung,WA50T74**A*,8.87276E+11,Top Load,Other,Residential,5,2.06,1.29,125,4.3,8.4,6292,1/3/20,11/14/19,"United States, Canada",No
+2310440,Samsung,WA52J806*A*,8.87276E+11,Top Load,Other,Residential,5.2,2.38,1.29,110,3.7,8.4,5632,2/15/15,1/7/15,United States,No
+2310441,Samsung,WA52J870*A*,8.87276E+11,Top Load,Other,Residential,5.2,2.28,1.29,165,3.8,8.4,5784,3/30/15,2/3/15,"United States, Canada",No
+2310462,Samsung,WA52M77**A*,8.87276E+11,Top Load,Other,Residential,5.2,2.06,1.29,165,4.3,8.4,6596,2/1/17,1/13/17,"United States, Canada",No
+2310463,Samsung,WA52M86**A*,8.87276E+11,Top Load,Other,Residential,5.2,2.06,1.29,125,4.3,8.4,6596,2/1/17,1/13/17,"United States, Canada",No
+2350127,Samsung,WA52T76**A*,8.87276E+11,Top Load,Other,Residential,5.2,2.06,1.29,165,4.3,8.4,6545,1/3/20,11/14/19,"United States, Canada",No
+2310464,Samsung,WA54M87**A*,8.87276E+11,Top Load,Other,Residential,5.4,2.06,1.29,165,4.3,8.4,6850,2/1/17,1/13/17,"United States, Canada",No
+2339823,Samsung,WA54R72**A*,8.87276E+11,Top Load,Other,Residential,5.4,2.06,1.29,120,4.3,8.4,6799,7/1/19,6/10/19,"United States, Canada",No
+2339822,Samsung,WA54R76**A*,8.87276E+11,Top Load,Other,Residential,5.4,2.06,1.29,165,4.3,8.4,6799,7/1/19,6/10/19,"United States, Canada",No
+2310448,Samsung,WA56H90**A*,8.87277E+11,Top Load,Other,Residential,5.6,2.3,1.29,194,4.2,8.4,6889,4/15/15,3/3/15,"United States, Canada",No
+2310444,Samsung,WF42H50**A*,8.87277E+11,Front Load,Other,Residential,4.2,2.8,1.84,85,3.2,4.7,3927,4/1/15,2/16/15,"United States, Canada",No
+2310445,Samsung,WF45H61**A*,8.87277E+11,Front Load,None,Residential,4.5,2.76,1.84,118,3.2,4.7,4220,4/1/15,2/16/15,"United States, Canada",No
+2310446,Samsung,WF45H63**A*,8.87277E+11,Front Load,Other,Residential,4.5,2.8,1.84,110,3,4.7,3956,4/1/15,2/16/15,"United States, Canada",No
+2310455,Samsung,WF45K62**A*,8.87276E+11,Front Load,Other,Residential,4.5,2.92,1.84,75,2.9,4.7,3850,2/7/16,1/13/16,"United States, Canada",Yes
+2310456,Samsung,WF45K65**A*,8.87276E+11,Front Load,Other,Residential,4.5,2.8,1.84,100,3,4.7,3983,2/7/16,1/13/16,"United States, Canada",No
+2310459,Samsung,WF45M51**A*,8.87276E+11,Front Load,Other,Residential,4.5,3,1.84,80,2.9,4.7,3850,1/1/17,11/23/16,"United States, Canada",Yes
+2310460,Samsung,WF45M55**A*,8.87276E+11,Front Load,Other,Residential,4.5,2.92,1.84,105,2.9,4.7,3850,1/1/17,11/23/16,"United States, Canada",Yes
+2306851,Samsung,WF45N53**A*,8.87276E+11,Front Load,None,Residential,4.5,3,1.84,80,2.9,4.7,3850,3/1/18,11/16/17,"United States, Canada",Yes
+2308752,Samsung,WF45N63**A*,8.87276E+11,Front Load,Steam Cycle,Residential,4.5,2.92,1.84,100,3,4.7,3983,2/1/18,12/22/17,"United States, Canada",Yes
+2333514,Samsung,WF45R61**A*,8.87276E+11,Front Load,"Steam Cycle,Other",Residential,4.5,2.92,1.84,95,2.9,4.7,3807,2/1/19,1/15/19,"United States, Canada",Yes
+2333513,Samsung,WF45R63**A*,8.87276E+11,Front Load,"Other,Steam Cycle",Residential,4.5,2.92,1.84,95,2.9,4.7,3807,2/1/19,1/15/19,"United States, Canada",Yes
+2354715,Samsung,WF45T60**A*,8.87276E+11,Front Load,"Steam Cycle,Other",Residential,4.5,2.95,1.84,90,2.9,4.7,3807,2/20/20,2/5/20,"United States, Canada",Yes
+2352574,Samsung,WF45T62**A*,8.87276E+11,Front Load,"Steam Cycle,Other",Residential,4.5,2.92,1.84,95,2.9,4.7,3807,2/24/20,12/4/19,"United States, Canada",Yes
+2310457,Samsung,WF50K75**A*,8.87276E+11,Front Load,Other,Residential,5,2.92,1.84,105,2.9,4.7,4278,2/14/16,1/25/16,"United States, Canada",Yes
