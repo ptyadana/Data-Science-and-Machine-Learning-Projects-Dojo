@@ -455,7 +455,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 - [x] [Applied Machine Learning - Feature Engineering](ML%20-%20Applied%20Machine%20Learning%20-%20Feature%20Engineering)
 - [x] [Applied Machine Learning - Algorithms](ML%20-%20Applied%20Machine%20Learning%20-%20Algorithms)
 - [x] [Applied Machine Learning - Foundation](ML%20-%20Applied%20Machine%20Learning%20Foundation)
-- [ ] [Machine Learning with Python - 03_k-Means Clustering](ML%20-%20Machine%20Learning%20with%20Python%20-%2003_k-Means%20Clustering)
+- [x] [Machine Learning with Python - 03_k-Means Clustering](ML%20-%20Machine%20Learning%20with%20Python%20-%2003_k-Means%20Clustering)
 - [x] [Machine Learning with Python - 02_Decision Trees](ML%20-%20Machine%20Learning%20with%20Python%20-%2002_Decision%20Trees)
 - [x] [Machine Learning with Python - 01_Foundations](ML%20-%20Machine%20Learning%20with%20Python%20-%2001_Foundations)
 - [x] [ML - Mistakes to avoid in Machine Learning](ML%20-%20Mistakes%20to%20avoid%20in%20Machine%20Learning/01_00_Mistakes%20to%20avoid%20in%20Machine%20Learning.ipynb)
