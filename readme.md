@@ -110,6 +110,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 ### Other Projects
 + [Project - Used Car Price Prediction with XG-Boost](Project%20-%20Used%20Car%20Price%20Prediction%20-%20XG-Boost/Used_Car_Price_Prediction_using_XGBoost.ipynb)
++ [Project - Predict Sales Revenue - Simple Linear Regression](Project%20-%20Predict%20Sales%20Revenue%20-%20Simple%20Linear%20Regression/Sales_Revenue_Prediction_with_Simple_Linear_Regression.ipynb)
 + [Project - Music Recommender](https://github.com/ptyadana/ML-Music-Recommender)
 + [Project - Smarty Brain Image Prediction](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project)
 
