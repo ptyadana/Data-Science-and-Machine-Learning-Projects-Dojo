@@ -57,42 +57,6 @@ Data Analysis and Visualization Capstone project from Machine Learning and Datas
 + This project is to build a machine learning model to predict whether or not a customer will Churn or not.
 + Includes cohort analysis based on Telco subsriber's contract type, etc.
 
-
-## Machine Learning & Data Science Masterclass Projects
-+ [Ames Housing Data Project - Linear Regression](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise-MySolutions.ipynb)
-+ [Heart Disease Detection Project - Logistic Regression](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
-+ [Sona Data - Detecting Rock or Mine Project - KNN](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
-+ [Wine Fraud Detection Project - SVM](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
-+ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
-+ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
-+ [Ecommerce Project - Linear Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/11-Linear-Regression/02-Linear%20Regression%20-%20Ecommerce%20Project.ipynb)
-+ [Advertisement Project - Logistic Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
-+ [Anonymized Data Project - KNN](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
-+ [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
-+ [NLP - Flight Tweets Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/01-Text-Classification%20-%20Flight%20tweets.ipynb)
-+ [NLP - Moview Reivew Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/02-Text-Classification-Movie_Reviews_Sentiment_Analysis.ipynb)
-+ [Color Quantization - KMeans](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/01-Kmeans-Color-Quantization.ipynb)
-+ [CIA Country Analysis and Clustering - KMeans](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb)
-+ [Cars Model - Hierarchical Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/21-Hierarchical-Clustering/00-Hierarchical-Clustering.ipynb)
-+ [Wholesale Customers - DBSCAN Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/22-DBSCAN/02-DBSCAN-Project-Exercise.ipynb)
-+ [Breast Cancer - PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
-+ [Breast Cancer - PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
-
-### Deep Learning Projects
-+ [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
-+ [ANN - Loan Default Prediction Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
-+ [ANN - Predict House Price for House Sales in King County, USA Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
-+ [ANN - Breast Cancer Wisconsin (Diagnostic) Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
-+ [CNN - Convolutional Neural Networks for Image Classification - MNIST data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
-+ [CNN - Convolutional Neural Networks for Image Classification - CIFAR 10 data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
-+ [CNN - Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
-+ [CNN - Convolutional Neural Networks for Image Classification - Fashion MNIST Data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/04-DL-CV-Assessment%20-%20Fashion%20MNIST%20Data%20Project.ipynb)
-+ [RNN - Forzen Dessert Sales Forecasting with LSTM](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/02-RNN-Forzen-Dessert-Montly-Sales-Forecasting.ipynb)
-+ [NLP - Yelp Reviews Classification - Natural Language Processing Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/22.%20Natural%20Language%20Processing/02-NLP%20Project%20-%20Yelp.ipynb)
-+ [Average Eating Habits of UK Countries - Autoencoders](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/02-UK%20countries%20average%20eating%20habits%20-%20Autoencoder.ipynb)
-
-
-
 ## [Predicting Heart Disease - Classification Project](Complete%20Machine%20Learning%20and%20Data%20Science%20-%20Zero%20to%20Mastery%20-%20AN/11.Heart%20Disease%20Project/Milestone%20Project%20-%20Heart%20Disease%20Classification.ipynb)
 Milestone project from Complete Machine Learning and Data Science - Zero to Mastery course.
 + The project is to build a machine learning model capable of predicting whether or not someone has a Heart Disease based on their medical attributes.
@@ -123,8 +87,47 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Machine learning app using streamlit, for building a regression model using the Random Forest algorithm.
 
 
+## Machine Learning & Data Science Projects
+### Masterclass Projects
++ [Ames Housing Data Project - Linear Regression](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/10-Cross-Val-and-LinReg-Project/02-Linear-Regression-Project-Exercise-MySolutions.ipynb)
++ [Heart Disease Detection Project - Logistic Regression](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/11-Logistic-Regression-Models/02-Logistic-Regression-Project-Exercise-MySolution%20.ipynb)
++ [Sona Data - Detecting Rock or Mine Project - KNN](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/12-K-Nearest-Neighbors/01-KNN-Exercise-MySolutions.ipynb)
++ [Wine Fraud Detection Project - SVM](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/13-Support-Vector-Machines/02-SVM-Project-Exercise-MySolutions.ipynb)
++ [Mushroom Edible or Poisonous Prediction Project - with AdaBoost](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/00-AdaBoost.ipynb)
++ [Mushroom Edible or Poisonous Prediction Project - with Gradient Boosting](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/16-Boosted-Trees/01-Gradient-Boosting.ipynb)
++ [Ecommerce Project - Linear Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/11-Linear-Regression/02-Linear%20Regression%20-%20Ecommerce%20Project.ipynb)
++ [Advertisement Project - Logistic Regression](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/13-Logistic-Regression/02-Logistic%20Regression%20-%20Advertisement%20Project.ipynb)
++ [Anonymized Data Project - KNN](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/14-K-Nearest-Neighbors/02-K%20Nearest%20Neighbors%20-%20Anonymized%20Data%20Project.ipynb)
++ [Supervised Learning Capstone Project - Cohort Analysis & Customer Churn Predictions](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/17-Supervised-Learning-Capstone-Project/00-Supervised-Learning-Capstone-Customer-Churn-Predictions-Project.ipynb)
++ [NLP - Flight Tweets Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/01-Text-Classification%20-%20Flight%20tweets.ipynb)
++ [NLP - Moview Reivew Sentiment Analysis - Classification](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/18-Naive-Bayes-and-NLP/02-Text-Classification-Movie_Reviews_Sentiment_Analysis.ipynb)
++ [Color Quantization - KMeans](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/01-Kmeans-Color-Quantization.ipynb)
++ [CIA Country Analysis and Clustering - KMeans](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/19-K-Means-Clustering/02-Kmeans-Clustering-Project-Exercise.ipynb)
++ [Cars Model - Hierarchical Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/21-Hierarchical-Clustering/00-Hierarchical-Clustering.ipynb)
++ [Wholesale Customers - DBSCAN Clustering](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/22-DBSCAN/02-DBSCAN-Project-Exercise.ipynb)
++ [Breast Cancer - PCA Manual Implementation](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/00-PCA-Manual-Implementation.ipynb)
++ [Breast Cancer - PCA with sklearn](Machine%20Learning%20%26%20Data%20Science%20Masterclass%20-%20JP/23-Principal-Component-Analysis/01-PCA-with-ScikitLearn.ipynb)
 
-# Data Analysis and Visualization
+### Other Projects
++ [Project - Used Car Price Prediction with XG-Boost](Project%20-%20Used%20Car%20Price%20Prediction%20-%20XG-Boost/Used_Car_Price_Prediction_using_XGBoost.ipynb)
++ [Project - Music Recommender](https://github.com/ptyadana/ML-Music-Recommender)
++ [Project - Smarty Brain Image Prediction](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project)
+
+### Deep Learning Projects
++ [Iris Flower Predictions App on Flask](https://iris-flower-app-by-ptyadana.herokuapp.com/)
++ [ANN - Loan Default Prediction Prediction Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/04_Tensorflow_Keras_Project_Loan_Predictions.ipynb)
++ [ANN - Predict House Price for House Sales in King County, USA Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/02_Tensorflow_Regression_Housing_Price_Prediction.ipynb)
++ [ANN - Breast Cancer Wisconsin (Diagnostic) Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/21.%20Neural%20Nets%20and%20Deep%20Learning/03_Tensorflow_Classification_Breast_Cancer_Wisconsin_(Diagnostic).ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - MNIST data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/01-Keras-CNN-MNIST%20(Grey%20Scale%20Images).ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - CIFAR 10 data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/02-Keras-CNN-CIFAR-10%20(Color%20Images).ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - Real Image - Malaria Detection Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/03-Deep-Learning-Custom-Images-Malaria.ipynb)
++ [CNN - Convolutional Neural Networks for Image Classification - Fashion MNIST Data Project](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/04-CNNs/04-DL-CV-Assessment%20-%20Fashion%20MNIST%20Data%20Project.ipynb)
++ [RNN - Forzen Dessert Sales Forecasting with LSTM](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/05-RNNs/02-RNN-Forzen-Dessert-Montly-Sales-Forecasting.ipynb)
++ [NLP - Yelp Reviews Classification - Natural Language Processing Project](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP/22.%20Natural%20Language%20Processing/02-NLP%20Project%20-%20Yelp.ipynb)
++ [Average Eating Habits of UK Countries - Autoencoders](Complete%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20-%20JP/07-AutoEncoders/02-UK%20countries%20average%20eating%20habits%20-%20Autoencoder.ipynb)
+
+
+# Data Analysis and Visualization Projects
 + [Data Visualization with Python - Project](https://github.com/ptyadana/DV-Data-Visualization-with-Python): Data analysis and Data Visualization using Pandas, Matplotlib for Countries's GDP, Life Expectancy comparison across continents, GDP per Capita Relative Growth, Population Reative Growth comparison etc.
 + [Fuel Economy Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%202%20-%20Fuel%20Economy/Case%20Study%20-%20Fuel%20Economy.ipynb): Analyzing [Fuel Economy Data provied by EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy) for distributions of greenhouse gas score, combined mpg in 2008 and 2018, correlation between displacement and combined mpg ,greenhouse gas score and combined mpg. Are more unique models using alternative fuels in 2018 compared to 2008? By how much? How much have vehicle classes improved in fuel economy (increased in mpg)? What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas) What features are associated with better fuel economy (mpg)? What is the top vehicle which improved the most in terms of combined mpg from 2008 to 2018?
 + [Wine Quality Case Study - Project](Data%20Analysis/Project%20-%20Case%20Study%201%20-%20Wine%20Quality/Case%20Study%20-%20Wine%20Quality.ipynb): Analyzing [wine data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) for the following points for wine businesses to model better wine. Is a certain type of wine (red or white) associated with higher quality? What level of acidity (pH value) receives the highest average rating? Do wines with higher alcoholic content receive better ratings? Do sweeter wines (more residual sugar) receive better ratings? White Vs Red Wine Proportions by Color & Quality
@@ -134,13 +137,6 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + frequency analysis on tweets and hashtags, etc.
 + [Statistics From Stock Data](AI%20Programming%20with%20Python/01.Mini%20Project%20UDACITY%20-%20Statistics%20From%20Stock%20Data/Statistics%20from%20Stock%20Data.ipynb): Analyzing google, apple and amzon stock prices and checking the rolling mean.
 + [Android Play Store App Data Analysis - Project](Project%20-%20Android%20Play%20Store%20App%20Data%20Analysis): Analyzing andriod play store data and answering questions like - How many apps are paid? How much money are they making? When were these apps released?
-
-
-
-## Mini ML Projects
-+ [Music Recommender - ML Project](https://github.com/ptyadana/ML-Music-Recommender): A simple machine learning project for recommending the music genre based on age, gender.
-+ [Smarty Brain Image Prediction - ML Project](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project): ML project for analyzing images and make predictions.
-
 
 ------------------------------------------------------------------
 
@@ -279,7 +275,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + Model Deployment
 	+ Serving model as API with Flask
 
-## [Python Data Analysis & Visualization Masterclass - CS - IN PROGRESS](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
+## [Python Data Analysis & Visualization Masterclass - CS - In Progress](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] 04 - Dataframes & Datasets
 + [x] 05 - Basic DataFrame Methods & Computations
 + [x] 06 - Series & Columns
@@ -466,7 +462,7 @@ To skill up my ML & DS related skills in specific areas and topics:
 
 
 ## Data Analysis, Manipulation & Data Visualization
-+ [] [DA & DV - Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
++ [ ] [DA & DV - Python Data Analysis & Visualization Masterclass](DV%20-%20Python%20Data%20Analysis%20%26%20Visualization%20Masterclass%20-%20CS)
 + [x] [Pandas - Pandas Code Challenges](Pandas%20-%20Pandas%20Code%20Challenge)
 + [x] [Pandas - Advanced Pandas](Pandas%20-%20Advanced%20Pandas)
 + [x] [DV - Data Visualizations with Plotly](DV%20-%20Data%20Visualizations%20with%20Plotly)
