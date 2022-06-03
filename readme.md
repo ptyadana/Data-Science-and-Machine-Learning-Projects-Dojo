@@ -110,6 +110,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 ### Other Projects
 + [Project - Used Car Price Prediction with XG-Boost](Project%20-%20Used%20Car%20Price%20Prediction%20-%20XG-Boost/Used_Car_Price_Prediction_using_XGBoost.ipynb)
++ [Project - Predict Career Longevity for NBA Rookies with Binary Classification - Logistic Regression](Project%20-%20Predict%20Career%20Longevity%20for%20NBA%20Rookies%20with%20Binary%20Classification%20-%20Logistic%20Regression/NBA_Rookies_Logistic_Regression.ipynb)
 + [Project - Predict Sales Revenue with Interaction Term - Multiple Linear Regression](Project%20-%20Predict%20Sales%20Revenue%20with%20Interaction%20Term%20-%20Multiple%20Linear%20Regression/Sales_Revenue_Prediction_with_Multiple_Linear_Regression.ipynb)
 + [Project - Predict Sales Revenue - Simple Linear Regression](Project%20-%20Predict%20Sales%20Revenue%20-%20Simple%20Linear%20Regression/Sales_Revenue_Prediction_with_Simple_Linear_Regression.ipynb)
 + [Project - Music Recommender](https://github.com/ptyadana/ML-Music-Recommender)
