@@ -111,8 +111,10 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 ### Other Projects
 + [Project - Used Car Price Prediction with XG-Boost](Project%20-%20Used%20Car%20Price%20Prediction%20-%20XG-Boost/Used_Car_Price_Prediction_using_XGBoost.ipynb)
 + [Project - Predict Career Longevity for NBA Rookies with Binary Classification - Logistic Regression](Project%20-%20Predict%20Career%20Longevity%20for%20NBA%20Rookies%20with%20Binary%20Classification%20-%20Logistic%20Regression/NBA_Rookies_Logistic_Regression.ipynb)
++ [Project - Facial Classification - SVM](Project%20-%20Facial%20Classification%20-%20SVM)
 + [Project - Predict Sales Revenue with Interaction Term - Multiple Linear Regression](Project%20-%20Predict%20Sales%20Revenue%20with%20Interaction%20Term%20-%20Multiple%20Linear%20Regression/Sales_Revenue_Prediction_with_Multiple_Linear_Regression.ipynb)
 + [Project - Predict Sales Revenue - Simple Linear Regression](Project%20-%20Predict%20Sales%20Revenue%20-%20Simple%20Linear%20Regression/Sales_Revenue_Prediction_with_Simple_Linear_Regression.ipynb)
++ [Project - Breast Cancer Tumor Diagnostic Classification  - SVM](Project%20-%20Breast%20Cancer%20Classification%20Project%20-%20SVM/Breast_Cancer_Classification_Project.ipynb)
 + [Project - Music Recommender](https://github.com/ptyadana/ML-Music-Recommender)
 + [Project - Smarty Brain Image Prediction](https://github.com/ptyadana/Python-Projects-Dojo/tree/master/03.Complete%20Python%20Developer%20-%20Zero%20to%20Mastery%20-%20AN/17.Machine%20Learning%20and%20Data%20Science/ML_SmartyBrain_Project)
 
@@ -317,6 +319,7 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 + [x] 06. Supervised Learning - Regression
 + [x] 07. Unsupervised Learning - Clustering
 + [x] 08. Hyper Parameters Optimization
+
 
 
 ## [Data Science and Machine Learning Bootcamp](Data%20Science%20and%20Machine%20Learning%20Bootcamp%20-%20JP)
