@@ -147,17 +147,36 @@ Data Analysis and Visualization Capstone project from Data Science and Machine L
 
 # Bootcamps
 
-## [RL - Practical AI with Python and Reinforcement Learning - JP - ON HOLD](RL%20-%20Practical%20AI%20with%20Python%20and%20Reinforcement%20Learning%20-%20JP)
+## [RL - Practical AI with Python and Reinforcement Learning - JP - On Hold](RL%20-%20Practical%20AI%20with%20Python%20and%20Reinforcement%20Learning%20-%20JP)
 + [x] 00. NumPy Crash Course
 + [x] 01. Matplotlib Visualization
 + [x] 02. Pandas and Scikit-learn
 + [x] 03. ANNs
 + [x] 04. CNNs
 + [x] 05. Introduction to gym
-+ [] 06. Classical Q Learning
-+ [] 07. Deep Q Learning
-+ [] 08. Deep Q Learning on Images
-+ [] 09. Creating Custom Open AI Gym Environment
++ [ ] 06. Classical Q Learning
++ [ ] 07. Deep Q Learning
++ [ ] 08. Deep Q Learning on Images
++ [ ] 09. Creating Custom Open AI Gym Environment
+
+## [Tensorflow 2.0: Deep Learning and Artificial Intelligence - LP](Tensorflow%20-%20TF2%20Deep%20Learning%20and%20Artificial%20Intelligence%20-%20LP)
++ [x] Section 2 - Google Colab
++ [ ] Section 3 - Machine Learning and Neurons
++ [ ] Section 4 - Feedforward Artifical Neural Networks
++ [ ] Section 5 - CNN Convolutional Neural Networks
++ [ ] Section 6 - RNN - Recurrent Neural Networks, Time Series, Sequence Data
++ [ ] Section 7 - NLP
++ [ ] Section 8 - Recommender Systems
++ [ ] Section 9 - Transfer Learning for Computer Vision
++ [ ] Section 10 - GANs
++ [ ] Section 11 - Deep Reinforcement Learning (Theory)
++ [ ] Section 12 - Stock Trading Project with DL
++ [ ] Section 13: Advanced Tensorflow Usage
++ [ ] Section 14: Low - Level Tensorflow
++ [ ] Section 15: In-Depth: Loss Functions
++ [ ] Section 16: In-Depth: Gradient Descent
++ [ ] Section 17 - 21: Misc
+
 
 ## [DeepLearning.AI - Course 04.Sequences, Time Series and Predictions in Tensorflow](Tensorflow%20-%20DeepLearning.AI%20-%2004.Sequences%2C%20Time%20Series%20and%20Predictions)
 + [x] Week 01 - Sequences and Prediction
